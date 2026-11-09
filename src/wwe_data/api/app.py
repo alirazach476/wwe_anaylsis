@@ -69,6 +69,118 @@ def _paginate(df: pd.DataFrame, limit: int, offset: int) -> list[dict[str, Any]]
     return df.iloc[offset : offset + limit].where(pd.notna(df), None).to_dict(orient="records")
 
 
+def _special_rumble_path() -> Path | None:
+    settings = get_settings()
+    for base in (_exports_dir(), settings.exports_dir, settings.data_dir / "exports"):
+        path = base / "special_royal_rumble.csv"
+        if path.exists():
+            return path
+    return None
+
+
+def _is_rumble_match(match: dict[str, Any]) -> bool:
+    return (
+        str(match.get("special_match_kind") or "").lower() == "royal_rumble"
+        or "rumble" in str(match.get("match_type_group") or "").lower()
+        or "rumble" in str(match.get("match_type_raw") or "").lower()
+    )
+
+
+def _unique_entry_count(participants: list[dict[str, Any]]) -> int:
+    return len({p.get("entry_number") for p in participants if p.get("entry_number") is not None})
+
+
+def _rumble_special_to_participants(df: pd.DataFrame) -> list[dict[str, Any]]:
+    rows: list[dict[str, Any]] = []
+    for _, r in df.iterrows():
+        elim_by = None if pd.isna(r.get("eliminated_by")) else str(r.get("eliminated_by"))
+        flagged_win = bool(r.get("is_winner")) if pd.notna(r.get("is_winner")) else False
+        is_win = flagged_win or (elim_by or "").strip().lower() == "winner"
+        elim = r.get("elimination_order")
+        entry = r.get("entry_number")
+        rows.append(
+            {
+                "match_id": None if pd.isna(r.get("match_id")) else r.get("match_id"),
+                "wrestler_id": None if pd.isna(r.get("wrestler_id")) else r.get("wrestler_id"),
+                "ring_name": None if pd.isna(r.get("entrant")) else r.get("entrant"),
+                "participant_role": "competitor",
+                "result": "win" if is_win else ("loss" if pd.notna(elim) else None),
+                "entry_number": int(entry) if pd.notna(entry) else None,
+                "elimination_order": int(elim) if pd.notna(elim) else None,
+                "eliminated_by": None if is_win else elim_by,
+                "time_in_match_seconds": (
+                    None if pd.isna(r.get("time_in_match_seconds")) else r.get("time_in_match_seconds")
+                ),
+            }
+        )
+    return rows
+
+
+def _enrich_rumble_participants(event_id: str, match_rows: list[dict[str, Any]]) -> list[dict[str, Any]]:
+    """Fill stub rumble cards and split men's/women's tables that were merged onto one match."""
+    rumble_matches = [m for m in match_rows if _is_rumble_match(m)]
+    if not rumble_matches:
+        return match_rows
+
+    path = _special_rumble_path()
+    if path is None:
+        return match_rows
+
+    special = pd.read_csv(path)
+    event_special = special[special["event_id"].astype(str) == str(event_id)].copy()
+    if event_special.empty:
+        return match_rows
+
+    event_special = event_special.reset_index(drop=True)
+    rumble_sorted = sorted(
+        rumble_matches,
+        key=lambda m: (
+            m.get("match_number") is None,
+            float(m.get("match_number") or 0),
+        ),
+    )
+    n_special = len(event_special)
+    uniq_entries = int(event_special["entry_number"].nunique(dropna=True))
+    dup_entries = n_special > uniq_entries
+    by_mid = {
+        str(mid): grp.reset_index(drop=True)
+        for mid, grp in event_special.groupby(event_special["match_id"].astype(str))
+    }
+
+    if len(rumble_sorted) >= 2 and n_special >= 50 and (dup_entries or n_special % 30 == 0):
+        step = 30 if n_special % 30 == 0 else max(1, n_special // len(rumble_sorted))
+        chunks = [event_special.iloc[i : i + step] for i in range(0, n_special, step)]
+        for match, chunk in zip(rumble_sorted, chunks):
+            if len(chunk) >= 20:
+                match["participants"] = _rumble_special_to_participants(chunk)
+    else:
+        # Prefer special rows keyed to this match_id; never clone one rumble onto every stub.
+        for match in rumble_sorted:
+            mid = str(match.get("match_id") or "")
+            parts = match.get("participants") or []
+            if mid in by_mid and len(by_mid[mid]) >= 20:
+                match["participants"] = _rumble_special_to_participants(by_mid[mid])
+            elif _unique_entry_count(parts) < 25 and len(rumble_sorted) == 1 and n_special >= 20:
+                match["participants"] = _rumble_special_to_participants(event_special)
+
+    rich_ids = {
+        str(m.get("match_id"))
+        for m in rumble_sorted
+        if _unique_entry_count(m.get("participants") or []) >= 25
+    }
+    if rich_ids:
+        match_rows = [
+            m
+            for m in match_rows
+            if not (
+                _is_rumble_match(m)
+                and str(m.get("match_id")) not in rich_ids
+                and _unique_entry_count(m.get("participants") or []) < 10
+            )
+        ]
+    return match_rows
+
+
 def _clean_wrestler_display_name(name: str) -> str:
     """Collapse scraped variants into one readable ring name."""
     import re
@@ -370,6 +482,7 @@ def get_event(event_id: str) -> dict[str, Any]:
         mid = str(m.get("match_id") or "")
         m["participants"] = parts_by_match.get(mid, [])
         m["championships"] = champs_by_match.get(mid, [])
+    match_rows = _enrich_rumble_participants(str(event_id), match_rows)
     payload["matches"] = match_rows
     return payload
 

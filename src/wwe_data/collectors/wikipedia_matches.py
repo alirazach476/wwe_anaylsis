@@ -169,15 +169,17 @@ def parse_results_tables(html: str, event: RawEventRecord, page_url: str) -> Eve
                         )
                     )
 
-    # Royal Rumble entrant tables
-    for table, headers in rumble_tables:
-        # Link to rumble match if present
-        rumble_match = next(
-            (m for m in matches if m.special_match_kind == "royal_rumble"),
-            None,
+    # Royal Rumble entrant tables (men's + women's each get their own card match)
+    rumble_card_matches = [m for m in matches if m.special_match_kind == "royal_rumble"]
+    for table_idx, (table, headers) in enumerate(rumble_tables):
+        # Prefer 1:1 table → rumble match assignment; fall back to first match only if needed
+        rumble_match = (
+            rumble_card_matches[table_idx]
+            if table_idx < len(rumble_card_matches)
+            else (rumble_card_matches[0] if rumble_card_matches else None)
         )
         match_id = rumble_match.match_id if rumble_match else make_match_id(
-            event.event_id, 99, "royal rumble entrants"
+            event.event_id, 99 + table_idx, "royal rumble entrants"
         )
         if rumble_match is None:
             # Create placeholder match row from rumble table alone
