@@ -46,6 +46,22 @@ export function Layout() {
     if (!location.pathname.startsWith("/events/") && !location.pathname.startsWith("/series/")) resetTheme();
   }, [location.pathname, resetTheme]);
 
+  // Open every route from the top (window + any nested scroll containers).
+  useEffect(() => {
+    const reset = () => {
+      window.scrollTo({ top: 0, left: 0, behavior: "auto" });
+      document.documentElement.scrollTop = 0;
+      document.body.scrollTop = 0;
+      for (const sel of [".page", ".main-column", ".app-shell"]) {
+        const el = document.querySelector(sel);
+        if (el instanceof HTMLElement) el.scrollTop = 0;
+      }
+    };
+    reset();
+    const id = window.requestAnimationFrame(reset);
+    return () => window.cancelAnimationFrame(id);
+  }, [location.pathname, location.search, location.key]);
+
   const title = useMemo(() => {
     if (location.pathname.startsWith("/series/")) return "Event Series";
     if (location.pathname.startsWith("/events/")) return "Event Detail";
