@@ -1,5 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import { Link, useParams } from "react-router-dom";
+import { Link, useNavigate, useParams } from "react-router-dom";
 import Plot from "react-plotly.js";
 import { api } from "../api";
 import { BroadcastStatsStrip } from "../components/broadcast/BroadcastStatsStrip";
@@ -10,6 +10,7 @@ import { plotlyLayout, accentColor } from "../theme/chartTheme";
 
 export default function WrestlerDetail() {
   const { wrestlerId } = useParams();
+  const navigate = useNavigate();
   const { theme } = useEventTheme();
   const [data, setData] = useState<any>(null);
   const [err, setErr] = useState("");
@@ -245,13 +246,23 @@ export default function WrestlerDetail() {
         title="Match history"
         variant="history"
         rows={history}
-        rowKey={(m, i) => `${m.event_id || m.event_name}-${i}`}
+        rowKey={(m, i) => `${m.match_id || m.event_id || m.event_name}-${i}`}
         searchPlaceholder="Search event or result…"
         searchFilter={(m, q) =>
-          [m.event_name, m.event_series, m.match_type_group, m.result].join(" ").toLowerCase().includes(q)
+          [m.event_name, m.event_series, m.match_type_group, m.result, m.match_result]
+            .join(" ")
+            .toLowerCase()
+            .includes(q)
         }
         isWinnerRow={(m) => m.result === "win"}
         pageSize={25}
+        onRowClick={(m) => {
+          if (!m.event_id) return;
+          const path = m.match_id
+            ? `/events/${m.event_id}?match=${encodeURIComponent(m.match_id)}`
+            : `/events/${m.event_id}`;
+          navigate(path);
+        }}
         columns={[
           { key: "event_date", header: "Date" },
           {
@@ -260,7 +271,15 @@ export default function WrestlerDetail() {
             primary: true,
             render: (m) =>
               m.event_id ? (
-                <Link to={`/events/${m.event_id}`} style={{ color: theme.accent }}>
+                <Link
+                  to={
+                    m.match_id
+                      ? `/events/${m.event_id}?match=${encodeURIComponent(m.match_id)}`
+                      : `/events/${m.event_id}`
+                  }
+                  style={{ color: theme.accent }}
+                  onClick={(e) => e.stopPropagation()}
+                >
                   {m.event_name}
                 </Link>
               ) : (
@@ -273,7 +292,20 @@ export default function WrestlerDetail() {
             header: "Type",
             render: (m) => <span className="pst-badge">{m.match_type_group || "—"}</span>,
           },
-          { key: "result", header: "Result" },
+          {
+            key: "result",
+            header: "Result",
+            render: (m) => (
+              <span title={m.match_result || undefined}>
+                {m.result || "—"}
+                {m.match_result ? (
+                  <span className="muted" style={{ display: "block", fontSize: "0.75rem", fontWeight: 400 }}>
+                    {m.match_result}
+                  </span>
+                ) : null}
+              </span>
+            ),
+          },
         ]}
       />
 

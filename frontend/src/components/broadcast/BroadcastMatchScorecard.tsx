@@ -345,8 +345,10 @@ export function BroadcastMatchScorecard({
   else if (title || String(match.is_title_match).match(/1|true/i)) body = <ChampionshipMatchGraphic match={match} />;
   else body = <SinglesMatchGraphic match={match} />;
 
+  const matchDomId = match.match_id ? `match-${match.match_id}` : undefined;
+
   return (
-    <article className="bc-match" data-state={state}>
+    <article id={matchDomId} className="bc-match" data-state={state}>
       {logo ? (
         <>
           <div className="bc-match-bg-logo">

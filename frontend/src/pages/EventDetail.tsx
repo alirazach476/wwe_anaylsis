@@ -1,6 +1,5 @@
 import { useEffect, useMemo, useState } from "react";
-import { Link } from "react-router-dom";
-import { useParams } from "react-router-dom";
+import { Link, useParams, useSearchParams } from "react-router-dom";
 import Plot from "react-plotly.js";
 import { api } from "../api";
 import { MatchScorecard } from "../components/MatchScorecard";
@@ -22,6 +21,8 @@ function fmtDur(sec?: number | null) {
 
 export default function EventDetail() {
   const { eventId } = useParams();
+  const [searchParams] = useSearchParams();
+  const focusMatchId = searchParams.get("match");
   const { theme, setEventIdentity } = useEventTheme();
   const [event, setEvent] = useState<any>(null);
   const [tab, setTab] = useState<Tab>("card");
@@ -38,6 +39,32 @@ export default function EventDetail() {
       })
       .catch((e) => setErr(String(e)));
   }, [eventId, setEventIdentity]);
+
+  useEffect(() => {
+    if (focusMatchId) setTab("card");
+  }, [focusMatchId]);
+
+  // Deep-link from wrestler match history → scroll to that scoreboard.
+  useEffect(() => {
+    if (!focusMatchId || !event || tab !== "card") return;
+    const targetId = `match-${focusMatchId}`;
+    let cancelled = false;
+    const focus = () => {
+      if (cancelled) return;
+      const el = document.getElementById(targetId);
+      if (!el) return false;
+      el.scrollIntoView({ behavior: "smooth", block: "start" });
+      el.classList.add("bc-match-focus");
+      window.setTimeout(() => el.classList.remove("bc-match-focus"), 2200);
+      return true;
+    };
+    // Wait past route scroll-to-top + scorecard paint.
+    const timers = [80, 280, 600].map((ms) => window.setTimeout(() => focus(), ms));
+    return () => {
+      cancelled = true;
+      timers.forEach((id) => window.clearTimeout(id));
+    };
+  }, [focusMatchId, event, tab]);
 
   const matches = event?.matches || [];
   const wrestlerStats = useMemo(() => {

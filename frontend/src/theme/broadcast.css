@@ -320,6 +320,29 @@
     var(--bc-panel-2);
   box-shadow: 0 16px 48px rgba(0, 0, 0, 0.35);
   min-height: 220px;
+  scroll-margin-top: 96px;
+}
+
+.bc-match.bc-match-focus {
+  animation: bc-match-focus-pulse 1.8s ease;
+  border-color: color-mix(in srgb, var(--event-accent, var(--event-primary)) 75%, var(--bc-line));
+  box-shadow:
+    0 16px 48px rgba(0, 0, 0, 0.4),
+    0 0 0 2px color-mix(in srgb, var(--event-accent, var(--event-primary)) 55%, transparent);
+}
+
+@keyframes bc-match-focus-pulse {
+  0% {
+    transform: translateY(6px);
+    opacity: 0.85;
+  }
+  35% {
+    transform: translateY(0);
+    opacity: 1;
+  }
+  100% {
+    transform: none;
+  }
 }
 
 .bc-match[data-state="championship"] {
