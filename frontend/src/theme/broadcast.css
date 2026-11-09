@@ -844,6 +844,30 @@
   opacity: 0.55;
 }
 
+.pst tbody tr.is-clickable:hover td {
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.pst-actions {
+  position: relative;
+  z-index: 3;
+  pointer-events: auto;
+}
+
+.pst-preview-btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 34px;
+  min-width: 88px;
+  padding: 0 12px;
+  position: relative;
+  z-index: 4;
+  pointer-events: auto;
+  text-decoration: none;
+  white-space: nowrap;
+}
+
 .pst tbody td {
   padding: 12px 14px;
   border-bottom: 1px solid rgba(255, 255, 255, 0.05);

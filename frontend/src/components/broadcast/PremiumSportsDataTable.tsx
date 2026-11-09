@@ -34,6 +34,7 @@ type Props<T> = {
   expandable?: (row: T) => ReactNode | null;
   emptyMessage?: string;
   toolbarExtra?: ReactNode;
+  onRowClick?: (row: T) => void;
 };
 
 export function PremiumSportsDataTable<T = any>({
@@ -49,6 +50,7 @@ export function PremiumSportsDataTable<T = any>({
   expandable,
   emptyMessage = "No rows available.",
   toolbarExtra,
+  onRowClick,
 }: Props<T>) {
   const [q, setQ] = useState("");
   const [sortKey, setSortKey] = useState<string | null>(null);
@@ -146,16 +148,24 @@ export function PremiumSportsDataTable<T = any>({
                   return (
                     <Fragment key={key}>
                       <tr
-                        className={`${isWinnerRow?.(row) ? "is-winner" : ""}${isOpen ? " expanded" : ""}`}
+                        className={`${isWinnerRow?.(row) ? "is-winner" : ""}${isOpen ? " expanded" : ""}${
+                          onRowClick || detail ? " is-clickable" : ""
+                        }`}
                         onClick={
                           detail
                             ? () => setOpen((s) => ({ ...s, [key]: !s[key] }))
-                            : undefined
+                            : onRowClick
+                              ? () => onRowClick(row)
+                              : undefined
                         }
-                        style={detail ? { cursor: "pointer" } : undefined}
+                        style={detail || onRowClick ? { cursor: "pointer" } : undefined}
                       >
                         {columns.map((c) => (
-                          <td key={c.key} style={c.primary ? { fontWeight: 600 } : undefined}>
+                          <td
+                            key={c.key}
+                            className={c.key === "preview" ? "pst-actions" : undefined}
+                            style={c.primary ? { fontWeight: 600 } : undefined}
+                          >
                             {c.render ? c.render(row) : String((row as any)[c.key] ?? "—")}
                           </td>
                         ))}

@@ -1,19 +1,18 @@
 import { useEffect, useMemo, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import Plot from "react-plotly.js";
 import { api } from "../api";
 import { BroadcastStatsStrip } from "../components/broadcast/BroadcastStatsStrip";
 import { PremiumSportsDataTable } from "../components/broadcast/PremiumSportsDataTable";
-import { WrestlerProfileHeader } from "../components/broadcast/WrestlerProfileHeader";
 import { WrestlerPortrait } from "../components/WrestlerPortrait";
 import { useEventTheme } from "../theme/EventThemeContext";
 import { plotlyLayout, accentColor } from "../theme/chartTheme";
 
 export default function Wrestlers() {
   const { theme } = useEventTheme();
+  const navigate = useNavigate();
   const [items, setItems] = useState<any[]>([]);
   const [total, setTotal] = useState(0);
-  const [selected, setSelected] = useState<any>(null);
   const [q, setQ] = useState("");
   const [loading, setLoading] = useState(true);
 
@@ -106,42 +105,35 @@ export default function Wrestlers() {
           />
         </div>
 
-        <div>
-          {!selected ? (
-            <div className="bc-empty" style={{ minHeight: 280 }}>
-              <h4>Profile preview</h4>
-              <p>Select a wrestler from the statistics table</p>
-            </div>
-          ) : (
-            <>
-              <WrestlerProfileHeader
-                name={selected.canonical_name}
-                subtitle={`Career span ${selected.first_year}–${selected.last_year}`}
-                stats={[
-                  { label: "Matches", value: selected.matches },
-                  { label: "Wins", value: selected.wins },
-                  { label: "Main", value: selected.main_events ?? "—" },
-                ]}
-              />
-              <div style={{ marginTop: 12 }}>
-                <Link className="btn" to={`/wrestlers/${selected.wrestler_id}`}>
-                  Full profile →
-                </Link>
-              </div>
-              <PremiumSportsDataTable
-                title="Recent match history"
-                variant="history"
-                rows={(selected.match_history || []).slice(0, 12)}
-                rowKey={(m, i) => `${m.event_id}-${i}`}
-                pageSize={12}
-                columns={[
-                  { key: "event_date", header: "Date" },
-                  { key: "event_name", header: "Event", primary: true },
-                  { key: "result", header: "Result" },
-                ]}
-              />
-            </>
-          )}
+        <div className="bc-chart-panel" style={{ minHeight: 280 }}>
+          <h3>Open a profile</h3>
+          <p className="muted">Click Preview or a wrestler name to open finishers, managers, and full match history.</p>
+          <div style={{ display: "flex", flexDirection: "column", gap: 10, marginTop: 14 }}>
+            {chartLeaders.slice(0, 8).map((w) => (
+              <Link
+                key={w.wrestler_id}
+                to={`/wrestlers/${w.wrestler_id}`}
+                className="pst-cell-wrestler"
+                style={{
+                  textDecoration: "none",
+                  color: "inherit",
+                  padding: "8px 10px",
+                  borderRadius: 6,
+                  border: "1px solid rgba(255,255,255,0.08)",
+                  background: "rgba(0,0,0,0.25)",
+                }}
+              >
+                <WrestlerPortrait name={w.canonical_name} size={36} />
+                <div style={{ flex: 1, minWidth: 0 }}>
+                  <div style={{ color: theme.accent, fontWeight: 600 }}>{w.canonical_name}</div>
+                  <div className="muted" style={{ fontSize: "0.8rem" }}>
+                    {w.matches} matches · {w.wins} wins
+                  </div>
+                </div>
+                <span className="bc-pill">Open</span>
+              </Link>
+            ))}
+          </div>
         </div>
       </div>
 
@@ -192,20 +184,27 @@ export default function Wrestlers() {
           },
           {
             key: "preview",
-            header: "",
+            header: "Profile",
             sortable: false,
+            width: "110px",
             render: (w) => (
-              <button
-                type="button"
-                className="btn ghost"
-                style={{ height: 32 }}
-                onClick={() => api.wrestler(w.wrestler_id).then(setSelected)}
+              <Link
+                to={`/wrestlers/${encodeURIComponent(w.wrestler_id)}`}
+                className="btn pst-preview-btn"
+                onClick={(e) => {
+                  e.stopPropagation();
+                }}
+                onMouseDown={(e) => {
+                  // Prevent sticky-header / sort handlers from stealing the click
+                  e.stopPropagation();
+                }}
               >
                 Preview
-              </button>
+              </Link>
             ),
           },
         ]}
+        onRowClick={(w) => navigate(`/wrestlers/${encodeURIComponent(w.wrestler_id)}`)}
       />
     </div>
   );
