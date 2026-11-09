@@ -495,15 +495,19 @@ def get_event(event_id: str) -> dict[str, Any]:
         if m.get("loser_name"):
             m["loser_name"] = _clean_wrestler_display_name(str(m["loser_name"])) or m["loser_name"]
     match_rows = _enrich_rumble_participants(str(event_id), match_rows)
+    # Multi-night metadata before attaching the match list (avoid stuffing cards into nights[].matches).
+    payload.update(_multi_night_payload(payload, events, current_match_count=len(match_rows)))
     payload["matches"] = match_rows
-    payload.update(_multi_night_payload(payload, events))
     return payload
 
 
-def _multi_night_payload(event: dict[str, Any], events: pd.DataFrame) -> dict[str, Any]:
+def _multi_night_payload(
+    event: dict[str, Any],
+    events: pd.DataFrame,
+    current_match_count: int | None = None,
+) -> dict[str, Any]:
     """Attach Night 1 / Night 2 sibling when the PLE spans consecutive days."""
     import re
-    from datetime import datetime
 
     def _day(val: Any):
         if val is None or (isinstance(val, float) and pd.isna(val)):
@@ -521,6 +525,17 @@ def _multi_night_payload(event: dict[str, Any], events: pd.DataFrame) -> dict[st
         if "wrestlemania" in series or "summerslam" in series:
             return f"{series}|{year}"
         return f"{series or name}|{name}|{year}"
+
+    def _count(row: dict[str, Any], fallback: int | None = None) -> int | None:
+        m = row.get("matches")
+        if isinstance(m, list):
+            return len(m)
+        if m is None or (isinstance(m, float) and pd.isna(m)):
+            return fallback
+        try:
+            return int(m)
+        except Exception:
+            return fallback
 
     cur_day = _day(event.get("event_date"))
     if cur_day is None:
@@ -543,7 +558,21 @@ def _multi_night_payload(event: dict[str, Any], events: pd.DataFrame) -> dict[st
     if not siblings:
         return {"is_multi_night": False, "nights": [], "night_number": None}
 
-    nights_rows = [event] + siblings
+    current = {
+        "event_id": event.get("event_id"),
+        "event_date": event.get("event_date"),
+        "event_name": event.get("event_name"),
+        "matches": current_match_count if current_match_count is not None else _count(event),
+    }
+    nights_rows = [current] + [
+        {
+            "event_id": s.get("event_id"),
+            "event_date": s.get("event_date"),
+            "event_name": s.get("event_name"),
+            "matches": _count(s),
+        }
+        for s in siblings
+    ]
     nights_rows.sort(key=lambda r: str(r.get("event_date") or ""))
     nights = []
     for i, r in enumerate(nights_rows[:2], start=1):
