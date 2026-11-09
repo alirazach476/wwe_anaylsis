@@ -1,15 +1,18 @@
 import { useEffect, useMemo, useState } from "react";
-import { Link, useParams, useSearchParams } from "react-router-dom";
+import { Link, useNavigate, useParams, useSearchParams } from "react-router-dom";
 import Plot from "react-plotly.js";
 import { api } from "../api";
 import { MatchScorecard } from "../components/MatchScorecard";
 import { BroadcastStatsStrip } from "../components/broadcast/BroadcastStatsStrip";
 import { EventHero } from "../components/broadcast/EventHero";
 import { PremiumSportsDataTable } from "../components/broadcast/PremiumSportsDataTable";
+import { WrestlerNameLink } from "../components/WrestlerNameLink";
 import { WrestlerPortrait } from "../components/WrestlerPortrait";
 import { useEventTheme } from "../theme/EventThemeContext";
 import { plotlyLayout, accentColor } from "../theme/chartTheme";
 import { prettyChampId } from "../components/broadcast/matchUtils";
+import { cleanWrestlerName, isUpcomingEvent } from "../utils/wrestlerNames";
+import { useWrestlerIndex } from "../state/WrestlerIndex";
 
 type Tab = "overview" | "card" | "results" | "analytics" | "wrestlers" | "titles";
 
@@ -21,9 +24,11 @@ function fmtDur(sec?: number | null) {
 
 export default function EventDetail() {
   const { eventId } = useParams();
-  const [searchParams] = useSearchParams();
+  const navigate = useNavigate();
+  const [searchParams, setSearchParams] = useSearchParams();
   const focusMatchId = searchParams.get("match");
   const { theme, setEventIdentity } = useEventTheme();
+  const { resolveId } = useWrestlerIndex();
   const [event, setEvent] = useState<any>(null);
   const [tab, setTab] = useState<Tab>("card");
   const [err, setErr] = useState("");
@@ -67,21 +72,44 @@ export default function EventDetail() {
   }, [focusMatchId, event, tab]);
 
   const matches = event?.matches || [];
+  const upcoming = event ? isUpcomingEvent({ ...event, matches: matches.length }) : false;
   const wrestlerStats = useMemo(() => {
-    const map = new Map<string, { name: string; wins: number; losses: number; draws: number; appearances: number }>();
+    const map = new Map<
+      string,
+      { name: string; wrestler_id?: string | null; wins: number; losses: number; draws: number; appearances: number }
+    >();
     for (const m of matches) {
       for (const p of m.participants || []) {
-        const name = p.ring_name || "Unknown";
-        const cur = map.get(name) || { name, wins: 0, losses: 0, draws: 0, appearances: 0 };
+        const name = cleanWrestlerName(p.ring_name) || String(p.ring_name || "Unknown").trim() || "Unknown";
+        if (/^and\b/i.test(name)) continue;
+        const cur = map.get(name) || {
+          name,
+          wrestler_id: p.wrestler_id,
+          wins: 0,
+          losses: 0,
+          draws: 0,
+          appearances: 0,
+        };
         cur.appearances += 1;
         if (p.result === "win") cur.wins += 1;
         if (p.result === "loss") cur.losses += 1;
         if (p.result === "draw") cur.draws += 1;
+        // Prefer a clean roster id when available
+        const resolved = resolveId(name, p.wrestler_id);
+        if (resolved) cur.wrestler_id = resolved;
         map.set(name, cur);
       }
     }
     return Array.from(map.values()).sort((a, b) => b.appearances - a.appearances);
-  }, [matches]);
+  }, [matches, resolveId]);
+
+  function openMatchScoreboard(matchId?: string | null) {
+    if (!matchId || !eventId) return;
+    setTab("card");
+    const next = new URLSearchParams(searchParams);
+    next.set("match", String(matchId));
+    setSearchParams(next, { replace: true });
+  }
 
   const titleRows = useMemo(
     () =>
@@ -249,8 +277,12 @@ export default function EventDetail() {
         <div>
           {matches.length === 0 ? (
             <div className="bc-empty">
-              <h4>Empty card</h4>
-              <p>No matches recorded for this event.</p>
+              <h4>{upcoming ? "Coming Soon" : "Empty card"}</h4>
+              <p>
+                {upcoming
+                  ? "This premium live event is announced — match card and scoreboards will appear here after the show."
+                  : "No matches recorded for this event."}
+              </p>
             </div>
           ) : (
             matches.map((m: any) => (
@@ -281,7 +313,7 @@ export default function EventDetail() {
               .includes(q)
           }
           isWinnerRow={(m) => Boolean(m.winner_name)}
-          expandable={(m) => m.match_result || null}
+          onRowClick={(m) => openMatchScoreboard(m.match_id)}
           columns={[
             { key: "match_number", header: "#", primary: true, sortValue: (m) => Number(m.match_number) || 0 },
             {
@@ -293,24 +325,40 @@ export default function EventDetail() {
               key: "winner_name",
               header: "Winner",
               primary: true,
-              render: (m) => (
-                <div className="pst-cell-wrestler">
-                  <WrestlerPortrait
-                    name={m.winner_name}
-                    size={36}
-                    matchContext={{
-                      matchResult: m.match_result,
-                      matchType: m.match_type_group,
-                      championshipLabel: (m.championships || [])
-                        .map((c: any) => prettyChampId(c.championship_id))
-                        .join(" "),
-                    }}
-                  />
-                  <span>{m.winner_name || (String(m.match_result || "").toLowerCase().includes("no contest") ? "No Contest" : "—")}</span>
-                </div>
-              ),
+              render: (m) => {
+                const winner = cleanWrestlerName(m.winner_name) || m.winner_name;
+                return (
+                  <div className="pst-cell-wrestler">
+                    <WrestlerPortrait
+                      name={winner}
+                      size={36}
+                      matchContext={{
+                        matchResult: m.match_result,
+                        matchType: m.match_type_group,
+                        championshipLabel: (m.championships || [])
+                          .map((c: any) => prettyChampId(c.championship_id))
+                          .join(" "),
+                      }}
+                    />
+                    {winner ? (
+                      <WrestlerNameLink name={winner} />
+                    ) : (
+                      <span>
+                        {String(m.match_result || "").toLowerCase().includes("no contest") ? "No Contest" : "—"}
+                      </span>
+                    )}
+                  </div>
+                );
+              },
             },
-            { key: "loser_name", header: "Opponent", render: (m) => m.loser_name || "—" },
+            {
+              key: "loser_name",
+              header: "Opponent",
+              render: (m) => {
+                const loser = cleanWrestlerName(m.loser_name) || m.loser_name;
+                return loser ? <WrestlerNameLink name={loser} /> : "—";
+              },
+            },
             {
               key: "title",
               header: "Title",
@@ -329,7 +377,11 @@ export default function EventDetail() {
                 const r = String(m.match_result || "").toLowerCase();
                 if (r.includes("no contest")) return <span className="pst-badge result-draw">No Contest</span>;
                 if (r.includes("draw")) return <span className="pst-badge result-draw">Draw</span>;
-                return <span className="pst-badge result-win">Decision</span>;
+                return (
+                  <span className="pst-badge result-win" title={m.match_result || "Open scoreboard"}>
+                    {m.match_result ? "View scoreboard" : "Decision"}
+                  </span>
+                );
               },
             },
             { key: "duration", header: "Duration", sortValue: (m) => Number(m.match_duration_seconds) || 0, render: (m) => fmtDur(m.match_duration_seconds) },
@@ -532,7 +584,15 @@ export default function EventDetail() {
           searchPlaceholder="Search wrestler…"
           searchFilter={(w, q) => w.name.toLowerCase().includes(q)}
           isWinnerRow={(w) => w.wins > 0}
-          emptyMessage="Participant detail unavailable for this event."
+          emptyMessage={
+            upcoming
+              ? "Coming Soon — wrestler statistics will appear after the event."
+              : "Participant detail unavailable for this event."
+          }
+          onRowClick={(w) => {
+            const id = resolveId(w.name, w.wrestler_id);
+            if (id) navigate(`/wrestlers/${id}`);
+          }}
           columns={[
             {
               key: "name",
@@ -548,7 +608,7 @@ export default function EventDetail() {
                       championshipLabel: titleRows.map((r: any) => prettyChampId(r.championship_id)).join(" "),
                     }}
                   />
-                  <span>{w.name}</span>
+                  <WrestlerNameLink name={w.name} wrestlerId={w.wrestler_id} />
                 </div>
               ),
             },
@@ -573,8 +633,12 @@ export default function EventDetail() {
               .toLowerCase()
               .includes(q)
           }
-          emptyMessage="No championship rows linked to this event’s matches."
-          expandable={(r) => r.match_result || null}
+          emptyMessage={
+            upcoming
+              ? "Coming Soon — championship history will appear after the event."
+              : "No championship rows linked to this event’s matches."
+          }
+          onRowClick={(r) => openMatchScoreboard(r.match_id)}
           columns={[
             { key: "match_number", header: "Match #" },
             {
@@ -583,8 +647,20 @@ export default function EventDetail() {
               primary: true,
               render: (r) => <span className="pst-badge title">{prettyChampId(r.championship_id)}</span>,
             },
-            { key: "champion_before", header: "Before", render: (r) => r.champion_before || "—" },
-            { key: "champion_after", header: "After", render: (r) => r.champion_after || r.winner_name || "—" },
+            {
+              key: "champion_before",
+              header: "Before",
+              render: (r) =>
+                r.champion_before ? <WrestlerNameLink name={cleanWrestlerName(r.champion_before) || r.champion_before} /> : "—",
+            },
+            {
+              key: "champion_after",
+              header: "After",
+              render: (r) => {
+                const name = r.champion_after || r.winner_name;
+                return name ? <WrestlerNameLink name={cleanWrestlerName(name) || name} /> : "—";
+              },
+            },
             {
               key: "title_change",
               header: "Change",

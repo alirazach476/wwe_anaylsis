@@ -1,14 +1,19 @@
 import { useEffect, useState } from "react";
+import { useNavigate } from "react-router-dom";
 import Plot from "react-plotly.js";
 import { api } from "../api";
 import { EventArtwork } from "../components/EventArtwork";
 import { PremiumSportsDataTable } from "../components/broadcast/PremiumSportsDataTable";
+import { WrestlerNameLink } from "../components/WrestlerNameLink";
 import { WrestlerPortrait } from "../components/WrestlerPortrait";
 import { useEventTheme } from "../theme/EventThemeContext";
+import { useWrestlerIndex } from "../state/WrestlerIndex";
 import { plotlyLayout, accentColor } from "../theme/chartTheme";
 
 export default function Rumble() {
   const { theme, setEventIdentity } = useEventTheme();
+  const navigate = useNavigate();
+  const { resolveId } = useWrestlerIndex();
   const [data, setData] = useState<any>(null);
 
   useEffect(() => {
@@ -63,6 +68,10 @@ export default function Rumble() {
           rows={data.elimination_leaders || []}
           rowKey={(r) => r.canonical_name}
           pageSize={15}
+          onRowClick={(r) => {
+            const id = resolveId(r.canonical_name, r.wrestler_id);
+            if (id) navigate(`/wrestlers/${id}`);
+          }}
           columns={[
             {
               key: "canonical_name",
@@ -71,7 +80,7 @@ export default function Rumble() {
               render: (r) => (
                 <div className="pst-cell-wrestler">
                   <WrestlerPortrait name={r.canonical_name} size={36} />
-                  <span>{r.canonical_name}</span>
+                  <WrestlerNameLink name={r.canonical_name} wrestlerId={r.wrestler_id} />
                 </div>
               ),
             },
@@ -95,6 +104,10 @@ export default function Rumble() {
         }
         isWinnerRow={() => true}
         pageSize={25}
+        onRowClick={(r) => {
+          const id = resolveId(r.canonical_name, r.wrestler_id);
+          if (id) navigate(`/wrestlers/${id}`);
+        }}
         columns={[
           { key: "event_year", header: "Year" },
           {
@@ -104,7 +117,7 @@ export default function Rumble() {
             render: (r) => (
               <div className="pst-cell-wrestler">
                 <WrestlerPortrait name={r.canonical_name} size={36} />
-                <span>{r.canonical_name}</span>
+                <WrestlerNameLink name={r.canonical_name} wrestlerId={r.wrestler_id} />
               </div>
             ),
           },

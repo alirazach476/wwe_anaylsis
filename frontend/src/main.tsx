@@ -4,6 +4,7 @@ import { BrowserRouter } from "react-router-dom";
 import App from "./App";
 import { FilterProvider } from "./state/filters";
 import { EventThemeProvider } from "./theme/EventThemeContext";
+import { WrestlerIndexProvider } from "./state/WrestlerIndex";
 import "./theme/tokens.css";
 import "./theme/broadcast.css";
 import "./styles.css";
@@ -13,7 +14,9 @@ ReactDOM.createRoot(document.getElementById("root")!).render(
     <BrowserRouter>
       <FilterProvider>
         <EventThemeProvider>
-          <App />
+          <WrestlerIndexProvider>
+            <App />
+          </WrestlerIndexProvider>
         </EventThemeProvider>
       </FilterProvider>
     </BrowserRouter>

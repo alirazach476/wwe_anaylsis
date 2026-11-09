@@ -2,11 +2,30 @@ import { useEffect, useMemo, useState } from "react";
 import Plot from "react-plotly.js";
 import { api } from "../api";
 import { BroadcastStatsStrip } from "../components/broadcast/BroadcastStatsStrip";
+import { WrestlerNameLink } from "../components/WrestlerNameLink";
 import { WrestlerPortrait } from "../components/WrestlerPortrait";
 import { HISTORICAL_RECORDS, RECORD_CATEGORIES, type HistoricalRecord } from "../data/historicalRecords";
 import { useFilters } from "../state/filters";
 import { useEventTheme } from "../theme/EventThemeContext";
 import { plotlyLayout, accentColor } from "../theme/chartTheme";
+
+function HolderLinks({ holder }: { holder: string }) {
+  const parts = String(holder || "")
+    .split("/")
+    .map((p) => p.replace(/\*$/, "").trim())
+    .filter(Boolean);
+  if (!parts.length) return <strong>—</strong>;
+  return (
+    <strong>
+      {parts.map((p, i) => (
+        <span key={`${p}-${i}`}>
+          {i > 0 ? " / " : null}
+          <WrestlerNameLink name={p} />
+        </span>
+      ))}
+    </strong>
+  );
+}
 
 export default function Timeline() {
   const { query } = useFilters();
@@ -90,7 +109,7 @@ export default function Timeline() {
               <div className="hist-spotlight-holder">
                 <WrestlerPortrait name={r.holder.split("/")[0].trim()} size={44} showGenderBadge={false} />
                 <div>
-                  <strong>{r.holder}</strong>
+                  <HolderLinks holder={r.holder} />
                   {r.era ? <span>{r.era}</span> : null}
                 </div>
               </div>
@@ -140,7 +159,7 @@ export default function Timeline() {
               <h4>{r.title}</h4>
               <div className="hist-record-holder">
                 <WrestlerPortrait name={r.holder.split("/")[0].replace(/\*$/, "").trim()} size={40} showGenderBadge={false} />
-                <strong>{r.holder}</strong>
+                <HolderLinks holder={r.holder} />
               </div>
               <p>{r.detail}</p>
             </article>

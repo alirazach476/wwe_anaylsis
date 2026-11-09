@@ -2,6 +2,7 @@ import { useEffect, useState } from "react";
 import Plot from "react-plotly.js";
 import { api } from "../api";
 import { EventArtwork } from "../components/EventArtwork";
+import { WrestlerNameLink } from "../components/WrestlerNameLink";
 import { useEventTheme } from "../theme/EventThemeContext";
 import { plotlyLayout, accentColor } from "../theme/chartTheme";
 
@@ -62,10 +63,10 @@ export default function Mitb() {
             <tbody>
               {data.rows.map((r: any, i: number) => (
                 <tr key={i} className="winner-row">
-                  <td>{r.winner_name}</td>
+                  <td>{r.winner_name ? <WrestlerNameLink name={r.winner_name} /> : "—"}</td>
                   <td>{r.cash_in_date || "—"}</td>
                   <td>{r.cash_in_event || "—"}</td>
-                  <td>{r.cash_in_opponent || "—"}</td>
+                  <td>{r.cash_in_opponent ? <WrestlerNameLink name={r.cash_in_opponent} /> : "—"}</td>
                   <td>{r.cash_in_outcome || "—"}</td>
                   <td>{r.championship_won || "—"}</td>
                 </tr>

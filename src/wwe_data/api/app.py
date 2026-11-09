@@ -480,8 +480,20 @@ def get_event(event_id: str) -> dict[str, Any]:
 
     for m in match_rows:
         mid = str(m.get("match_id") or "")
-        m["participants"] = parts_by_match.get(mid, [])
+        cleaned_parts: list[dict[str, Any]] = []
+        for p in parts_by_match.get(mid, []):
+            row = dict(p)
+            raw_name = row.get("ring_name")
+            cleaned = _clean_wrestler_display_name(str(raw_name or ""))
+            if cleaned:
+                row["ring_name"] = cleaned
+            cleaned_parts.append(row)
+        m["participants"] = cleaned_parts
         m["championships"] = champs_by_match.get(mid, [])
+        if m.get("winner_name"):
+            m["winner_name"] = _clean_wrestler_display_name(str(m["winner_name"])) or m["winner_name"]
+        if m.get("loser_name"):
+            m["loser_name"] = _clean_wrestler_display_name(str(m["loser_name"])) or m["loser_name"]
     match_rows = _enrich_rumble_participants(str(event_id), match_rows)
     payload["matches"] = match_rows
     return payload

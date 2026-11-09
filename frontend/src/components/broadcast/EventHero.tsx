@@ -1,6 +1,7 @@
 import { Link } from "react-router-dom";
 import { seriesSlug } from "../../assets/eventPriority";
 import { useEventTheme } from "../../theme/EventThemeContext";
+import { isUpcomingEvent } from "../../utils/wrestlerNames";
 import { EventArtwork } from "../EventArtwork";
 
 export function EventHero({
@@ -18,12 +19,14 @@ export function EventHero({
   const matches = matchCount ?? event.matches ?? event.match_count;
   const family = event.event_series || theme.themeName;
   const seriesPath = `/series/${seriesSlug(family)}`;
+  const upcoming = isUpcomingEvent({ ...event, matches: Number(matches) || 0 });
 
   return (
     <section className="event-hero">
       <div>
         <div className="event-hero-badge">{theme.themeName} · Event microsite</div>
         <h1>{event.event_name}</h1>
+        {upcoming ? <div className="coming-soon-badge hero">Coming Soon</div> : null}
         <div className="event-hero-strip">
           <span>
             <strong>Year</strong>
@@ -47,7 +50,7 @@ export function EventHero({
           </span>
           <span>
             <strong>Card</strong>
-            {matches != null ? `${matches} matches` : "—"}
+            {upcoming ? "Coming Soon" : matches != null ? `${matches} matches` : "—"}
           </span>
         </div>
         <div style={{ display: "flex", flexWrap: "wrap", gap: 10 }}>

@@ -2,7 +2,9 @@ import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
 import { api } from "../api";
 import { EventArtwork } from "../components/EventArtwork";
+import { WrestlerNameLink } from "../components/WrestlerNameLink";
 import { useEventTheme } from "../theme/EventThemeContext";
+import { cleanWrestlerName, matchScoreboardPath } from "../utils/wrestlerNames";
 
 export default function Survivor() {
   const { theme, setEventIdentity } = useEventTheme();
@@ -48,12 +50,21 @@ export default function Survivor() {
                 <tr key={m.match_id} className="winner-row">
                   <td>{m.event_date}</td>
                   <td>
-                    <Link to={`/events/${m.event_id}`} style={{ color: theme.accent }}>
+                    <Link
+                      to={matchScoreboardPath(m.event_id, m.match_id) || `/events/${m.event_id}`}
+                      style={{ color: theme.accent }}
+                    >
                       {m.event_name}
                     </Link>
                   </td>
                   <td>{m.match_type_group}</td>
-                  <td>{m.winner_name}</td>
+                  <td>
+                    {m.winner_name ? (
+                      <WrestlerNameLink name={cleanWrestlerName(m.winner_name) || m.winner_name} />
+                    ) : (
+                      "—"
+                    )}
+                  </td>
                 </tr>
               ))}
             </tbody>

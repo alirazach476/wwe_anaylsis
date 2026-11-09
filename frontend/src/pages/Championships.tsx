@@ -3,6 +3,7 @@ import Plot from "react-plotly.js";
 import { api } from "../api";
 import { BroadcastStatsStrip } from "../components/broadcast/BroadcastStatsStrip";
 import { PremiumSportsDataTable } from "../components/broadcast/PremiumSportsDataTable";
+import { WrestlerNameLink } from "../components/WrestlerNameLink";
 import { useEventTheme } from "../theme/EventThemeContext";
 import { plotlyLayout, accentColor } from "../theme/chartTheme";
 
@@ -135,7 +136,14 @@ export default function Championships() {
             header: "Championship",
             render: (r) => <span className="pst-badge title">{r.championship_name}</span>,
           },
-          { key: "champion_after", header: "New / retaining champion", render: (r) => r.champion_after || r.winner || "—" },
+          {
+            key: "champion_after",
+            header: "New / retaining champion",
+            render: (r) => {
+              const name = r.champion_after || r.winner;
+              return name ? <WrestlerNameLink name={name} /> : "—";
+            },
+          },
         ]}
       />
 

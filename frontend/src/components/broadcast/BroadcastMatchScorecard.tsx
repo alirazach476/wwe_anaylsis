@@ -1,6 +1,8 @@
 import { useEffect, useState } from "react";
 import { loadEventLogoManifest, logoPathFromManifest } from "../../assets/eventLogoLookup";
 import { useEventTheme } from "../../theme/EventThemeContext";
+import { cleanWrestlerName, wrestlerNameKey } from "../../utils/wrestlerNames";
+import { WrestlerNameLink } from "../WrestlerNameLink";
 import { WrestlerPortrait } from "../WrestlerPortrait";
 import { ChampionshipBelt } from "./ChampionshipBelt";
 import {
@@ -11,6 +13,21 @@ import {
   parseVsNames,
   resultKind,
 } from "./matchUtils";
+
+function participantId(match: any, name?: string | null): string | null {
+  const key = wrestlerNameKey(name);
+  if (!key) return null;
+  for (const p of match.participants || []) {
+    if (wrestlerNameKey(p.ring_name) === key && p.wrestler_id) return String(p.wrestler_id);
+  }
+  return null;
+}
+
+function Name({ match, name }: { match: any; name?: string | null }) {
+  const display = cleanWrestlerName(name) || name || "TBA";
+  if (!name || display === "TBA") return <span>{display}</span>;
+  return <WrestlerNameLink name={display} wrestlerId={participantId(match, name)} />;
+}
 
 function matchContext(match: any, title: string | null) {
   return {
@@ -84,18 +101,30 @@ function Foot({ match, watermark }: { match: any; watermark?: string }) {
 
 export function SinglesMatchGraphic({ match }: { match: any }) {
   const parts: Participant[] = match.participants || [];
-  const { a, b } = parseVsNames(match);
+  const raw = parseVsNames(match);
+  const a = cleanWrestlerName(raw.a) || raw.a;
+  const b = cleanWrestlerName(raw.b) || raw.b;
   const title = championshipLabel(match);
   const kind = resultKind(match);
-  const aWin = kind === "win" && (parts.find((p) => p.ring_name === a)?.result === "win" || match.winner_name === a);
-  const bWin = kind === "win" && (parts.find((p) => p.ring_name === b)?.result === "win" || match.winner_name === b);
+  const aKey = wrestlerNameKey(a);
+  const bKey = wrestlerNameKey(b);
+  const aWin =
+    kind === "win" &&
+    (parts.find((p) => wrestlerNameKey(p.ring_name) === aKey)?.result === "win" ||
+      wrestlerNameKey(match.winner_name) === aKey);
+  const bWin =
+    kind === "win" &&
+    (parts.find((p) => wrestlerNameKey(p.ring_name) === bKey)?.result === "win" ||
+      wrestlerNameKey(match.winner_name) === bKey);
 
   return (
     <div className="bc-singles">
       <div className={`bc-fighter${aWin ? " winner" : ""}`}>
         <Cutout name={a} match={match} title={title} />
         <div className="bc-fighter-copy">
-          <p className="bc-fighter-name">{a || "TBA"}</p>
+          <p className="bc-fighter-name">
+            <Name match={match} name={a} />
+          </p>
           <div className="bc-fighter-sub">
             {aWin ? "Winner" : "Competitor"}
           </div>
@@ -109,7 +138,9 @@ export function SinglesMatchGraphic({ match }: { match: any }) {
       <div className={`bc-fighter right${bWin ? " winner" : ""}`}>
         <Cutout name={b} match={match} title={title} />
         <div className="bc-fighter-copy">
-          <p className="bc-fighter-name">{b || "TBA"}</p>
+          <p className="bc-fighter-name">
+            <Name match={match} name={b} />
+          </p>
           <div className="bc-fighter-sub">
             {bWin ? "Winner" : "Competitor"}
           </div>
@@ -158,7 +189,16 @@ export function TagTeamMatchGraphic({ match }: { match: any }) {
             <Cutout key={i} name={p.ring_name} size={76} match={match} title={title} />
           ))}
         </div>
-        <p className="bc-team-name">{left.map((p) => p.ring_name).filter(Boolean).join(" & ") || "Team A"}</p>
+        <p className="bc-team-name">
+          {left.length
+            ? left.map((p, i) => (
+                <span key={i}>
+                  {i > 0 ? " & " : null}
+                  <Name match={match} name={p.ring_name} />
+                </span>
+              ))
+            : "Team A"}
+        </p>
         <div className="bc-team-members">{leftWin ? "Winning team" : "Team"}</div>
       </div>
       <div className="bc-vs-block">
@@ -174,7 +214,16 @@ export function TagTeamMatchGraphic({ match }: { match: any }) {
             <Cutout key={i} name={p.ring_name} size={76} match={match} title={title} />
           ))}
         </div>
-        <p className="bc-team-name">{right.map((p) => p.ring_name).filter(Boolean).join(" & ") || "Team B"}</p>
+        <p className="bc-team-name">
+          {right.length
+            ? right.map((p, i) => (
+                <span key={i}>
+                  {i > 0 ? " & " : null}
+                  <Name match={match} name={p.ring_name} />
+                </span>
+              ))
+            : "Team B"}
+        </p>
         <div className="bc-team-members">{rightWin ? "Winning team" : "Team"}</div>
       </div>
     </div>
@@ -193,8 +242,10 @@ export function MultiPersonMatchGraphic({ match }: { match: any }) {
     <div className="bc-multi">
       {parts.map((p, i) => (
         <div key={i} className={`bc-multi-slot${p.result === "win" ? " winner" : ""}`}>
-          <Cutout name={p.ring_name} size={88} match={match} title={title} />
-          <p className="bc-multi-name">{p.ring_name || "TBA"}</p>
+          <Cutout name={cleanWrestlerName(p.ring_name) || p.ring_name} size={88} match={match} title={title} />
+          <p className="bc-multi-name">
+            <Name match={match} name={p.ring_name} />
+          </p>
           {p.result === "win" ? <span className="bc-pill win">Winner</span> : null}
         </div>
       ))}
@@ -226,7 +277,7 @@ export function RoyalRumbleGraphic({ match }: { match: any }) {
       <div className="bc-rumble-winner">
         <Cutout name={winner.ring_name} size={128} match={match} title={title} />
         <p className="bc-fighter-name" style={{ fontSize: "1.6rem" }}>
-          {winner.ring_name || "Winner unavailable"}
+          {winner.ring_name ? <Name match={match} name={winner.ring_name} /> : "Winner unavailable"}
         </p>
         <span className="bc-pill gold" style={{ marginTop: 8 }}>
           Rumble Winner
@@ -250,7 +301,7 @@ export function RoyalRumbleGraphic({ match }: { match: any }) {
                 <div key={i} className={`bc-multi-slot${p.result === "win" ? " winner" : ""}`}>
                   <Cutout name={p.ring_name} size={64} match={match} title={title} />
                   <p className="bc-multi-name" style={{ fontSize: "0.95rem" }}>
-                    {p.ring_name}
+                    <Name match={match} name={p.ring_name} />
                   </p>
                 </div>
               ))}
@@ -273,7 +324,9 @@ export function RoyalRumbleGraphic({ match }: { match: any }) {
                   {withEntry.map((p, i) => (
                     <tr key={`${p.entry_number}-${p.wrestler_id || p.ring_name || i}`} className={p.result === "win" ? "is-winner" : undefined}>
                       <td>{p.entry_number}</td>
-                      <td>{p.ring_name}</td>
+                      <td>
+                        <Name match={match} name={p.ring_name} />
+                      </td>
                       <td>{p.result || (p.elimination_order != null ? `Elim #${p.elimination_order}` : "—")}</td>
                       <td>{fmtDuration(p.time_in_match_seconds) || "—"}</td>
                     </tr>

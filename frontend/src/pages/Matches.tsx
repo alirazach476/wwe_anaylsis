@@ -1,14 +1,16 @@
 import { useEffect, useMemo, useState } from "react";
-import { Link } from "react-router-dom";
+import { Link, useNavigate } from "react-router-dom";
 import Plot from "react-plotly.js";
 import { api } from "../api";
 import { BroadcastStatsStrip } from "../components/broadcast/BroadcastStatsStrip";
 import { PremiumSportsDataTable } from "../components/broadcast/PremiumSportsDataTable";
+import { WrestlerNameLink } from "../components/WrestlerNameLink";
 import { WrestlerPortrait } from "../components/WrestlerPortrait";
 import { inferFighterGender } from "../assets/wrestlerGender";
 import { useFilters } from "../state/filters";
 import { useEventTheme } from "../theme/EventThemeContext";
 import { plotlyLayout, accentColor } from "../theme/chartTheme";
+import { cleanWrestlerName, matchScoreboardPath } from "../utils/wrestlerNames";
 
 function fmtDur(sec?: number | null) {
   if (sec == null || Number.isNaN(Number(sec))) return "Unavailable";
@@ -19,6 +21,7 @@ function fmtDur(sec?: number | null) {
 export default function Matches() {
   const { query } = useFilters();
   const { theme } = useEventTheme();
+  const navigate = useNavigate();
   const [analytics, setAnalytics] = useState<any>(null);
   const [rows, setRows] = useState<any[]>([]);
   const [total, setTotal] = useState(0);
@@ -399,14 +402,21 @@ export default function Matches() {
         }
         pageSize={40}
         isWinnerRow={(m) => Boolean(m.winner_name)}
-        expandable={(m) => m.match_result || null}
+        onRowClick={(m) => {
+          const path = matchScoreboardPath(m.event_id, m.match_id);
+          if (path) navigate(path);
+        }}
         columns={[
           {
             key: "event_name",
             header: "Event",
             primary: true,
             render: (m) => (
-              <Link to={`/events/${m.event_id}`} style={{ color: theme.accent }}>
+              <Link
+                to={matchScoreboardPath(m.event_id, m.match_id) || `/events/${m.event_id}`}
+                style={{ color: theme.accent }}
+                onClick={(e) => e.stopPropagation()}
+              >
                 {m.event_name}
               </Link>
             ),
@@ -420,20 +430,23 @@ export default function Matches() {
           {
             key: "winner_name",
             header: "Winner",
-            render: (m) => (
-              <div className="pst-cell-wrestler">
-                <WrestlerPortrait
-                  name={m.winner_name}
-                  size={36}
-                  matchContext={{
-                    matchResult: m.match_result,
-                    matchType: m.match_type_group || m.match_type_raw,
-                    championshipLabel: String(m.is_title_match).match(/1|true/i) ? m.match_result : null,
-                  }}
-                />
-                <span>{m.winner_name || "—"}</span>
-              </div>
-            ),
+            render: (m) => {
+              const winner = cleanWrestlerName(m.winner_name) || m.winner_name;
+              return (
+                <div className="pst-cell-wrestler">
+                  <WrestlerPortrait
+                    name={winner}
+                    size={36}
+                    matchContext={{
+                      matchResult: m.match_result,
+                      matchType: m.match_type_group || m.match_type_raw,
+                      championshipLabel: String(m.is_title_match).match(/1|true/i) ? m.match_result : null,
+                    }}
+                  />
+                  {winner ? <WrestlerNameLink name={winner} /> : <span>—</span>}
+                </div>
+              );
+            },
           },
           {
             key: "is_title_match",
@@ -448,7 +461,7 @@ export default function Matches() {
               const r = String(m.match_result || "").toLowerCase();
               if (r.includes("no contest")) return <span className="pst-badge result-draw">No Contest</span>;
               if (r.includes("draw")) return <span className="pst-badge result-draw">Draw</span>;
-              return <span className="pst-badge result-win">Decision</span>;
+              return <span className="pst-badge result-win">View scoreboard</span>;
             },
           },
           {
@@ -471,19 +484,36 @@ export default function Matches() {
         }
         emptyMessage="No tag-team matches in the current filter sample."
         pageSize={20}
+        onRowClick={(m) => {
+          const path = matchScoreboardPath(m.event_id, m.match_id);
+          if (path) navigate(path);
+        }}
         columns={[
           {
             key: "event_name",
             header: "Event",
             render: (m) => (
-              <Link to={`/events/${m.event_id}`} style={{ color: theme.accent }}>
+              <Link
+                to={matchScoreboardPath(m.event_id, m.match_id) || `/events/${m.event_id}`}
+                style={{ color: theme.accent }}
+                onClick={(e) => e.stopPropagation()}
+              >
                 {m.event_name}
               </Link>
             ),
           },
           { key: "event_year", header: "Year" },
-          { key: "winner_name", header: "Winning side", primary: true },
-          { key: "loser_name", header: "Opposing side" },
+          {
+            key: "winner_name",
+            header: "Winning side",
+            primary: true,
+            render: (m) => <WrestlerNameLink name={cleanWrestlerName(m.winner_name) || m.winner_name} />,
+          },
+          {
+            key: "loser_name",
+            header: "Opposing side",
+            render: (m) => <WrestlerNameLink name={cleanWrestlerName(m.loser_name) || m.loser_name} />,
+          },
           {
             key: "match_duration_seconds",
             header: "Duration",
