@@ -199,6 +199,24 @@
   background: color-mix(in srgb, #f5d76e 18%, rgba(0, 0, 0, 0.55));
 }
 
+.series-section-title {
+  margin: 0 0 6px;
+  font-family: var(--font-display);
+  letter-spacing: 0.06em;
+  font-size: 1.45rem;
+}
+
+.series-event-block-head {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: 12px;
+  margin-bottom: 14px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid color-mix(in srgb, var(--event-primary, #888) 28%, transparent);
+}
+
 .event-hero-night {
   color: var(--event-accent, #e8c36a);
   font-weight: 500;

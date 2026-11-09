@@ -52,12 +52,29 @@ export default function Events() {
   }, [query, q, params, setEventIdentity, resetTheme]);
 
   const groups = useMemo(() => {
-    return groupEventsByFamily(rawItems).map((g) => ({
-      ...g,
-      events: collapseMultiNightEvents(g.events),
-      latest: collapseMultiNightEvents(g.events)[0] || g.latest,
-    }));
+    return groupEventsByFamily(rawItems).map((g) => {
+      const events = collapseMultiNightEvents(g.events);
+      return {
+        ...g,
+        events,
+        latest: events[0] || g.latest,
+      };
+    });
   }, [rawItems]);
+
+  const featuredFamilies = useMemo(
+    () => new Set<string>(TOP_EVENT_SERIES as unknown as string[]),
+    []
+  );
+  const primaryGroups = useMemo(
+    () => groups.filter((g) => featuredFamilies.has(g.family)),
+    [groups, featuredFamilies]
+  );
+  const otherGroups = useMemo(
+    () => groups.filter((g) => !featuredFamilies.has(g.family)),
+    [groups, featuredFamilies]
+  );
+
   const flatSorted = useMemo(
     () => sortEventsByPriority(collapseMultiNightEvents(rawItems)),
     [rawItems]
@@ -93,8 +110,8 @@ export default function Events() {
           { label: "Events", value: total, context: "In current filter / catalog" },
           {
             label: "Series families",
-            value: groups.filter((g) => g.family !== "Other Events").length,
-            context: "Hub groups loaded",
+            value: groups.length,
+            context: "Organized hubs + archives",
           },
           {
             label: "Avg attendance",
@@ -116,7 +133,7 @@ export default function Events() {
       <section className="bc-chart-panel">
         <h3>Event explorer</h3>
         <p className="muted">
-          {total} events · browse by series family, then open a year poster · catalog charts live on Home
+          {total} events · {groups.length} series families · browse hubs or every poster under its series header
         </p>
         <div className="filters" style={{ marginBottom: 10 }}>
           <button
@@ -139,7 +156,7 @@ export default function Events() {
               setParams(next);
             }}
           >
-            All posters
+            All events
           </button>
         </div>
         <div className="filters">
@@ -162,10 +179,13 @@ export default function Events() {
 
       {view === "series" ? (
         <>
-          <div className="event-poster-grid">
-            {groups
-              .filter((g) => g.family !== "Other Events")
-              .map((g) => {
+          <section>
+            <h3 className="series-section-title">Featured series</h3>
+            <p className="muted" style={{ marginTop: 0 }}>
+              Flagship PLEs — open a hub for every edition
+            </p>
+            <div className="event-poster-grid">
+              {primaryGroups.map((g) => {
                 const years = g.events
                   .map((e) => Number(e.event_year))
                   .filter((n) => !Number.isNaN(n));
@@ -180,38 +200,78 @@ export default function Events() {
                   />
                 );
               })}
-          </div>
+            </div>
+          </section>
+
+          {otherGroups.length ? (
+            <section>
+              <h3 className="series-section-title">All other series</h3>
+              <p className="muted" style={{ marginTop: 0 }}>
+                Every remaining PLE family with its own archive hub
+              </p>
+              <div className="event-poster-grid">
+                {otherGroups.map((g) => {
+                  const years = g.events
+                    .map((e) => Number(e.event_year))
+                    .filter((n) => !Number.isNaN(n));
+                  return (
+                    <SeriesFamilyCard
+                      key={g.family}
+                      family={g.family}
+                      count={g.events.length}
+                      latest={g.latest}
+                      yearFrom={years.length ? Math.min(...years) : null}
+                      yearTo={years.length ? Math.max(...years) : null}
+                    />
+                  );
+                })}
+              </div>
+            </section>
+          ) : null}
 
           <section className="bc-chart-panel">
             <h3>Jump to series</h3>
-            <div className="filters">
-              {TOP_EVENT_SERIES.map((s) => (
-                <Link key={s} className="tab" to={`/series/${seriesSlug(s)}`}>
-                  {s}
+            <div className="filters" style={{ flexWrap: "wrap" }}>
+              {groups.map((g) => (
+                <Link key={g.family} className="tab" to={`/series/${seriesSlug(g.family)}`}>
+                  {g.family}
                 </Link>
               ))}
             </div>
           </section>
-
-          {groups.find((g) => g.family === "Other Events") ? (
-            <section>
-              <h3 style={{ fontFamily: "var(--font-display)", letterSpacing: "0.06em" }}>Other events</h3>
-              <p className="muted" style={{ marginTop: 0 }}>
-                Specials and series outside the main hub list
-              </p>
-              <div className="event-poster-grid">
-                {(groups.find((g) => g.family === "Other Events")?.events || []).slice(0, 24).map((e) => (
-                  <EventCard key={e.event_id} event={e} />
-                ))}
-              </div>
-            </section>
-          ) : null}
         </>
       ) : (
-        <div className="event-poster-grid">
-          {flatSorted.map((e) => (
-            <EventCard key={e.event_id} event={e} />
-          ))}
+        <div style={{ display: "flex", flexDirection: "column", gap: 28 }}>
+          {groups.map((g) => {
+            const years = g.events
+              .map((e) => Number(e.event_year))
+              .filter((n) => !Number.isNaN(n));
+            const span =
+              years.length > 0
+                ? `${Math.min(...years)}${years.length > 1 ? `–${Math.max(...years)}` : ""}`
+                : "";
+            return (
+              <section key={g.family} className="series-event-block">
+                <div className="series-event-block-head">
+                  <div>
+                    <h3 className="series-section-title">{g.family}</h3>
+                    <p className="muted" style={{ margin: 0 }}>
+                      {g.events.length} event{g.events.length === 1 ? "" : "s"}
+                      {span ? ` · ${span}` : ""}
+                    </p>
+                  </div>
+                  <Link className="btn ghost" to={`/series/${seriesSlug(g.family)}`}>
+                    Open series →
+                  </Link>
+                </div>
+                <div className="event-poster-grid">
+                  {g.events.map((e) => (
+                    <EventCard key={e.event_id} event={e} />
+                  ))}
+                </div>
+              </section>
+            );
+          })}
         </div>
       )}
 

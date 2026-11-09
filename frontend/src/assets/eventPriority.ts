@@ -98,26 +98,70 @@ export function filterEventsByFamily<
   );
 }
 
+function eventKey<T extends { event_id?: string; event_name?: string | null; event_date?: string | null }>(e: T): string {
+  return String(e.event_id || `${e.event_name}|${e.event_date}`);
+}
+
+/** Normalize raw warehouse series labels into a display family name. */
+export function normalizeSeriesFamily(series?: string | null, name?: string | null): string {
+  const s = String(series || "").trim();
+  const n = String(name || "").trim();
+  const hay = `${s} ${n}`.toLowerCase();
+
+  if (hay.includes("survivor series")) return "Survivor Series";
+  if (hay.includes("clash at the castle") || hay.includes("clash in ")) return "Clash at the Castle";
+  if (hay.includes("backlash")) return "Backlash";
+  if ((s.toLowerCase().includes("wrestlemania") || /^wrestlemania\b/i.test(n)) && !hay.includes("backlash")) {
+    return "WrestleMania";
+  }
+  if (hay.includes("king and queen of the ring") || hay.includes("king of the ring")) return "King of the Ring";
+  if (hay.includes("saturday night") && hay.includes("main event")) return "Saturday Night's Main Event";
+  if (hay.includes("sunday night") && hay.includes("main event")) return "Sunday Night's Main Event";
+  if (s) return s;
+  if (n) {
+    // Strip year / night suffixes for one-offs
+    return n.replace(/\s*\(\d{4}\)\s*$/i, "").replace(/\s+night\s*[12]\s*$/i, "").trim() || "Special Events";
+  }
+  return "Special Events";
+}
+
 export function groupEventsByFamily<
   T extends { event_series?: string | null; event_name?: string | null; event_date?: string | null; event_id?: string },
 >(items: T[]): { family: string; events: T[]; latest?: T }[] {
   const groups: { family: string; events: T[]; latest?: T }[] = [];
   const used = new Set<string>();
 
+  // Priority hubs first (WrestleMania, SummerSlam, …)
   for (const family of TOP_EVENT_SERIES) {
     const events = filterEventsByFamily(items, family);
-    events.forEach((e) => used.add(String(e.event_id || `${e.event_name}|${e.event_date}`)));
+    events.forEach((e) => used.add(eventKey(e)));
     if (!events.length) continue;
     groups.push({ family, events, latest: events[0] });
   }
 
-  const other = items.filter((e) => !used.has(String(e.event_id || `${e.event_name}|${e.event_date}`)));
-  if (other.length) {
-    const sorted = [...other].sort((a, b) =>
-      String(b.event_date || "").localeCompare(String(a.event_date || ""))
-    );
-    groups.push({ family: "Other Events", events: sorted, latest: sorted[0] });
+  // Remaining series each get their own header (Hell in a Cell, TLC, No Mercy, …)
+  const leftover = items.filter((e) => !used.has(eventKey(e)));
+  const byFamily = new Map<string, T[]>();
+  for (const e of leftover) {
+    const family = normalizeSeriesFamily(e.event_series, e.event_name);
+    if (!byFamily.has(family)) byFamily.set(family, []);
+    byFamily.get(family)!.push(e);
   }
+
+  const extra = [...byFamily.entries()]
+    .map(([family, events]) => {
+      const sorted = [...events].sort((a, b) =>
+        String(b.event_date || "").localeCompare(String(a.event_date || ""))
+      );
+      return { family, events: sorted, latest: sorted[0] };
+    })
+    .sort((a, b) => {
+      // More editions first, then A–Z
+      if (b.events.length !== a.events.length) return b.events.length - a.events.length;
+      return a.family.localeCompare(b.family);
+    });
+
+  groups.push(...extra);
   return groups;
 }
 

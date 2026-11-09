@@ -17,7 +17,7 @@ export function SeriesFamilyCard({
   yearTo?: number | null;
 }) {
   const theme = resolveEventTheme(family, latest?.event_name || family);
-  const href = family === "Other Events" ? "/events?view=all" : `/series/${seriesSlug(family)}`;
+  const href = `/series/${seriesSlug(family)}`;
   const span =
     yearFrom && yearTo ? `${yearFrom}–${yearTo}` : yearFrom ? String(yearFrom) : "Archive";
 

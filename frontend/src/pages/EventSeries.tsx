@@ -1,7 +1,7 @@
 import { useEffect, useMemo, useState } from "react";
 import { Link, useParams } from "react-router-dom";
 import { api } from "../api";
-import { filterEventsByFamily, seriesFromSlug, seriesSlug } from "../assets/eventPriority";
+import { filterEventsByFamily, normalizeSeriesFamily, seriesFromSlug, seriesSlug } from "../assets/eventPriority";
 import { EventCard } from "../components/EventCard";
 import { BroadcastStatsStrip } from "../components/broadcast/BroadcastStatsStrip";
 import { EventArtwork } from "../components/EventArtwork";
@@ -35,7 +35,25 @@ export default function EventSeries() {
         country: query.country,
         limit: 500,
       })
-      .then((r) => setItems(filterEventsByFamily(r.items, family)))
+      .then((r) => {
+        // Prefer priority family rules; fall back to normalized series label match.
+        const byFamily = filterEventsByFamily(r.items, family);
+        if (byFamily.length) {
+          setItems(byFamily);
+          return;
+        }
+        const slugTarget = seriesSlug(family);
+        setItems(
+          r.items.filter((e) => {
+            const label = normalizeSeriesFamily(e.event_series, e.event_name);
+            return (
+              seriesSlug(label) === slugTarget ||
+              String(e.event_series || "").toLowerCase().includes(family.toLowerCase()) ||
+              String(e.event_name || "").toLowerCase().includes(family.toLowerCase())
+            );
+          })
+        );
+      })
       .catch((e) => setErr(String(e)));
   }, [family, query.year_from, query.year_to, query.country, setEventIdentity]);
 
