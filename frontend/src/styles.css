@@ -1,0 +1,9 @@
+/* Legacy hooks kept minimal — primary system lives in theme/tokens.css */
+.error {
+  color: #fecaca;
+  padding: 16px;
+}
+
+code {
+  font-family: var(--font-mono);
+}

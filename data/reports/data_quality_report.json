@@ -1,0 +1,112 @@
+{
+  "generated_at": "2026-11-08T15:22:20.153061Z",
+  "cleaning_counts": {
+    "stg_events": 424,
+    "stg_matches": 3383,
+    "participants_deduped": 41,
+    "stg_match_participants": 10856,
+    "stg_wrestlers": 2033,
+    "stg_wrestler_aliases": 2033,
+    "stg_championships": 840,
+    "stg_match_championships": 1766,
+    "stg_special_royal_rumble": 1155,
+    "stg_special_money_in_the_bank": 37,
+    "stg_special_mitb_cash_ins": 36,
+    "stg_special_survivor_series": 52,
+    "stg_special_elimination_chamber": 38,
+    "stg_event_match_status": 424
+  },
+  "validation_ok": true,
+  "checks": [
+    {
+      "name": "required_exports_present",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "unique_events",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "unique_matches",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "unique_wrestlers",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "unique_championships",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "matches_event_fk",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "participants_match_fk",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "participants_wrestler_fk",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "aliases_wrestler_fk",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "match_championships_match_fk",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "match_championships_championship_fk",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "completed_events_have_cards",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "event_year_window",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "no_nxt_takeover",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "title_matches_have_championship_link",
+      "passed": true,
+      "detail": "45 is_title_match rows without championship link (informational)",
+      "count": 45
+    }
+  ]
+}

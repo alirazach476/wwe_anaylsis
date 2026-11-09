@@ -1,0 +1,56 @@
+[build-system]
+requires = ["setuptools>=68", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "wwe-data"
+version = "0.1.0"
+description = "Reproducible WWE Premium Live Event historical data platform (2000–2027)"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+  "requests>=2.31.0",
+  "beautifulsoup4>=4.12.0",
+  "lxml>=5.0.0",
+  "pandas>=2.1.0",
+  "pyarrow>=14.0.0",
+  "pydantic>=2.5.0",
+  "pydantic-settings>=2.1.0",
+  "SQLAlchemy>=2.0.23",
+  "psycopg2-binary>=2.9.9",
+  "python-dateutil>=2.8.2",
+  "PyYAML>=6.0.1",
+  "tenacity>=8.2.0",
+  "httpx>=0.26.0",
+  "rich>=13.7.0",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=7.4.0", "pytest-cov>=4.1.0"]
+dashboard = ["streamlit>=1.29.0"]
+dbt = ["dbt-core>=1.7.0", "dbt-postgres>=1.7.0"]
+api = ["fastapi>=0.110.0", "uvicorn[standard]>=0.27.0"]
+
+[project.scripts]
+wwe-inventory = "wwe_data.pipeline.inventory:main"
+wwe-coverage = "wwe_data.reports.coverage:main"
+wwe-validate = "wwe_data.pipeline.validate:main"
+wwe-phase3 = "wwe_data.pipeline.phase3:main"
+wwe-phase4 = "wwe_data.pipeline.phase4:main"
+wwe-phase5 = "wwe_data.pipeline.phase5:main"
+wwe-enrich = "wwe_data.pipeline.enrich:main"
+wwe-refresh = "wwe_data.pipeline.refresh:main"
+wwe-release = "wwe_data.pipeline.release:main"
+wwe-load = "wwe_data.db.load_all:main"
+wwe-analytics = "wwe_data.analytics.materialize:main"
+wwe-api = "wwe_data.api.app:main"
+wwe-clean = "wwe_data.pipeline.clean:main"
+wwe-warehouse = "wwe_data.warehouse.load_dimensional:main"
+wwe-marts = "wwe_data.warehouse.materialize_marts:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

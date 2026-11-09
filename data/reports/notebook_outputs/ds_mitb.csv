@@ -1,0 +1,38 @@
+fact_id,match_id,event_key,winner_name,cash_in_date,cash_in_event,cash_in_opponent,cash_in_outcome,championship_won
+1,mtc_1e4e96f6ff5e_3,74,Edge,2006-01-08,New Year's Revolution,John Cena,successful,WWE Championship
+2,mtc_3f1059fadfda_3,91,Rob Van Dam,2006-06-11,ECW One Night Stand,John Cena,successful,WWE Championship
+3,mtc_8cfd83c6efa0_2,110,Mr. Kennedy,,,,,
+4,mtc_8e9f1e7b82a0_3,127,CM Punk,2008-06-30,Raw,Edge,successful,World Heavyweight Championship
+5,mtc_2bdb4b48783f_2,143,CM Punk,2009-06-07,Extreme Rules,Jeff Hardy,successful,World Heavyweight Championship
+6,mtc_63d75f958636_4,158,Jack Swagger,2010-03-30,SmackDown,Chris Jericho,successful,World Heavyweight Championship
+7,mtc_ff45cb3c3faf_2,162,Kane,2010-07-18,Money in the Bank,Rey Mysterio,successful,World Heavyweight Championship
+8,mtc_ccc762101759_8,162,The Miz,2010-11-22,Raw,Randy Orton,successful,WWE Championship
+9,mtc_74f27db15e7c_5,176,Alberto Del Rio,2011-08-14,SummerSlam,CM Punk,successful,WWE Championship
+10,mtc_59e5eceb60e0_2,176,Daniel Bryan,2011-12-18,"TLC: Tables, Ladders & Chairs",Big Show,successful,World Heavyweight Championship
+11,mtc_43e29e62e817_2,190,Dolph Ziggler (with Vickie Guerrero ),2013-04-08,Raw,Alberto Del Rio,successful,World Heavyweight Championship
+12,mtc_f45c2443172b_8,190,John Cena,2012-07-23,Raw 1000,,unsuccessful,
+13,mtc_d1b6540faef9_2,202,Damien Sandow,2013-10-28,Raw,John Cena,unsuccessful,
+14,mtc_a3b586712819_8,202,Randy Orton,2013-08-18,SummerSlam,Daniel Bryan,successful,WWE Championship
+15,mtc_8f455cfe15d4_4,215,Seth Rollins,2015-03-29,WrestleMania 31,,successful,WWE World Heavyweight Championship
+16,mtc_41882a8ede31_2,230,Sheamus,2015-11-22,Survivor Series,Roman Reigns,successful,WWE World Heavyweight Championship
+17,mtc_9617990acd04_8,245,Dean Ambrose,2016-06-19,Money in the Bank,Seth Rollins,successful,WWE World Heavyweight Championship
+18,mtc_14e718975c8a_7,263,Baron Corbin,2017-08-15,SmackDown Live,"Jinder Mahal with a roll-up following a distraction by John Cena , who had just defeated Mahal by disqualification due to Corbin's interference",unsuccessful,
+19,mtc_15e5c02a8ee1_2,263,Carmella (with James Ellsworth ),2018-04-10,SmackDown Live,Charlotte Flair,successful,SmackDown Women's Championship
+20,mtc_95e0e153068e_5,279,Alexa Bliss,2018-06-17,Money in the Bank,Jax,successful,Raw Women's Championship
+21,mtc_0fae1738c5e4_11,279,Braun Strowman,2018-09-16,Hell in a Cell,,,
+22,mtc_2baedde996df_2,296,Bayley,2019-05-19,Money in the Bank,Charlotte Flair,successful,SmackDown Women's Championship
+23,mtc_56c326590077_12,296,Brock Lesnar (with Paul Heyman ) [ Note 1 ],2019-07-14,Extreme Rules,Seth Rollins,successful,WWE Universal Championship
+24,mtc_96a045722f3c_7,312,Asuka,,,,,
+25,mtc_18e5e7048503_8,312,Otis,,,,,
+26,mtc_ffcf3e368fe3_6,329,Big E,2021-09-13,Raw,Bobby Lashley,successful,WWE Championship
+27,mtc_e92152c57571_2,329,Nikki A.S.H.,2021-07-19,Raw,Charlotte Flair,successful,Raw Women's Championship
+28,mtc_9a077b72d38f_1,344,Liv Morgan,2022-07-02,Money in the Bank,Ronda Rousey with a roll-up,successful,SmackDown Women's Championship
+29,mtc_ab0abe42c982_7,344,Theory,2022-11-07,Raw,"Seth ""Freakin"" Rollins",unsuccessful,
+30,mtc_b0472345f4dd_1,357,Damian Priest,2024-04-07,WrestleMania XL Night 2,Drew McIntyre,successful,World Heavyweight Championship
+31,mtc_e858310347ef_5,357,Iyo Sky,2023-08-05,SummerSlam,Bianca Belair,successful,WWE Women's Championship
+32,mtc_176ef9bc3ddf_1,372,Drew McIntyre,2024-07-06,Money in the Bank,,successful,World Heavyweight Championship
+33,mtc_cb3d235d8222_4,372,Tiffany Stratton,2025-01-03,SmackDown,Nia Jax,successful,WWE Women's Championship
+34,mtc_b8de86e76393_1,388,Naomi,2025-07-13,Evolution,,successful,Women's World Championship
+35,mtc_61025e24be17_4,388,Seth Rollins (with Paul Heyman ),2025-08-02,SummerSlam Night 1,CM Punk,successful,World Heavyweight Championship
+36,mtc_7005b4f3e999_5,418,Penta,,,,,
+37,mtc_18b8c6c5286d_2,418,Tiffany Stratton,2026-11-07,Crown Jewel,Chelsea Green,successful,WWE Women's Championship

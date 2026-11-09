@@ -1,0 +1,2034 @@
+wrestler_id,matches,wins,losses,title_matches,main_events,first_year,last_year,canonical_name
+wrs_randy-orton_b1eaaa85,186,89,84,106,54,2003,2026,Randy Orton
+wrs_john-cena_43142eec,179,110,62,124,80,2002,2025,John Cena
+wrs_kane_bdba1e91,132,57,59,66,32,2000,2021,Kane
+wrs_chris-jericho_fd60f6c9,121,48,62,63,23,2000,2018,Chris Jericho
+wrs_rey-mysterio_a2fc3ae4,119,56,48,67,12,2002,2026,Rey Mysterio
+wrs_big-show_5b188d2a,115,45,58,62,21,2000,2020,Big Show
+wrs_the-miz_88d52981,111,33,61,69,13,2006,2026,The Miz
+wrs_sheamus_2fa9f3c4,108,61,37,70,11,2009,2025,Sheamus
+wrs_cody-rhodes_085203c7,104,55,41,69,41,2007,2026,Cody Rhodes
+wrs_triple-h_f28aa65b,103,64,34,64,51,2000,2020,Triple H
+wrs_edge_a0f2c69a,103,61,35,61,27,2000,2023,Edge
+wrs_cm-punk_4a79114c,100,51,41,67,37,2006,2026,CM Punk
+wrs_the-undertaker_5928984c,98,67,25,48,35,2000,2020,The Undertaker
+wrs_drew-mcintyre_dec5f4f3,95,44,42,61,16,2009,2026,Drew McIntyre
+wrs_roman-reigns_6e31eab3,90,59,24,45,38,2013,2026,Roman Reigns
+wrs_kofi-kingston_467df1dc,89,35,38,57,9,2008,2025,Kofi Kingston
+wrs_seth-rollins_76b316d9,83,45,33,50,25,2013,2026,Seth Rollins
+wrs_jeff-hardy_a569b225,80,35,39,48,11,2000,2021,Jeff Hardy
+wrs_christian_2314b2e3,80,42,32,61,6,2000,2021,Christian
+wrs_dolph-ziggler_079b1e01,80,21,44,44,13,2009,2022,Dolph Ziggler
+wrs_jey-uso_adc98921,80,44,31,58,14,2012,2026,Jey Uso
+wrs_kevin-owens_2dcc9e59,79,33,42,44,18,2015,2026,Kevin Owens
+wrs_matt-hardy_c3fdca74,76,37,31,36,6,2000,2018,Matt Hardy
+wrs_kurt-angle_0212456a,72,35,32,34,20,2000,2019,Kurt Angle
+wrs_becky-lynch_e5e4d4e9,70,33,33,56,2,2015,2026,Becky Lynch
+wrs_bayley_d63f5bff,68,29,33,45,1,2016,2026,Bayley
+wrs_daniel-bryan_4141fc88,67,37,25,47,16,2010,2021,Daniel Bryan
+wrs_shawn-michaels_f7a3e4f1,67,36,25,30,33,2002,2020,Shawn Michaels
+wrs_batista_555b37cf,67,36,28,46,26,2003,2019,Batista
+wrs_sami-zayn_7b0c1ab3,66,30,30,39,21,2016,2026,Sami Zayn
+wrs_aj-styles_62381180,65,23,37,41,12,2016,2026,AJ Styles
+wrs_chris-benoit_eda1ddb9,62,36,23,39,12,2000,2007,Chris Benoit
+wrs_dean-ambrose_437db9d7,61,28,28,34,19,2013,2019,Dean Ambrose
+wrs_natalya_03bdfaba,61,19,34,37,1,2008,2025,Natalya
+wrs_charlotte-flair_57610b5b,59,27,28,51,1,2016,2026,Charlotte Flair
+wrs_r-truth_4f076d5e,57,31,18,22,10,2008,2024,R-Truth
+wrs_jimmy-uso_3e9a2776,57,30,24,43,6,2012,2025,Jimmy Uso
+wrs_naomi_751a5cb5,54,21,26,31,1,2012,2025,Naomi
+wrs_asuka_c598a07f,53,16,33,40,2,2017,2026,Asuka
+wrs_bobby-lashley_1fe46934,51,21,23,23,9,2005,2024,Bobby Lashley
+wrs_rob-van-dam_999d8cd6,50,24,20,33,8,2001,2014,Rob Van Dam
+wrs_liv-morgan_2964892d,50,17,25,38,1,2018,2026,Liv Morgan
+wrs_cesaro_accf4234,49,16,28,31,3,2014,2022,Cesaro
+wrs_john-morrison_fc4226f4,49,19,24,32,8,2007,2021,John Morrison
+wrs_brock-lesnar-with-paul-heyman_70722fbb,47,30,17,28,21,2002,2026,Brock Lesnar (with Paul Heyman )
+wrs_alexa-bliss_2cdfb233,47,17,25,37,1,2016,2026,Alexa Bliss
+wrs_bianca-belair_6a441ace,47,31,12,39,2,2019,2025,Bianca Belair
+wrs_shelton-benjamin_77a93365,47,16,20,31,9,2003,2021,Shelton Benjamin
+wrs_braun-strowman_deabd19e,46,21,18,24,13,2016,2025,Braun Strowman
+wrs_trish-stratus_a99b5ab5,46,22,22,28,0,2000,2025,Trish Stratus
+wrs_rhea-ripley_4c9f4aeb,44,27,12,38,2,2018,2026,Rhea Ripley
+wrs_mark-henry_fbb6b2a3,41,18,15,17,10,2003,2018,Mark Henry
+wrs_gunther_c9d8f39e,41,17,21,33,13,2021,2026,Gunther
+wrs_finn-b-lor_b20445e1,39,12,23,25,6,2015,2026,Finn Bálor
+wrs_eddie-guerrero_c251071e,39,16,20,19,7,2000,2005,Eddie Guerrero
+wrs_booker-t_23e35b73,39,13,18,23,8,2001,2023,Booker T
+wrs_nia-jax_d90d1bad,38,16,15,28,1,2016,2026,Nia Jax
+wrs_bray-wyatt_a11030fc,38,20,14,9,7,2014,2023,Bray Wyatt
+wrs_carlito_e4047b9d,37,9,21,18,6,2005,2024,Carlito
+wrs_shinsuke-nakamura_5896dcf4,36,16,14,27,2,2017,2026,Shinsuke Nakamura
+wrs_big-e_ac0c5c87,36,14,14,25,4,2014,2022,Big E
+wrs_brock-lesnar_b573ebb0,36,19,12,19,15,2002,2026,Brock Lesnar
+wrs_jack-swagger_543dcafe,36,10,21,20,5,2009,2016,Jack Swagger
+wrs_ric-flair_7ebf6c79,36,19,14,11,3,2002,2008,Ric Flair
+wrs_baron-corbin_bf723e4c,36,12,19,16,8,2016,2026,Baron Corbin
+wrs_shane-mcmahon_39c357b8,34,12,20,10,3,2000,2022,Shane McMahon
+wrs_sasha-banks_65c8481c,34,16,16,27,3,2016,2022,Sasha Banks
+wrs_damian-priest_164df978,34,16,12,21,2,2019,2026,Damian Priest
+wrs_goldust_143bb9fa,33,13,10,15,5,2002,2018,Goldust
+wrs_chavo-guerrero_0baf7ec3,32,6,21,18,3,2002,2011,Chavo Guerrero
+wrs_the-rock_0266967d,31,19,11,21,23,2000,2019,The Rock
+wrs_mickie-james_c02d229b,31,13,13,21,1,2006,2022,Mickie James
+wrs_william-regal_74bb8db4,31,13,15,21,3,2000,2011,William Regal
+wrs_montel-vontavious-porter_e5ac5780,31,10,18,16,3,2006,2010,Montel Vontavious Porter
+wrs_ryback_045c8baa,31,13,14,13,6,2012,2016,Ryback
+wrs_beth-phoenix_d081027c,30,16,11,17,1,2007,2023,Beth Phoenix
+wrs_brie-bella_81b3ea4e,30,7,20,18,0,2012,2026,Brie Bella
+wrs_seth-freakin-rollins_224eebf9,30,16,12,16,11,2021,2025,"Seth ""Freakin"" Rollins"
+wrs_the-new-day-big-e_5151ff8c,29,13,16,24,0,2014,2020,The New Day ( Big E
+wrs_hardcore-holly_c8432f4c,28,7,15,18,7,2000,2008,Hardcore Holly
+wrs_paige_ce3ef379,27,8,19,21,0,2014,2026,Paige
+wrs_la-knight_8b1a4bb3,27,12,13,14,3,2021,2026,LA Knight
+wrs_zack-ryder_7a6e75c4,27,10,13,14,3,2008,2020,Zack Ryder
+wrs_iyo-sky_67261377,27,12,12,21,1,2022,2026,Iyo Sky
+wrs_bubba-ray-dudley_4a6d36f1,26,9,16,9,1,2000,2016,Bubba Ray Dudley
+wrs_shayna-baszler_bc9206dc,26,12,8,20,1,2018,2025,Shayna Baszler
+wrs_carmella_67c4e85f,26,6,15,16,0,2004,2023,Carmella
+wrs_rikishi_39fee4cd,25,11,9,12,7,2000,2004,Rikishi
+wrs_lita_38d8c5e8,25,9,14,15,0,2000,2023,Lita
+wrs_santino-marella_8a5a6869,24,10,9,14,4,2007,2013,Santino Marella
+wrs_dominik-mysterio_f9c0a83e,24,8,13,11,0,2020,2026,Dominik Mysterio
+wrs_d-von-dudley_4163b981,24,8,16,8,0,2000,2016,D-Von Dudley
+wrs_john-bradshaw-layfield_dc3bba82,24,12,11,17,11,2004,2014,"John ""Bradshaw"" Layfield"
+wrs_luke-harper_289b01a3,24,5,15,6,6,2013,2019,Luke Harper
+wrs_alicia-fox_b557f679,23,8,13,9,0,2009,2022,Alicia Fox
+wrs_finlay_0c29a91a,22,6,13,8,3,2006,2010,Finlay
+wrs_tamina_e605e9b6,22,4,12,15,0,2010,2023,Tamina
+wrs_karl-anderson_d227594b,22,12,8,11,2,2016,2022,Karl Anderson
+wrs_samoa-joe_b41e09dc,22,6,14,16,6,2017,2020,Samoa Joe
+wrs_nikki-bella_723b3769,22,11,7,12,0,2013,2026,Nikki Bella
+wrs_alberto-del-rio_0b65b111,22,7,13,17,6,2010,2016,Alberto Del Rio
+wrs_ricochet_99219d83,21,4,12,13,2,2019,2024,Ricochet
+wrs_rusev-with-lana_776f76db,21,13,8,11,0,2014,2019,Rusev (with Lana )
+wrs_lyra-valkyria_3285f820,21,12,7,12,0,2024,2026,Lyra Valkyria
+wrs_ronda-rousey_ce40c3a9,21,15,6,15,1,2018,2023,Ronda Rousey
+wrs_jade-cargill_ee8708b6,21,10,10,16,0,2024,2026,Jade Cargill
+wrs_chad-gable_b78f0287,21,8,9,15,1,2016,2026,Chad Gable
+wrs_xavier-woods_c352ea91,21,6,9,14,2,2014,2025,Xavier Woods
+wrs_roman-reigns-with-paul-heyman_f32b0752,20,18,2,20,15,2020,2024,Roman Reigns (with Paul Heyman )
+wrs_neville_6504ab7c,20,14,5,9,2,2015,2017,Neville
+wrs_logan-paul_602ea247,20,10,7,10,4,2022,2026,Logan Paul
+wrs_kofi-kingston-with-xavier-woods_533b4017,19,10,9,17,0,2014,2018,Kofi Kingston ) (with Xavier Woods )
+wrs_luke-gallows_4310574b,19,8,9,8,1,2016,2022,Luke Gallows
+wrs_erick-rowan_c35db27b,19,8,8,4,3,2013,2025,Erick Rowan
+wrs_goldberg_e21374b1,19,10,7,12,11,2003,2022,Goldberg
+wrs_scotty-2-hotty_6a0a797e,19,7,8,9,4,2000,2007,Scotty 2 Hotty
+wrs_mr-kennedy_a7041deb,19,8,10,5,2,2005,2008,Mr. Kennedy
+wrs_paul-london_1229486f,18,7,10,10,1,2004,2008,Paul London
+wrs_wade-barrett_3f8a8251,18,4,11,12,6,2010,2013,Wade Barrett
+wrs_elias_31cc0cbf,18,5,7,10,2,2017,2023,Elias
+wrs_charlie-haas_de8f517e,18,7,8,10,3,2003,2008,Charlie Haas
+wrs_kalisto_776ce91d,18,9,8,11,1,2015,2019,Kalisto
+wrs_melina_f76566fd,18,8,9,10,0,2005,2022,Melina
+wrs_kelly-kelly_960cde5e,18,8,6,5,0,2007,2022,Kelly Kelly
+wrs_rusev_9305db53,18,2,11,8,4,2015,2026,Rusev
+wrs_layla_9acae32b,18,8,9,8,0,2007,2014,Layla
+wrs_stone-cold-steve-austin_b26e8239,18,11,6,8,10,2000,2022,"""Stone Cold"" Steve Austin"
+wrs_the-great-khali_7dd37c85,18,4,5,12,10,2007,2018,The Great Khali
+wrs_angelo-dawkins_d760e907,18,10,6,11,0,2019,2024,Angelo Dawkins
+wrs_heath-slater_e45ab1cd,17,3,10,7,3,2010,2018,Heath Slater
+wrs_tiffany-stratton_18d3711b,17,11,4,15,1,2023,2026,Tiffany Stratton
+wrs_apollo-crews_fac382c2,17,7,6,11,2,2016,2021,Apollo Crews
+wrs_solo-sikoa_64b11af3,17,11,5,7,6,2022,2026,Solo Sikoa
+wrs_test_a94a8fe5,17,0,13,8,4,2000,2007,Test
+wrs_bradshaw_8e149206,17,5,8,9,5,2000,2004,Bradshaw
+wrs_montez-ford_7466b1af,17,8,7,12,0,2019,2023,Montez Ford
+wrs_raquel-rodriguez_4f0c8311,17,2,12,13,1,2022,2026,Raquel Rodriguez
+wrs_chris-masters_45070e70,16,3,9,6,4,2005,2011,Chris Masters
+wrs_jacob-fatu_79545f89,16,7,7,8,5,2024,2026,Jacob Fatu
+wrs_the-hurricane_2f233b42,16,7,5,9,3,2001,2018,The Hurricane
+wrs_curtis-axel_45274e78,16,7,7,9,1,2013,2019,Curtis Axel
+wrs_eve-torres_af675671,16,7,9,9,0,2009,2012,Eve Torres
+wrs_michelle-mccool_be251c2b,16,7,6,8,0,2006,2023,Michelle McCool
+wrs_billy-gunn_6533d28d,16,5,8,11,4,2000,2015,Billy Gunn
+wrs_kairi-sane_57f454d7,15,3,8,12,0,2018,2026,Kairi Sane
+wrs_lacey-evans_37fb9201,15,2,10,10,0,2019,2023,Lacey Evans
+wrs_sin-cara_ea0d6559,15,6,6,7,2,2011,2018,Sin Cara
+wrs_damien-sandow_4f4f109f,15,4,9,6,2,2012,2014,Damien Sandow
+wrs_dana-brooke_36ae241b,15,2,7,8,0,2016,2023,Dana Brooke
+wrs_ted-dibiase_92b36f38,15,5,8,9,3,2008,2011,Ted DiBiase
+wrs_aj-lee_da00bf46,15,9,6,11,0,2013,2026,AJ Lee
+wrs_titus-o-neil_6a9d7cba,15,4,5,11,2,2012,2019,Titus O'Neil
+wrs_bron-breakker_5988b1d1,15,4,9,9,2,2021,2026,Bron Breakker
+wrs_victoria_d714d845,15,7,7,11,1,2002,2021,Victoria
+wrs_molly-holly_8cac5304,15,4,10,8,0,2000,2018,Molly Holly
+wrs_rhyno_afe5489f,15,5,7,10,3,2001,2018,Rhyno
+wrs_alberto-del-rio-with-ricardo-rodriguez_d2a7568d,14,8,6,12,2,2011,2013,Alberto Del Rio (with Ricardo Rodriguez )
+wrs_val-venis_677ec7b3,14,6,5,4,3,2000,2006,Val Venis
+wrs_stardust_7005fc6d,14,4,8,3,1,2014,2016,Stardust
+wrs_torrie-wilson_f1edbb74,14,8,4,2,0,2001,2021,Torrie Wilson
+wrs_evan-bourne_aed7818d,14,9,4,7,2,2008,2011,Evan Bourne
+wrs_sonya-deville_9760dcee,14,0,8,8,0,2018,2025,Sonya Deville
+wrs_omos_a46132b5,14,4,7,9,1,2021,2024,Omos
+wrs_big-cass_e0060866,14,6,6,4,3,2016,2018,Big Cass
+wrs_umaga_5d28b3b8,14,6,7,9,4,2006,2009,Umaga
+wrs_fandango_d88c3867,13,4,6,4,3,2013,2018,Fandango
+wrs_nikki-cross_41bcb207,13,3,6,11,0,2019,2023,Nikki Cross
+wrs_michelle-mccool-with-layla_c2a08af8,13,11,2,13,0,2009,2020,Michelle McCool (with Layla )
+wrs_austin-theory_b303d8ad,13,6,3,11,1,2021,2026,Austin Theory
+wrs_riddle_ecefe3a4,13,5,6,12,3,2021,2022,Riddle
+wrs_billy-kidman_de329832,13,5,8,7,0,2002,2004,Billy Kidman
+wrs_king-corbin_e4270dc3,13,1,10,4,1,2019,2021,King Corbin
+wrs_road-dogg_91ea0103,12,4,6,7,2,2000,2015,Road Dogg
+wrs_maryse_544f94f0,12,3,9,4,0,2008,2022,Maryse
+wrs_aleister-black_708d7603,12,7,3,5,2,2019,2025,Aleister Black
+wrs_otis_bf929217,12,3,5,9,1,2019,2025,Otis
+wrs_ren-dupr-e_d9c6aefa,12,3,7,10,2,2003,2005,René Duprée
+wrs_oba-femi_50336068,12,9,2,6,3,2024,2026,Oba Femi
+wrs_lance-storm_79fc2c13,12,5,6,6,1,2001,2003,Lance Storm
+wrs_vladimir-kozlov_e8b85250,12,5,5,6,2,2006,2011,Vladimir Kozlov
+wrs_bo-dallas_7359edf5,12,4,6,5,1,2013,2019,Bo Dallas
+wrs_brian-kendrick_a0edc5ec,12,5,7,7,0,2005,2007,Brian Kendrick
+wrs_funaki_611ddd70,12,3,9,7,0,2001,2007,Funaki
+wrs_andrade_6e887f34,12,0,9,12,1,2019,2025,Andrade
+wrs_drew-gulak_1e4a6e40,12,4,7,7,1,2016,2020,Drew Gulak
+wrs_danhausen_e8815957,12,12,0,0,0,2024,2026,Danhausen
+wrs_super-crazy_64ef9b73,12,7,3,4,1,2005,2007,Super Crazy
+wrs_dolph-ziggler-with-vickie-guerrero_6b72ebf6,12,6,6,8,0,2010,2012,Dolph Ziggler (with Vickie Guerrero )
+wrs_spike-dudley_7dc35380,12,8,4,7,0,2001,2005,Spike Dudley
+wrs_tajiri_f50794ff,12,4,6,8,2,2002,2005,Tajiri
+wrs_trevor-murdoch_12fa0b85,12,7,4,8,0,2005,2007,Trevor Murdoch
+wrs_kofi-kingston-35_bac04887,11,0,11,0,0,2009,2020,Kofi Kingston [ 35 ]
+wrs_roxanne-perez_ab37d5d5,11,3,4,11,0,2023,2026,Roxanne Perez
+wrs_shelton-benjamin-30_6645adab,11,0,11,11,0,2009,2020,Shelton Benjamin [ 30 ]
+wrs_joey-mercury_ed3be61d,11,3,7,5,4,2005,2015,Joey Mercury
+wrs_maven_f7e2f253,11,5,4,4,2,2002,2005,Maven
+wrs_the-usos-jey-uso_d49290ae,11,5,6,3,2,2010,2026,The Usos ( Jey Uso
+wrs_john-cena-33_80fa5f4b,11,0,11,11,0,2009,2020,John Cena [ 33 ]
+wrs_john-morrison-31_c318f40a,11,0,11,11,0,2009,2020,John Morrison [ 31 ]
+wrs_scott-dawson_e18e0bc1,11,5,5,8,1,2016,2019,Scott Dawson
+wrs_jtg_02916062,11,5,3,6,3,2006,2011,JTG
+wrs_tazz_c5c358ae,11,8,2,4,1,2000,2006,Tazz
+wrs_jeri-show-chris-jericho_211efbf6,11,0,11,11,11,2009,2020,Jeri-Show ( Chris Jericho
+wrs_gregory-helms_b71a20dc,11,5,5,6,1,2006,2007,Gregory Helms
+wrs_faarooq_e9d15b3f,11,3,5,7,3,2000,2004,Faarooq
+wrs_sylvain-grenier_a3c98e2c,11,5,6,7,0,2003,2005,Sylvain Grenier
+wrs_dakota-kai_d92bcf7d,11,2,6,5,0,2018,2024,Dakota Kai
+wrs_edge-with-lita_5e23779d,11,4,7,7,3,2005,2006,Edge (with Lita )
+wrs_trick-williams_802483a4,11,10,0,2,0,2023,2026,Trick Williams
+wrs_cm-punk-with-luke-gallows-29_edb58b13,11,0,11,0,0,2009,2020,CM Punk (with Luke Gallows ) [ 29 ]
+wrs_bobby-lashley-with-mvp_01448752,11,8,3,11,2,2020,2022,Bobby Lashley (with MVP )
+wrs_zelina-vega_13cb75ab,11,2,4,9,0,2018,2025,Zelina Vega
+wrs_big-show-36_09428ade,11,0,11,11,11,2009,2020,Big Show ) [ 36 ]
+wrs_batista-34_e9c65664,11,0,11,11,0,2009,2020,Batista [ 34 ]
+wrs_penta_d0908e2a,11,4,5,11,2,2025,2026,Penta
+wrs_mojo-rawley_670c706a,11,5,4,4,2,2016,2018,Mojo Rawley
+wrs_mickie-james-32_ee027ea7,11,0,11,11,0,2009,2020,Mickie James [ 32 ]
+wrs_lance-cade_0432ec0c,10,7,3,7,0,2005,2007,Lance Cade
+wrs_ruby-riott_bf56fbab,10,1,6,6,1,2018,2021,Ruby Riott
+wrs_jillian-hall_72d1cc09,10,3,6,1,0,2006,2021,Jillian Hall
+wrs_primo_9d46660b,10,6,2,6,3,2008,2018,Primo
+wrs_mr-mcmahon_04674da0,10,4,6,2,0,2002,2010,Mr. McMahon
+wrs_tommy-dreamer_d4275a9a,10,4,3,5,3,2003,2009,Tommy Dreamer
+wrs_triple-h-with-ric-flair_b97a3b55,10,5,5,10,6,2002,2005,Triple H (with Ric Flair )
+wrs_bobby-roode_40eddf48,10,3,6,8,3,2017,2019,Bobby Roode
+wrs_lana_cbf61ffd,10,1,6,6,1,2014,2021,Lana
+wrs_mick-foley_e5d78c55,10,2,5,5,4,2004,2012,Mick Foley
+wrs_chyna_2d3c73d2,10,4,5,6,1,2000,2001,Chyna
+wrs_candice-michelle_da324880,10,6,4,5,0,2005,2008,Candice Michelle
+wrs_candice-lerae_7a2621f0,10,1,3,8,0,2019,2026,Candice LeRae
+wrs_enzo-amore_4e6292ea,10,5,4,4,1,2016,2017,Enzo Amore
+wrs_dash-wilder_b3948087,10,5,4,7,1,2016,2019,Dash Wilder
+wrs_steven-richards_fecf3e53,10,3,7,0,0,2000,2004,Steven Richards
+wrs_the-great-khali-with-ranjin-singh_2ee55109,10,1,9,6,0,2007,2009,The Great Khali (with Ranjin Singh )
+wrs_curt-hawkins_a0435ec7,10,3,5,5,1,2008,2020,Curt Hawkins
+wrs_jerry-lawler_fa6d19db,10,3,6,2,1,2000,2012,Jerry Lawler
+wrs_ezekiel-jackson_15bcc05e,10,4,4,6,3,2010,2012,Ezekiel Jackson
+wrs_jack-swagger-with-zeb-colter_a298088f,10,2,8,6,0,2013,2014,Jack Swagger (with Zeb Colter )
+wrs_king-booker-with-queen-sharmell_6122491e,10,3,7,6,5,2006,2007,King Booker (with Queen Sharmell )
+wrs_jd-mcdonagh-with-dominik-mysterio_f5b00a65,9,0,9,0,0,2024,2026,JD McDonagh (with Dominik Mysterio )
+wrs_eugene_9ca3a9f7,9,5,3,3,1,2004,2007,Eugene
+wrs_the-fiend-bray-wyatt_ab332da5,9,7,2,7,5,2019,2020,"""The Fiend"" Bray Wyatt"
+wrs_aiden-english_209c3d74,9,2,6,5,0,2016,2018,Aiden English
+wrs_the-brian-kendrick_e3548753,9,3,5,6,1,2008,2017,The Brian Kendrick
+wrs_the-demon-finn-b-lor_dc9cb590,9,6,3,3,1,2017,2026,"""The Demon"" Finn Bálor"
+wrs_bronson-reed_182c1aa3,9,1,6,5,2,2023,2026,Bronson Reed
+wrs_crash-holly_6fa192e6,9,3,4,5,2,2000,2001,Crash Holly
+wrs_chelsea-green_3196e65e,9,2,2,9,0,2020,2026,Chelsea Green
+wrs_grand-master-sexay_ea58bc06,9,4,3,2,2,2000,2001,Grand Master Sexay
+wrs_fallon-henley-with-jacy-jayne_df28613c,9,9,0,9,0,2024,2026,Fallon Henley ) (with Jacy Jayne )
+wrs_darren-young_341cab46,9,3,5,6,1,2010,2015,Darren Young
+wrs_tony-nese_f6cc9a22,9,3,5,6,1,2016,2019,Tony Nese
+wrs_bubba-ray_b4fa538b,9,6,3,3,1,2001,2005,Bubba Ray
+wrs_charlotte_351429ca,9,7,2,5,1,2015,2016,Charlotte
+wrs_laredo-kid_c2a271af,9,0,9,0,0,2024,2026,Laredo Kid
+wrs_jinder-mahal_90d95960,9,0,5,5,1,2011,2021,Jinder Mahal
+wrs_fatal-influence-lainey-reid_0b223912,9,9,0,9,0,2024,2026,Fatal Influence ( Lainey Reid
+wrs_hornswoggle_b20491a3,9,3,3,6,3,2007,2018,Hornswoggle
+wrs_and-natalya_52d0c856,9,2,7,4,0,2010,2022,and Natalya
+wrs_pat-mcafee_d455630c,9,5,3,1,0,2022,2025,Pat McAfee
+wrs_mustafa-ali_f9c2201a,9,1,6,7,0,2018,2023,Mustafa Ali
+wrs_mandy-rose_8cfa0214,9,2,3,6,0,2018,2022,Mandy Rose
+wrs_jimmy-wang-yang_b9008016,9,3,6,4,0,2006,2009,Jimmy Wang Yang
+wrs_shannon-moore_425e6fd2,9,1,8,5,0,2002,2008,Shannon Moore
+wrs_viscera_be7dd2df,9,1,4,4,4,2000,2007,Viscera
+wrs_bad-news-barrett_69a37cf3,9,6,2,5,2,2014,2015,Bad News Barrett
+wrs_shotzi_06c862df,8,1,4,4,0,2021,2024,Shotzi
+wrs_jimmy-uso_52c4f07b,8,4,4,2,2,2010,2026,Jimmy Uso )
+wrs_scott-steiner_2db31805,8,4,3,3,1,2003,2004,Scott Steiner
+wrs_billie-kay_be07d8e3,8,3,3,6,0,2018,2021,Billie Kay
+wrs_peyton-royce_cf21c266,8,3,3,6,0,2018,2021,Peyton Royce
+wrs_tyler-breeze_739d70f2,8,2,4,2,1,2016,2018,Tyler Breeze
+wrs_rob-conway_1819e16c,8,1,7,1,0,2004,2006,Rob Conway
+wrs_perry-saturn_fa476f2c,8,1,5,5,2,2000,2002,Perry Saturn
+wrs_jamie-noble_595531df,8,2,5,5,1,2004,2008,Jamie Noble
+wrs_and-sheamus_8311cea0,8,1,7,5,3,2009,2021,and Sheamus
+wrs_ember-moon_860ee73c,8,2,3,6,0,2018,2021,Ember Moon
+wrs_jamie-noble-with-nidia_d0c90331,8,5,3,6,0,2002,2004,Jamie Noble (with Nidia )
+wrs_gail-kim_1edccac1,8,2,6,2,0,2003,2010,Gail Kim
+wrs_dean-malenko_e006fe92,8,3,5,2,0,2000,2001,Dean Malenko
+wrs_rowan_67f214a5,8,6,2,6,0,2017,2019,Rowan
+wrs_johnny-nitro_8a5b38e4,8,1,5,5,1,2005,2007,Johnny Nitro
+wrs_matt-riddle_1cfe3bda,8,3,4,3,1,2019,2023,Matt Riddle
+wrs_and-randy-orton_f311760b,8,1,7,6,4,2007,2024,and Randy Orton
+wrs_and-roman-reigns_9b4d67ba,8,3,5,3,5,2014,2025,and Roman Reigns
+wrs_and-sami-zayn_9a3fc205,8,1,7,6,1,2016,2026,and Sami Zayn
+wrs_albert_7aa129f6,8,3,3,2,2,2001,2002,Albert
+wrs_x-pac_579c6528,8,4,3,2,1,2000,2002,X-Pac
+wrs_cm-punk-with-paul-heyman_eee5bc7b,8,3,5,4,6,2012,2025,CM Punk (with Paul Heyman )
+wrs_the-miz-with-maryse_87818174,8,6,2,7,0,2016,2022,The Miz (with Maryse )
+wrs_with-luke-gallows_fa1ad181,8,5,3,3,1,2010,2022,with Luke Gallows
+wrs_cedric-alexander_469f9323,8,5,3,6,0,2016,2021,Cedric Alexander
+wrs_stephanie-vaquer_ef99a33e,8,4,3,7,0,2025,2026,Stephanie Vaquer
+wrs_david-otunga_5c335262,8,2,3,4,3,2010,2013,David Otunga
+wrs_ivory_62691d0c,7,3,3,5,0,2000,2022,Ivory
+wrs_humberto-carrillo_e2b05734,7,1,6,6,0,2019,2023,Humberto Carrillo
+wrs_the-new-day-kofi-kingston_545e8d37,7,2,5,5,0,2016,2026,The New Day ( Kofi Kingston
+wrs_alex-riley_05d23e2d,7,1,4,4,2,2011,2012,Alex Riley
+wrs_buddy-murphy_fe138a81,7,5,2,6,0,2018,2019,Buddy Murphy
+wrs_the-judgment-day-finn-b-lor_3071d9fd,7,2,5,3,0,2022,2024,The Judgment Day ( Finn Bálor
+wrs_trick-williams-with-lil-yachty_d90e02d7,7,5,2,7,0,2026,2026,Trick Williams (with Lil Yachty )
+wrs_triple-h-with-stephanie-mcmahon-helmsley_f2083a69,7,4,3,5,3,2000,2001,Triple H (with Stephanie McMahon-Helmsley )
+wrs_king-barrett_62556dd0,7,1,6,1,1,2015,2016,King Barrett
+wrs_kaitlyn_0eb0acfa,7,3,4,4,0,2012,2013,Kaitlyn
+wrs_jonathan-coachman_4be278a3,7,2,3,3,1,2003,2006,Jonathan Coachman
+wrs_maria_e21fc56c,7,3,3,0,0,2005,2008,Maria
+wrs_tyson-kidd_f75b7107,7,1,4,5,2,2009,2015,Tyson Kidd
+wrs_mnm-joey-mercury_bc05d7e9,7,2,5,2,0,2005,2007,MNM ( Joey Mercury
+wrs_rob-rt-conway_17d3b259,7,3,4,4,0,2004,2005,Robért Conway
+wrs_big-e-langston_cb4286f4,7,3,3,5,1,2013,2014,Big E Langston
+wrs_justin-gabriel_b9572c92,7,0,5,4,3,2010,2014,Justin Gabriel
+wrs_simon-dean_48d04b5c,7,0,5,2,1,2005,2006,Simon Dean
+wrs_jacqueline_60bcd4ac,7,2,4,5,0,2001,2018,Jacqueline
+wrs_ivar_79475d27,7,2,4,4,0,2019,2025,Ivar
+wrs_d-von_9fc9f3d2,7,4,3,3,1,2001,2005,D-Von
+wrs_je-von-evans_0a70cea5,7,3,3,5,1,2025,2026,Je'Von Evans
+wrs_steve-blackman_7ed1befb,7,4,1,5,2,2000,2001,Steve Blackman
+wrs_sarah-logan_d29c61c6,7,1,2,5,0,2018,2022,Sarah Logan
+wrs_antonio-cesaro_5dde5f47,7,4,1,7,1,2012,2014,Antonio Cesaro
+wrs_ashley_782f9b10,7,4,3,1,0,2005,2007,Ashley
+wrs_the-boogeyman_f995af21,7,4,2,1,1,2006,2015,The Boogeyman
+wrs_bull-buchanan_b816147c,7,4,2,1,1,2000,2001,Bull Buchanan
+wrs_summer-rae_5683534e,7,2,4,2,0,2013,2022,Summer Rae
+wrs_rosey_04b3644b,6,3,2,2,0,2003,2005,Rosey
+wrs_and-r-truth_d21f1984,6,2,4,4,2,2009,2012,and R-Truth
+wrs_santos-escobar_b1c11b38,6,2,1,4,0,2023,2025,Santos Escobar
+wrs_billy_051522d0,6,2,3,3,1,2001,2002,Billy
+wrs_tye-dillinger_72b7e9b3,6,2,2,3,2,2017,2018,Tye Dillinger
+wrs_with-cameron_cb159928,6,6,0,0,0,2012,2013,with Cameron
+wrs_raven_0efec51f,6,1,4,4,1,2001,2002,Raven
+wrs_rich-swann_0626ecab,6,5,1,2,0,2016,2017,Rich Swann
+wrs_mvp_3207c40f,6,0,5,4,0,2006,2022,MVP
+wrs_nikki-bella-with-brie-bella_e68e9cd4,6,4,2,6,1,2012,2018,Nikki Bella (with Brie Bella )
+wrs_nunzio_6c05243e,6,1,4,6,2,2004,2006,Nunzio
+wrs_jinder-mahal-with-the-singh-brothers_8e3a382c,6,5,1,6,3,2017,2017,Jinder Mahal (with The Singh Brothers )
+wrs_shad-gaspard_79414b8f,6,3,3,3,0,2006,2010,Shad Gaspard
+wrs_johnny-nitro-with-melina_6c557d57,6,2,4,2,0,2005,2007,Johnny Nitro ) (with Melina )
+wrs_lash-legend_366f9bc5,6,1,3,5,0,2023,2026,Lash Legend
+wrs_harper_1b1c26a3,6,5,1,5,0,2017,2018,Harper
+wrs_heidenreich_bcdde9e2,6,2,4,2,0,2004,2005,Heidenreich
+wrs_eddie-guerrero-with-chyna_5f522cd1,6,4,2,5,0,2000,2000,Eddie Guerrero (with Chyna )
+wrs_erik_c195b508,6,2,4,3,0,2019,2025,Erik
+wrs_diamond-dallas-page_382c4435,6,3,1,5,3,2001,2015,Diamond Dallas Page
+wrs_emma_efdb8f7f,6,1,4,3,0,2014,2023,Emma
+wrs_chuck-palumbo_8005ceeb,6,3,2,2,1,2001,2008,Chuck Palumbo
+wrs_the-dudley-boyz-bubba-ray_42f64031,6,3,3,5,1,2001,2004,The Dudley Boyz ( Bubba Ray
+wrs_cameron_1d572acb,6,3,2,3,0,2013,2022,Cameron
+wrs_andrade-with-zelina-vega_6dc787b4,6,2,4,3,0,2019,2020,Andrade (with Zelina Vega )
+wrs_yoshi-tatsu_df2198cd,6,3,1,3,3,2010,2012,Yoshi Tatsu
+wrs_zoey-stark_47a7515c,6,0,3,5,0,2021,2025,Zoey Stark
+wrs_jd-mcdonagh_09089238,5,0,4,3,0,2023,2026,JD McDonagh
+wrs_jazz_6abc743b,5,2,3,4,0,2002,2003,Jazz
+wrs_xavier-woods-with-kofi-kingston_95484f82,5,2,3,5,0,2016,2018,Xavier Woods ) (with Kofi Kingston )
+wrs_with-paul-heyman_f9b9ee60,5,5,0,5,5,2021,2023,with Paul Heyman
+wrs_justin-credible_8bb4333f,5,2,3,1,0,2001,2002,Justin Credible
+wrs_with-jamie-noble_6ef33502,5,2,3,3,3,2014,2015,with Jamie Noble
+wrs_vickie-guerrero_5eb5dfdc,5,2,2,3,0,2009,2018,Vickie Guerrero
+wrs_jordynne-grace_cc91d1c3,5,2,0,3,1,2024,2026,Jordynne Grace
+wrs_johnny-gargano_28d69a4b,5,1,2,4,1,2019,2025,Johnny Gargano
+wrs_big-boss-man_0b3464cc,5,2,1,3,2,2000,2002,Big Boss Man
+wrs_booker-t-with-sharmell_6f9c87e8,5,2,3,4,0,2005,2006,Booker T (with Sharmell )
+wrs_hulk-hogan_40635e92,5,4,1,0,2,2003,2006,Hulk Hogan
+wrs_konnor_2fded75c,5,3,1,1,1,2015,2018,Konnor
+wrs_ludwig-kaiser_dcc3882f,5,0,3,3,1,2021,2025,Ludwig Kaiser
+wrs_hollywood-hulk-hogan_4f0e1b5e,5,1,4,3,2,2002,2002,Hollywood Hulk Hogan
+wrs_happy-corbin_b192732f,5,0,4,1,0,2021,2022,Happy Corbin
+wrs_the-miz-with-alex-riley_7ee2da7b,5,3,2,5,2,2010,2011,The Miz (with Alex Riley )
+wrs_epico_3357a923,5,3,1,3,2,2011,2012,Epico
+wrs_luther-reigns_513c2a49,5,0,4,1,2,2004,2005,Luther Reigns
+wrs_and-tamina_0f0ffaf2,5,0,5,3,0,2016,2020,and Tamina
+wrs_and-rey-mysterio_f1d536c6,5,2,3,3,2,2005,2019,and Rey Mysterio
+wrs_viktor_86faeb3e,5,3,1,1,1,2015,2018,Viktor
+wrs_jason-jordan_2f01e37b,5,2,3,3,0,2016,2018,Jason Jordan
+wrs_and-seth-rollins_9e34f94c,5,5,0,0,1,2013,2018,and Seth Rollins
+wrs_al-snow_bfec792f,5,1,1,4,3,2000,2003,Al Snow
+wrs_simon-gotch_8d9c6ac0,5,1,4,3,0,2016,2016,Simon Gotch
+wrs_sabu_d80b6ae0,5,1,3,2,1,2006,2007,Sabu
+wrs_and-shelton-benjamin_1de29e38,5,1,4,2,0,2006,2020,and Shelton Benjamin
+wrs_paul-heyman_28670baa,5,3,2,2,2,2002,2026,Paul Heyman
+wrs_elijah-burke_f7e877a5,5,1,3,2,1,2006,2008,Elijah Burke
+wrs_and-xavier-woods_5cfafa86,5,2,3,1,0,2015,2021,and Xavier Woods
+wrs_orlando-jordan_456952bd,5,2,1,5,1,2005,2006,Orlando Jordan
+wrs_dirty-dominik-mysterio_6db57b9d,5,0,3,3,1,2023,2025,"""Dirty"" Dominik Mysterio"
+wrs_dragon-lee_f0f3720c,5,0,4,3,0,2023,2026,Dragon Lee
+wrs_psicosis_c9efd736,5,1,3,2,0,2005,2006,Psicosis
+wrs_the-dudley-boyz-bubba-ray-dudley_0293670d,5,3,2,2,0,2000,2015,The Dudley Boyz ( Bubba Ray Dudley
+wrs_maxxine-dupri_a7dc1f4d,5,1,1,5,0,2024,2026,Maxxine Dupri
+wrs_carmelo-hayes_da88a478,5,0,3,5,0,2023,2025,Carmelo Hayes
+wrs_and-becky-lynch_fe820a6b,5,5,0,0,0,2017,2023,and Becky Lynch
+wrs_mike-knox_1d22c084,5,0,4,2,2,2006,2010,Mike Knox
+wrs_the-hardy-boyz-jeff-hardy_9e5c3e6e,5,1,4,4,0,2000,2017,The Hardy Boyz ( Jeff Hardy
+wrs_charlotte-with-ric-flair_20d1480e,5,5,0,5,0,2016,2016,Charlotte (with Ric Flair )
+wrs_el-grande-americano_35019828,5,3,1,2,0,2025,2026,El Grande Americano
+wrs_mark-henry-with-tony-atlas_ff7166d6,5,1,4,3,0,2008,2009,Mark Henry (with Tony Atlas )
+wrs_akio_c2937ce0,5,2,3,2,0,2004,2005,Akio
+wrs_ridge-holland_47bc8b52,5,2,2,2,1,2022,2022,Ridge Holland
+wrs_robert-roode_7138ff57,5,1,2,5,0,2019,2022,Robert Roode
+wrs_rico_2affaef5,5,1,3,2,1,2002,2004,Rico
+wrs_snitsky_4ea09d60,5,1,3,1,1,2005,2008,Snitsky
+wrs_john-bradshaw-layfield-with-jillian-hall_955e617f,5,4,1,1,0,2005,2006,"John ""Bradshaw"" Layfield (with Jillian Hall )"
+wrs_jacy-jayne_e5d87be8,5,3,1,3,0,2022,2026,Jacy Jayne
+wrs_and-triple-h_5cb5165c,5,2,3,1,3,2001,2017,and Triple H
+wrs_a-train_df8b8e90,5,0,3,2,2,2002,2004,A-Train
+wrs_and-rhea-ripley_82524c73,4,2,2,1,0,2022,2025,and Rhea Ripley
+wrs_omos-with-mvp_0f7f27b4,4,1,3,0,0,2022,2023,Omos (with MVP )
+wrs_nikki-a-s-h_0f2d3ac4,4,1,2,4,0,2021,2022,Nikki A.S.H.
+wrs_chavo_1d2f239f,4,1,3,4,0,2002,2003,Chavo
+wrs_rey-f-nix_6013c1b7,4,0,4,2,0,2025,2025,Rey Fénix
+wrs_the-bloodline-solo-sikoa_463b733b,4,3,1,0,2,2024,2024,The Bloodline ( Solo Sikoa
+wrs_ricky-saints_068cd23e,4,1,3,4,1,2025,2026,Ricky Saints
+wrs_jesse_a5c95b3d,4,2,2,1,0,2007,2008,Jesse
+wrs_santina-marella_0c463e8a,4,3,0,3,0,2009,2020,Santina Marella
+wrs_sable_0757b4bd,4,3,1,0,0,2003,2004,Sable
+wrs_akira-tozawa_b65e9c7b,4,1,3,3,0,2017,2019,Akira Tozawa
+wrs_bad-bunny_7fac8730,4,3,0,1,0,2021,2023,Bad Bunny
+wrs_tajiri-wwf_5e15dfbd,4,1,3,1,0,2001,2001,Tajiri (WWF)
+wrs_dolph-ziggler-with-drew-mcintyre_84d10c93,4,3,1,2,1,2018,2018,Dolph Ziggler (with Drew McIntyre )
+wrs_dawn-marie_cdbe771b,4,1,3,0,0,2002,2004,Dawn Marie
+wrs_stephanie-mcmahon_32466796,4,1,3,0,1,2003,2018,Stephanie McMahon
+wrs_d-von-dudley_6c493c44,4,2,2,1,0,2000,2015,D-Von Dudley )
+wrs_curtis-axel-with-paul-heyman_389d9954,4,4,0,4,0,2013,2013,Curtis Axel (with Paul Heyman )
+wrs_and-drew-mcintyre_95d498f7,4,0,4,1,2,2018,2025,and Drew McIntyre
+wrs_stone-cold-steve-austin-alliance_340b607c,4,2,2,4,3,2001,2001,"""Stone Cold"" Steve Austin (Alliance)"
+wrs_t-j-perkins_7a494db2,4,2,2,3,0,2016,2016,T. J. Perkins
+wrs_chuck_9406619c,4,0,3,2,1,2001,2002,Chuck
+wrs_chris-jericho-wwf_82d8fae0,4,3,1,3,0,2001,2001,Chris Jericho (WWF)
+wrs_paul-burchill_d7012934,4,1,3,1,0,2005,2009,Paul Burchill
+wrs_festus_9395b95e,4,2,2,1,0,2007,2008,Festus
+wrs_tommaso-ciampa_7aab361d,4,0,4,4,0,2024,2025,Tommaso Ciampa )
+wrs_the-rock-wwf_40f72bf9,4,2,2,4,2,2001,2001,The Rock (WWF)
+wrs_bronson-reed-with-paul-heyman_44ea347a,4,1,3,0,0,2025,2025,Bronson Reed (with Paul Heyman )
+wrs_the-prime-time-players-darren-young_0dd68cd5,4,1,3,2,0,2012,2015,The Prime Time Players ( Darren Young
+wrs_madcap-moss_ea524f37,4,2,1,2,1,2022,2022,Madcap Moss
+wrs_eric-bischoff_2bb924f1,4,0,4,0,0,2003,2005,Eric Bischoff
+wrs_the-sandman_7aa48e3b,4,1,2,1,2,2005,2007,The Sandman
+wrs_theory_6477d7f1,4,2,2,4,1,2022,2022,Theory
+wrs_and-ryback_ff429b8c,4,3,1,0,1,2014,2016,and Ryback
+wrs_umaga-with-armando-alejandro-estrada_97b2752a,4,2,2,2,1,2006,2007,Umaga (with Armando Alejandro Estrada )
+wrs_tyson-tomko_f07f4230,4,2,2,1,0,2004,2005,Tyson Tomko
+wrs_kid-kash_354e967c,4,1,3,4,0,2005,2006,Kid Kash
+wrs_lola-vice_9433b3f4,4,1,2,3,1,2025,2026,Lola Vice
+wrs_finlay-with-hornswoggle_3c8a9143,4,1,3,1,0,2007,2009,Finlay (with Hornswoggle )
+wrs_brie-bella-with-nikki-bella_6b654af0,4,1,3,4,0,2011,2013,Brie Bella (with Nikki Bella )
+wrs_indi-hartwell_cd8f6f27,4,0,2,4,0,2023,2024,Indi Hartwell
+wrs_eva-marie_e9e6d4fe,4,2,2,1,0,2013,2016,Eva Marie
+wrs_keith-lee_657b58a2,4,2,1,1,0,2019,2020,Keith Lee
+wrs_joe-hendry_b79082aa,4,0,3,2,1,2024,2025,Joe Hendry
+wrs_kelly-kelly-with-eve-torres_83f7f1e7,4,3,1,4,0,2011,2011,Kelly Kelly (with Eve Torres )
+wrs_and-sasha-banks_bbd54607,4,1,3,3,0,2017,2018,and Sasha Banks
+wrs_and-seth-freakin-rollins_84098e76,4,0,4,4,3,2022,2025,"and Seth ""Freakin"" Rollins"
+wrs_big-show-with-paul-heyman_6173f16c,4,0,4,2,1,2002,2006,Big Show (with Paul Heyman )
+wrs_joe-gacy_952cb13a,4,3,1,3,1,2022,2026,Joe Gacy
+wrs_karrion-kross-with-scarlett_3c9e3db5,4,1,3,0,0,2022,2025,Karrion Kross (with Scarlett )
+wrs_johnny-nitro-with-melina_0804d44b,4,3,1,4,0,2006,2007,Johnny Nitro (with Melina )
+wrs_mansoor_462f4bac,4,4,0,0,0,2019,2021,Mansoor
+wrs_and-the-miz_1bd55e11,4,0,4,4,3,2008,2018,and The Miz
+wrs_io-shirai_197217a4,4,2,1,1,0,2018,2021,Io Shirai
+wrs_xia-li_924c33bb,4,0,0,4,0,2019,2024,Xia Li
+wrs_jimmy-snuka_f7276252,4,1,2,2,1,2005,2009,Jimmy Snuka
+wrs_stephanie-mcmahon-helmsley_94381893,4,3,1,2,3,2000,2001,Stephanie McMahon-Helmsley
+wrs_diy-johnny-gargano_03a8e022,4,0,4,4,0,2024,2025,#DIY ( Johnny Gargano
+wrs_ricardo-rodriguez_9461709d,4,0,3,3,1,2011,2012,Ricardo Rodriguez
+wrs_damien-mizdow_6dc48dc1,4,1,2,4,1,2014,2015,Damien Mizdow
+wrs_mitch_b2b9d047,4,1,3,2,2,2006,2006,Mitch
+wrs_piper-niven_44b800be,4,0,1,4,0,2023,2025,Piper Niven
+wrs_pete-dunne_5c7a1a6b,4,0,3,3,1,2019,2024,Pete Dunne
+wrs_nicky_b7c694fd,4,1,3,2,2,2006,2006,Nicky
+wrs_the-goodfather_401d2ad4,4,3,0,1,1,2000,2001,The Goodfather
+wrs_and-naomi_b0e8ae44,4,3,1,0,0,2012,2024,and Naomi
+wrs_eddie_bacc1c50,4,1,3,4,0,2002,2003,Eddie
+wrs_the-bloodline-roman-reigns_56b6e8e0,4,2,2,1,4,2022,2023,The Bloodline ( Roman Reigns
+wrs_michael-cole_b70fd317,4,2,1,1,1,2011,2012,Michael Cole
+wrs_edge-wwf_26c8c8a2,4,3,1,4,0,2001,2001,Edge (WWF)
+wrs_giulia_db252b61,3,0,1,3,0,2025,2026,Giulia
+wrs_ali_b42a6d93,3,0,3,2,1,2019,2019,Ali
+wrs_tucker_014a5f52,3,1,2,2,0,2019,2019,Tucker
+wrs_bobby-lashley-with-lana_395f28ea,3,2,1,0,0,2019,2020,Bobby Lashley (with Lana )
+wrs_kevin-nash_bdda387a,3,0,2,2,2,2003,2014,Kevin Nash
+wrs_kenny-dykstra_7345c740,3,1,1,1,1,2007,2007,Kenny Dykstra
+wrs_gran-metalik_0f5ccd9f,3,1,2,1,0,2018,2020,Gran Metalik
+wrs_the-undertaker-with-paul-bearer_ca9bdd72,3,2,1,1,1,2004,2010,The Undertaker (with Paul Bearer )
+wrs_and-wade-barrett_436465c3,3,0,3,2,0,2011,2013,and Wade Barrett
+wrs_fandango-with-summer-rae_29762be1,3,0,3,1,0,2013,2013,Fandango (with Summer Rae )
+wrs_fernando-with-el-torito_dc464032,3,1,2,2,0,2013,2015,Fernando ) (with El Torito )
+wrs_and-ricochet_037a9fc9,3,1,2,2,1,2019,2021,and Ricochet
+wrs_lince-dorado_6f0793d4,3,1,2,2,0,2016,2020,Lince Dorado
+wrs_ltimo-drag-n_fb6fcf19,3,1,2,1,0,2003,2004,Último Dragón
+wrs_hunico_e236cfbd,3,1,1,1,1,2011,2012,Hunico
+wrs_kane-with-paul-bearer_b05f3edf,3,2,1,1,0,2000,2010,Kane (with Paul Bearer )
+wrs_kevin-thorn_c62571c3,3,1,1,1,2,2006,2007,Kevin Thorn
+wrs_kane-with-lita_24c640fe,3,1,2,0,0,2004,2005,Kane (with Lita )
+wrs_kenny_1bb8649a,3,0,3,0,2,2006,2006,Kenny
+wrs_adam-cole_8f05d1d0,3,1,1,2,1,2018,2019,Adam Cole
+wrs_adam-rose_03db5a3e,3,2,0,1,1,2014,2015,Adam Rose
+wrs_jack-gallagher_eb73ad76,3,1,1,2,1,2016,2017,Jack Gallagher
+wrs_jack-swagger-with-vickie-guerrero_a64756fe,3,0,3,3,0,2011,2012,Jack Swagger (with Vickie Guerrero )
+wrs_kelani-jordan_7c6c3924,3,1,1,2,0,2023,2026,Kelani Jordan
+wrs_and-sarah-logan_faf50223,3,0,3,1,1,2018,2020,and Sarah Logan
+wrs_with-erick-rowan_15638dee,3,1,2,0,0,2014,2014,with Erick Rowan
+wrs_big-daddy-v_684db747,3,1,1,1,1,2007,2008,Big Daddy V
+wrs_karrion-kross_25768871,3,0,1,2,0,2023,2024,Karrion Kross
+wrs_k-kwik_951d7fda,3,0,2,2,1,2000,2001,K-Kwik
+wrs_ivy-nile_28929d4f,3,0,0,3,0,2024,2026,Ivy Nile
+wrs_aj-lee-with-tamina-snuka_9853a87b,3,2,1,3,0,2013,2014,AJ Lee (with Tamina Snuka )
+wrs_xavier-woods_779827c7,3,0,3,2,0,2024,2026,Xavier Woods )
+wrs_alba-fyre_223b0d5f,3,1,1,3,0,2024,2024,Alba Fyre
+wrs_with-vickie-guerrero_ed6ad0b2,3,1,2,3,0,2009,2011,with Vickie Guerrero
+wrs_with-luke-harper_9fad87ec,3,3,0,0,0,2013,2014,with Luke Harper
+wrs_and-sin-cara_fb769f28,3,1,2,1,0,2011,2016,and Sin Cara
+wrs_johnny-knoxville_62f3c371,3,2,0,1,0,2022,2022,Johnny Knoxville
+wrs_with-bo-dallas_514b12c4,3,2,1,3,0,2017,2017,with Bo Dallas
+wrs_bayley-with-sasha-banks_58e80d9e,3,3,0,3,0,2020,2020,Bayley (with Sasha Banks )
+wrs_kenzo-suzuki_6667b999,3,0,2,1,1,2004,2005,Kenzo Suzuki
+wrs_victoria-with-steven-richards_cc2d0559,3,1,2,2,0,2003,2004,Victoria (with Steven Richards )
+wrs_bret-hart_8746eb12,3,3,0,0,1,2010,2010,Bret Hart
+wrs_gene-snitsky_b3bb901a,3,1,1,1,1,2004,2005,Gene Snitsky
+wrs_tony-d-angelo_5029da65,3,3,0,1,1,2021,2023,Tony D'Angelo
+wrs_austin-aries_1a848c4f,3,1,2,3,0,2017,2017,Austin Aries
+wrs_toni-storm_63539455,3,1,0,2,0,2018,2021,Toni Storm
+wrs_triple-h-with-stephanie-mcmahon_c02d2b47,3,0,3,2,1,2014,2017,Triple H (with Stephanie McMahon )
+wrs_grayson-waller_bd886166,3,1,1,1,1,2021,2026,Grayson Waller
+wrs_kurt-angle-wwf_d48d5d5e,3,2,1,3,2,2001,2001,Kurt Angle (WWF)
+wrs_cesaro-with-natalya_f0372cf3,3,1,2,3,0,2015,2015,Cesaro (with Natalya )
+wrs_mark-jindrak_a30a5fda,3,1,1,1,1,2004,2005,Mark Jindrak
+wrs_butch_57064f11,3,0,3,3,0,2022,2023,Butch
+wrs_cesaro-with-paul-heyman_abeb61ec,3,1,2,2,1,2014,2014,Cesaro (with Paul Heyman )
+wrs_and-tamina-snuka_304b0adb,3,1,2,1,0,2012,2014,and Tamina Snuka
+wrs_and-tiffany-stratton_dba1e97b,3,0,3,3,0,2024,2026,and Tiffany Stratton
+wrs_chris-kanyon_bb31d9d3,3,1,2,0,0,2001,2003,Chris Kanyon
+wrs_the-brothers-of-destruction-kane_703d8e21,3,1,2,3,1,2001,2001,The Brothers of Destruction ( Kane
+wrs_queen-zelina_c87f2a6b,3,0,2,3,0,2022,2022,Queen Zelina
+wrs_muhammad-hassan_1db6a1c5,3,0,2,2,1,2005,2005,Muhammad Hassan
+wrs_mr-perfect_c2d552db,3,1,1,1,1,2002,2002,Mr. Perfect
+wrs_motor-city-machine-guns-alex-shelley_347910a9,3,1,2,2,0,2025,2026,Motor City Machine Guns ( Alex Shelley
+wrs_the-ascension-konnor_d0f33464,3,0,3,1,0,2015,2018,The Ascension ( Konnor
+wrs_ted-dibiase-jr_9e17f178,3,0,2,2,1,2009,2010,Ted DiBiase Jr.
+wrs_doudrop_1a1317e3,3,0,3,2,0,2021,2022,Doudrop
+wrs_deuce-n-domino-with-cherry_ec3a0f8e,3,1,2,3,0,2007,2007,Deuce 'n Domino (with Cherry )
+wrs_miss-jackie_e073a2a9,3,1,2,0,0,2004,2004,Miss Jackie
+wrs_and-the-usos-jey-uso_fa4c6e06,3,0,3,1,0,2013,2016,and The Usos ( Jey Uso
+wrs_angel-garza_9a1f02c2,3,1,2,2,0,2020,2020,Angel Garza
+wrs_ethan-page_76924fb8,3,3,0,3,1,2024,2025,Ethan Page
+wrs_mia-yim_feb577f4,3,1,0,2,0,2020,2023,Mia Yim
+wrs_mason-ryan_8eff632d,3,0,2,2,1,2011,2011,Mason Ryan
+wrs_the-hardy-boyz-matt-hardy_5672ca4c,3,0,3,2,0,2000,2001,The Hardy Boyz ( Matt Hardy
+wrs_matt-striker_53d0c089,3,0,3,0,0,2006,2007,Matt Striker
+wrs_mighty-molly_dc1b474a,3,0,1,2,0,2001,2022,Mighty Molly
+wrs_michin_13583488,3,0,1,3,0,2024,2025,Michin
+wrs_and-nikki-bella_bae0e991,3,0,3,1,0,2012,2016,and Nikki Bella
+wrs_the-godfather_b72bfe63,3,0,0,3,2,2000,2013,The Godfather
+wrs_and-bayley_44fa01b1,3,1,2,2,0,2024,2026,and Bayley
+wrs_the-apa-bradshaw_a2c098da,3,2,1,0,0,2001,2001,The APA ( Bradshaw
+wrs_and-mickie-james_e28dfb94,3,2,1,0,0,2008,2010,and Mickie James
+wrs_murphy_ca9290d1,3,1,2,1,0,2020,2020,Murphy
+wrs_tegan-nox_e88a3cea,3,0,0,3,0,2020,2024,Tegan Nox
+wrs_and-edge_72a2430e,3,0,3,2,1,2005,2009,and Edge
+wrs_and-iyo-sky_f5ff2f87,3,1,2,0,0,2022,2023,and Iyo Sky
+wrs_d-lo-brown_c64beead,3,0,2,2,1,2000,2002,D'Lo Brown
+wrs_dexter-lumis_407479b1,3,3,0,2,0,2025,2026,Dexter Lumis
+wrs_rosa-mendes_f7aeb8e4,3,0,3,1,0,2009,2014,Rosa Mendes
+wrs_ron-simmons_204eca9a,3,3,0,0,0,2002,2007,Ron Simmons
+wrs_and-karl-anderson_5eb934a9,3,0,3,0,0,2016,2022,and Karl Anderson
+wrs_test-alliance_551d7cca,3,3,0,0,0,2001,2001,Test (Alliance)
+wrs_rick-boogs_90f82b93,3,0,2,3,0,2022,2022,Rick Boogs
+wrs_david-hart-smith_dcb452df,3,2,1,0,0,2009,2010,David Hart Smith
+wrs_rob-van-dam-alliance_8852cc79,3,2,1,3,1,2001,2001,Rob Van Dam (Alliance)
+wrs_tamina-snuka_a481ccd3,3,0,3,3,0,2012,2014,Tamina Snuka
+wrs_christopher-nowinski_521d423d,3,1,1,0,0,2003,2003,Christopher Nowinski
+wrs_cruz-del-toro_2b9aed61,3,2,1,0,0,2022,2024,Cruz Del Toro
+wrs_chris-sabin_758d6af2,3,1,2,2,0,2025,2026,Chris Sabin )
+wrs_and-chelsea-green_7cf67a58,3,0,3,1,0,2023,2024,and Chelsea Green
+wrs_aksana_e095c46c,3,0,3,1,0,2012,2014,Aksana
+wrs_sgt-slaughter_c112671c,3,2,1,2,0,2004,2007,Sgt. Slaughter
+wrs_and-jimmy-uso_098e9255,3,1,2,0,0,2023,2026,and Jimmy Uso
+wrs_seth-rollins-with-paul-heyman_0155b578,3,3,0,3,2,2025,2025,Seth Rollins (with Paul Heyman )
+wrs_rusev-with-aiden-english_36dc86a3,3,0,3,1,0,2018,2018,Rusev (with Aiden English )
+wrs_and-tyson-kidd_85a6d444,3,2,1,1,0,2009,2012,and Tyson Kidd
+wrs_solo-sikoa-with-paul-heyman_4f78369b,3,0,3,1,2,2023,2023,Solo Sikoa ) (with Paul Heyman )
+wrs_scotty-2-hotty-wwf_b14fc5aa,3,1,2,1,0,2001,2001,Scotty 2 Hotty (WWF)
+wrs_stacy-keibler_90b598e1,3,1,2,0,0,2001,2004,Stacy Keibler
+wrs_jaida-parker_fddf806e,3,0,2,3,0,2024,2025,Jaida Parker
+wrs_a-test_9860d3ce,3,1,2,0,0,2000,2000,A ( Test
+wrs_with-mr-mcmahon_274d6fbd,3,0,3,1,1,2000,2007,with Mr. McMahon
+wrs_beth-phoenix-with-natalya_10af93e1,3,1,2,3,0,2011,2011,Beth Phoenix (with Natalya )
+wrs_a-albert_0ddd10aa,3,1,2,1,0,2000,2000,A ( Albert
+wrs_jazz-with-theodore-long_b505d670,3,3,0,3,0,2003,2003,Jazz (with Theodore Long )
+wrs_albert-with-trish-stratus_a768bbb1,2,1,1,0,0,2000,2000,Albert ) (with Trish Stratus )
+wrs_aj-styles-with-omos_c3a62a68,2,1,1,1,0,2021,2021,AJ Styles (with Omos )
+wrs_with-shane-mcmahon_4b81201a,2,1,1,2,1,2000,2007,with Shane McMahon
+wrs_jeff-hardy-wwf_1cc01e35,2,0,2,2,0,2001,2001,Jeff Hardy (WWF)
+wrs_jelly-roll_c6531e3f,2,0,2,0,0,2025,2025,Jelly Roll
+wrs_and-shane-mcmahon_1ce8cc92,2,0,2,0,1,2001,2006,and Shane McMahon
+wrs_john-bradshaw-layfield-with-orlando-jordan_e68d1a81,2,2,0,2,0,2004,2004,"John ""Bradshaw"" Layfield (with Orlando Jordan )"
+wrs_with-carlito_c11d04d3,2,2,0,0,0,2024,2024,with Carlito
+wrs_with-layla_9d2590b7,2,2,0,0,0,2008,2014,with Layla
+wrs_with-johnny_ae1d5299,2,1,1,2,0,2006,2006,with Johnny
+wrs_with-jim-duggan_ec61fbb0,2,0,2,0,0,2006,2006,with Jim Duggan
+wrs_ivar-with-valhalla_6620a6f6,2,0,2,0,0,2023,2023,Ivar ) (with Valhalla )
+wrs_isla-dawn_572dcfea,2,1,1,2,0,2024,2024,Isla Dawn
+wrs_ishowspeed_9d474400,2,0,2,0,0,2026,2026,IShowSpeed
+wrs_john-cena-by-escaping-the-cage_0c7fa3b6,2,0,2,1,1,2010,2014,John Cena by escaping the cage
+wrs_and-rey-mysterio-by-retrieving-the-championship-belt_9f4ae9c7,2,0,2,2,0,2026,2026,and Rey Mysterio by retrieving the championship belt
+wrs_joaquin-wilde_8bf50cbb,2,2,0,0,0,2024,2024,Joaquin Wilde
+wrs_jinder-mahal-with-sunil-singh_0e8f4b84,2,1,1,1,0,2018,2018,Jinder Mahal (with Sunil Singh )
+wrs_blake-monroe_7b0a42c2,2,1,1,0,1,2025,2025,Blake Monroe
+wrs_with-alicia-fox_13312acd,2,0,2,2,0,2015,2018,with Alicia Fox
+wrs_with-aj-lee_083bc507,2,1,1,1,0,2013,2013,with AJ Lee
+wrs_with-drew-mcintyre_f76d2200,2,0,2,0,0,2014,2014,with Drew McIntyre
+wrs_with-diego_2f47134a,2,2,0,0,0,2014,2014,with Diego
+wrs_d-von-alliance_3971d8cc,2,2,0,2,0,2001,2001,D-Von ) (Alliance)
+wrs_d-generation-x-road-dogg_0405badd,2,1,1,1,0,2000,2000,D-Generation X ( Road Dogg
+wrs_and-dolph-ziggler_1cc2b5a4,2,0,2,1,0,2010,2020,and Dolph Ziggler
+wrs_and-daniel-bryan_93b8dabc,2,1,1,1,1,2010,2013,and Daniel Bryan
+wrs_and-chris-jericho_6df07cc1,2,0,2,1,1,2010,2015,and Chris Jericho
+wrs_and-umaga_f06e8376,2,1,1,2,0,2007,2007,and Umaga
+wrs_sting_63ee1a07,2,0,2,1,1,2015,2015,Sting
+wrs_stevie-richards_8f577b2b,2,1,1,0,0,2005,2006,Stevie Richards
+wrs_damian-priest_d2ced635,2,0,2,2,0,2024,2024,Damian Priest )
+wrs_damian-priest-with-rhea-ripley_04c68139,2,0,2,0,0,2022,2022,Damian Priest ) (with Rhea Ripley )
+wrs_daivari_14f09fe4,2,0,2,1,0,2005,2007,Daivari
+wrs_d-von-with-stacy-keibler_86ba0689,2,1,1,2,0,2001,2002,D-Von ) (with Stacy Keibler )
+wrs_serena_aa68c8ce,2,1,1,0,0,2010,2010,Serena
+wrs_sami-zayn-with-logan-paul_cffd79e5,2,0,2,0,0,2021,2021,Sami Zayn (with Logan Paul )
+wrs_and-john-morrison_6a23133c,2,0,2,1,0,2008,2011,and John Morrison
+wrs_sol-ruca_f46377dd,2,1,0,2,0,2026,2026,Sol Ruca
+wrs_christy-hemme_bf8c0fa9,2,1,1,0,0,2004,2005,Christy Hemme
+wrs_christian-wwf_83bf8fbb,2,2,0,1,0,2001,2001,Christian (WWF)
+wrs_christian-with-tyson-tomko_23375540,2,0,2,1,0,2004,2005,Christian (with Tyson Tomko )
+wrs_christian-alliance_432ec890,2,1,1,2,0,2001,2001,Christian (Alliance)
+wrs_terri-runnels-with-the-fabulous-moolah_ade2d861,2,1,1,0,0,2000,2000,Terri Runnels (with The Fabulous Moolah )
+wrs_daniel-bryan-with-rowan_10aa9ece,2,1,1,2,0,2019,2019,Daniel Bryan (with Rowan )
+wrs_sakoda_361ea96d,2,2,0,1,0,2003,2004,Sakoda
+wrs_and-king-barrett_7ae86e45,2,0,2,1,0,2015,2015,and King Barrett
+wrs_and-kane_e906b91f,2,0,2,1,1,2005,2015,and Kane
+wrs_and-kairi-sane_b120a854,2,0,2,0,0,2024,2024,and Kairi Sane
+wrs_rk-bro-randy-orton_be9cf1e8,2,2,0,1,0,2021,2022,RK-Bro ( Randy Orton
+wrs_roman-reigns-with-paul-heyman_10853f0d,2,2,0,2,2,2024,2024,Roman Reigns ) (with Paul Heyman )
+wrs_roman-reigns-universal-with-paul-heyman_9e3919f0,2,2,0,2,2,2022,2022,Roman Reigns (Universal) (with Paul Heyman )
+wrs_spike_73cc33b9,2,2,0,0,0,2002,2002,Spike
+wrs_and-elektra-lopez_9b938a3a,2,0,2,0,0,2024,2024,and Elektra Lopez
+wrs_cody-rhodes-smackdown-s-undisputed-wwe-champion_13fb4138,2,1,1,2,2,2024,2025,Cody Rhodes ( SmackDown 's Undisputed WWE Champion )
+wrs_team-smackdown-sasha-banks_d5141bc2,2,0,2,0,0,2019,2021,Team SmackDown ( Sasha Banks
+wrs_team-angle-kurt-angle_26a411b0,2,0,2,0,0,2003,2004,Team Angle ( Kurt Angle
+wrs_team-raw-seth-rollins_bf025bf1,2,1,1,0,0,2019,2021,Team Raw ( Seth Rollins
+wrs_team-raw-charlotte-flair_407b43a9,2,1,1,0,0,2016,2019,Team Raw ( Charlotte Flair
+wrs_stone-cold-steve-austin_f04381cd,2,2,0,2,2,2001,2006,Stone Cold Steve Austin
+wrs_and-zoey-stark-by-retrieving-the-briefcase_e4c3855c,2,0,2,2,0,2023,2024,and Zoey Stark by retrieving the briefcase
+wrs_and-zelina-vega_e35b9b1b,2,2,0,0,0,2024,2024,and Zelina Vega
+wrs_ridge-holland-with-butch_6132faeb,2,2,0,0,0,2022,2022,Ridge Holland (with Butch )
+wrs_rico-with-miss-jackie_cd87adc0,2,2,0,1,0,2003,2004,Rico (with Miss Jackie )
+wrs_ricky-steamboat_85a15ec9,2,0,2,0,0,2009,2009,Ricky Steamboat
+wrs_rezar_59dbd7c6,2,0,2,1,0,2019,2020,Rezar
+wrs_danny_df4bf92e,2,2,0,0,0,2003,2004,Danny
+wrs_daniel-puder_c13ffedb,2,1,0,1,1,2004,2005,Daniel Puder
+wrs_tatanka_66f34642,2,1,0,1,0,2006,2006,Tatanka
+wrs_tama-tonga_7912e327,2,0,2,0,1,2024,2026,Tama Tonga
+wrs_taka-michinoku_689f301f,2,0,2,0,0,2001,2001,Taka Michinoku
+wrs_test-with-stacy-keibler_4dc81ebb,2,1,1,0,0,2003,2003,Test (with Stacy Keibler )
+wrs_channing-stacks-lorenzo_bcbbca86,2,2,0,1,0,2022,2023,"Channing ""Stacks"" Lorenzo"
+wrs_doug_0798ebec,2,2,0,0,0,2003,2004,Doug
+wrs_and-lita_0720e391,2,1,1,0,0,2000,2006,and Lita
+wrs_and-lince-dorado_efc03209,2,1,1,0,0,2018,2019,and Lince Dorado
+wrs_and-lainey-reid_2669b836,2,2,0,0,0,2026,2026,and Lainey Reid
+wrs_rey-mysterio-with-dominik-mysterio_0bad4f0a,2,2,0,0,0,2022,2022,Rey Mysterio (with Dominik Mysterio )
+wrs_reverend-d-von_c2942d57,2,1,1,1,0,2002,2002,Reverend D-Von
+wrs_respectively_fa546199,2,0,2,2,0,2024,2024,respectively
+wrs_raw-tag-team-championship-belts_41e5b77b,2,0,2,2,0,2024,2024,Raw Tag Team Championship belts
+wrs_randy-orton-with-ric-flair_d32999aa,2,2,0,1,0,2003,2003,Randy Orton (with Ric Flair )
+wrs_roman-reigns-smackdown-s-universal-champion-with-paul-heyman_afbc47b7,2,2,0,2,2,2020,2021,Roman Reigns ( SmackDown's Universal Champion ) (with Paul Heyman )
+wrs_right-to-censor-bull-buchanan_b0dbf2eb,2,1,1,1,0,2000,2000,Right to Censor ( Bull Buchanan
+wrs_tensai_5af278e7,2,1,0,1,0,2013,2013,Tensai
+wrs_chavo-guerrero-with-chavo-classic_0f23d9c3,2,2,0,2,0,2004,2004,Chavo Guerrero (with Chavo Classic )
+wrs_chavo-guerrero-with-bam-neely_d054c74a,2,0,2,2,0,2008,2008,Chavo Guerrero (with Bam Neely )
+wrs_and-the-viking-raiders-erik_2f59c6da,2,0,2,0,0,2023,2023,and The Viking Raiders ( Erik
+wrs_doink-the-clown_21be14d1,2,0,2,0,0,2006,2006,Doink the Clown
+wrs_paul-ellering_239b1d22,2,0,2,0,0,2024,2024,Paul Ellering
+wrs_paige-with-nikki-bella_2de6a685,2,2,0,2,0,2026,2026,Paige (with Nikki Bella )
+wrs_otis_188ac934,2,0,2,0,0,2023,2023,Otis )
+wrs_odyssey-jones_b2b2af6f,2,1,1,0,0,2021,2021,Odyssey Jones
+wrs_nxt-champion-kevin-owens_4a748082,2,1,1,2,0,2015,2015,NXT Champion Kevin Owens
+wrs_nathan-frazer_56b29d85,2,0,2,2,0,2025,2025,Nathan Frazer )
+wrs_the-british-bulldog_84c169e8,2,1,0,2,1,2000,2000,The British Bulldog
+wrs_the-bloodline-the-rock_db313619,2,2,0,2,2,2024,2024,The Bloodline ( The Rock
+wrs_the-big-show_d08471cb,2,2,0,1,0,2010,2010,The Big Show
+wrs_the-bella-twins_cbc5cef9,2,1,1,1,0,2010,2011,The Bella Twins
+wrs_the-bella-twins-nikki-bella_ad23b7b4,2,0,2,0,0,2026,2026,The Bella Twins ( Nikki Bella
+wrs_the-bar-cesaro_8a535408,2,1,1,1,0,2018,2018,The Bar ( Cesaro
+wrs_the-apa-faarooq_de5c03c2,2,1,1,1,0,2001,2001,The APA ( Faarooq
+wrs_team-smackdown-becky-lynch_56e01412,2,0,2,0,0,2016,2017,Team SmackDown ( Becky Lynch
+wrs_chavo-guerrero-with-vickie-guerrero_9884b2d5,2,0,2,2,0,2006,2006,Chavo Guerrero (with Vickie Guerrero )
+wrs_chavo-guerrero-with-chavo-guerrero-sr_3597d1fc,2,1,1,1,0,2004,2004,Chavo Guerrero (with Chavo Guerrero Sr. )
+wrs_the-great-khali-w-ranjin-singh_4bc44f80,2,2,0,0,0,2007,2008,The Great Khali (w/ Ranjin Singh)
+wrs_the-goodfather-with-val-venis_36c0c0bf,2,1,1,1,0,2000,2000,The Goodfather ) (with Val Venis )
+wrs_the-fiend-with-alexa-bliss_e06bea25,2,0,2,0,0,2021,2021,The Fiend (with Alexa Bliss )
+wrs_the-f-b-i-little-guido_7ceb331e,2,1,1,0,0,2006,2006,The F.B.I. ( Little Guido
+wrs_and-braun-strowman_49c55990,2,2,0,0,0,2015,2016,and Braun Strowman
+wrs_andrade-cien-almas_836b590a,2,1,0,1,0,2018,2018,"Andrade ""Cien"" Almas"
+wrs_carmella-with-james-ellsworth_9245af8e,2,1,1,2,0,2017,2017,Carmella (with James Ellsworth )
+wrs_and-montez-ford-with-b-fab_7580e2ee,2,2,0,0,0,2024,2024,and Montez Ford ) (with B-Fab )
+wrs_and-mikey_2dba6b8c,2,0,2,0,2,2006,2006,and Mikey
+wrs_muhammad-hassan-with-daivari_ff1d107b,2,1,1,0,0,2004,2005,Muhammad Hassan (with Daivari )
+wrs_nick-aldis_2b618f4a,2,0,2,0,0,2026,2026,Nick Aldis
+wrs_mr-mcmahon-with-austin-theory_84340bf5,2,2,0,0,0,2022,2022,Mr. McMahon (with Austin Theory )
+wrs_mordecai_e3272567,2,2,0,0,0,2004,2004,Mordecai
+wrs_montez-ford-by-retrieving-the-championship-belts_4ac1f896,2,0,2,2,0,2025,2025,Montez Ford ) by retrieving the championship belts
+wrs_matt-hardy-with-lita_ab16d552,2,1,1,2,0,2000,2000,Matt Hardy ) (with Lita )
+wrs_charlotte-flair-smackdown-women-s-champion_6e1ce14d,2,1,1,2,0,2017,2021,Charlotte Flair ( SmackDown Women's Champion )
+wrs_antonio-cesaro-with-aksana_4a992f7d,2,2,0,2,0,2012,2012,Antonio Cesaro (with Aksana )
+wrs_animal_3199ea05,2,2,0,1,0,2005,2005,Animal
+wrs_the-kat-with-mae-young_d20f226b,2,1,1,0,0,2000,2000,The Kat (with Mae Young )
+wrs_the-irresistible-forces-nia-jax_b73af4eb,2,0,2,2,0,2026,2026,The Irresistible Forces ( Nia Jax
+wrs_the-pride-bobby-lashley_1a752a99,2,2,0,0,0,2024,2024,The Pride ( Bobby Lashley
+wrs_the-new-daniel-bryan_f154b1ec,2,0,2,0,1,2018,2018,the “New” Daniel Bryan
+wrs_the-honky-tonk-man_44f0c359,2,1,0,2,1,2001,2008,The Honky Tonk Man
+wrs_the-hart-dynasty-david-hart-smith_c868205f,2,2,0,2,0,2010,2010,The Hart Dynasty ( David Hart Smith
+wrs_the-hardy-boyz-matt_7d79e20a,2,1,1,2,0,2001,2017,The Hardy Boyz ( Matt
+wrs_the-usos_635a9370,2,2,0,0,1,2014,2015,The Usos
+wrs_and-nikki-cross_40110f3e,2,1,1,2,0,2019,2025,and Nikki Cross
+wrs_and-new-catch-republic-pete-dunne_61382280,2,0,2,2,0,2024,2024,and New Catch Republic ( Pete Dunne
+wrs_mick-foley-2-0_ab229622,2,0,2,0,0,2006,2006,Mick Foley 2-0
+wrs_and-the-street-profits-angelo-dawkins_bf8c37c4,2,0,2,2,0,2025,2025,and The Street Profits ( Angelo Dawkins
+wrs_matt-hardy-with-lita_a04f5ecc,2,1,1,1,0,2001,2001,Matt Hardy (with Lita )
+wrs_cameron-grimes_38c581f6,2,1,1,1,0,2021,2022,Cameron Grimes
+wrs_cactus-jack_ae2552c5,2,0,2,2,1,2000,2000,Cactus Jack
+wrs_the-miz-with-john-morrison_b3924bd9,2,1,1,0,0,2020,2021,The Miz (with John Morrison )
+wrs_the-miz-with-damien-mizdow_53d33248,2,1,1,2,0,2014,2014,The Miz (with Damien Mizdow )
+wrs_the-real-americans-jack-swagger_85c2cef1,2,1,1,0,0,2013,2013,The Real Americans ( Jack Swagger
+wrs_the-lucha-dragons-kalisto_d422f3d8,2,1,1,1,0,2015,2015,The Lucha Dragons ( Kalisto
+wrs_the-wyatt-family_73122480,2,0,2,0,1,2013,2015,The Wyatt Family
+wrs_epico-with-rosa-mendes_f23906cc,2,2,0,1,0,2012,2012,Epico (with Rosa Mendes )
+wrs_enzo_a0e5523a,2,0,2,2,0,2016,2016,Enzo
+wrs_masato-tanaka_3b31828f,2,0,2,0,0,2005,2006,Masato Tanaka
+wrs_michael-mcgillicutty_6a01baa4,2,0,1,1,1,2011,2011,Michael McGillicutty
+wrs_maria-menounos_931fe52e,2,2,0,1,0,2011,2012,Maria Menounos
+wrs_manu_158873d9,2,1,1,0,0,2008,2008,Manu
+wrs_matt-morgan_d16b407f,2,0,1,1,1,2003,2004,Matt Morgan
+wrs_matt-hardy-with-shannon-moore_81764145,2,2,0,2,0,2003,2003,Matt Hardy (with Shannon Moore )
+wrs_alpha-academy-chad-gable_37036e10,2,0,2,0,0,2023,2023,Alpha Academy ( Chad Gable
+wrs_the-street-profits-angelo-dawkins_4551b52a,2,1,1,1,0,2020,2025,The Street Profits ( Angelo Dawkins
+wrs_the-shield-dean-ambrose_aedcae82,2,2,0,0,0,2013,2017,The Shield ( Dean Ambrose
+wrs_the-vision-logan-paul_28ebe3b5,2,0,2,0,0,2026,2026,The Vision ( Logan Paul
+wrs_the-vision-bron-breakker_d7008900,2,1,1,1,1,2025,2026,The Vision ( Bron Breakker
+wrs_alexa-bliss-with-mickie-james_a19cb2ad,2,1,1,2,0,2018,2018,Alexa Bliss (with Mickie James )
+wrs_alberto-del-rio-with-zeb-colter_b190565a,2,1,1,2,0,2015,2015,Alberto Del Rio (with Zeb Colter )
+wrs_and-tama-tonga-with-tonga-loa_b3c7e8ca,2,2,0,0,1,2024,2024,and Tama Tonga ) (with Tonga Loa )
+wrs_mankind_be027fc4,2,2,0,1,1,2005,2019,Mankind
+wrs_mandy-rose-with-sonya-deville_1647c51b,2,0,2,2,0,2019,2019,Mandy Rose (with Sonya Deville )
+wrs_madcap-moss-with-happy-corbin_06a83c13,2,0,2,0,0,2022,2022,Madcap Moss (with Happy Corbin )
+wrs_luke-harper-with-bray-wyatt_46dfa704,2,0,2,0,0,2013,2016,Luke Harper ) (with Bray Wyatt )
+wrs_logan-paul-with-ishowspeed-d_a0ead6c0,2,2,0,2,0,2024,2024,Logan Paul (with IShowSpeed ) [ d ]
+wrs_and-raquel-rodriguez_670ec22d,2,0,2,2,0,2023,2026,and Raquel Rodriguez
+wrs_and-penta_81644dd4,2,0,2,2,0,2025,2025,and Penta
+wrs_and-paul-london_554f19fc,2,0,2,1,0,2004,2006,and Paul London
+wrs_and-royce-keys_4879176e,2,2,0,0,0,2026,2026,and Royce Keys
+wrs_and-rob-van-dam_329af66a,2,0,2,2,1,2002,2014,and Rob Van Dam
+wrs_and-paige_6f8a706c,2,2,0,0,0,2015,2016,and Paige
+wrs_fernando_ec3e661d,2,2,0,0,0,2014,2014,Fernando
+wrs_fallon-henley_9a1215fa,2,2,0,0,0,2026,2026,Fallon Henley
+wrs_layla-with-michelle-mccool_5b1cfd78,2,2,0,2,0,2010,2010,Layla (with Michelle McCool )
+wrs_laycool-layla_d1963180,2,1,1,0,0,2010,2011,LayCool ( Layla
+wrs_los-matadores-diego_3e1c6e36,2,1,1,1,0,2013,2015,Los Matadores ( Diego
+wrs_logan-paul-with-ksi-d_0db04ce5,2,0,2,0,0,2023,2023,Logan Paul (with KSI ) [ d ]
+wrs_the-wyatt-family-erick-rowan_041384b0,2,0,2,1,0,2013,2014,The Wyatt Family ( Erick Rowan
+wrs_brodus-clay_cc1d6eeb,2,1,0,1,0,2013,2013,Brodus Clay
+wrs_brock-lesnar-wwe_c3179267,2,0,2,2,2,2022,2022,Brock Lesnar (WWE)
+wrs_apollo-crews-with-titus-o-neil_d9d34173,2,0,2,0,0,2017,2017,Apollo Crews (with Titus O'Neil )
+wrs_antonio-cesaro-with-zeb-colter_c548a775,2,1,1,0,0,2013,2013,Antonio Cesaro ) (with Zeb Colter )
+wrs_brock-lesnar-raw-s-universal-champion-with-paul-heyman_36ee699e,2,2,0,2,1,2017,2018,Brock Lesnar ( Raw's Universal Champion ) (with Paul Heyman )
+wrs_and-ariya-daivari_5238ebb9,2,0,2,0,0,2016,2016,and Ariya Daivari
+wrs_gigi-dolin_1a97a703,2,1,1,1,0,2021,2022,Gigi Dolin
+wrs_torrie-wilson-wwf_a5eef728,2,2,0,0,0,2001,2001,Torrie Wilson (WWF)
+wrs_brie-bella_4589c6a8,2,0,2,0,0,2026,2026,Brie Bella )
+wrs_breezango-fandango_9fb41afd,2,1,1,0,0,2016,2018,Breezango ( Fandango
+wrs_braun-strowman-by-escaping-the-cage_f5717c00,2,0,2,1,1,2018,2019,Braun Strowman by escaping the cage
+wrs_tommaso-ciampa_088ee425,2,1,1,1,1,2019,2025,Tommaso Ciampa
+wrs_titus-o-neil_7b051d74,2,0,2,1,0,2012,2015,Titus O'Neil )
+wrs_titus-o-neil-with-a-w_d6b3e301,2,1,1,1,0,2012,2012,Titus O'Neil ) (with A.W. )
+wrs_tyson-tomko-with-trish-stratus_dd4b0fd3,2,1,1,0,0,2004,2004,Tyson Tomko (with Trish Stratus )
+wrs_tyson-kidd-with-natalya_fd45e1f9,2,2,0,2,0,2010,2010,Tyson Kidd ) (with Natalya )
+wrs_fraxiom-axiom_bd8068d1,2,0,2,2,0,2025,2025,Fraxiom ( Axiom
+wrs_lance-storm-alliance_36804051,2,0,2,2,0,2001,2001,Lance Storm (Alliance)
+wrs_liv-morgan-raw-s-women-s-world-champion_3623783d,2,1,1,2,0,2024,2026,Liv Morgan ( Raw 's Women's World Champion )
+wrs_lita-wwf_c40340f7,2,1,1,1,0,2001,2001,Lita (WWF)
+wrs_lio-rush_51e20ecc,2,1,1,1,0,2018,2019,Lio Rush
+wrs_lash-legend_e7771dc6,2,0,2,2,0,2026,2026,Lash Legend )
+wrs_tyler-bate-by-retrieving-the-smackdown-tag-team-championship_866fd335,2,0,2,2,0,2024,2024,Tyler Bate ) by retrieving the SmackDown Tag Team Championship belts
+wrs_trish-stratus-with-tyson-tomko_0ff92fa5,2,2,0,2,0,2004,2004,Trish Stratus (with Tyson Tomko )
+wrs_triple-h-with-stephanie-mcmahon-helmsley_4d5e8408,2,0,2,2,2,2000,2001,Triple H ) (with Stephanie McMahon-Helmsley )
+wrs_triple-h-with-shawn-michaels_4c251572,2,2,0,0,1,2013,2018,Triple H (with Shawn Michaels )
+wrs_alexander-wolfe_169c3904,2,2,0,0,0,2018,2018,Alexander Wolfe
+wrs_with-becky-lynch_9a8e11e8,2,2,0,1,0,2015,2015,with Becky Lynch
+wrs_goldust-with-dusty-rhodes_129232cf,2,2,0,0,0,2013,2015,Goldust (with Dusty Rhodes )
+wrs_happy-corbin-with-madcap-moss_27cc2200,2,0,2,0,0,2022,2022,Happy Corbin (with Madcap Moss )
+wrs_kevin-nash-with-shawn-michaels_21e2e630,2,1,1,2,1,2003,2003,Kevin Nash (with Shawn Michaels )
+wrs_kerwin-white_bdf84636,2,1,1,0,0,2005,2005,Kerwin White
+wrs_kenzo-suzuki-with-hiroko_f14a7e19,2,1,1,1,0,2004,2004,Kenzo Suzuki (with Hiroko )
+wrs_kofi-kingston_e22a0ccd,2,1,1,1,0,2016,2020,Kofi Kingston )
+wrs_kit-wilson_bd57fefd,2,0,2,1,0,2022,2026,Kit Wilson
+wrs_king-woods_83c5bbc6,2,0,2,1,0,2021,2022,King Woods
+wrs_kayden-carter_46519fe7,2,0,1,2,0,2022,2024,Kayden Carter
+wrs_katana-chance_3627ed45,2,0,1,2,0,2022,2024,Katana Chance
+wrs_vance-archer_672e0dc7,2,1,1,1,1,2010,2010,Vance Archer
+wrs_val-venis-with-trish-stratus_d85ec547,2,1,1,0,0,2000,2000,Val Venis (with Trish Stratus )
+wrs_with-adam-rose_1b0c759f,2,2,0,0,0,2015,2016,with Adam Rose
+wrs_william-regal-alliance_e2499207,2,2,0,0,0,2001,2001,William Regal (Alliance)
+wrs_umaga-with-armando-estrada_0d3988f2,2,2,0,0,0,2006,2006,Umaga (with Armando Estrada )
+wrs_u-s-champion-the-miz_73d9110c,2,2,0,2,0,2009,2009,U.S. Champion The Miz
+wrs_with-angel_d4758f4e,2,0,2,0,0,2024,2024,with Angel
+wrs_imposter-kane_b4002387,2,2,0,0,0,2006,2006,Imposter Kane
+wrs_ilja-dragunov_356997bb,2,1,0,2,0,2023,2026,Ilja Dragunov
+wrs_husky-harris_07059644,2,1,0,2,1,2010,2011,Husky Harris
+wrs_hunico-with-camacho_b9088804,2,1,1,0,0,2012,2012,Hunico (with Camacho )
+wrs_kamala_b0f8c775,2,0,2,0,0,2006,2006,Kamala
+wrs_bradshaw-wwf_da73a5f3,2,1,1,1,0,2001,2001,Bradshaw ) (WWF)
+wrs_bobby-lashley-with-lio-rush_d6f5f1c7,2,0,2,1,0,2018,2019,Bobby Lashley (with Lio Rush )
+wrs_tyler-reks_0ebc219e,2,0,1,1,1,2011,2012,Tyler Reks
+wrs_tyler-breeze_f3a0e77d,2,1,1,0,0,2016,2018,Tyler Breeze )
+wrs_with-david-otunga_37a4afcf,2,1,1,2,0,2010,2012,with David Otunga
+wrs_wendy-choo_a16bc171,2,0,2,2,0,2022,2024,Wendy Choo
+wrs_viktor_b4140ae3,2,0,2,1,0,2015,2015,Viktor )
+wrs_with-braun-strowman_8862b59e,2,0,2,0,0,2015,2016,with Braun Strowman
+wrs_becky-lynch-raw-women-s-champion_a36607a5,2,1,1,2,1,2019,2021,Becky Lynch ( Raw Women's Champion )
+wrs_and-stardust_90bc5f97,2,0,2,2,0,2015,2016,and Stardust
+wrs_and-shinsuke-nakamura_7e402a46,2,0,2,1,1,2017,2021,and Shinsuke Nakamura
+wrs_juventud_18828214,2,1,1,1,0,2005,2005,Juventud
+wrs_justin-credible-with-albert_215a9b66,2,1,1,0,0,2001,2001,Justin Credible ) (with Albert )
+wrs_johnny_9dc7226a,2,0,2,0,2,2006,2006,Johnny
+wrs_kiana-james_d439d549,2,0,1,2,0,2026,2026,Kiana James
+wrs_billy-gunn-wwf_8b9525cc,2,1,1,0,0,2001,2001,Billy Gunn (WWF)
+wrs_bill-demott_74e6548d,2,1,0,0,0,2002,2003,Bill DeMott
+wrs_b-fab_7074887c,2,0,0,2,0,2023,2025,B-Fab
+wrs_austin-theory_f43c836e,2,0,2,0,0,2026,2026,Austin Theory )
+wrs_austin-theory-with-mr-mcmahon_abc4514b,2,0,2,0,0,2022,2022,Austin Theory (with Mr. McMahon )
+wrs_jim-duggan_17a9ff74,2,0,0,2,2,2009,2012,Jim Duggan
+wrs_3-minute-warning-rosey_bb2af344,2,1,1,0,0,2002,2002,3-Minute Warning ( Rosey
+wrs_jacob-fatu-by-escaping-the-cage_73e96bcb,2,0,2,2,0,2025,2025,Jacob Fatu by escaping the cage
+wrs_zach-gowen_8c860233,2,1,1,0,0,2003,2003,Zach Gowen
+wrs_x-pac-with-tori_cafdece6,2,1,1,1,0,2000,2000,X-Pac ) (with Tori )
+wrs_x-factor-x-pac_470f6b23,2,1,1,0,0,2001,2001,X-Factor ( X-Pac
+wrs_wwe-united-states-champion-john-cena_4f82c478,2,1,1,2,0,2015,2015,WWE United States Champion John Cena
+wrs_xavier-woods-with-big-e_be6ac915,2,2,0,2,0,2017,2018,Xavier Woods ) (with Big E )
+wrs_aj-lee-with-big-e-langston_e631078d,2,2,0,2,0,2013,2013,AJ Lee (with Big E Langston )
+wrs_with-scarlett_285bd28e,2,0,2,0,0,2024,2024,with Scarlett
+wrs_ivory-with-steven-richards_f228042b,2,2,0,2,0,2000,2001,Ivory (with Steven Richards )
+wrs_batista-with-ric-flair_83cfe2a6,2,1,1,0,0,2002,2003,Batista (with Ric Flair )
+wrs_balls-mahoney_0b316011,2,2,0,0,0,2006,2006,Balls Mahoney
+wrs_wwe-champion-cm-punk_0fecb191,2,2,0,2,0,2011,2011,WWE Champion CM Punk
+wrs_with-psicosis_ec693e3e,2,2,0,1,0,2005,2005,with Psicosis
+wrs_with-mvp_4500aa01,2,2,0,2,0,2020,2020,with MVP
+wrs_sol-ruca-with-zaria_be4799f4,2,2,0,2,0,2025,2025,Sol Ruca (with Zaria )
+wrs_snoop-dogg_c242b84f,2,2,0,0,0,2023,2023,Snoop Dogg
+wrs_slapjack_bbcca74d,2,0,2,2,0,2020,2021,Slapjack
+wrs_sin-cara_40e7f1d8,2,1,1,1,0,2015,2015,Sin Cara )
+wrs_shotzi-blackheart_1431335f,2,0,0,2,0,2020,2021,Shotzi Blackheart
+wrs_shinsuke-nakamura-with-sami-zayn_5e0da434,2,2,0,2,0,2019,2019,Shinsuke Nakamura (with Sami Zayn )
+wrs_shawn-michaels-by-technical-knockout_4042d7e9,2,0,2,0,0,2007,2008,Shawn Michaels by technical knockout
+wrs_and-jinder-mahal_afdcf74e,2,0,2,0,0,2014,2014,and Jinder Mahal
+wrs_and-jack-swagger_d9162a65,2,1,1,1,0,2009,2011,and Jack Swagger
+wrs_stacy-keibler-alliance_6df67104,2,0,2,0,0,2001,2001,Stacy Keibler (Alliance)
+wrs_akira-tozawa-with-titus-o-neil_3627d3d2,2,0,2,2,0,2017,2017,Akira Tozawa (with Titus O'Neil )
+wrs_beth-phoenix-with-santino-marella_94e3f3b9,2,1,1,2,0,2008,2009,Beth Phoenix (with Santino Marella )
+wrs_beth-phoenix-with-rosa-mendes_bee0bb1f,2,0,2,1,0,2009,2009,Beth Phoenix (with Rosa Mendes )
+wrs_berto_e9db499e,2,0,2,0,0,2024,2024,Berto
+wrs_jimmy-uso-smackdown-tag-team-champions_a47c2da1,2,1,1,0,0,2017,2021,Jimmy Uso ) ( SmackDown Tag Team Champions )
+wrs_jim-ross_19de59f0,2,0,2,0,0,2003,2011,Jim Ross
+wrs_bayley-smackdown-women-s-champion_a4b592ce,1,0,1,1,1,2019,2019,Bayley ( SmackDown Women's Champion )
+wrs_ashley-massaro_5f9bb129,1,0,1,0,0,2008,2008,Ashley Massaro
+wrs_bayley-by-retrieving-the-championship-belt_e90d99c3,1,0,1,1,0,2022,2022,Bayley by retrieving the championship belt
+wrs_bayley-as-bayley-was-unable-to-make-it-to-her-feet-before-th_bcb3fd8f,1,0,1,1,0,2022,2022,Bayley as Bayley was unable to make it to her feet before the referee's count of 10
+wrs_batista-smackdown_0c469ace,1,1,0,0,0,2008,2008,Batista (SmackDown)
+wrs_batista-by-escaping-the-cage_3ee8974b,1,0,1,1,0,2007,2007,Batista by escaping the cage
+wrs_batista-38_1016c4eb,1,0,1,1,1,2010,2010,Batista [ 38 ]
+wrs_basham-brothers-danny-basham_8707ac2c,1,0,1,1,0,2004,2004,Basham Brothers ( Danny Basham
+wrs_baron-corbin-smackdown-s-united-states-champion_fd538ed3,1,1,0,1,0,2017,2017,Baron Corbin ( SmackDown's United States Champion )
+wrs_bam-neely-with-chavo-guerrero_7398e7b7,1,0,1,0,0,2008,2008,Bam Neely (with Chavo Guerrero )
+wrs_with-mace_0d84e362,1,0,1,1,0,2021,2021,with Mace
+wrs_with-liv-morgan_21baa147,1,1,0,0,0,2018,2018,with Liv Morgan
+wrs_wwe-champion-big-e_53ef9b4f,1,1,0,1,0,2021,2021,WWE Champion Big E
+wrs_world-heavyweight-champion-mark-henry_d7c72e9b,1,0,1,1,0,2011,2011,World Heavyweight Champion Mark Henry
+wrs_world-heavyweight-champion-mark-henry-champions_37c383d8,1,0,1,1,0,2011,2011,World Heavyweight Champion Mark Henry Champions
+wrs_world-heavyweight-champion-kurt-angle_6f90945e,1,0,1,1,0,2006,2006,World Heavyweight Champion Kurt Angle
+wrs_jamal-with-rico_0aa608e7,1,1,0,0,0,2002,2002,Jamal ) (with Rico )
+wrs_jakara-jackson_fdfd8f9c,1,0,1,1,0,2024,2024,Jakara Jackson )
+wrs_jacy-jayne-with-fallon-henley_ed91a2a4,1,1,0,1,0,2025,2025,Jacy Jayne (with Fallon Henley )
+wrs_jeff-hardy-19_70501598,1,0,1,1,0,2008,2008,Jeff Hardy [ 19 ]
+wrs_jeff-4-3_36b29d9f,1,0,1,1,0,2017,2017,Jeff ) 4–3
+wrs_jeet-rama_92030432,1,0,1,0,0,2021,2021,Jeet Rama
+wrs_je-von-evans_0cd71718,1,1,0,0,0,2026,2026,Je’Von Evans
+wrs_je-von-evans-in-a-last-time-is-now-tournament-match_9d9b473f,1,0,1,0,1,2025,2025,Je’Von Evans in a Last Time is Now Tournament Match
+wrs_jbl_86450ab1,1,0,1,1,1,2008,2008,JBL
+wrs_jbl-beer-drinking-contest_9bb10ab7,1,0,1,0,0,2006,2006,JBL (Beer Drinking Contest)
+wrs_jack-swagger-with-zeb-colter_dfdb7309,1,1,0,0,0,2013,2013,Jack Swagger ) (with Zeb Colter )
+wrs_aj-styles-smackdown-s-wwe-champion_4160ac0f,1,0,1,1,0,2017,2017,AJ Styles ( SmackDown's WWE Champion )
+wrs_with-rob-van-dam_f1851e3a,1,1,0,0,0,2005,2005,with Rob Van Dam
+wrs_02-15-john-cena-looks-to-quiet-antonio-cesaro-team-hell-no_ee19ea79,1,1,0,0,0,2012,2012,02:15 John Cena looks to quiet Antonio Cesaro. Team Hell No
+wrs_zelina_b7b5b691,1,0,0,1,0,2026,2026,Zelina
+wrs_zack-ryder_b4d1335c,1,0,1,0,0,2016,2016,Zack Ryder )
+wrs_and-seth-rollins-raw_7320fea9,1,1,0,0,0,2017,2017,and Seth Rollins ) ( Raw )
+wrs_jazz-ecw_d006affa,1,0,1,0,0,2006,2006,Jazz (ECW)
+wrs_jazz-alliance_e031904e,1,0,1,1,0,2001,2001,Jazz (Alliance)
+wrs_jazmyn-nyx_afe1f460,1,1,0,1,0,2025,2025,Jazmyn Nyx
+wrs_jay-hatton_3041b4a3,1,0,1,0,0,2012,2012,Jay Hatton
+wrs_jerry-lynn_2e287934,1,1,0,1,0,2001,2001,Jerry Lynn
+wrs_jerry-lawler-with-the-kat_1589805a,1,0,1,0,0,2001,2001,Jerry Lawler (with The Kat )
+wrs_jerry-lawler-with-jim-ross_7b4f7a28,1,0,1,0,0,2005,2005,Jerry Lawler (with Jim Ross )
+wrs_jeff-wwf_e11bd253,1,0,1,1,0,2001,2001,Jeff ) (WWF)
+wrs_jeff-with-lita-wwf_116688a5,1,1,0,1,0,2001,2001,Jeff ) (with Lita ) (WWF)
+wrs_jeff-jarrett_eabed4e7,1,0,0,1,0,2019,2019,Jeff Jarrett
+wrs_jeff-hardy_57725e69,1,0,1,0,0,2001,2001,Jeff Hardy )
+wrs_jeff-hardy-wwf_38b5e23d,1,0,1,1,0,2001,2001,Jeff Hardy ) (WWF)
+wrs_jeff-hardy-with-terri-runnels_9b7d0dad,1,0,1,1,0,2000,2000,Jeff Hardy ) (with Terri Runnels )
+wrs_jamal_e0195770,1,0,0,0,0,2003,2003,Jamal
+wrs_jamal_43dd1bc9,1,0,1,0,0,2002,2002,Jamal )
+wrs_jimmy-hart_923c2c1f,1,1,0,0,0,2019,2019,Jimmy Hart
+wrs_jey_3118c736,1,0,1,1,0,2014,2014,Jey
+wrs_jey-uso-by-technical-knockout-b_62970756,1,0,1,1,1,2020,2020,Jey Uso by technical knockout [ b ]
+wrs_jes-s-with-carlito-caribbean-cool_ebf140ae,1,0,1,1,0,2004,2004,Jesús (with Carlito Caribbean Cool )
+wrs_jeff-hardy-with-lita-by-technical-knockout_354e4041,1,0,1,0,0,2002,2002,Jeff Hardy (with Lita ) by Technical Knockout
+wrs_and-rusev_15c06930,1,0,1,1,0,2017,2017,and Rusev
+wrs_and-shelton-benjamin-1-21_d05076c4,1,0,1,0,0,2009,2009,and Shelton Benjamin ) 1 [ 21 ]
+wrs_and-sheamus-with-madcap-moss-1_6ea09e75,1,0,1,0,0,2021,2021,and Sheamus ) (with Madcap Moss ) 1
+wrs_and-sheamus-with-king-barrett_6911ef55,1,1,0,0,0,2016,2016,and Sheamus ) (with King Barrett )
+wrs_and-sheamus-with-alex-riley_655cc990,1,0,1,0,0,2010,2010,and Sheamus ) (with Alex Riley )
+wrs_and-sheamus-by-retrieving-the-briefcase_a9523a81,1,0,1,1,1,2022,2022,and Sheamus by retrieving the briefcase
+wrs_and-shayna-baszler-by-retrieving-the-briefcase_f7820a70,1,0,1,1,0,2020,2020,and Shayna Baszler by retrieving the briefcase
+wrs_and-shawn-michaels_3b9b945f,1,0,1,0,1,2005,2005,and Shawn Michaels
+wrs_and-shane-mcmahon-with-james-ellsworth_01938a3f,1,1,0,0,0,2016,2016,and Shane McMahon ) (with James Ellsworth )
+wrs_and-shad-gaspard-with-ranjin-singh_4f586b60,1,1,0,0,0,2008,2008,and Shad Gaspard ) (with Ranjin Singh )
+wrs_and-seth-rollins_7313bca9,1,1,0,0,0,2013,2013,and Seth Rollins )
+wrs_jack-swagger-with-vickie-guerrero_3b365684,1,1,0,1,0,2012,2012,Jack Swagger (with Vickie Guerrero)
+wrs_jack-swagger-united-states-champion-dolph-ziggler-joined-the_855754f2,1,0,1,1,0,2011,2011,Jack Swagger United States Champion Dolph Ziggler joined The All-American American at ringside for Swagger’s match against Zack Ryder
+wrs_j-t-smith_efc00e86,1,0,1,0,0,2005,2005,J.T. Smith
+wrs_j-security-jamie-noble_8b380b31,1,1,0,0,0,2015,2015,J Security ( Jamie Noble
+wrs_izzi-dame-with-tatum-paxley_1012dd04,1,0,1,1,0,2025,2025,Izzi Dame (with Tatum Paxley )
+wrs_iyo-sky_f3991118,1,0,1,1,0,2024,2024,Iyo Sky )
+wrs_jasper-troy_b39d1ad3,1,0,1,0,0,2025,2025,Jasper Troy
+wrs_jason-jordan_0dfa1e4e,1,0,1,0,0,2016,2016,Jason Jordan )
+wrs_jamie-noble-6_b16186b8,1,0,1,1,0,2003,2003,Jamie Noble [ 6 ]
+wrs_jamie-noble-22_43bcd4e0,1,0,1,1,0,2007,2007,Jamie Noble [ 22 ]
+wrs_james-ellsworth_be90eddd,1,0,0,1,1,2017,2017,James Ellsworth
+wrs_hugh-morrus-alliance_55e622e2,1,0,1,0,0,2001,2001,Hugh Morrus (Alliance)
+wrs_iyo-sky-with-bayley_5ad906f9,1,1,0,1,0,2023,2023,Iyo Sky (with Bayley )
+wrs_jimmy-uso-with-naomi_0ba0071a,1,0,1,1,0,2015,2015,Jimmy Uso ) (with Naomi )
+wrs_jimmy-uso-2_d022a2e1,1,0,1,0,0,2016,2016,Jimmy Uso )) 2
+wrs_jimmy-uso-1_ad8e35be,1,0,1,0,0,2013,2013,Jimmy Uso ) 1
+wrs_and-samoa-joe_407c5a19,1,0,1,1,1,2017,2017,and Samoa Joe
+wrs_and-samoa-joe-by-retrieving-the-championship_80fed233,1,0,1,1,0,2018,2018,and Samoa Joe by retrieving the championship
+wrs_and-sami-zayn-with-paul-heyman_24a48c63,1,1,0,0,1,2022,2022,and Sami Zayn ) (with Paul Heyman )
+wrs_john-bradshaw-layfield-14_0ba864f0,1,0,1,0,0,2008,2008,"John ""Bradshaw"" Layfield [ 14 ]"
+wrs_joey-mercury_ab311198,1,0,1,1,0,2015,2015,Joey Mercury )
+wrs_joe-gacy-with-harland_70a88612,1,0,1,1,0,2021,2021,Joe Gacy (with Harland )
+wrs_jinder-mahal-with-drew-mcintyre_d2b63823,1,1,0,0,0,2012,2012,Jinder Mahal ) (with Drew McIntyre )
+wrs_jimmy_04d98d28,1,0,1,1,0,2014,2014,Jimmy
+wrs_john-morrison_012cc45f,1,0,1,1,1,2008,2008,John Morrison (
+wrs_john-morrison-u_fb907769,1,0,1,1,0,2009,2009,John Morrison U
+wrs_john-morrison-smackdown_8a75da72,1,0,1,0,0,2009,2009,John Morrison ( SmackDown )
+wrs_john-laurinaitis_12109c08,1,1,0,0,1,2012,2012,John Laurinaitis
+wrs_john-cena-wwe_cdbf1c67,1,1,0,0,1,2006,2006,John Cena (WWE)
+wrs_john-cena-with-mr-mcmahon_975dd726,1,1,0,0,1,2012,2012,John Cena (with Mr. McMahon )
+wrs_jeff-hardy-31_8b89fdad,1,0,1,0,0,2007,2007,Jeff Hardy [ 31 ]
+wrs_jimmy-uso-with-tamina_846064c5,1,0,1,1,0,2010,2010,Jimmy Uso ) (with Tamina )
+wrs_ivory-alliance_72fb4b22,1,0,1,1,0,2001,2001,Ivory (Alliance)
+wrs_ivar-raw-tag-team-champions_a23a6656,1,1,0,0,0,2019,2019,Ivar ) ( Raw Tag Team Champions )
+wrs_ishowspeed-e_b3510ded,1,0,0,1,0,2025,2025,IShowSpeed [ e ]
+wrs_intercontinental-with-stephanie-mcmahon-helmsley_ad0b0b92,1,1,0,1,1,2001,2001,Intercontinental) (with Stephanie McMahon-Helmsley )
+wrs_intercontinental-champion-shinsuke-nakamura_d67b9070,1,0,1,1,1,2021,2021,Intercontinental Champion Shinsuke Nakamura
+wrs_intercontinental-champion-ric-flair_b9fd8288,1,1,0,1,0,2005,2005,Intercontinental Champion Ric Flair
+wrs_intercontinental-champion-jeff-hardy_622d7662,1,0,1,1,1,2006,2006,Intercontinental Champion Jeff Hardy
+wrs_jacqueline-wwf_865e6edd,1,0,1,1,0,2001,2001,Jacqueline (WWF)
+wrs_and-seth-rollins-by-retrieving-the-briefcase_10ec5515,1,0,1,1,0,2021,2021,and Seth Rollins by retrieving the briefcase
+wrs_and-t-bar_b4212ed7,1,0,1,1,0,2021,2021,and T-Bar
+wrs_and-seth-rollins-3_66d13153,1,0,1,0,0,2016,2016,and Seth Rollins ) 3
+wrs_and-scotty-2-hotty_ee0e7ef1,1,1,0,0,0,2000,2000,and Scotty 2 Hotty
+wrs_and-sasha-banks-with-dana-brooke_9b65c72b,1,1,0,0,0,2016,2016,and Sasha Banks ) (with Dana Brooke )
+wrs_and-sasha-banks-with-alexa-bliss_5e1814c6,1,1,0,0,0,2018,2018,and Sasha Banks ) (with Alexa Bliss )
+wrs_and-sarah-logan_9e0365ae,1,0,1,0,0,2019,2019,and Sarah Logan )
+wrs_and-santino-marella_b2d1ccac,1,1,0,0,0,2011,2011,and Santino Marella
+wrs_julius-creed-with-ivy-nile_7b400961,1,0,1,1,0,2023,2023,Julius Creed ) (with Ivy Nile )
+wrs_karrion-kross-with-scarlett-by-escaping-the-cage_b9a3cef6,1,0,1,0,0,2022,2022,Karrion Kross (with Scarlett ) by escaping the cage
+wrs_kane-wwf_9082fa99,1,1,0,1,0,2001,2001,Kane ) (WWF)
+wrs_and-sabu_bcce0d34,1,1,0,0,0,2006,2006,and Sabu
+wrs_john-bradshaw-layfield-with-shawn-michaels_ae01674b,1,0,1,1,0,2009,2009,"John ""Bradshaw"" Layfield (with Shawn Michaels )"
+wrs_jtg-with-shad-gaspard_8353591c,1,1,0,0,0,2007,2007,JTG (with Shad Gaspard )
+wrs_jtg-in-an-eight-man-tag-team-match_7cdd1030,1,0,1,0,0,2008,2008,JTG) in an Eight Man Tag Team Match
+wrs_josh-briggs_771b0ab4,1,0,1,0,0,2025,2025,Josh Briggs
+wrs_jordynne-grace-with-blake-monroe_28d0387e,1,0,1,1,0,2025,2025,Jordynne Grace (with Blake Monroe )
+wrs_jon-heidenreich_399f8867,1,0,1,0,0,2003,2003,Jon Heidenreich
+wrs_jojo_13de8889,1,1,0,0,0,2013,2013,JoJo
+wrs_johnny-stamboli-with-nunzio_61f345d7,1,1,0,0,0,2003,2003,Johnny Stamboli ) (with Nunzio )
+wrs_johnny-nitro-with-melina-28_ec72dcb8,1,0,1,0,0,2006,2006,Johnny Nitro ) (with Melina ) [ 28 ]
+wrs_kaitlyn-with-layla_64dc39eb,1,0,1,1,0,2013,2013,Kaitlyn (with Layla )
+wrs_john-cena-us_f9bd4612,1,0,1,1,0,2015,2015,John Cena (US)
+wrs_john-cena-by-pinfall_edeca0f4,1,0,1,0,0,2020,2020,"John Cena by "" pinfall """
+wrs_and-stone-cold-steve-austin_1779c2ee,1,0,1,1,1,2000,2000,"and ""Stone Cold"" Steve Austin"
+wrs_and-stephanie-vaquer-by-retrieving-the-briefcase_c0fcd40d,1,0,1,1,0,2025,2025,and Stephanie Vaquer by retrieving the briefcase
+wrs_and-spike_363695e5,1,1,0,0,0,2004,2004,and Spike
+wrs_and-spike-dudley-wwf_76c34fd2,1,0,1,0,0,2001,2001,and Spike Dudley (WWF)
+wrs_and-solo-sikoa-by-retrieving-the-briefcase_f98de9c0,1,0,1,1,0,2025,2025,and Solo Sikoa by retrieving the briefcase
+wrs_and-sol-ruca-by-retrieving-the-briefcase_3dba8e9b,1,0,1,1,0,2026,2026,and Sol Ruca by retrieving the briefcase
+wrs_and-slapjack_d19f0e8d,1,0,1,1,0,2021,2021,and Slapjack )
+wrs_and-shotzi-by-retrieving-the-briefcase_a669598a,1,0,1,1,0,2022,2022,and Shotzi by retrieving the briefcase
+wrs_and-shorty-g_7e0eacc2,1,1,0,0,0,2019,2019,and Shorty G
+wrs_haku_d1761a06,1,0,0,1,1,2001,2001,Haku
+wrs_guru-raaj_d840ec06,1,0,1,0,0,2021,2021,Guru Raaj
+wrs_k-c-james_3a2e211b,1,0,1,1,0,2006,2006,K.C. James
+wrs_justin-gabriel-with-hornswoggle_45771580,1,0,1,1,0,2012,2012,Justin Gabriel (with Hornswoggle )
+wrs_justin-gabriel-with-ezekiel-jackson_0a73fef0,1,1,0,1,0,2011,2011,Justin Gabriel ) (with Ezekiel Jackson )
+wrs_justin-gabriel-18_3a9f7cc9,1,0,1,0,0,2011,2011,Justin Gabriel [ 18 ]
+wrs_julius-creed_6ebb97a2,1,1,0,1,0,2022,2022,Julius Creed
+wrs_idol-stevens-with-michelle-mccool-29_ea7770e7,1,0,1,1,0,2006,2006,Idol Stevens (with Michelle McCool ) [ 29 ]
+wrs_hurricane-helms_32ac257b,1,0,0,1,0,2021,2021,Hurricane Helms
+wrs_hugh-morrus_5d2fab6e,1,1,0,0,0,2001,2001,Hugh Morrus
+wrs_good-santa-mick-foley_dc844e13,1,1,0,0,0,2005,2005,Good Santa (Mick Foley)
+wrs_kane-intercontinental_db5eaab9,1,0,1,0,0,2002,2002,Kane (Intercontinental)
+wrs_kane-1_8ede7d2c,1,0,0,1,1,2007,2007,Kane 1
+wrs_kane-15_a004816d,1,0,1,0,0,2008,2008,Kane [ 15 ]
+wrs_kalisto-smackdown_fad7643e,1,0,1,1,0,2019,2019,Kalisto ( SmackDown )
+wrs_kalisto-gran-metalik_4e5a3f7b,1,0,1,0,0,2018,2018,Kalisto / Gran Metalik )
+wrs_kenzo-suzuki-with-hiroko-suzuki_bc50b6e2,1,1,0,1,0,2004,2004,Kenzo Suzuki (with Hiroko Suzuki )
+wrs_kelly-kelly-with-tiffany_cbcc1e23,1,0,1,1,0,2010,2010,Kelly Kelly (with Tiffany )
+wrs_kelly-kelly-36_bd244fcb,1,0,1,0,0,2006,2006,Kelly Kelly [ 36 ]
+wrs_kairi-sane_84629fd4,1,0,0,1,0,2018,2018,Kairi Sane *
+wrs_kacy-catanzaro_da0e418d,1,0,0,1,0,2019,2019,Kacy Catanzaro
+wrs_and-super-crazy-14_d7099aa0,1,0,1,1,0,2006,2006,and Super Crazy [ 14 ]
+wrs_and-summer-rae-1_b6bada2f,1,0,1,0,0,2014,2014,and Summer Rae ) 1
+wrs_king-nakamura_1e948c5d,1,0,1,1,0,2021,2021,King Nakamura
+wrs_kelani-jordan-in-a-money-in-the-bank-triple-threat-qualifyin_abad92c9,1,0,1,0,1,2026,2026,Kelani Jordan in a Money in the Bank Triple Threat Qualifying Match
+wrs_kay-lee-ray_c54d6ce4,1,1,0,0,0,2021,2021,Kay Lee Ray
+wrs_kaval_173b163d,1,0,1,1,0,2010,2010,Kaval
+wrs_katie-lea-burchill_b055cca6,1,0,1,0,0,2010,2010,Katie Lea Burchill
+wrs_katie-lea-burchill-with-paul-burchill_d9cc84bc,1,0,1,1,0,2008,2008,Katie Lea Burchill (with Paul Burchill )
+wrs_king-booker-s-court-king-booker_47e696ba,1,0,1,0,1,2006,2006,King Booker's Court ( King Booker
+wrs_kharma_567e7b0c,1,0,0,1,1,2012,2012,Kharma
+wrs_kevin-owens-with-chris-jericho_58e7d47a,1,1,0,1,0,2016,2016,Kevin Owens (with Chris Jericho )
+wrs_kevin-owens-via-count-out_fca51f5d,1,0,1,0,0,2015,2015,Kevin Owens via Count-out
+wrs_kevin-owens-by-retrieving-both-championship-belts_0fb15b4c,1,0,1,1,0,2025,2025,Kevin Owens by retrieving both championship belts
+wrs_kane-wwf_1880ae7e,1,0,1,0,0,2001,2001,Kane (WWF)
+wrs_intercontinental-champion-cody-rhodes_7f503636,1,0,1,1,0,2011,2011,Intercontinental Champion Cody Rhodes
+wrs_intercontinental-champion-cody-rhodes-in-a-title-free-match-_51e0e37d,1,0,1,1,0,2011,2011,Intercontinental Champion Cody Rhodes in a Title-free match Rhodes
+wrs_imperium_1b9b7a2f,1,0,1,0,1,2022,2022,Imperium
+wrs_ikemen-jiro_92d8e250,1,1,0,0,0,2022,2022,Ikemen Jiro
+wrs_goldberg-by-referee-stoppage_6d2870d6,1,0,1,1,0,2021,2021,Goldberg by referee stoppage
+wrs_gold_09feb137,1,0,1,0,0,2014,2014,Gold
+wrs_gold-johnny-gargano_6f5611de,1,0,1,0,1,2021,2021,Gold ( Johnny Gargano
+wrs_hiroki-sumi_138d6ae9,1,0,0,1,1,2018,2018,Hiroki Sumi
+wrs_heidenreich-with-paul-heyman_e10e380a,1,0,1,0,0,2004,2004,Heidenreich (with Paul Heyman )
+wrs_heavy-machinery-otis_b28fe784,1,0,1,1,0,2020,2020,Heavy Machinery ( Otis
+wrs_head-cheese-al-snow_2ff66442,1,0,1,0,0,2000,2000,Head Cheese ( Al Snow
+wrs_hardcore-holly-with-molly-holly_f5bb32b7,1,1,0,0,0,2001,2001,Hardcore Holly ) (with Molly Holly )
+wrs_giovanni-vinci_f8745980,1,0,1,0,1,2021,2021,Giovanni Vinci
+wrs_giovanni-vinci_56762a1f,1,1,0,1,0,2022,2022,Giovanni Vinci ))
+wrs_kofi-kingston-with-xavier-woods_971d21b3,1,1,0,1,0,2019,2019,Kofi Kingston (with Xavier Woods )
+wrs_kofi-kingston-smackdown-tag-team-champions_1144a667,1,0,1,0,0,2019,2019,Kofi Kingston ) ( SmackDown Tag Team Champions )
+wrs_kofi-kingston-intercontinental_d9d9265f,1,0,1,1,0,2008,2008,Kofi Kingston (Intercontinental)
+wrs_kofi-kingston-by-retrieving-the-championship-belts-d_9cdc59d9,1,0,1,1,0,2020,2020,Kofi Kingston by retrieving the championship belts [ d ]
+wrs_kofi-kingston-by-putting-kingston-through-a-table_dd3d30c8,1,0,1,1,0,2020,2020,Kofi Kingston ) by putting Kingston through a table
+wrs_king-sheamus_9c519be4,1,0,1,1,1,2011,2011,King Sheamus
+wrs_kristal-marshall_09432781,1,0,1,0,0,2006,2006,Kristal Marshall
+wrs_latino-world-order-rey-mysterio_528ad041,1,1,0,0,0,2023,2023,Latino World Order ( Rey Mysterio
+wrs_king-booker_198dc60e,1,0,0,1,1,2007,2007,King Booker
+wrs_and-otis-1_6122b858,1,0,1,0,0,2020,2020,and Otis ) 1
+wrs_and-rusev-with-jamie-noble_c034e6c0,1,0,1,0,1,2014,2014,and Rusev ) (with Jamie Noble
+wrs_and-rusev-with-aiden-english_922d5f94,1,0,1,1,0,2018,2018,and Rusev (with Aiden English )
+wrs_and-roxanne-perez_87214912,1,0,1,1,0,2025,2025,and Roxanne Perez
+wrs_and-roddy-piper-with-ric-flair_0ac49b30,1,0,1,0,0,2009,2009,and Roddy Piper (with Ric Flair )
+wrs_and-right-to-censor-bull-buchanan_4c5c373f,1,0,1,1,0,2000,2000,and Right to Censor ( Bull Buchanan
+wrs_and-riddle-with-omos_be60aec6,1,1,0,0,0,2020,2020,and Riddle ) (with Omos )
+wrs_and-ricochet_d1d148f0,1,0,1,0,0,2019,2019,and Ricochet )
+wrs_and-rico_c9e36871,1,1,0,0,0,2004,2004,and Rico
+wrs_and-rhyno-with-shane-mcmahon_c387cd81,1,1,0,0,1,2001,2001,and Rhyno ) (with Shane McMahon
+wrs_kevin-owens-as-owens-was-unable-to-make-it-to-his-feet-befor_e84d4107,1,0,1,1,0,2021,2021,Kevin Owens as Owens was unable to make it to his feet before the referee's count of 10
+wrs_goldust-with-r-truth_83b14aba,1,1,0,0,0,2016,2016,Goldust (with R-Truth )
+wrs_goldust-with-aksana_c023efd3,1,0,1,0,0,2010,2010,Goldust (with Aksana )
+wrs_little-boogeyman_6149a786,1,0,1,0,0,2007,2007,Little Boogeyman
+wrs_little-boogeyman-in-a-mixed-tag-team-match_fbfb919a,1,0,1,0,0,2007,2007,Little Boogeyman in a Mixed Tag Team match
+wrs_little-bastard_9fbed203,1,1,0,0,0,2007,2007,Little Bastard
+wrs_lio-rush-nxt_57de8a4c,1,1,0,1,0,2019,2019,Lio Rush ( NXT )
+wrs_lince-dorado_cf364ca7,1,0,1,1,0,2020,2020,Lince Dorado )
+wrs_kyle-o-reilly_d16cb973,1,0,1,1,0,2021,2021,Kyle O'Reilly
+wrs_kyle-o-reilly-nxt-tag-team-champions_46ef9bed,1,0,1,0,0,2019,2019,Kyle O'Reilly ) ( NXT Tag Team Champions )
+wrs_kurt-angle-with-trish-stratus_8eebc183,1,1,0,1,0,2001,2001,Kurt Angle (with Trish Stratus )
+wrs_kurt-angle-with-stephanie-mcmahon-helmsley_5121b3e6,1,1,0,1,1,2000,2000,Kurt Angle (with Stephanie McMahon-Helmsley )
+wrs_kurt-angle-with-luther-reigns_80294955,1,1,0,0,0,2004,2004,Kurt Angle (with Luther Reigns )
+wrs_kurt-angle-second-fall-european-title-chris-jericho-defeated_4ca88ad5,1,0,1,1,0,2000,2000,Kurt Angle Second Fall (European title): Chris Jericho defeated Chris Benoit (pinned)
+wrs_kurt-angle-by-2-0-first-fall-benoit-pinned-angle-at-7-43-1-0_c94c1d4f,1,0,1,0,0,2001,2001,Kurt Angle by 2–0 First fall: Benoit pinned Angle at 7:43 (1–0) Second fall: Benoit pinned Angle at 14:23 (2–0)
+wrs_kurt-angle-alliance_3ae8bbd9,1,0,1,1,0,2001,2001,Kurt Angle (Alliance)
+wrs_kurt-angle-4-3-in-sudden-death-overtime_43f916aa,1,0,1,0,0,2001,2001,Kurt Angle 4–3 in sudden death overtime
+wrs_kung-fu-naki_ffc24aa4,1,0,1,0,0,2008,2008,Kung Fu Naki
+wrs_kronik-brian-adams_7dab2be5,1,0,1,1,0,2001,2001,KroniK ( Brian Adams
+wrs_giant-zanjeer_96da9832,1,1,0,0,0,2021,2021,Giant Zanjeer
+wrs_gentleman-jack-gallagher_bb333f7e,1,0,1,0,0,2018,2018,Gentleman Jack Gallagher
+wrs_gene-snitsky-with-ric-flair_fe989ea8,1,0,1,0,1,2004,2004,Gene Snitsky ) (with Ric Flair )
+wrs_garrison-cade_4b996e62,1,0,1,0,0,2004,2004,Garrison Cade
+wrs_gangrel_9c8152e5,1,0,0,1,1,2000,2000,Gangrel
+wrs_gallows_a07429e0,1,1,0,0,0,2016,2016,Gallows
+wrs_funaki-1-14_2d06e315,1,0,1,0,0,2005,2005,Funaki [ 1 ] [ 14 ]
+wrs_gunther-with-imperium-ludwig-kaiser_60b636d6,1,1,0,1,0,2022,2022,Gunther (with Imperium ( Ludwig Kaiser
+wrs_gunther-raw_e0440f92,1,1,0,1,0,2024,2024,Gunther ( Raw )
+wrs_gunther-raw-s-world-heavyweight-champion_2796b8ad,1,0,1,1,1,2024,2024,Gunther ( Raw 's World Heavyweight Champion )
+wrs_and-tajiri_feed6ddc,1,0,1,1,0,2003,2003,and Tajiri
+wrs_lance-storm-with-dawn-marie_7d2313ab,1,1,0,0,0,2005,2005,Lance Storm (with Dawn Marie )
+wrs_lance-storm-alliance_df994fe2,1,0,1,0,0,2001,2001,Lance Storm ( Alliance )
+wrs_lance-cade-with-trevor-murdoch_24dead58,1,0,1,0,0,2007,2007,Lance Cade (with Trevor Murdoch )
+wrs_la-r-sistance-ren-dupr-e_37afee58,1,1,0,1,0,2003,2003,La Résistance ( René Duprée
+wrs_la-parka_51bdbc00,1,0,0,1,0,2026,2026,La Parka
+wrs_finlay-with-queen-sharmell_735e709f,1,0,1,0,1,2006,2006,Finlay ) (with Queen Sharmell )
+wrs_finlay-28_3d6d0d0b,1,0,1,0,0,2007,2007,Finlay [ 28 ]
+wrs_fatal-influence-jacy-jayne_47b683e8,1,0,1,0,1,2025,2025,Fatal Influence ( Jacy Jayne
+wrs_fandango-with-rosa-mendes_b25dc376,1,1,0,0,0,2014,2014,Fandango (with Rosa Mendes )
+wrs_god_8f9c562c,1,0,1,0,0,2006,2006,""" God """
+wrs_evan-bourne-16_e33a7b4e,1,0,1,1,0,2008,2008,Evan Bourne [ 16 ]
+wrs_and-shinsuke-nakamura-by-retrieving-the-briefcase_fcf57dd8,1,0,1,1,0,2023,2023,and Shinsuke Nakamura by retrieving the briefcase
+wrs_legado-del-fantasma-santos-escobar_96249a95,1,0,1,0,0,2022,2022,Legado del Fantasma ( Santos Escobar
+wrs_lay-cool_9eed8187,1,0,1,0,0,2010,2010,Lay Cool
+wrs_lucha-house-party-lince-dorado_b78507f1,1,0,1,0,0,2018,2018,Lucha House Party ( Lince Dorado
+wrs_lucha-house-party-kalisto_3a641f25,1,0,1,1,0,2020,2020,Lucha House Party ( Kalisto
+wrs_lucha-house-party-gran-metalik_190bbec5,1,0,1,1,0,2020,2020,Lucha House Party ( Gran Metalik
+wrs_luca-crusifino_ac0930d4,1,0,1,1,0,2024,2024,Luca Crusifino
+wrs_logan-paul-with-machine-gun-kelly_989f63f8,1,0,1,1,0,2024,2024,Logan Paul (with Machine Gun Kelly )
+wrs_lars-sullivan_018b3373,1,1,0,0,0,2019,2019,Lars Sullivan
+wrs_lance-storm-with-the-dudley-boyz_97b9155c,1,1,0,1,0,2003,2003,Lance Storm (with The Dudley Boyz )
+wrs_luke-harper-2-1_58556428,1,0,1,1,0,2014,2014,Luke Harper ) 2–1
+wrs_mark-jindrak-with-theodore-long_73715e8d,1,1,0,0,0,2004,2004,Mark Jindrak (with Theodore Long )
+wrs_lo-down-chaz_ceb33e00,1,1,0,0,0,2001,2001,Lo Down ( Chaz
+wrs_and-naomi-with-tyson-kidd_75ee1626,1,1,0,0,0,2014,2014,and Naomi ) (with Tyson Kidd )
+wrs_and-rey-mysterio-by-retrieving-the-briefcase_4f285d23,1,0,1,1,1,2020,2020,and Rey Mysterio by retrieving the briefcase
+wrs_and-raven-alliance_2fdb67d1,1,1,0,0,0,2001,2001,and Raven (Alliance)
+wrs_and-raquel-gonz-lez_03ab7614,1,1,0,0,0,2021,2021,and Raquel González
+wrs_and-randy-orton-with-mick-foley-2_688f1d89,1,0,1,0,0,2012,2012,and Randy Orton ) (with Mick Foley ) 2
+wrs_and-r-truth-3_58523727,1,0,1,0,0,2008,2008,and R-Truth ) 3
+wrs_and-queen-zelina_28924124,1,1,0,0,0,2021,2021,and Queen Zelina
+wrs_and-peyton-royce_fac6ea0b,1,1,0,0,0,2020,2020,and Peyton Royce
+wrs_and-perry-saturn-with-terri_358dc9dd,1,1,0,0,0,2000,2000,and Perry Saturn ) (with Terri )
+wrs_and-paul-heyman-wcw-ecw_3a0965fc,1,1,0,0,1,2001,2001,and Paul Heyman ) (WCW/ECW)
+wrs_lince-dorado-with-gran-metalik_7b9cd7b8,1,0,1,1,0,2020,2020,Lince Dorado ) (with Gran Metalik )
+wrs_floyd-money-mayweather_b96888ee,1,1,0,0,0,2008,2008,"Floyd ""Money"" Mayweather"
+wrs_first-fall-intercontinental-title-chris-benoit_5416b3ba,1,1,0,1,0,2000,2000,First Fall (Intercontinental title): Chris Benoit
+wrs_and-the-new-day-big-e_34b07d6c,1,0,1,0,0,2015,2015,and The New Day ( Big E
+wrs_and-the-miz-1_2079de1e,1,0,1,0,0,2015,2015,and The Miz 1
+wrs_and-the-hardy-boyz-matt_853e6190,1,0,1,1,0,2001,2001,and The Hardy Boyz ( Matt
+wrs_and-the-great-khali_38777c9a,1,0,1,1,0,2012,2012,and The Great Khali
+wrs_and-tensai-with-rosa-mendes-1_da8bfa1d,1,0,1,0,0,2012,2012,and Tensai (with Rosa Mendes ) 1
+wrs_and-ted-dibiase-by-retrieving-the-briefcase_4f937909,1,0,1,1,0,2010,2010,and Ted DiBiase by retrieving the briefcase
+wrs_and-tamina-with-lana-1_76245127,1,0,1,0,0,2017,2017,and Tamina ) (with Lana ) 1
+wrs_and-tamina-with-james-ellsworth_41d8b48d,1,1,0,0,0,2017,2017,and Tamina ) (with James Ellsworth )
+wrs_and-tamina-snuka-2_0d92b17c,1,0,1,0,0,2013,2013,and Tamina Snuka ) 2
+wrs_erick-rowan-via-disqualification_f90f55da,1,0,1,0,0,2013,2013,Erick Rowan via disqualification
+wrs_eric-young_645b6221,1,1,0,0,0,2018,2018,Eric Young
+wrs_mandy-rose-with-dana-brooke_bf279a5b,1,0,1,0,0,2021,2021,Mandy Rose (with Dana Brooke )
+wrs_macho-mandow_c1dc84d2,1,0,1,0,0,2015,2015,Macho Mandow
+wrs_lyra-valkyria-raw_c1643405,1,0,1,1,0,2024,2024,Lyra Valkyria ( Raw )
+wrs_luther-reigns-with-mark-jindrak_174ea65e,1,0,1,0,0,2004,2004,Luther Reigns (with Mark Jindrak)
+wrs_luther-reigns-with-kurt-angle_d585b7ea,1,1,0,0,0,2004,2004,Luther Reigns (with Kurt Angle )
+wrs_michelle-mccool-co-women-s-champion_251953ff,1,1,0,1,0,2010,2010,Michelle McCool (Co-Women's Champion)
+wrs_meta-four-lash-legend_9db45f53,1,0,1,1,0,2024,2024,Meta-Four ( Lash Legend
+wrs_mercedes-martinez_9d805800,1,0,0,1,0,2020,2020,Mercedes Martinez
+wrs_melina-with-santino-marella_fdcbb93b,1,1,0,0,0,2008,2008,Melina (with Santino Marella )
+wrs_mark-jindrak-with-jes-s_9b7fac45,1,0,1,0,0,2004,2004,Mark Jindrak ) (with Jesús )
+wrs_mark-henry-with-theodore-long_326e00d3,1,0,1,0,0,2003,2003,Mark Henry (with Theodore Long )
+wrs_mark-henry-with-matt-striker_1f1693b9,1,1,0,0,0,2007,2007,Mark Henry (with Matt Striker )
+wrs_mark-henry-with-mae-young_455b4f63,1,1,0,0,0,2000,2000,Mark Henry (with Mae Young )
+wrs_mark-henry-with-daivari_22e91939,1,0,1,1,1,2006,2006,Mark Henry (with Daivari )
+wrs_mark-henry-by-escaping-the-cage_4c578da9,1,0,1,1,0,2012,2012,Mark Henry by escaping the cage
+wrs_maria-kanellis_35ea4807,1,0,0,1,0,2019,2019,Maria Kanellis
+wrs_marcus-cor-von_175f3d75,1,0,1,0,0,2007,2007,Marcus Cor Von
+wrs_marcel-barthel_9359c482,1,1,0,1,0,2021,2021,Marcel Barthel
+wrs_matt-hardy_a38096c4,1,0,1,0,0,2017,2017,Matt Hardy )
+wrs_liv-morgan-with-dirty-dominik-mysterio_74244014,1,0,1,1,0,2024,2024,"Liv Morgan (with ""Dirty"" Dominik Mysterio )"
+wrs_and-the-sandman_32c812b9,1,1,0,0,0,2007,2007,and The Sandman
+wrs_epico-col-n_dfb647db,1,0,1,0,0,2017,2017,Epico Colón
+wrs_fallon-henley-with-jazmyn-nyx_731f0836,1,0,1,0,1,2025,2025,Fallon Henley ) (with Jazmyn Nyx )
+wrs_fabian-aichner_34b9c76e,1,1,0,1,0,2021,2021,Fabian Aichner
+wrs_faarooq_2f238ebb,1,0,1,0,0,2001,2001,Faarooq )
+wrs_faarooq-wwf_9cc7a295,1,1,0,0,0,2001,2001,Faarooq ) (WWF)
+wrs_faarooq-with-jacqueline_b8774e20,1,1,0,0,0,2001,2001,Faarooq ) (with Jacqueline )
+wrs_ezekiel_06b196c9,1,0,1,0,0,2022,2022,Ezekiel
+wrs_ezekiel-jackson-with-william-regal_27d40752,1,0,1,1,0,2010,2010,Ezekiel Jackson (with William Regal )
+wrs_eve_33667000,1,1,0,1,0,2011,2011,Eve
+wrs_evan-bourne-at-fort-bragg_387362bd,1,0,1,1,0,2011,2011,Evan Bourne at Fort Bragg
+wrs_elton-prince_6d041caa,1,0,1,1,0,2022,2022,Elton Prince
+wrs_matt-hardy-by-technical-knockout_e79a7968,1,0,1,0,0,2005,2005,Matt Hardy by technical knockout
+wrs_matt-hardy-by-escaping-the-cage_4ace0e5c,1,0,1,1,0,2017,2017,Matt Hardy ) by escaping the cage
+wrs_matt-hardy-20-39_6e5e57c4,1,0,1,0,0,2004,2004,Matt Hardy [ 20 ] [ 39 ]
+wrs_matt-cardona_315b0fe1,1,0,0,1,0,2026,2026,Matt Cardona
+wrs_marty-garner-30_0da5ad9d,1,0,1,0,0,2006,2006,Marty Garner [ 30 ]
+wrs_and-natalya-smackdown_778d4c64,1,1,0,0,0,2009,2009,and Natalya (SmackDown)
+wrs_and-natalya-a-1_b8d191d3,1,0,1,0,0,2016,2016,and Natalya ) a 1
+wrs_and-natalya-2_bab0b8f4,1,0,1,0,0,2020,2020,and Natalya ) 2
+wrs_melina-divas-champion_f1660fd5,1,0,1,1,0,2010,2010,Melina (Divas Champion)
+wrs_melina-26_b2933ca4,1,0,1,0,0,2006,2006,Melina ) [ 26 ]
+wrs_melina-23_119c782d,1,0,1,1,0,2007,2007,Melina [ 23 ]
+wrs_melina-15_5c0ff94c,1,0,1,0,0,2008,2008,Melina [ 15 ]
+wrs_matt-striker-with-nick-nemeth_5ab836af,1,1,0,0,0,2005,2005,Matt Striker (with Nick Nemeth )
+wrs_mighty-molly-alliance_999f3653,1,0,1,1,0,2001,2001,Mighty Molly (Alliance)
+wrs_mighty-molly-alliance_874fe0f6,1,0,1,1,0,2001,2001,Mighty Molly ) (Alliance)
+wrs_mickie-james-wwe_ccb035fd,1,1,0,0,0,2006,2006,Mickie James (WWE)
+wrs_mickie-james-women-s_eb113d8a,1,0,1,1,0,2008,2008,Mickie James (Women's)
+wrs_mick-foley-with-linda-mcmahon_5f35d38c,1,0,1,1,1,2000,2000,Mick Foley (with Linda McMahon )
+wrs_michelle-mccool_df827331,1,1,0,0,0,2010,2010,Michelle McCool )
+wrs_matt-hardy-c-wwf-wwf_a86e5d35,1,0,1,1,0,2001,2001,Matt Hardy ) (c - WWF) (WWF)
+wrs_eric-bischoff-2-1_9a74f55b,1,0,1,0,0,2003,2003,Eric Bischoff 2–1
+wrs_mike-knox-with-kelly-kelly_500bdd41,1,0,1,0,0,2006,2006,Mike Knox ) (with Kelly Kelly
+wrs_mike-kanellis_34c9fef9,1,0,0,1,1,2018,2018,Mike Kanellis
+wrs_mike-kanellis-with-maria-kanellis_d2aa79b5,1,0,1,0,0,2017,2017,Mike Kanellis (with Maria Kanellis )
+wrs_mike-awesome_f2ccf2cc,1,1,0,0,0,2005,2005,Mike Awesome
+wrs_mike-awesome-ecw_898262cc,1,0,1,0,0,2001,2001,Mike Awesome (ECW)
+wrs_mr-mcmahon-with-shane-mcmahon_ce45786f,1,0,1,0,0,2006,2006,Mr. McMahon (with Shane McMahon )
+wrs_mr-mcmahon-with-sable_4d288ea4,1,1,0,0,0,2003,2003,Mr. McMahon (with Sable )
+wrs_michelle-mccool-with-vickie-guerrero_92cdac9f,1,0,1,0,0,2011,2011,Michelle McCool ) (with Vickie Guerrero )
+wrs_and-mark-henry_fcc82a72,1,0,1,1,0,2009,2009,and Mark Henry
+wrs_and-oro-mensah_b4f788a0,1,1,0,0,0,2023,2023,and Oro Mensah
+wrs_and-orlando-jordan_0c7f87b8,1,0,1,1,0,2005,2005,and Orlando Jordan
+wrs_and-omos_9cf12982,1,0,1,0,0,2021,2021,and Omos
+wrs_and-noam-dar_06a970e7,1,1,0,0,0,2016,2016,and Noam Dar
+wrs_and-nikki-cross-1_7b50efac,1,0,1,0,0,2019,2019,and Nikki Cross ) 1
+wrs_and-nia-jax_81a74ee8,1,1,0,0,0,2017,2017,and Nia Jax
+wrs_and-neville_5e643953,1,1,0,0,0,2015,2015,and Neville
+wrs_montel-vontavious-porter-by-burning_c67e28eb,1,0,1,0,0,2006,2006,Montel Vontavious Porter by burning
+wrs_elias-with-jaxson-ryker_32029123,1,0,1,0,0,2021,2021,Elias (with Jaxson Ryker )
+wrs_el-torito_f7936e95,1,0,0,1,1,2014,2014,El Torito
+wrs_edge-with-vickie-guerrero_f8189726,1,1,0,1,0,2008,2008,Edge (with Vickie Guerrero )
+wrs_edge-with-christian_3b2e7dcb,1,1,0,1,0,2011,2011,Edge (with Christian )
+wrs_edge-with-chavo-guerrero_c849b9ef,1,1,0,1,0,2009,2009,Edge (with Chavo Guerrero )
+wrs_eva-marie-with-doudrop_aa1e54ee,1,0,1,0,0,2021,2021,Eva Marie (with Doudrop )
+wrs_eugene-with-christy-hemme_6dde1d98,1,0,1,0,0,2005,2005,Eugene (with Christy Hemme )
+wrs_essa-rios-with-lita_6b3e1d2d,1,0,1,1,0,2000,2000,Essa Rios (with Lita )
+wrs_ernest-miller_24c48a4d,1,0,0,2,2,2004,2004,Ernest Miller
+wrs_erick-rowan_1c6df2f1,1,0,0,1,1,2015,2015,Erick Rowan *
+wrs_and-the-undertaker_bc3a385b,1,0,1,1,1,2000,2000,and The Undertaker
+wrs_miz_cd3844fd,1,1,0,0,0,2012,2012,Miz
+wrs_minihausen_95c2e515,1,1,0,0,0,2026,2026,Minihausen
+wrs_mikey_7b0ab45a,1,0,1,0,0,2006,2006,Mikey
+wrs_mike-mizanin_83d507cd,1,0,1,0,0,2004,2004,Mike Mizanin
+wrs_nia-jax_680880f0,1,0,0,1,0,2019,2019,Nia Jax *
+wrs_nia-jax-with-natalya_5e1a2463,1,0,1,1,0,2018,2018,Nia Jax (with Natalya )
+wrs_nia-jax-smackdown_41f6f943,1,1,0,1,0,2024,2024,Nia Jax ( SmackDown )
+wrs_mr-iguana_43dfb0cb,1,0,0,1,0,2026,2026,Mr. Iguana
+wrs_mr-america-with-zach-gowen_0858c878,1,1,0,0,0,2003,2003,Mr. America (with Zach Gowen )
+wrs_mosh_47c1bc54,1,0,0,1,1,2000,2000,Mosh
+wrs_montez-ford-with-b-fab_946f3266,1,0,1,1,0,2025,2025,Montez Ford ) (with B-Fab )
+wrs_montez-ford-smackdown-tag-team-champions_aac5b1f5,1,1,0,0,0,2020,2020,Montez Ford ) ( SmackDown Tag Team Champions )
+wrs_montel-vontavious-porter-with-mark-henry_a01a227d,1,0,1,1,0,2010,2010,Montel Vontavious Porter (with Mark Henry )
+wrs_nathan-frazer_306c0dae,1,1,0,1,0,2024,2024,Nathan Frazer
+wrs_natalya-with-tamina_51337feb,1,1,0,0,0,2021,2021,Natalya (with Tamina )
+wrs_natalya-with-hornswoggle_41f4ce94,1,0,1,0,0,2013,2013,Natalya (with Hornswoggle )
+wrs_natalya-with-bret-hart_214686fa,1,0,1,1,0,2016,2016,Natalya (with Bret Hart )
+wrs_naomi-with-cameron_8b7f5cee,1,0,1,1,0,2014,2014,Naomi (with Cameron )
+wrs_naked-mideon_5d429d6d,1,0,1,1,0,2000,2000,Naked Mideon
+wrs_michelle-mccool-with-alicia-fox_fd36be5a,1,1,0,1,0,2009,2009,Michelle McCool (with Alicia Fox )
+wrs_and-mr-mcmahon_b8186bc9,1,1,0,1,1,2000,2000,and Mr. McMahon
+wrs_and-montel-vontavious-porter_a09d9889,1,1,0,0,0,2010,2010,and Montel Vontavious Porter
+wrs_and-montel-vontavious-porter-1_ab2f08c6,1,0,1,0,0,2008,2008,and Montel Vontavious Porter ) 1
+wrs_and-molly-holly-wwf_ad9c3bae,1,1,0,0,0,2001,2001,and Molly Holly (WWF)
+wrs_and-mickie-james-with-santino-marella_82e511c1,1,1,0,0,0,2008,2008,and Mickie James ) (with Santino Marella )
+wrs_and-michelle-mccool-3-25_53bb3d17,1,0,1,0,0,2009,2009,and Michelle McCool ) 3 [ 25 ]
+wrs_and-michael-tarver_7d0981a8,1,0,1,0,1,2010,2010,and Michael Tarver
+wrs_and-michael-mcgillicutty_f49efe5c,1,1,0,1,0,2010,2010,and Michael McGillicutty
+wrs_and-melina-raw_61a532a1,1,0,1,0,0,2009,2009,and Melina (Raw)
+wrs_mvp-with-matt-striker_bf945bff,1,0,1,0,0,2007,2007,MVP ) (with Matt Striker )
+wrs_mustafa-ali-with-mace_de2b34a8,1,0,1,1,0,2021,2021,Mustafa Ali (with Mace
+wrs_nidia_076ade44,1,0,1,0,0,2004,2004,Nidia
+wrs_nicole-snooki-polizzi_5be036c7,1,1,0,0,0,2011,2011,"Nicole ""Snooki"" Polizzi"
+wrs_nicky-with-mitch_286c6430,1,0,1,0,0,2006,2006,Nicky ) (with Mitch )
+wrs_nick-patrick-wcw_6bdfdaf1,1,0,1,0,0,2001,2001,Nick Patrick (WCW)
+wrs_nicholas-note-3_344ebc04,1,1,0,1,0,2018,2018,Nicholas [ Note 3 ]
+wrs_edge-c-u-s-wwf_e9e8d36b,1,1,0,1,0,2001,2001,Edge (c - U.S.) (WWF)
+wrs_edge-by-making-edge-say-i-quit_3d4f6df9,1,0,1,0,0,2022,2022,"Edge by making Edge say ""I quit"""
+wrs_eddie-guerrero-with-perry-saturn_bfc2ade4,1,1,0,1,0,2001,2001,Eddie Guerrero (with Perry Saturn )
+wrs_eddie-guerrero-via-disqualification_a15aca18,1,0,1,1,0,2002,2002,Eddie Guerrero via disqualification
+wrs_ecw-world-champion-lashley-pinned-hardcore-holly_c55a2bef,1,1,0,1,1,2006,2006,ECW World Champion Lashley pinned Hardcore Holly
+wrs_earl-hebner-wwf_18736656,1,1,0,0,0,2001,2001,Earl Hebner (WWF)
+wrs_dusty-rhodes_98ff639e,1,0,1,0,0,2007,2007,Dusty Rhodes
+wrs_duke-hudson_77bff60f,1,0,1,0,0,2021,2021,Duke Hudson
+wrs_drew-mcintyre-with-shane-mcmahon_8785ad20,1,0,1,0,0,2019,2019,Drew McIntyre (with Shane McMahon )
+wrs_drew-mcintyre-with-dolph-ziggler_a2d15702,1,1,0,0,0,2018,2018,Drew McIntyre (with Dolph Ziggler )
+wrs_drew-mcintyre-raw-s-wwe-champion_221eae5f,1,0,1,1,1,2020,2020,Drew McIntyre ( Raw's WWE Champion )
+wrs_drew-mcintyre-note-1_86224831,1,0,1,1,0,2024,2024,Drew McIntyre [ note 1 ]
+wrs_dominik-mysterio-with-rhea-ripley_78657b59,1,0,1,0,0,2023,2023,Dominik Mysterio (with Rhea Ripley )
+wrs_dominik-mysterio-with-rey-mysterio_24146323,1,0,1,0,0,2020,2020,Dominik Mysterio (with Rey Mysterio )
+wrs_nathan-jones_fef9e769,1,0,1,0,0,2003,2003,Nathan Jones
+wrs_and-kurt-angle-15_2a7b6b30,1,0,1,1,0,2006,2006,and Kurt Angle [ 15 ]
+wrs_and-matt-hardy_c3d4fdf6,1,0,1,1,0,2009,2009,and Matt Hardy
+wrs_and-matt-hardy-by-retrieving-the-briefcase_2d247e2d,1,0,1,1,0,2010,2010,and Matt Hardy by retrieving the briefcase
+wrs_and-maryse_924f19fb,1,0,1,1,0,2010,2010,and Maryse
+wrs_nunzio-with-vito_2cda659c,1,0,1,1,0,2005,2005,Nunzio (with Vito )
+wrs_nunzio-with-johnny-stamboli_cbb49f30,1,0,1,1,0,2004,2004,Nunzio (with Johnny Stamboli )
+wrs_nova_e5daba83,1,0,1,0,0,2005,2005,Nova
+wrs_note-1_bda47428,1,0,1,0,0,2018,2018,[ Note 1 ]
+wrs_non-title-match_fc66c7b8,1,1,0,1,0,2006,2006,non-title match
+wrs_noam-dar_be0497be,1,0,1,0,0,2017,2017,Noam Dar
+wrs_noam-dar-with-alicia-fox_2f28eda4,1,0,1,0,0,2017,2017,Noam Dar (with Alicia Fox )
+wrs_no-way-jose_d1989dc3,1,0,0,1,0,2019,2019,No Way Jose
+wrs_nikki_e6c2ecc2,1,1,0,0,0,2012,2012,Nikki
+wrs_nikki-cross-with-alexa-bliss_84fab9f8,1,0,1,1,0,2020,2020,Nikki Cross (with Alexa Bliss )
+wrs_nikki-bella_ce06005e,1,1,0,0,0,2010,2010,Nikki Bella )
+wrs_nia-jax-smackdown-s-wwe-women-s-champion_8426c704,1,0,1,1,0,2024,2024,Nia Jax ( SmackDown 's WWE Women's Champion )
+wrs_nattie_94437f6c,1,0,0,1,0,2026,2026,Nattie
+wrs_randy-orton-6-5_1b44b44b,1,0,1,1,1,2009,2009,Randy Orton 6–5
+wrs_randy-orton-24_7f3ad26b,1,0,1,1,1,2004,2004,Randy Orton [ 24 ]
+wrs_randy-orton-17-18_facb9f73,1,0,1,1,0,2008,2008,Randy Orton [ 17 ] [ 18 ]
+wrs_r-truth-with-eve-torres_234262c7,1,1,0,0,0,2010,2010,R-Truth (with Eve Torres )
+wrs_r-truth-with-carmella_9cc8f825,1,0,1,1,0,2019,2019,R-Truth (with Carmella )
+wrs_r-truth-w-eve_0d18f16c,1,1,0,0,0,2010,2010,R-Truth (w/ Eve)
+wrs_r-truth-1-14_739d256b,1,0,1,1,0,2008,2008,R-Truth 1 [ 14 ]
+wrs_queen-sharmell_395ae028,1,0,1,0,0,2006,2006,Queen Sharmell
+wrs_paige-with-alicia-fox_a442bc30,1,0,1,1,0,2014,2014,Paige (with Alicia Fox )
+wrs_otm-lucien-price_06b20f43,1,0,1,1,0,2023,2023,OTM (Lucien Price
+wrs_otis-with-tucker_6b0ffee9,1,0,1,0,0,2020,2020,Otis (with Tucker )
+wrs_oney-lorcan_7ce85f56,1,0,1,1,0,2019,2019,Oney Lorcan
+wrs_octag-n-jr_ac4c9007,1,0,1,1,0,2025,2025,Octagón Jr.
+wrs_primo-col-n_37dc4168,1,0,1,0,0,2017,2017,Primo Colón
+wrs_piper-niven-with-chelsea-green_0cac594e,1,0,1,1,0,2024,2024,Piper Niven (with Chelsea Green )
+wrs_perry-saturn-wwf_d4053ebe,1,1,0,0,0,2001,2001,Perry Saturn (WWF)
+wrs_perry-saturn-with-terri_84550f00,1,1,0,0,0,2000,2000,Perry Saturn ) (with Terri )
+wrs_dominik-mysterio-with-liv-morgan_bcb86aa5,1,1,0,1,0,2025,2025,Dominik Mysterio (with Liv Morgan )
+wrs_and-t_e1ef5828,1,0,1,1,0,2000,2000,and T
+wrs_and-tony-mamaluke_51b594c1,1,0,1,0,0,2005,2005,and Tony Mamaluke
+wrs_and-tony-atlas_9ccc0823,1,1,0,0,0,2008,2008,and Tony Atlas
+wrs_and-toni-storm_a8a806a4,1,1,0,0,0,2019,2019,and Toni Storm
+wrs_and-toni-storm-2_b6e71613,1,0,1,0,0,2021,2021,and Toni Storm ) 2
+wrs_and-tonga-loa_90854e4c,1,0,1,0,1,2024,2024,and Tonga Loa )
+wrs_and-tommy-dreamer-13_0fd63f4c,1,0,1,1,0,2008,2008,and Tommy Dreamer [ 13 ]
+wrs_and-tommaso-ciampa-with-dexter-lumis_b56e6b34,1,0,1,0,1,2021,2021,and Tommaso Ciampa ) (with Dexter Lumis )
+wrs_and-titus-o-neil_2ba2b888,1,1,0,0,0,2015,2015,and Titus O'Neil
+wrs_and-theodore-long_13725efd,1,1,0,0,0,2003,2003,and Theodore Long
+wrs_and-thea-hail_b6197a20,1,0,1,1,0,2024,2024,and Thea Hail
+wrs_doink_164be409,1,1,0,0,1,2007,2007,Doink
+wrs_perry-saturn-with-eddie-guerrero_3dbe8475,1,0,1,0,0,2000,2000,Perry Saturn ) (with Eddie Guerrero )
+wrs_paul-london-with-ashley_24cbe801,1,1,0,1,0,2006,2006,Paul London (with Ashley )
+wrs_ren-dupr-e-27_9dbee4f7,1,0,1,0,0,2006,2006,René Duprée [ 27 ]
+wrs_reginald_1edfa65a,1,0,1,0,0,2021,2021,Reginald
+wrs_prince-albert_6cfdaa0e,1,0,0,1,1,2000,2000,Prince Albert
+wrs_primo-wwe_f6d73831,1,1,0,1,0,2009,2009,Primo ) (WWE)
+wrs_primo-with-xavier-woods_e0e548cd,1,1,0,0,0,2016,2016,Primo )) (with Xavier Woods )
+wrs_primo-took-to-the-skies-against-wwe-tag-team-champions-kofi-_b2ee46bf,1,0,1,1,0,2011,2011,Primo took to the skies against WWE Tag Team Champions Kofi Kingston
+wrs_raven-with-terri-runnels-alliance_4a71f600,1,0,1,0,0,2001,2001,Raven (with Terri Runnels ) (Alliance)
+wrs_raven-ecw_9bf21849,1,1,0,0,0,2001,2001,Raven (ECW)
+wrs_raquel-rodriguez_268397e3,1,0,1,0,0,2024,2024,Raquel Rodriguez )
+wrs_randy-sharp_5c4192c1,1,0,1,0,0,2016,2016,Randy Sharp
+wrs_randy-orton-with-bob-orton_0064d5a9,1,0,1,0,1,2005,2005,Randy Orton (with Bob Orton )
+wrs_randy-orton-smackdown_3ce6347d,1,0,1,1,0,2024,2024,Randy Orton ( SmackDown )
+wrs_randy-orton-handicap-match_01003649,1,0,1,1,0,2006,2006,Randy Orton (Handicap Match)
+wrs_randy-orton-by-trapping-him-in-the-ambulance-with-the-doors-_0341aebe,1,0,1,1,0,2020,2020,Randy Orton by trapping him in the ambulance with the doors completely closed
+wrs_randy-orton-by-technical-knockout_3e6cc5de,1,0,1,0,1,2016,2016,Randy Orton by technical knockout
+wrs_perry-saturn-with-terri_97936de0,1,1,0,1,0,2000,2000,Perry Saturn (with Terri )
+wrs_and-liv-morgan_9377f034,1,0,1,0,0,2022,2022,and Liv Morgan
+wrs_and-layla_b8d6ea29,1,0,1,1,0,2011,2011,and Layla
+wrs_and-lance-cade_cd4dfb85,1,0,1,0,0,2006,2006,and Lance Cade
+wrs_and-la-knight_e26931bc,1,0,1,1,1,2025,2025,and LA Knight
+wrs_and-la-knight-by-retrieving-the-briefcase_8c2a440a,1,0,1,1,0,2024,2024,and LA Knight by retrieving the briefcase
+wrs_and-kurt-angle_8604e599,1,0,1,0,0,2000,2000,and Kurt Angle
+wrs_randy-orton-by-escaping-the-cage_fb7f0e88,1,0,1,1,1,2015,2015,Randy Orton by escaping the cage
+wrs_randy-orton-as-orton-was-unable-to-make-it-to-his-feet-befor_422c0fb0,1,0,1,0,0,2020,2020,Randy Orton as Orton was unable to make it to his feet before the referee's count of 10
+wrs_rey-mysterio-wwe_3350f537,1,0,1,0,0,2006,2006,Rey Mysterio ( WWE )
+wrs_rey-mysterio-with-torrie-wilson_885d9741,1,1,0,1,0,2004,2004,Rey Mysterio (with Torrie Wilson )
+wrs_rey-mysterio-with-jorge-p-ez_a225c142,1,0,1,1,0,2004,2004,Rey Mysterio (with Jorge Páez )
+wrs_rey-mysterio-joined-mark-henry-to-form-a-dynamic-tag-team-ag_792ca49c,1,0,1,0,0,2009,2009,Rey Mysterio joined Mark Henry to form a dynamic tag team against CM Punk
+wrs_rey-mysterio-by-technical-knockout-22_c8c0c127,1,0,1,0,0,2009,2009,Rey Mysterio by technical knockout [ 22 ]
+wrs_rey-fenix_6c428074,1,0,0,1,0,2026,2026,Rey Fenix
+wrs_rene-dupree_4e2b3ed4,1,0,1,0,0,2004,2004,Rene Dupree
+wrs_ren-dupr-e-with-hiroko_bcd41020,1,0,1,0,0,2005,2005,René Duprée (with Hiroko )
+wrs_and-marcus-cor-von_892a8288,1,0,1,0,0,2007,2007,and Marcus Cor Von
+wrs_divas-champion-beth-phoenix_147608b6,1,0,1,1,0,2011,2011,Divas Champion Beth Phoenix
+wrs_dilsher-shanky_e5ef1fea,1,1,0,0,0,2021,2021,Dilsher Shanky
+wrs_drew-mcintyre-by-touching-all-four-corners-uninterrupted_42e8e600,1,0,1,0,0,2024,2024,Drew McIntyre by touching all four corners uninterrupted
+wrs_drew-mcintyre-at-fort-bragg_b3533d4a,1,0,1,0,0,2011,2011,Drew McIntyre At Fort Bragg
+wrs_drew-carey_63df5043,1,0,0,1,1,2001,2001,Drew Carey
+wrs_dragon-lee-in-an-intercontinental-title-match_7b205bd7,1,0,1,1,0,2026,2026,Dragon Lee in an Intercontinental Title Match
+wrs_doug-basham_4da71551,1,0,1,1,0,2005,2005,Doug Basham
+wrs_doug-basham_2c16faf8,1,0,1,1,0,2004,2004,Doug Basham )
+wrs_dos_e67f16d2,1,1,0,1,0,2000,2000,Dos
+wrs_deuce-n-domino-with-cherry-26_49e05209,1,0,1,0,0,2007,2007,Deuce 'n Domino (with Cherry ) [ 26 ]
+wrs_and-mandy-rose_e465fa2a,1,0,1,1,0,2018,2018,and Mandy Rose
+wrs_and-mandy-rose-2_42d22800,1,0,1,0,0,2018,2018,and Mandy Rose ) 2
+wrs_and-luke-gallows-with-serena_9cec9aa3,1,0,1,0,0,2010,2010,and Luke Gallows ) (with Serena )
+wrs_and-los-matadores-diego_a7a4a24e,1,0,1,1,0,2015,2015,and Los Matadores ( Diego
+wrs_and-logan-paul_e7ec1428,1,1,0,0,1,2025,2025,and Logan Paul )
+wrs_rob-van-dam-ecw_984875c1,1,1,0,1,0,2001,2001,Rob Van Dam (ECW)
+wrs_rob-van-dam-contract-holder_7b40a5cb,1,1,0,1,0,2006,2006,Rob Van Dam (contract holder)
+wrs_reckoning_58b4c0a5,1,0,1,1,0,2021,2021,Reckoning
+wrs_rhyno-with-stephanie-mcmahon-helmsley-alliance_aa8ef625,1,0,1,0,0,2001,2001,Rhyno (with Stephanie McMahon-Helmsley ) (Alliance)
+wrs_rhyno-alliance_9bae7958,1,1,0,1,0,2001,2001,Rhyno (Alliance)
+wrs_rhyno-29_55146f23,1,0,1,0,0,2005,2005,Rhyno [ 29 ]
+wrs_rhea-ripley-with-dominik-mysterio_fc290d18,1,1,0,1,0,2023,2023,Rhea Ripley (with Dominik Mysterio )
+wrs_rhea-ripley-with-dominik-mysterio_089a8da3,1,0,1,0,0,2023,2023,Rhea Ripley ) (with Dominik Mysterio )
+wrs_rhea-ripley-with-dirty-dominik-mysterio_fbfa7570,1,0,1,1,0,2024,2024,"Rhea Ripley (with ""Dirty"" Dominik Mysterio )"
+wrs_rezar-with-drake-maverick_fad2fc62,1,0,1,1,0,2019,2019,Rezar (with Drake Maverick )
+wrs_rezar-raw-tag-team-champions-with-drake-maverick_22c73edc,1,1,0,0,0,2018,2018,Rezar ) ( Raw Tag Team Champions ) (with Drake Maverick )
+wrs_rinku_6d9c8a40,1,1,0,0,1,2021,2021,Rinku
+wrs_riley-osborne_19b69153,1,0,1,1,0,2024,2024,Riley Osborne
+wrs_rikishi-with-paul-bearer_40e642a2,1,1,0,0,0,2000,2000,Rikishi (with Paul Bearer )
+wrs_right-to-censor-the-goodfather_16b8bcd5,1,0,1,0,0,2001,2001,Right to Censor ( The Goodfather
+wrs_and-john-bradshaw-layfield_66531e82,1,0,1,1,1,2008,2008,"and John ""Bradshaw"" Layfield"
+wrs_dolph-ziggler-with-sonya-deville_03239b75,1,0,1,0,0,2020,2020,Dolph Ziggler (with Sonya Deville )
+wrs_dolph-ziggler-with-r-truth_f6de6fbf,1,0,1,1,0,2014,2014,Dolph Ziggler (with R-Truth )
+wrs_dolph-ziggler-with-maria_7a3a68a6,1,0,1,1,0,2009,2009,Dolph Ziggler (with Maria )
+wrs_dolph-ziggler-with-aj-lee_4df4e93b,1,0,1,1,0,2013,2013,Dolph Ziggler (with AJ Lee )
+wrs_dolph-ziggler-non-title-match_a5345922,1,0,1,1,0,2021,2021,Dolph Ziggler - Non-Title Match
+wrs_dolph-ziggler-in-a-last-time-is-now-tournament-match_81452f27,1,0,1,0,0,2025,2025,Dolph Ziggler in a Last Time is Now Tournament Match
+wrs_dolph-ziggler-by-escaping-the-cage_b2b5656e,1,0,1,1,0,2019,2019,Dolph Ziggler by escaping the cage
+wrs_dolph-ziggler-12_3249a626,1,0,1,0,0,2009,2009,Dolph Ziggler [ 12 ]
+wrs_dash-wilder_69ac9819,1,0,1,1,0,2019,2019,Dash Wilder )
+wrs_dante-chen_4453cdb3,1,0,1,0,0,2022,2022,Dante Chen
+wrs_riddle-with-migos_56fbee68,1,1,0,1,0,2022,2022,Riddle ) (with Migos )
+wrs_riddle-raw-tag-team-champions_7ec3b3d0,1,1,0,0,0,2021,2021,Riddle ) ( Raw Tag Team Champions )
+wrs_robert-roode-smackdown_35dac8df,1,1,0,0,0,2019,2019,Robert Roode ( SmackDown )
+wrs_robbie-mcallister_fbccbd2b,1,0,1,1,0,2006,2006,Robbie McAllister
+wrs_rob-van-dam-with-ricardo-rodriguez_c1489185,1,1,0,1,0,2013,2013,Rob Van Dam (with Ricardo Rodriguez )
+wrs_rob-van-dam-ecw_feb1f63f,1,1,0,0,0,2006,2006,Rob Van Dam ( ECW )
+wrs_and-kairi-sane-with-dakota-kai_1bfe7cb1,1,0,1,0,0,2023,2023,and Kairi Sane ) (with Dakota Kai )
+wrs_rob-grymes_7b946fcc,1,0,1,0,0,2012,2012,Rob Grymes
+wrs_road-warrior-animal_59909f80,1,0,0,1,0,2006,2006,Road Warrior Animal
+wrs_road-dogg-with-tori_c1b5821c,1,0,1,0,0,2000,2000,Road Dogg ) (with Tori )
+wrs_road-dogg-with-tori_73ae375e,1,1,0,0,0,2000,2000,Road Dogg (with Tori )
+wrs_roman-reigns-with-dean-ambrose_734c81b6,1,0,1,0,0,2013,2013,Roman Reigns ) (with Dean Ambrose )
+wrs_roman-reigns-raw-s-world-heavyweight-champion_970a2dcb,1,1,0,1,1,2026,2026,Roman Reigns ( Raw 's World Heavyweight Champion )
+wrs_roman-reigns-by-escaping-the-cage_e888d251,1,0,1,1,0,2018,2018,Roman Reigns by escaping the cage
+wrs_rodney-mack_22f57009,1,0,1,0,0,2003,2003,Rodney Mack
+wrs_rodney-mack-with-theodore-long_70add160,1,1,0,0,0,2003,2003,Rodney Mack (with Theodore Long )
+wrs_rodney-mack-with-jazz_b7890928,1,0,1,0,0,2004,2004,Rodney Mack (with Jazz )
+wrs_roderick-strong_96b2bfea,1,0,0,1,1,2018,2018,Roderick Strong
+wrs_roderick-strong-with-diamond-mine_38cb4ad2,1,1,0,1,0,2021,2021,Roderick Strong (with Diamond Mine )
+wrs_dean-ambrose-by-escaping-the-cage_80e6eca9,1,0,1,1,1,2018,2018,Dean Ambrose by escaping the cage
+wrs_dawn-marie-wilson_cbf1cc1a,1,0,1,0,0,2003,2003,Dawn Marie Wilson
+wrs_dashing-cody-rhodes_58211330,1,0,1,1,0,2010,2010,"""Dashing"" Cody Rhodes"
+wrs_ronda-rousey-with-shayna-baszler_2ccf47f2,1,1,0,1,0,2022,2022,Ronda Rousey (with Shayna Baszler )
+wrs_ronda-rousey-with-natalya_1b014b54,1,1,0,1,0,2018,2018,Ronda Rousey (with Natalya )
+wrs_ronda-rousey-raw_cde8ca82,1,1,0,0,0,2018,2018,Ronda Rousey ( Raw )
+wrs_ronda-rousey-c-raw_aad5d6fd,1,0,1,1,1,2019,2019,Ronda Rousey (c-Raw)
+wrs_romeo-1-24_faf270a6,1,0,1,1,0,2005,2005,Romeo ) [ 1 ] [ 24 ]
+wrs_roderick-strong-nxt-north-american-champion_b597bf93,1,1,0,1,0,2019,2019,Roderick Strong ( NXT North American Champion )
+wrs_roddy-piper_e2f3a49c,1,0,0,1,1,2008,2008,Roddy Piper
+wrs_roddy-piper-with-sean-o-haire_005c401b,1,0,1,0,0,2003,2003,Roddy Piper (with Sean O'Haire )
+wrs_and-enzo-amore_ca9a5136,1,0,1,1,0,2017,2017,and Enzo Amore
+wrs_and-kofi-kingston_1c3ca6ce,1,0,1,1,1,2019,2019,and Kofi Kingston
+wrs_and-killian-dain_f424da7c,1,1,0,0,0,2018,2018,and Killian Dain
+wrs_and-kevin-thorn-with-ariel_b2788293,1,0,1,0,0,2007,2007,and Kevin Thorn ) (with Ariel )
+wrs_and-kevin-owens_09a87089,1,0,1,0,1,2022,2022,and Kevin Owens
+wrs_and-kevin-nash_ed759bcb,1,0,1,1,1,2003,2003,and Kevin Nash
+wrs_and-kelly-kelly_4be5a2f1,1,1,0,0,0,2010,2010,and Kelly Kelly
+wrs_and-kane-note-1_c4f414bc,1,0,1,1,1,2009,2009,and Kane [ Note 1 ]
+wrs_danny-with-shaniqua_259f2c16,1,1,0,1,0,2003,2003,Danny ) (with Shaniqua )
+wrs_danny-basham_56c1ebed,1,0,1,1,0,2005,2005,Danny Basham
+wrs_daniel-bryan-with-drew-gulak_31c4488e,1,0,1,1,0,2020,2020,Daniel Bryan (with Drew Gulak )
+wrs_daniel-bryan-with-aj_e30b32a7,1,0,1,1,0,2012,2012,Daniel Bryan (with AJ )
+wrs_daniel-bryan-smackdown-s-wwe-champion_6ebcafa4,1,0,1,1,1,2018,2018,Daniel Bryan ( SmackDown's WWE Champion )
+wrs_daniel-bryan-2-1_c7294091,1,0,1,1,0,2012,2012,Daniel Bryan 2–1
+wrs_diesel_90cf16d6,1,0,0,1,1,2011,2011,Diesel
+wrs_diego_83543362,1,0,1,0,0,2015,2015,Diego
+wrs_diamond-dallas-page-alliance_f8b6e6ce,1,0,1,0,0,2001,2001,Diamond Dallas Page (Alliance)
+wrs_deuce-n-domino_8ab5ef51,1,0,1,0,0,2008,2008,Deuce 'n Domino
+wrs_and-triple-h-2_672ccd2a,1,0,1,0,1,2014,2014,and Triple H ) 2
+wrs_and-john-cena-2_9b501461,1,0,1,0,1,2017,2017,and John Cena ) 2
+wrs_royce-keys_800e74b2,1,0,0,1,0,2026,2026,Royce Keys
+wrs_rosey-with-super-stacy_a2a9166b,1,1,0,1,0,2005,2005,Rosey (with Super Stacy )
+wrs_rory-mcallister_9ac13f43,1,0,1,0,0,2006,2006,Rory McAllister )
+wrs_rory-mcallister_4fe0c5f7,1,0,1,1,0,2006,2006,Rory McAllister
+wrs_sasha-banks_95a82bef,1,0,1,1,0,2019,2019,Sasha Banks )
+wrs_sasha-banks-with-bayley_3bcbc6a5,1,0,1,1,0,2020,2020,Sasha Banks (with Bayley )
+wrs_sasha-banks-smackdown-women-s-champion_1d214cc5,1,1,0,1,0,2020,2020,Sasha Banks ( SmackDown Women's Champion )
+wrs_sabu-ecw_8bdc25d4,1,0,1,0,1,2006,2006,Sabu (ECW)
+wrs_rybaxel-ryback_5fa35fbc,1,0,1,0,0,2014,2014,RybAxel ( Ryback
+wrs_ryback-with-paul-heyman_109ac28f,1,0,1,0,0,2013,2013,Ryback (with Paul Heyman )
+wrs_ryback-2-1_b2275624,1,0,1,1,1,2013,2013,Ryback 2–1
+wrs_rusev-with-summer-rae_b6b0f573,1,0,1,0,0,2015,2015,Rusev (with Summer Rae )
+wrs_rusev-with-lana_cfa6556a,1,0,1,1,0,2018,2018,Rusev ) (with Lana )
+wrs_rusev-in-a-boot-camp-match_99a49066,1,0,1,0,0,2015,2015,Rusev in a Boot Camp Match
+wrs_rusev-day-aiden-english_d91d797d,1,0,1,1,0,2018,2018,Rusev Day ( Aiden English
+wrs_sarah-logan-with-liv-morgan_f659f06a,1,0,1,0,0,2019,2019,Sarah Logan ) (with Liv Morgan )
+wrs_santos-escobar-with-zelina-vega_b418e177,1,1,0,0,0,2023,2023,Santos Escobar ) (with Zelina Vega )
+wrs_santino-marella-with-beth-phoenix_f011b6b7,1,0,1,1,0,2008,2008,Santino Marella (with Beth Phoenix )
+wrs_santana-garrett_6a90999c,1,0,0,1,0,2021,2021,Santana Garrett
+wrs_and-john-cena_f7e059a4,1,1,0,0,0,2016,2016,and John Cena
+wrs_seth-rollins-by-5-4-in-sudden-death-overtime_bd9dedbf,1,0,1,1,1,2018,2018,Seth Rollins by 5–4 in sudden death overtime
+wrs_seth-freakin-rollins_e2478d7a,1,0,1,0,1,2025,2025,Seth Freakin Rollins
+wrs_serena_8ac25ee3,1,0,1,1,1,2010,2010,Serena )
+wrs_sean-o-haire-with-roddy-piper_015e8f43,1,1,0,0,0,2003,2003,Sean O'Haire (with Roddy Piper )
+wrs_sean-o-haire-wcw_ebbc260c,1,0,1,0,0,2001,2001,Sean O'Haire (WCW)
+wrs_santa-claus_7803783e,1,0,1,0,0,2004,2004,Santa Claus
+wrs_sanga_f8a5b581,1,0,1,0,0,2021,2021,Sanga
+wrs_samir-singh_25d6663d,1,0,1,0,1,2021,2021,Samir Singh
+wrs_sami-zayn_731e6127,1,0,0,1,0,2018,2018,Sami Zayn *
+wrs_sami-zayn-smackdown-s-undisputed-wwe-champion_d662c2ca,1,0,1,1,1,2026,2026,Sami Zayn ( SmackDown 's Undisputed WWE Champion )
+wrs_sami-zayn-smackdown-s-intercontinental-champion_77a45ae6,1,0,1,1,0,2020,2020,Sami Zayn ( SmackDown's Intercontinental Champion )
+wrs_scotty-2-hotty-with-grand-master-sexay_5ff2b478,1,1,0,0,0,2000,2000,Scotty 2 Hotty (with Grand Master Sexay )
+wrs_scott-hall-with-x-pac_dfe8cc60,1,1,0,0,0,2002,2002,Scott Hall (with X-Pac )
+wrs_scott-hall-with-kevin-nash_3ad96fe6,1,0,1,0,0,2002,2002,Scott Hall (with Kevin Nash )
+wrs_scott-dawson_1f111272,1,0,1,0,0,2018,2018,Scott Dawson )
+wrs_saurav_cee9d948,1,1,0,0,1,2021,2021,Saurav
+wrs_curtis-axel-with-larry-hennig_d921725f,1,0,1,0,0,2014,2014,Curtis Axel ) (with Larry Hennig )
+wrs_dan-matha_301ebca7,1,0,0,1,1,2018,2018,Dan Matha
+wrs_dan-delaney_ffd4dea3,1,0,1,0,0,2012,2012,Dan Delaney
+wrs_damian-priest-with-dirty-dominik-mysterio_a923cee6,1,1,0,1,0,2024,2024,"Damian Priest ) (with ""Dirty"" Dominik Mysterio )"
+wrs_damian-priest-raw-s-united-states-champion_f985aa8d,1,0,1,1,0,2021,2021,Damian Priest ( Raw's United States Champion )
+wrs_damage-ctrl-kairi-sane_65fbda46,1,0,1,1,0,2024,2024,Damage CTRL ( Kairi Sane
+wrs_damage-ctrl-bayley_d8b2d5f3,1,0,1,0,0,2023,2023,Damage CTRL ( Bayley
+wrs_daivari-with-the-great-khali_bf7ed782,1,1,0,0,0,2006,2006,Daivari (with The Great Khali )
+wrs_curtis-axel_009aeaa0,1,0,1,0,0,2018,2018,Curtis Axel )
+wrs_seth-rollins-wwe_a3ca6ffa,1,1,0,1,0,2015,2015,Seth Rollins (WWE)
+wrs_seth-rollins-with-murphy_364bfa1a,1,1,0,0,0,2020,2020,Seth Rollins (with Murphy )
+wrs_seth-rollins-with-jamie-noble_24dad524,1,0,1,1,0,2015,2015,Seth Rollins (with Jamie Noble
+wrs_seth-rollins-with-dean-ambrose_d988149a,1,1,0,1,0,2018,2018,Seth Rollins (with Dean Ambrose )
+wrs_seth-rollins-universal_31c97c0a,1,1,0,1,0,2019,2019,Seth Rollins (Universal)
+wrs_seth-rollins-raw-s-world-heavyweight-champion_4eafdf3f,1,1,0,1,1,2025,2025,Seth Rollins ( Raw 's World Heavyweight Champion )
+wrs_seth-rollins-raw-s-intercontinental-champion_1fda1af6,1,1,0,1,0,2018,2018,Seth Rollins ( Raw's Intercontinental Champion )
+wrs_shelton-benjamin-with-charlie-haas_d3b1c004,1,0,1,0,0,2009,2009,Shelton Benjamin (with Charlie Haas )
+wrs_and-carmelo-hayes-with-trick-williams_ead1234e,1,1,0,0,1,2021,2021,and Carmelo Hayes ) (with Trick Williams )
+wrs_and-joaquin-wilde-with-elektra-lopez_45633751,1,0,1,0,0,2022,2022,and Joaquin Wilde ) (with Elektra Lopez )
+wrs_and-jimmy-uso-with-paul-heyman_f487c650,1,1,0,0,1,2022,2022,and Jimmy Uso ) (with Paul Heyman )
+wrs_and-jeff-hardy-3_2fc59b5c,1,0,1,0,0,2018,2018,and Jeff Hardy ) 3
+wrs_and-jd-mcdonagh_a3e99b0b,1,0,1,0,1,2023,2023,and JD McDonagh )
+wrs_and-jacy-jayne_b298180f,1,0,1,0,0,2021,2021,and Jacy Jayne
+wrs_and-hideo-itami_7d144ef4,1,0,1,1,0,2019,2019,and Hideo Itami
+wrs_and-heath-slater_f9e116d3,1,1,0,0,0,2016,2016,and Heath Slater
+wrs_and-giovanni-vinci_de35cfb4,1,0,1,0,0,2022,2022,and Giovanni Vinci
+wrs_and-finlay_12a5bd1f,1,0,1,1,0,2008,2008,and Finlay
+wrs_and-finlay-34_9c3d0217,1,0,1,1,1,2006,2006,and Finlay [ 34 ]
+wrs_and-erick-rowan_10cee9c8,1,1,0,0,0,2014,2014,and Erick Rowan
+wrs_sasha-banks-in-sudden-death-overtime-3-2_899f7215,1,0,1,1,0,2016,2016,Sasha Banks in sudden death overtime (3–2)
+wrs_sareena-sandhu_8e9d4d44,1,1,0,0,0,2021,2021,Sareena Sandhu
+wrs_and-trick-williams-with-lil-yachty-by-retrieving-the-briefca_ad916997,1,0,1,1,1,2026,2026,and Trick Williams (with Lil Yachty ) by retrieving the briefcase
+wrs_sin-cara-negro_273e6b57,1,0,1,0,0,2011,2011,Sin Cara Negro
+wrs_sin-cara-azul_9e942afc,1,1,0,0,0,2011,2011,Sin Cara Azul
+wrs_shorty-g_213934db,1,0,1,0,0,2020,2020,Shorty G
+wrs_scotty-2-hotty_a128fd01,1,0,1,1,0,2000,2000,Scotty 2 Hotty )
+wrs_shawn-michaels-raw_fbd9c3bd,1,1,0,0,1,2007,2007,Shawn Michaels ( Raw )
+wrs_shawn-michaels-2-1-23_b6934f10,1,0,1,1,1,2002,2002,Shawn Michaels 2–1 [ 23 ]
+wrs_shawn-michaels-16_965e17be,1,0,1,0,0,2008,2008,Shawn Michaels [ 16 ]
+wrs_shanky_f100d355,1,0,1,1,0,2021,2021,Shanky
+wrs_shaniqua_0ec03898,1,0,1,1,0,2004,2004,Shaniqua
+wrs_shane-mcmahon-with-mr-mcmahon_e8c74fe2,1,0,1,1,1,2000,2000,Shane McMahon (with Mr. McMahon )
+wrs_shane-mcmahon-with-linda-mcmahon_dd6bae92,1,1,0,0,0,2001,2001,Shane McMahon (with Linda McMahon )
+wrs_shane-mcmahon-alliance_2433e67c,1,0,1,1,0,2001,2001,Shane McMahon (Alliance)
+wrs_shad-gaspard-17_6425b7b8,1,0,1,0,0,2008,2008,Shad Gaspard ) [ 17 ]
+wrs_sgt-slaughter-with-arn-anderson_833b83df,1,1,0,0,0,2006,2006,Sgt. Slaughter ) (with Arn Anderson )
+wrs_shelton-benjamin-with-paul-heyman_6c398a09,1,0,1,0,0,2003,2003,Shelton Benjamin ) (with Paul Heyman)
+wrs_shelton-benjamin-with-momma-benjamin_602ae76a,1,1,0,0,0,2006,2006,Shelton Benjamin (with Momma Benjamin)
+wrs_shinsuke-nakamura-as-nakamura-was-unable-to-make-it-to-his-f_ccdc296e,1,0,1,1,1,2023,2023,Shinsuke Nakamura as Nakamura was unable to make it to his feet before the referee's count of 10
+wrs_spike-dudley-wwf_766e9149,1,0,1,1,0,2001,2001,Spike Dudley (WWF)
+wrs_spike-dudley-with-the-dudley-boyz_447203c2,1,1,0,1,0,2004,2004,Spike Dudley (with The Dudley Boyz )
+wrs_spike-dudley-with-molly-holly-wwf_2e16da0d,1,0,1,0,0,2001,2001,Spike Dudley (with Molly Holly) (WWF)
+wrs_spike-dudley-b_7255be7f,1,0,0,1,1,2004,2004,Spike Dudley [ b ]
+wrs_spanky_4162ced6,1,0,1,0,0,2003,2003,Spanky
+wrs_smackdown-money-in-the-bank-winner-daniel-bryan-locked-up-on_0543f58c,1,0,1,1,0,2011,2011,SmackDown Money in the Bank winner Daniel Bryan locked up one night after they battled in a Fatal 4-Way Match on Raw
+wrs_shelton-benjamin-by-2-0_1b8a876f,1,0,1,1,0,2018,2018,Shelton Benjamin by 2–0
+wrs_sheamus-with-big-show_95e2e081,1,1,0,1,0,2018,2018,Sheamus ) (with Big Show )
+wrs_sheamus-smackdown-tag-team-champions-with-big-show_0e6a6109,1,0,1,0,0,2018,2018,Sheamus ) ( SmackDown Tag Team Champions ) (with Big Show )
+wrs_sheamus-raw-tag-team-champions_26feccdb,1,0,1,0,0,2017,2017,Sheamus ( Raw Tag Team Champions )
+wrs_shayna-baszler-with-reginald_aefadbe2,1,1,0,1,0,2021,2021,Shayna Baszler (with Reginald )
+wrs_shayna-baszler-nxt-women-s-champion_af523593,1,1,0,1,1,2019,2019,Shayna Baszler ( NXT Women's Champion )
+wrs_shawn-stasiak-with-paul-heyman_5a695ed8,1,0,1,0,0,2002,2002,Shawn Stasiak (with Paul Heyman )
+wrs_shawn-stasiak-wcw_cd8690f2,1,1,0,0,0,2001,2001,Shawn Stasiak (WCW)
+wrs_shawn-michaels-street-fight_9e23bde8,1,0,1,0,0,2006,2006,Shawn Michaels (Street Fight)
+wrs_shinsuke-nakamura-smackdown-s-intercontinental-champion-with_edd39f25,1,0,1,1,0,2019,2019,Shinsuke Nakamura ( SmackDown's Intercontinental Champion ) (with Sami Zayn )
+wrs_curtis-axel-with-maryse_5c8a5b46,1,1,0,0,0,2017,2017,Curtis Axel ) (with Maryse )
+wrs_and-the-shining-stars-epico_4bbced90,1,1,0,0,0,2016,2016,and The Shining Stars ( Epico
+wrs_and-wade-barrett-with-ricardo-rodriguez_c1102dcd,1,1,0,0,0,2012,2012,and Wade Barrett ) (with Ricardo Rodriguez )
+wrs_and-victoria_f5bbe218,1,0,1,0,0,2008,2008,and Victoria
+wrs_and-victoria-2_4e266875,1,0,1,0,0,2008,2008,and Victoria ) 2
+wrs_and-vickie-guerrero_d0a240eb,1,1,0,0,0,2010,2010,and Vickie Guerrero
+wrs_and-veer_90c5fdf9,1,0,1,0,0,2021,2021,and Veer
+wrs_and-umaga-with-armando-alejandro-estrada-22_6468dcad,1,0,1,0,0,2006,2006,and Umaga ) (with Armando Alejandro Estrada ) [ 22 ]
+wrs_and-tyler-reks_a93c4c8e,1,0,1,0,0,2010,2010,and Tyler Reks
+wrs_and-tyler-reks-with-hornswoggle_89b7e44a,1,1,0,0,0,2010,2010,and Tyler Reks ) (with Hornswoggle )
+wrs_and-troy-two-dimes-donovan_6f64fa24,1,1,0,0,0,2022,2022,"and Troy ""Two Dimes"" Donovan"
+wrs_and-trish-stratus_6cac37d2,1,1,0,0,0,2011,2011,and Trish Stratus
+wrs_crash-holly-with-molly-holly_5aed87fa,1,1,0,1,0,2000,2000,Crash Holly (with Molly Holly )
+wrs_cora-jade_8af6a1f9,1,1,0,0,0,2021,2021,Cora Jade
+wrs_shinsuke-nakamura-smackdown-s-intercontinental-champion-with_089f7621,1,1,0,1,0,2021,2021,Shinsuke Nakamura ( SmackDown's Intercontinental Champion ) (with Rick Boogs )
+wrs_d-von-with-paul-heyman_b3188dd6,1,0,1,0,1,2004,2004,D-Von ) (with Paul Heyman )
+wrs_d-von-dudley-alliance_8bc2f518,1,1,0,1,0,2001,2001,D-Von Dudley ) (Alliance)
+wrs_d-lo-brown-with-tiger-ali-singh_33c2b209,1,1,0,0,0,2001,2001,D'Lo Brown ) (with Tiger Ali Singh )
+wrs_d-generation-x-x-pac_6def1770,1,0,1,0,0,2000,2000,D-Generation X ( X-Pac
+wrs_d-generation-x-shawn-michaels_2f07af7b,1,1,0,0,1,2007,2007,D-Generation X (Shawn Michaels
+wrs_chuck-wwf_d2b7529f,1,1,0,0,0,2001,2001,Chuck ( WWF )
+wrs_chuck-with-rico_de75be8d,1,1,0,1,0,2002,2002,Chuck (with Rico )
+wrs_and-drew-mcintyre-with-ric-flair_0e2c59c1,1,0,1,0,0,2019,2019,and Drew McIntyre ) (with Ric Flair )
+wrs_and-drew-gulak_5c179cf7,1,0,1,0,0,2018,2018,and Drew Gulak
+wrs_and-dominik-mysterio-with-rhea-ripley_cd37824f,1,1,0,0,0,2022,2022,and Dominik Mysterio ) (with Rhea Ripley )
+wrs_and-d-von-dudley-with-stone-cold-steve-austin_d63ac3ac,1,0,1,0,0,2003,2003,"and D-Von Dudley ) (with ""Stone Cold"" Steve Austin )"
+wrs_and-cm-punk_edc0e4e0,1,0,1,1,0,2010,2010,and CM Punk
+wrs_and-cm-punk-with-paul-heyman_b90fb14f,1,1,0,0,1,2024,2024,and CM Punk (with Paul Heyman )
+wrs_and-cm-punk-37_d7e43499,1,0,1,1,1,2006,2006,and CM Punk [ 37 ]
+wrs_and-cesaro_22d5f47b,1,1,0,1,0,2020,2020,and Cesaro
+wrs_shinsuke-nakamura-smackdown-s-united-states-champion_739c1968,1,0,1,1,0,2018,2018,Shinsuke Nakamura ( SmackDown's United States Champion )
+wrs_crash_2fc7f145,1,0,1,0,0,2002,2002,Crash
+wrs_chavo-guerrero-wcw_67a3b9e8,1,1,0,0,0,2001,2001,Chavo Guerrero (WCW)
+wrs_steven-richards-with-ivory_f4e3ad74,1,1,0,0,0,2001,2001,Steven Richards (with Ivory )
+wrs_steven-richards-note-1_cefbeb6c,1,0,1,1,0,2002,2002,Steven Richards [ Note 1 ]
+wrs_steve-blackman-with-chester-mccheeserton_fd78addf,1,0,1,0,0,2000,2000,Steve Blackman ) (with Chester McCheeserton)
+wrs_stephen-amell_ea3d384f,1,1,0,0,0,2015,2015,Stephen Amell
+wrs_stephanie-vaquer-raw-s-women-s-world-champion_af439e2f,1,1,0,1,0,2025,2025,Stephanie Vaquer ( Raw 's Women's World Champion )
+wrs_stephanie-mcmahon-with-linda-mcmahon-by-technical-knockout_3b78621e,1,0,1,0,0,2003,2003,Stephanie McMahon (with Linda McMahon ) by technical knockout
+wrs_stacy-keibler-wcw_54dbbd5d,1,0,1,0,0,2001,2001,Stacy Keibler (WCW)
+wrs_sylvan-58-59-60_b03d17f6,1,0,1,0,0,2006,2006,Sylvan [ 58 ] [ 59 ] [ 60 ]
+wrs_sylvain-grenier-with-rob-conway_cc376b5d,1,1,0,1,0,2003,2003,Sylvain Grenier ) (with Rob Conway )
+wrs_and-baron-corbin_f6a1733f,1,0,1,1,1,2017,2017,and Baron Corbin
+wrs_cm-punk-with-luke-gallows_ea02140e,1,0,1,1,1,2010,2010,CM Punk (with Luke Gallows
+wrs_cm-punk-a_6cb6d121,1,0,1,1,1,2010,2010,CM Punk [ a ]
+wrs_ciampa_44d0aec9,1,0,1,0,0,2022,2022,Ciampa
+wrs_d-von-with-spike-dudley_9edbc6ee,1,0,1,1,0,2003,2003,D-Von ) (with Spike Dudley )
+wrs_super-stacy-31_6cabd39c,1,0,1,0,0,2005,2005,Super Stacy ) [ 31 ]
+wrs_sunil-singh_0b10cfc5,1,0,1,0,1,2021,2021,Sunil Singh
+wrs_stone-cold-steve-austin-wwf_0f8faa13,1,0,1,1,1,2001,2001,"""Stone Cold"" Steve Austin (WWF)"
+wrs_stone-cold-steve-austin-by-2-1_5e067ddb,1,0,1,0,0,2001,2001,"""Stone Cold"" Steve Austin by 2–1"
+wrs_steven-richards-with-victoria_eb6c206a,1,0,1,0,0,2003,2003,Steven Richards (with Victoria )
+wrs_tavion-heights_bae1dee9,1,0,1,1,0,2025,2025,Tavion Heights
+wrs_tama-tonga-with-paul-heyman_7f2abb11,1,1,0,0,0,2024,2024,Tama Tonga ) (with Paul Heyman )
+wrs_skip-sheffield_f70aa42d,1,0,1,0,1,2010,2010,Skip Sheffield
+wrs_steven-richards-with-victoria-1-63-64_8cddafe5,1,0,1,0,0,2003,2003,Steven Richards (with Victoria ) [ 1 ] [ 63 ] [ 64 ]
+wrs_christy-hemme-with-lita_c26ce2ab,1,0,1,1,0,2005,2005,Christy Hemme (with Lita )
+wrs_christian-eckstein_0a8f1d7c,1,0,1,0,0,2003,2003,Christian Eckstein
+wrs_christian-by-escaping-the-cage_8e82600c,1,0,1,1,0,2000,2000,Christian by escaping the cage
+wrs_christian-alliance-by-escaping-the-cage_5c9eabb6,1,0,1,1,0,2001,2001,Christian (Alliance) by escaping the cage
+wrs_christian-21_136dd8c1,1,0,1,1,0,2004,2004,Christian [ 21 ]
+wrs_cryme-tyme-shad-gaspard_64b7b899,1,0,1,0,0,2008,2008,Cryme Tyme (Shad Gaspard
+wrs_cryme-tyme-jtg_e31f2d70,1,0,1,0,0,2008,2008,Cryme Tyme ( JTG
+wrs_team-raw-beth-phoenix_0d16a97c,1,1,0,0,0,2008,2008,Team Raw ( Beth Phoenix
+wrs_tajiri-with-torrie-wilson_5baf23e8,1,1,0,1,0,2002,2002,Tajiri (with Torrie Wilson )
+wrs_tajiri-with-torrie-wilson-wwf_314d003a,1,0,1,1,0,2001,2001,Tajiri (with Torrie Wilson ) (WWF)
+wrs_tajiri-light-heavyweight_aadfccca,1,0,1,1,0,2001,2001,Tajiri (Light Heavyweight)
+wrs_t-bar_84b5294c,1,0,1,1,0,2021,2021,T-Bar
+wrs_sylvester-terkay_84545be0,1,1,0,0,0,2006,2006,Sylvester Terkay
+wrs_sylvan_fa5e887e,1,0,0,1,0,2006,2006,Sylvan
+wrs_team-morrison-evan-bourne_24f3828a,1,0,1,0,0,2009,2009,Team Morrison ( Evan Bourne
+wrs_team-michelle-alicia-fox_ef991aaf,1,0,1,0,0,2009,2009,Team Michelle ( Alicia Fox
+wrs_team-jbl-john-bradshaw-layfield_48f86631,1,0,1,0,0,2008,2008,"Team JBL ( John ""Bradshaw"" Layfield"
+wrs_team-hbk-shawn-michaels_582c32b3,1,1,0,0,0,2008,2008,Team HBK ( Shawn Michaels
+wrs_team-foley-daniel-bryan_77e30d16,1,0,1,0,0,2012,2012,Team Foley ( Daniel Bryan
+wrs_team-flair-randy-orton_3b6fde55,1,0,1,0,0,2019,2019,Team Flair ( Randy Orton
+wrs_team-black_fadeeb5c,1,0,1,0,1,2021,2021,Team Black
+wrs_team-big-show-big-show_78172646,1,0,1,0,0,2006,2006,Team Big Show ( Big Show
+wrs_team-batista-batista_2fced0e8,1,0,1,0,0,2008,2008,Team Batista ( Batista
+wrs_team-triple-h-triple-h_541a2e91,1,0,1,0,1,2004,2004,Team Triple H ( Triple H
+wrs_team-smackdown-the-miz_a00cda97,1,0,1,0,0,2018,2018,Team SmackDown ( The Miz
+wrs_team-smackdown-shane-mcmahon_05b16ddd,1,0,1,0,1,2017,2017,Team SmackDown ( Shane McMahon
+wrs_team-smackdown-naomi_d523c12e,1,0,1,0,0,2018,2018,Team SmackDown ( Naomi
+wrs_team-b-a-d_e8491d1a,1,1,0,0,0,2015,2015,Team B.A.D.
+wrs_team-authority-seth-rollins_8d9676c6,1,0,1,0,1,2014,2014,Team Authority ( Seth Rollins
+wrs_team-austin-shawn-michaels_db55cfa0,1,0,1,0,0,2003,2003,Team Austin ( Shawn Michaels
+wrs_team-2-0-bron-breakker_2b6c6990,1,1,0,0,1,2021,2021,Team 2.0 ( Bron Breakker
+wrs_tazz-ecw_9426b3e1,1,0,1,0,0,2001,2001,Tazz (ECW)
+wrs_team-smackdown-alberto-del-rio_1bd10863,1,1,0,0,0,2010,2010,Team SmackDown ( Alberto Del Rio
+wrs_team-smackdown-aj-styles_5c41eb2c,1,1,0,0,0,2016,2016,Team SmackDown ( AJ Styles
+wrs_team-raw-mickie-james_661f87c7,1,1,0,0,0,2018,2018,Team Raw ( Mickie James
+wrs_team-raw-cm-punk_c8f7b941,1,0,1,0,0,2010,2010,Team Raw ( CM Punk
+wrs_team-raw-cesaro_56b0b39a,1,1,0,0,0,2016,2016,Team Raw ( Cesaro
+wrs_team-raw-braun-strowman_8d9d7c7b,1,0,1,0,0,2016,2016,Team Raw ( Braun Strowman
+wrs_team-raw-bobby-roode_75ce284f,1,0,1,0,0,2018,2018,Team Raw ( Bobby Roode
+wrs_chris-jericho-with-chyna_4700f479,1,0,1,1,0,2000,2000,Chris Jericho (with Chyna )
+wrs_chris-jericho-wcw_e5847c95,1,1,0,1,1,2001,2001,Chris Jericho (WCW)
+wrs_chris-jericho-some-would-describe-the-scene-as-a-profound-sh_a1c376a9,1,0,1,0,0,2009,2009,Chris Jericho Some would describe the scene as a profound showing of reverence from our nation's heroes to one of WWE's premier ring warriors
+wrs_chris-jericho-pinned_2dfbcc9f,1,0,1,1,0,2000,2000,Chris Jericho (pinned)
+wrs_chris-jericho-by-technical-knockout_e824ec43,1,0,1,0,0,2008,2008,Chris Jericho by technical knockout
+wrs_chris-jericho-20_50280ec0,1,0,1,1,1,2008,2008,Chris Jericho [ 20 ]
+wrs_chris-jericho-2-1_81260c5d,1,0,1,0,0,2000,2000,Chris Jericho 2-1
+wrs_team-paige-paige_a6b0eb4f,1,0,1,0,0,2014,2014,Team Paige ( Paige
+wrs_team-orton-cm-punk_5ffe4b27,1,0,1,0,0,2009,2009,Team Orton ( CM Punk
+wrs_team-nxt-tommaso-ciampa_9898c540,1,0,1,0,0,2019,2019,Team NXT ( Tommaso Ciampa
+wrs_team-natalya-natalya_617d2d59,1,1,0,0,0,2014,2014,Team Natalya ( Natalya
+wrs_team-ziggler-alberto-del-rio_858c257a,1,1,0,0,0,2012,2012,Team Ziggler ( Alberto Del Rio
+wrs_team-wwf-chris-jericho_85126302,1,0,1,0,1,2001,2001,Team WWF ( Chris Jericho
+wrs_team-wwe-legends-dusty-rhodes_76253dfa,1,1,0,0,0,2006,2006,Team WWE Legends ( Dusty Rhodes
+wrs_team-wcw-ecw-booker-t_f4178728,1,1,0,0,1,2001,2001,Team WCW/ECW ( Booker T
+wrs_team-umaga-umaga_5683350a,1,0,1,0,0,2007,2007,Team Umaga ( Umaga
+wrs_team-smackdown-maria_44aada75,1,0,1,0,0,2008,2008,Team SmackDown ( Maria
+wrs_team-smackdown-kevin-owens_37f0a94d,1,0,1,0,0,2020,2020,Team SmackDown ( Kevin Owens
+wrs_team-smackdown-drew-mcintyre_ac1cbbd6,1,0,1,0,0,2021,2021,Team SmackDown ( Drew McIntyre
+wrs_team-smackdown-bianca-belair_3487ffcd,1,0,1,0,0,2020,2020,Team SmackDown ( Bianca Belair
+wrs_team-smackdown-american-alpha-chad-gable_2d79e01f,1,0,1,0,0,2016,2016,Team SmackDown ( American Alpha ( Chad Gable
+wrs_test-c-intercontinental-alliance_0cedfe8e,1,0,1,1,0,2001,2001,Test (c - Intercontinental) (Alliance)
+wrs_terry-funk_3e348640,1,0,1,0,0,2006,2006,Terry Funk
+wrs_terri-with-perry-saturn_c086ae34,1,0,1,0,0,2000,2000,Terri (with Perry Saturn )
+wrs_terri-runnels_f4407cb6,1,1,0,0,0,2001,2001,Terri Runnels
+wrs_tensai-with-sakamoto_b576baed,1,0,1,1,0,2012,2012,Tensai (with Sakamoto )
+wrs_team-raw-aj-styles_c6a69ac9,1,1,0,0,0,2020,2020,Team Raw ( AJ Styles
+wrs_team-rated-rko-edge_233676e1,1,0,1,0,0,2006,2006,Team Rated-RKO ( Edge
+wrs_chris-sabin-by-2-1_767c7d04,1,0,1,1,0,2025,2025,Chris Sabin ) by 2–1
+wrs_chris-kanyon-c-wwf-alliance_ecbde035,1,0,1,1,0,2001,2001,Chris Kanyon (c - WWF) (Alliance)
+wrs_chris-jericho-with-stephanie-mcmahon_37762dc7,1,0,1,1,1,2002,2002,Chris Jericho (with Stephanie McMahon )
+wrs_chris-jericho-with-lance-cade_5578431a,1,0,1,1,0,2008,2008,Chris Jericho (with Lance Cade )
+wrs_the-corre-heath-slater_f82a43a4,1,1,0,1,0,2011,2011,The Corre ( Heath Slater
+wrs_the-col-ns-carlito_12c44e4c,1,1,0,1,0,2009,2009,The Colóns ( Carlito
+wrs_the-bunny_a31fbb2e,1,1,0,0,0,2014,2014,The Bunny
+wrs_the-brothers-of-destruction-the-undertaker_660d6b99,1,1,0,1,0,2001,2001,The Brothers of Destruction ( The Undertaker
+wrs_the-brawling-brutes-sheamus_1ee6c0d7,1,0,1,0,1,2022,2022,The Brawling Brutes ( Sheamus
+wrs_the-boss-n-hug-connection-bayley_e60b1f80,1,0,1,1,0,2019,2019,The Boss 'n' Hug Connection ( Bayley
+wrs_the-blue-meanie_77cb3e21,1,0,1,0,0,2005,2005,The Blue Meanie
+wrs_ted-dibiase-with-virgil_fccec1c0,1,0,1,0,0,2010,2010,Ted DiBiase (with Virgil )
+wrs_ted-dibiase-with-maryse_5bb5f78c,1,1,0,0,0,2010,2010,Ted DiBiase (with Maryse )
+wrs_ted-dibiase-w-maryse_2c86d24b,1,0,1,0,0,2010,2010,Ted DiBiase (w/ Maryse)
+wrs_ted-dibiase-jr-with-maryse_8901d655,1,0,1,1,0,2010,2010,Ted DiBiase Jr. (with Maryse )
+wrs_the-bloodline-jimmy-uso_8de05e48,1,0,1,0,0,2023,2023,The Bloodline ( Jimmy Uso
+wrs_the-big-valbowski_e6fe6faa,1,0,1,0,0,2002,2002,The Big Valbowski
+wrs_the-bella-twins-brie-bella_307f651d,1,1,0,0,0,2010,2010,The Bella Twins ( Brie Bella
+wrs_the-basham-brothers-doug_a4c613f3,1,1,0,1,0,2003,2003,The Basham Brothers ( Doug
+wrs_the-b-team-bo-dallas_96d5ee74,1,0,1,0,0,2018,2018,The B-Team ( Bo Dallas
+wrs_test_055ba971,1,0,1,0,0,2000,2000,Test )
+wrs_and-torrie-wilson-alliance_a4567b3c,1,0,1,0,0,2001,2001,and Torrie Wilson (Alliance)
+wrs_andrade-cien-almas-with-zelina-vega_c6356adf,1,1,0,0,0,2018,2018,"Andrade ""Cien"" Almas (with Zelina Vega )"
+wrs_anderson_52db9057,1,1,0,0,0,2016,2016,Anderson
+wrs_and-zoey-stark_fe9b321d,1,0,1,1,0,2023,2023,and Zoey Stark
+wrs_and-zelina-vega-by-retrieving-the-briefcase_4d9ad0aa,1,0,1,1,0,2021,2021,and Zelina Vega by retrieving the briefcase
+wrs_and-xavier-woods-smackdown_932a3981,1,0,1,0,0,2017,2017,and Xavier Woods ) ( SmackDown )
+wrs_and-xavier-woods-2_7e746fea,1,0,1,0,0,2015,2015,and Xavier Woods ) 2
+wrs_and-x-pac_dee1b9d5,1,0,1,1,0,2001,2001,and X-Pac
+wrs_and-william-regal-2-23_a4fe8ef0,1,0,1,0,0,2009,2009,and William Regal ) 2 [ 23 ]
+wrs_and-walter-2_66b42043,1,0,1,0,0,2019,2019,and Walter ) 2
+wrs_charlotte-flair-by-making-flair-say-i-quit_ee65b56e,1,0,1,1,0,2022,2022,"Charlotte Flair by making Flair say ""I quit"""
+wrs_charlie-haas-with-jackie-gayda_00eba3b7,1,0,1,0,0,2004,2004,Charlie Haas (with Jackie Gayda )
+wrs_test-with-trish-stratus_dea7fbc3,1,1,0,0,0,2000,2000,Test ) (with Trish Stratus )
+wrs_test-with-trish-stratus_4f6540b3,1,0,1,1,0,2000,2000,Test ) (with Trish Stratus)
+wrs_the-creed-brothers-brutus-creed_31a70fc8,1,0,1,1,0,2023,2023,The Creed Brothers ( Brutus Creed
+wrs_the-dudley-boyz_2301d269,1,1,0,0,1,2001,2001,The Dudley Boyz
+wrs_the-dudley-boyz-d-von-dudley_db6a4794,1,1,0,1,0,2001,2001,The Dudley Boyz ( D-Von Dudley
+wrs_the-hurricane-with-rosey_92b7a529,1,0,1,0,0,2005,2005,The Hurricane (with Rosey
+wrs_alicia-fox-b_714b98f3,1,0,0,1,0,2021,2021,Alicia Fox [ b ]
+wrs_and-carmella_a77213e4,1,0,1,0,0,2016,2016,and Carmella
+wrs_and-candice-lerae_694419ea,1,0,1,0,0,2024,2024,and Candice LeRae
+wrs_and-butch_b81ff080,1,1,0,0,0,2022,2022,and Butch
+wrs_and-butch_3f3618f7,1,0,1,0,1,2022,2022,and Butch )
+wrs_and-brock-lesnar-with-paul-heyman_d2c3148b,1,1,0,0,1,2025,2025,and Brock Lesnar (with Paul Heyman )
+wrs_and-bray-wyatt_458b59f1,1,0,1,1,1,2017,2017,and Bray Wyatt
+wrs_and-bradshaw_ee3031b5,1,1,0,0,0,2003,2003,and Bradshaw
+wrs_and-bobby-lashley-with-mvp_5b8ea205,1,1,0,0,0,2021,2021,and Bobby Lashley ) (with MVP )
+wrs_and-big-show_edaf89e9,1,1,0,0,1,2001,2001,and Big Show
+wrs_and-big-daddy-v-with-matt-striker_4005b089,1,0,1,1,0,2008,2008,and Big Daddy V (with Matt Striker )
+wrs_and-beulah-mcgillicutty_83e689d1,1,0,1,0,0,2006,2006,and Beulah McGillicutty
+wrs_and-beth-phoenix_e3e46444,1,0,1,1,0,2019,2019,and Beth Phoenix
+wrs_chad-gable-with-otis_9ae2c070,1,0,1,1,0,2024,2024,Chad Gable (with Otis )
+wrs_cesaro-with-zeb-colter_e86b8bc6,1,0,1,1,1,2014,2014,Cesaro (with Zeb Colter )
+wrs_cesaro-with-sheamus_1bdf34bc,1,1,0,0,0,2017,2017,Cesaro (with Sheamus )
+wrs_chris-benoit-with-shane-mcmahon_7a0ed1c7,1,0,1,1,1,2000,2000,Chris Benoit (with Shane McMahon )
+wrs_chris-benoit-2-1_c05eb613,1,0,1,0,0,2001,2001,Chris Benoit 2–1
+wrs_chris-benoit-2-0_2276e3a1,1,0,1,1,0,2007,2007,Chris Benoit 2–0
+wrs_chief-morley_48cd28d7,1,1,0,1,0,2003,2003,Chief Morley
+wrs_cherry_7e41c648,1,0,1,0,0,2008,2008,Cherry
+wrs_chelsea-green-smackdown-s-wwe-women-s-champion_09bad8f5,1,1,0,1,0,2026,2026,Chelsea Green ( SmackDown 's WWE Women's Champion )
+wrs_chavo-guerrero-with-vickie-guerrero-32_53fa2e9f,1,0,1,0,0,2006,2006,Chavo Guerrero (with Vickie Guerrero ) [ 32 ]
+wrs_cesaro-with-natalya_de340a73,1,1,0,1,0,2015,2015,Cesaro ) (with Natalya )
+wrs_cesaro-by-2-0_b2bf95b4,1,0,1,1,0,2014,2014,Cesaro by 2–0
+wrs_the-great-khali-with-daivari_36e8e5bf,1,1,0,0,0,2006,2006,The Great Khali (with Daivari )
+wrs_the-goodfather-with-steven-richards_d5ef2a0b,1,0,1,1,0,2000,2000,The Goodfather ) (with Steven Richards )
+wrs_the-f-b-i-chuck-palumbo_a4eb5ff4,1,1,0,0,0,2003,2003,The F.B.I. ( Chuck Palumbo
+wrs_the-dudleys_4d1704d4,1,1,0,0,1,2015,2015,The Dudleys
+wrs_the-hype-bros-mojo-rawley_e7a5728c,1,0,1,0,0,2016,2016,The Hype Bros ( Mojo Rawley
+wrs_the-original-el-grande-americano_1a7d3e65,1,0,0,1,0,2026,2026,"""The Original"" El Grande Americano"
+wrs_the-new-breed-elijah-burke_f0f1acfd,1,0,1,0,0,2007,2007,The New Breed ( Elijah Burke
+wrs_the-motor-city-machine-guns-alex-shelley_eda5161e,1,0,1,1,0,2025,2025,The Motor City Machine Guns ( Alex Shelley
+wrs_the-hurricane-with-ivory_0e35d368,1,0,1,1,0,2001,2001,The Hurricane (with Ivory
+wrs_the-hurricane-alliance_75d67ec4,1,0,1,0,0,2001,2001,The Hurricane (Alliance)
+wrs_the-holly-cousins-crash-holly_fb167c1c,1,1,0,0,0,2001,2001,The Holly Cousins ( Crash Holly
+wrs_the-ho-train_e3dfde9b,1,0,1,0,0,2000,2000,the Ho Train
+wrs_the-highlanders-robbie-mcallister_1d42a3e4,1,0,1,0,0,2006,2006,The Highlanders ( Robbie McAllister
+wrs_the-heart-throbs-antonio_da802c7b,1,0,1,1,0,2005,2005,The Heart Throbs ( Antonio
+wrs_the-great-white-battled-the-chosen-one-as-international-supe_512406d3,1,0,1,0,0,2011,2011,The Great White battled The Chosen One as international Superstars collided in front of American soldiers
+wrs_the-miz-raw_0b39d019,1,1,0,0,0,2009,2009,The Miz ( Raw )
+wrs_the-miz-by-escaping-the-cage_75def18b,1,0,1,0,0,2019,2019,The Miz by escaping the cage
+wrs_the-miz-30_cd7562ca,1,0,1,1,0,2007,2007,The Miz [ 30 ]
+wrs_the-mcmahon-helmsley-faction-mr-mcmahon_f26e9048,1,0,1,1,1,2000,2000,The McMahon-Helmsley Faction ( Mr. McMahon
+wrs_the-great-khali-with-hornswoggle_351e355c,1,0,1,0,0,2013,2013,The Great Khali (with Hornswoggle )
+wrs_cass-with-carmella_f57de415,1,0,1,1,0,2016,2016,Cass (with Carmella )
+wrs_cass-by-technical-knockout-note-1_9a339b9c,1,0,1,1,0,2016,2016,Cass by technical knockout [ Note 1 ]
+wrs_carmelo-hayes-with-trick-williams_e0280d65,1,1,0,1,0,2022,2022,Carmelo Hayes (with Trick Williams )
+wrs_carmella-with-reginald_b9357115,1,0,1,1,0,2021,2021,Carmella (with Reginald )
+wrs_carlito-with-torrie-wilson_4f40dda2,1,0,1,0,0,2007,2007,Carlito (with Torrie Wilson )
+wrs_carlito-with-matt-morgan_778e263b,1,1,0,0,0,2005,2005,Carlito (with Matt Morgan )
+wrs_carlito-dressed-in-camouflage-from-his-mask-to-his-pants_af4b4e2a,1,0,1,0,0,2009,2009,Carlito Dressed in camouflage from his mask to his pants
+wrs_charlotte-with-dana-brooke_067dd2e8,1,1,0,1,0,2016,2016,Charlotte (with Dana Brooke )
+wrs_charlotte-flair-smackdown_bf62646a,1,0,1,0,0,2018,2018,Charlotte Flair ( SmackDown )
+wrs_charlotte-flair-c-smackdown_0d5bd064,1,0,1,1,1,2019,2019,Charlotte Flair (c-SmackDown)
+wrs_the-league-of-nations-alberto-del-rio_e1471007,1,1,0,0,0,2016,2016,The League of Nations ( Alberto Del Rio
+wrs_the-ladies-in-pink-torrie-wilson_39f92f39,1,0,1,0,0,2005,2005,The Ladies in Pink ( Torrie Wilson
+wrs_the-kat-with-al-snow_ecfdf009,1,1,0,0,0,2000,2000,The Kat (with Al Snow )
+wrs_the-judgment-day-liv-morgan_0ee07869,1,0,1,0,0,2024,2024,The Judgment Day ( Liv Morgan
+wrs_the-judgment-day-damian-priest_c39c100a,1,0,1,0,1,2023,2023,The Judgment Day ( Damian Priest
+wrs_the-iron-sheik_e0cb00c7,1,1,0,0,0,2001,2001,The Iron Sheik
+wrs_the-undertaker-35_9bbcd063,1,0,1,1,1,2002,2002,The Undertaker [ 35 ]
+wrs_the-undertaker-23_a37157e9,1,0,1,1,1,2002,2002,The Undertaker [ 23 ]
+wrs_the-undertaker-20_855a72cb,1,0,1,0,0,2006,2006,The Undertaker [ 20 ]
+wrs_the-undertaker-18_db0d5916,1,0,1,1,1,2000,2000,The Undertaker [ 18 ]
+wrs_the-two-man-power-trip-stone-cold-steve-austin_d022f49a,1,0,1,1,1,2001,2001,"The Two Man Power Trip ( ""Stone Cold"" Steve Austin"
+wrs_the-miztourage-bo-dallas_d3e156a5,1,1,0,0,0,2017,2017,The Miztourage ( Bo Dallas
+wrs_the-miz-world_de623ac2,1,0,1,1,0,2009,2009,The Miz (World)
+wrs_the-miz-with-big-show_b1cde860,1,1,0,1,0,2010,2010,The Miz (with Big Show )
+wrs_the-miz-w-alex-riley_4ceb01ce,1,0,1,0,1,2010,2010,The Miz (w/ Alex Riley)
+wrs_the-rock-with-mr-mcmahon_4f4eed49,1,0,1,1,1,2000,2000,The Rock (with Mr. McMahon )
+wrs_the-rock-6-5_6d43b83c,1,0,1,1,1,2000,2000,The Rock 6–5
+wrs_the-rock-17_59210439,1,0,1,1,1,2000,2000,The Rock [ 17 ]
+wrs_the-riott-squad-ruby-riott_543c5f93,1,0,1,0,0,2019,2019,The Riott Squad ( Ruby Riott
+wrs_the-revival-scott-dawson_d4ace208,1,0,1,1,0,2019,2019,The Revival ( Scott Dawson
+wrs_the-revival-dash-wilder_23c2d4f3,1,0,1,0,0,2018,2018,The Revival ( Dash Wilder
+wrs_the-league-of-nations_3b7f1116,1,0,1,0,1,2015,2015,The League of Nations
+wrs_carlito-caribbean-cool_59dbb1a1,1,0,1,0,0,2004,2004,Carlito Caribbean Cool
+wrs_candice_95b1ce07,1,0,1,1,1,2006,2006,Candice
+wrs_camacho_2a9e0ad6,1,0,1,0,0,2012,2012,Camacho
+wrs_camacho-with-hunico_f50275a6,1,0,1,0,0,2012,2012,Camacho (with Hunico )
+wrs_cain-velasquez-with-rey-mysterio_24b82e45,1,0,1,1,0,2019,2019,Cain Velasquez (with Rey Mysterio )
+wrs_butch-with-tyler-bate-by-2-1_4ad13969,1,0,1,0,0,2023,2023,Butch (with Tyler Bate ) by 2–1
+wrs_bull-buchanan-with-steven-richards_c804be3c,1,0,1,0,0,2001,2001,Bull Buchanan ) (with Steven Richards )
+wrs_bronco-nima-with-scrypts_09138e4b,1,0,1,1,0,2023,2023,Bronco Nima ) (with Scrypts )
+wrs_the-radicalz-eddie-guerrero_56211c23,1,1,0,0,0,2000,2000,The Radicalz ( Eddie Guerrero
+wrs_the-radicalz-dean-malenko_32e789f2,1,1,0,0,0,2000,2000,The Radicalz ( Dean Malenko
+wrs_the-radicalz-chris-benoit_04cadbb6,1,0,1,0,0,2000,2000,The Radicalz ( Chris Benoit
+wrs_the-undertaker-smackdown_ae2dd0de,1,0,1,0,1,2007,2007,The Undertaker ( SmackDown! )
+wrs_the-undertaker-c-wcw-with-sara-wwf_c851b4f6,1,1,0,1,0,2001,2001,The Undertaker ) (c - WCW) (with Sara ) (WWF)
+wrs_the-undertaker-by-technical-knockout_63be682f,1,0,1,0,0,2008,2008,The Undertaker by technical knockout
+wrs_the-undertaker-by-burying-him-alive_558fc365,1,0,1,1,0,2010,2010,The Undertaker by burying him alive
+wrs_the-undertaker-37_4f3ddc76,1,0,1,1,1,2007,2007,The Undertaker [ 37 ]
+wrs_also_09706c41,1,1,0,1,1,2006,2006,Also
+wrs_aliyah_b559de11,1,0,0,1,0,2022,2022,Aliyah
+wrs_the-two-man-power-trip-stone-cold-steve-austin_2de73aab,1,1,0,1,1,2001,2001,"The Two-Man Power Trip ( ""Stone Cold"" Steve Austin"
+wrs_the-straight-edge-society-cm-punk_86414e69,1,0,1,0,0,2010,2010,The Straight Edge Society ( CM Punk
+wrs_the-spirit-squad-johnny_516416d7,1,0,1,0,0,2006,2006,The Spirit Squad ( Johnny
+wrs_the-shield-seth-rollins_fcd79968,1,0,1,0,0,2013,2013,The Shield ( Seth Rollins
+wrs_the-wyatt-family-braun-strowman_512eacc7,1,0,1,0,0,2016,2016,The Wyatt Family ( Braun Strowman
+wrs_the-welcoming-committee-carmella_2ccd6404,1,1,0,0,0,2017,2017,The Welcoming Committee ( Carmella
+wrs_the-vision-bronson-reed_563b7f5f,1,1,0,0,0,2025,2025,The Vision ( Bronson Reed
+wrs_the-viking-raiders-erik_da5e4b96,1,1,0,0,0,2019,2019,The Viking Raiders ( Erik
+wrs_the-undisputed-era-bobby-fish_df1376b7,1,0,1,0,0,2019,2019,The Undisputed Era ( Bobby Fish
+wrs_the-undertaker_9cbd3575,1,0,1,1,0,2001,2001,The Undertaker )
+wrs_the-undertaker-wwf_dd5dee8d,1,1,0,0,0,2001,2001,The Undertaker (WWF)
+wrs_the-real-americans-antonio-cesaro_bd131abe,1,1,0,0,0,2013,2013,The Real Americans ( Antonio Cesaro
+wrs_the-rated-r-superstar-s-fellow-world-tag-team-champion_30fdc629,1,0,1,1,0,2006,2006,the Rated-R Superstar’s fellow World Tag Team Champion
+wrs_angel-garza-with-zelina-vega_580aecb8,1,0,1,1,0,2020,2020,Angel Garza (with Zelina Vega )
+wrs_ariya-daivari_a5c4cf43,1,0,1,1,0,2019,2019,Ariya Daivari
+wrs_ariel_0a2e4da8,1,1,0,0,0,2006,2006,Ariel
+wrs_arianna-grace_964cf5a0,1,0,1,0,0,2022,2022,Arianna Grace
+wrs_apollo-crews-with-ricochet_e4f18126,1,0,1,1,0,2020,2020,Apollo Crews (with Ricochet )
+wrs_aop-akam_3f1197e9,1,1,0,0,0,2018,2018,AOP ( Akam
+wrs_brock-lesnar-with-paul-heyman-note-1_cf23b027,1,1,0,1,1,2019,2019,Brock Lesnar (with Paul Heyman ) [ Note 1 ]
+wrs_the-undertaker-with-kane_d633dcbb,1,0,1,0,1,2018,2018,The Undertaker (with Kane )
+wrs_and-asuka_85e70999,1,0,1,0,0,2022,2022,and Asuka
+wrs_and-angel-garza_4229c318,1,0,1,1,0,2023,2023,and Angel Garza
+wrs_and-alexa-bliss_f2a99ca7,1,0,1,1,0,2019,2019,and Alexa Bliss
+wrs_and-alexa-bliss-note-1_d0e20165,1,1,0,0,0,2016,2016,and Alexa Bliss [ Note 1 ]
+wrs_and-alberto-del-rio-with-ricardo-rodriguez_44fa6819,1,0,1,0,0,2011,2011,and Alberto Del Rio (with Ricardo Rodriguez )
+wrs_and-adriana-rizzo_a9d6eb22,1,0,1,1,0,2024,2024,and Adriana Rizzo
+wrs_and-a-train_8f660f67,1,0,1,0,0,2003,2003,and A-Train
+wrs_american-alpha_00c74114,1,0,1,0,0,2016,2016,American Alpha
+wrs_although-seth-rollins_26882e19,1,1,0,0,1,2017,2017,Although Seth Rollins
+wrs_triple-h-world-heavyweight_05993b2f,1,1,0,0,0,2002,2002,Triple H (World Heavyweight)
+wrs_alicia-fox-with-alexa-bliss_1f498fae,1,0,1,0,0,2018,2018,Alicia Fox (with Alexa Bliss )
+wrs_the-undertaker-tag-team_fb62d1a6,1,0,1,1,1,2001,2001,The Undertaker ) (Tag Team)
+wrs_tjp_4ea1b51e,1,0,1,0,0,2018,2018,TJP
+wrs_tj-perkins_9710241f,1,1,0,0,0,2016,2016,TJ Perkins
+wrs_titus-worldwide-apollo_dccac259,1,0,1,1,0,2018,2018,Titus Worldwide ( Apollo
+wrs_titus-o-neil-with-dana-brooke_ee2508dc,1,0,1,1,0,2018,2018,Titus O'Neil ) (with Dana Brooke )
+wrs_tiger-ali-singh_4993edbc,1,0,1,0,0,2000,2000,Tiger Ali Singh
+wrs_tiffany-stratton-smackdown-s-wwe-women-s-champion_008915ce,1,0,1,1,0,2025,2025,Tiffany Stratton ( SmackDown 's WWE Women's Champion )
+wrs_theodore-long_0e21ef5e,1,0,1,0,0,2003,2003,Theodore Long
+wrs_theodore-long-with-palmer-canon_1f70b74d,1,1,0,0,0,2005,2005,Theodore Long (with Palmer Canon )
+wrs_the-undertaker-with-vince-mcmahon-wwf_85c8c254,1,0,1,0,1,2001,2001,The Undertaker ) (with Vince McMahon ) (WWF)
+wrs_bron-breakker-with-paul-heyman_a7862400,1,1,0,0,0,2026,2026,Bron Breakker (with Paul Heyman )
+wrs_bron-breakker-with-paul-heyman_03cbe175,1,1,0,0,0,2025,2025,Bron Breakker ) (with Paul Heyman )
+wrs_bron-breakker-ii_8093a1b2,1,0,0,1,0,2024,2024,Bron Breakker [ ii ]
+wrs_armando-alejandro-estrada_c376fb50,1,0,1,0,0,2007,2007,Armando Alejandro Estrada
+wrs_bray-wyatt-in-a-boot-camp-match_0c70ba91,1,0,1,0,0,2014,2014,Bray Wyatt in a Boot Camp Match
+wrs_braun-strowman-by-surviving-the-time-limit_49d72576,1,0,1,0,0,2016,2016,Braun Strowman by surviving the time limit
+wrs_bubba-ray-dudley-c-wcw-with-stacy-keibler-alliance_1c940a26,1,1,0,1,0,2001,2001,Bubba Ray Dudley ) (c - WCW) (with Stacy Keibler ) (Alliance)
+wrs_bryan-clark-with-steven-richards-alliance_716c06b5,1,0,1,1,0,2001,2001,Bryan Clark ) (with Steven Richards ) (Alliance)
+wrs_brutus-creed_3152208d,1,1,0,1,0,2022,2022,Brutus Creed
+wrs_brooke-adams_186bce10,1,0,1,0,0,2007,2007,Brooke Adams
+wrs_asuka-with-kairi-sane_27706326,1,0,1,1,0,2020,2020,Asuka (with Kairi Sane )
+wrs_tori_6e451646,1,1,0,0,0,2000,2000,Tori
+wrs_too-cool-grand-master-sexay_518e9d3e,1,0,1,1,0,2000,2000,Too Cool ( Grand Master Sexay
+wrs_tony-mamaluke-with-trinity-34_72b369ae,1,0,1,0,0,2006,2006,Tony Mamaluke ) (with Trinity ) [ 34 ]
+wrs_tony-mamaluke-with-big-guido_61fc7b15,1,1,0,0,0,2006,2006,Tony Mamaluke ) (with Big Guido )
+wrs_tommy-dreamer-with-colin-delaney_88875aed,1,0,1,1,0,2008,2008,Tommy Dreamer (with Colin Delaney )
+wrs_tommy-dreamer-ecw-with-terry-funk_eaeb91ec,1,0,1,0,0,2006,2006,Tommy Dreamer (ECW) (with Terry Funk )
+wrs_tommy-dreamer-alliance_3cde75c2,1,0,1,0,0,2001,2001,Tommy Dreamer (Alliance)
+wrs_tommy-dreamer-35_871d0ca9,1,0,1,0,0,2006,2006,Tommy Dreamer [ 35 ]
+wrs_triple-h_3b522efd,1,1,0,0,1,2007,2007,Triple H)
+wrs_trish-stratus-with-bubba-ray-dudley_0adba68a,1,1,0,1,0,2002,2002,Trish Stratus (with Bubba Ray Dudley )
+wrs_vader_526d7d4f,1,0,1,0,0,2005,2005,Vader
+wrs_triple-h-with-ric-flair-32_00975242,1,0,1,1,1,2003,2003,Triple H (with Ric Flair ) [ 32 ]
+wrs_triple-h-in-a-boot-camp-match_4371100f,1,0,1,0,1,2005,2005,Triple H in a Boot Camp Match
+wrs_triple-h-42_40c1d27f,1,0,1,1,1,2003,2003,Triple H [ 42 ]
+wrs_triple-h-2-1_6f95413a,1,0,1,1,1,2009,2009,Triple H 2-1
+wrs_tribute-to-the-troops-2018-results-aj-styles_0c3cc29d,1,1,0,0,0,2018,2018,Tribute to the Troops 2018 results: AJ Styles
+wrs_aj-styles-raw-s-united-states-champion_e5fcc2bc,1,0,1,1,0,2019,2019,AJ Styles ( Raw's United States Champion )
+wrs_alexander-rusev_4e923450,1,0,0,1,1,2014,2014,Alexander Rusev
+wrs_alexander-rusev-with-lana_bcb87c30,1,1,0,0,0,2014,2014,Alexander Rusev (with Lana )
+wrs_alexa-bliss-with-nikki-cross_ac7009a2,1,0,1,1,0,2019,2019,Alexa Bliss (with Nikki Cross )
+wrs_alexa-bliss-raw-women-s-champion_e20cc4e8,1,0,1,1,0,2017,2017,Alexa Bliss ( Raw Women's Champion )
+wrs_tracy-smothers_62bf4777,1,0,1,0,0,2005,2005,Tracy Smothers
+wrs_brock-lesnar-1_265ba185,1,0,0,1,0,2020,2020,Brock Lesnar [1]
+wrs_brie_4b143d5f,1,1,0,0,0,2012,2012,Brie
+wrs_bray-wyatt-via-disqualification_bc09c4ac,1,0,1,0,0,2013,2013,Bray Wyatt via disqualification
+wrs_brass-ring-club-tyson-kidd_da921061,1,1,0,1,0,2015,2015,Brass Ring Club ( Tyson Kidd
+wrs_bradshaw-with-faarooq_08fa524f,1,0,1,0,0,2002,2002,Bradshaw (with Faarooq )
+wrs_booker-t-with-shane-mcmahon-alliance_c5253a5a,1,0,1,1,1,2001,2001,Booker T (with Shane McMahon ) (Alliance)
+wrs_booker-t-alliance_e0b65438,1,0,1,0,0,2001,2001,Booker T (Alliance)
+wrs_bobby-lashley-with-donald-trump_58b516b3,1,1,0,0,0,2007,2007,Bobby Lashley (with Donald Trump )
+wrs_bob-orton_19c4fefe,1,1,0,0,0,2005,2005,Bob Orton
+wrs_bob-backlund_76902403,1,0,0,1,1,2000,2000,Bob Backlund
+wrs_billy-kidman-wcw_8e0ecb28,1,1,0,0,0,2001,2001,Billy Kidman (WCW)
+wrs_billy-kidman-alliance_6658df41,1,1,0,1,0,2001,2001,Billy Kidman (Alliance)
+wrs_tyler-breeze-with-summer-rae_0df19a68,1,1,0,0,0,2015,2015,Tyler Breeze (with Summer Rae )
+wrs_tyler-bate_0efba1bf,1,0,1,1,0,2024,2024,Tyler Bate
+wrs_tucker_ff518c2b,1,0,1,1,0,2020,2020,Tucker )
+wrs_tucker-knight_25bec8bd,1,0,0,1,1,2018,2018,Tucker Knight
+wrs_true-divas-aj-lee_fc9ad16f,1,0,1,0,0,2013,2013,True Divas ( AJ Lee
+wrs_trish-stratus-wwf_99341fc1,1,1,0,1,0,2001,2001,Trish Stratus (WWF)
+wrs_trish-stratus-with-mickie-james_2b7e835e,1,1,0,1,0,2005,2005,Trish Stratus (with Mickie James )
+wrs_william-regal-with-dave-taylor_afc140da,1,0,1,0,0,2007,2007,William Regal (with Dave Taylor )
+wrs_while-carlito_14787b54,1,1,0,1,0,2006,2006,while Carlito
+wrs_uno_81b6f507,1,1,0,1,0,2000,2000,Uno
+wrs_umaga-raw_3b45458d,1,0,1,0,0,2008,2008,Umaga (Raw)
+wrs_umaga-in-a-six-man-tag-team-match_dfe0e4b6,1,0,1,0,1,2007,2007,Umaga in a Six-Man Tag Team match
+wrs_umaga-34_a32b7697,1,0,1,0,0,2007,2007,Umaga [ 34 ]
+wrs_tyson-kidd-with-natalya-by-2-1_6d307fae,1,0,1,1,0,2015,2015,Tyson Kidd (with Natalya ) by 2–1
+wrs_tyson-fury_b9c7db4a,1,1,0,0,0,2019,2019,Tyson Fury
+wrs_tyson-dux_56bad6a7,1,0,1,0,0,2007,2007,Tyson Dux
+wrs_viktor-with-konnor_af9bae36,1,0,1,0,0,2016,2016,Viktor (with Konnor )
+wrs_viktor-1_ba42544c,1,0,1,0,0,2018,2018,Viktor )) 1
+wrs_alberto-del-rio-2-1_fe360e28,1,0,1,1,0,2016,2016,Alberto Del Rio 2–1
+wrs_albert_b24b2d0e,1,0,1,0,0,2000,2000,Albert )
+wrs_asuka-raw-women-s-champion_cd5e7af7,1,0,1,1,0,2020,2020,Asuka ( Raw Women's Champion )
+wrs_ashley-with-snoop-dogg_9dbde854,1,0,1,0,0,2008,2008,Ashley (with Snoop Dogg )
+wrs_big-show-with-shane-mcmahon_75e11abb,1,0,1,1,1,2000,2000,Big Show (with Shane McMahon )
+wrs_big-show-wwf_19c56d78,1,1,0,0,0,2001,2001,Big Show (WWF)
+wrs_andre-chase_115fc6af,1,0,1,0,0,2021,2021,Andre Chase
+wrs_babatunde_cc02771a,1,0,0,1,1,2018,2018,Babatunde
+wrs_b-2_672724e1,1,0,0,0,0,2003,2003,B-2
+wrs_axiom_b85b34a6,1,1,0,1,0,2024,2024,Axiom
+wrs_austin-theory-with-zelina-vega_ab8fedc5,1,0,1,1,0,2020,2020,Austin Theory (with Zelina Vega )
+wrs_austin-theory-with-maxxine-dupri_640d4a59,1,0,1,1,0,2026,2026,Austin Theory ) (with Maxxine Dupri )
+wrs_bad-santa-jbl_7ce5a958,1,0,1,0,0,2005,2005,Bad Santa (JBL)
+wrs_bayley-m_20aa897c,1,1,0,0,0,2016,2016,Bayley M
+wrs_velveteen-dream_0484f536,1,1,0,0,1,2019,2019,Velveteen Dream
+wrs_valhalla_9fa3087a,1,0,0,1,0,2024,2024,Valhalla
+wrs_valentina-feroz-with-yulisa-le-n_083e4b5c,1,1,0,0,0,2022,2022,Valentina Feroz (with Yulisa León )
+wrs_val-venis-with-trish-stratus_99b46956,1,1,0,1,0,2000,2000,Val Venis (with Trish Stratus)
+wrs_val-venis-with-nidia_df073eed,1,0,1,0,0,2004,2004,Val Venis (with Nidia )
+wrs_val-venis-with-ivory_51b257fa,1,1,0,0,0,2000,2000,Val Venis (with Ivory )
+wrs_william-regal-wwf_bdec8cb1,1,0,1,0,0,2001,2001,William Regal (WWF)
+wrs_with-duke-hudson_3e8e980e,1,0,1,1,0,2024,2024,with Duke Hudson
+wrs_with-deacon-batista_a56117eb,1,0,1,1,0,2002,2002,with Deacon Batista
+wrs_wes-lee_4837ed5f,1,0,1,0,0,2024,2024,Wes Lee
+wrs_wade-barrett-with-john-cena_ad5b0185,1,1,0,1,1,2010,2010,Wade Barrett (with John Cena )
+wrs_von-wagner_73e19813,1,0,1,1,0,2021,2021,Von Wagner
+wrs_vladimir-kozlov-with-tamina-snuka_e37ffc01,1,0,1,1,0,2011,2011,Vladimir Kozlov (with Tamina Snuka )
+wrs_viscera-with-trish-stratus_724286a1,1,0,1,0,0,2005,2005,Viscera (with Trish Stratus )
+wrs_with-bull-buchanan_614fd7ae,1,1,0,0,0,2000,2000,with Bull Buchanan
+wrs_with-bubba-ray-dudley_dbedfcfc,1,0,1,0,0,2000,2000,with Bubba Ray Dudley
+wrs_with-brodus-clay_260d1cc2,1,0,1,1,0,2011,2011,with Brodus Clay
+wrs_with-big-guido_b36326cb,1,0,1,0,0,2005,2005,with Big Guido
+wrs_with-baron-corbin_c506c600,1,1,0,0,0,2018,2018,with Baron Corbin
+wrs_with-austin-theory_c6b7c644,1,0,1,1,1,2026,2026,with Austin Theory
+wrs_victoria-with-candice-michelle_f7305be1,1,0,1,0,0,2005,2005,Victoria ) (with Candice Michelle )
+wrs_billy-gunn-with-torrie-wilson_60694e98,1,0,1,0,0,2003,2003,Billy Gunn (with Torrie Wilson )
+wrs_bill-alfonso_8a82f6dc,1,1,0,0,0,2005,2005,Bill Alfonso
+wrs_big-show-by-throwing-him-out-of-the-ring_8563f3b3,1,0,1,0,0,2005,2005,Big Show by throwing him out of the ring
+wrs_big-show-by-escaping-the-cage-14_fe2147cc,1,0,1,1,1,2005,2005,Big Show by escaping the cage [ 14 ]
+wrs_big-show-9_9b4ff077,1,0,1,0,0,2008,2008,Big Show [ 9 ]
+wrs_big-e-raw-s-wwe-champion_917873dc,1,0,1,1,1,2021,2021,Big E ( Raw's WWE Champion )
+wrs_big-daddy-v-with-matt-striker_871745cd,1,0,1,1,0,2007,2007,Big Daddy V (with Matt Striker )
+wrs_big-cass-with-enzo-amore_37231c78,1,0,1,0,0,2016,2016,Big Cass (with Enzo Amore )
+wrs_big-cass-in-a-money-in-the-bank-triple-threat-qualifying-mat_14778e1f,1,0,1,0,0,2026,2026,Big Cass in a Money in the Bank Triple Threat Qualifying Match
+wrs_blair-davenport_58738d24,1,1,0,0,0,2023,2023,Blair Davenport
+wrs_becky-lynch-to-become-the-new-women-s-intercontinental-champ_af253b50,1,0,1,1,0,2025,2025,Becky Lynch to become the new Women's Intercontinental Champion
+wrs_becky-lynch-raw-women-s_cde05667,1,1,0,1,0,2019,2019,Becky Lynch (Raw Women's)
+wrs_with-akio_b018f473,1,1,0,1,0,2003,2003,with Akio
+wrs_with-akam_bd5dea84,1,0,1,1,0,2020,2020,with Akam
+wrs_with-fallon-henley_98e20d8b,1,1,0,1,0,2025,2025,with Fallon Henley
+wrs_with-ezekiel-jackson_9785c9c9,1,0,1,1,0,2009,2009,with Ezekiel Jackson
+wrs_with-eric-bischoff_ba5c2237,1,1,0,0,0,2003,2003,with Eric Bischoff
+wrs_with-dusty-rhodes_af4baef9,1,1,0,1,0,2006,2006,with Dusty Rhodes
+wrs_with-natalya_78d12012,1,1,0,0,0,2010,2010,with Natalya
+wrs_with-naomi_4cee6d0b,1,0,1,0,0,2015,2015,with Naomi
+wrs_with-damian-priest_1872d7b9,1,0,1,0,0,2022,2022,with Damian Priest
+wrs_with-cody-rhodes_2f609cfc,1,0,1,0,0,2008,2008,with Cody Rhodes
+wrs_with-chaz_5f1c4dc7,1,0,1,0,0,2000,2000,with Chaz
+wrs_with-channing-stacks-lorenzo_eb7d3617,1,0,1,1,0,2024,2024,"with Channing ""Stacks"" Lorenzo"
+wrs_with-cesaro_0f98c2f6,1,1,0,1,0,2020,2020,with Cesaro
+wrs_with-lita_9796ac39,1,1,0,0,0,2006,2006,with Lita
+wrs_with-kofi-kingston_b3551c13,1,1,0,0,0,2018,2018,with Kofi Kingston
+wrs_with-kaitlyn_6823a6cb,1,1,0,1,0,2010,2010,with Kaitlyn
+wrs_with-john-laurinaitis_e7460e8c,1,1,0,0,0,2012,2012,with John Laurinaitis
+wrs_with-joey-mercury_f8b537e2,1,0,1,1,0,2005,2005,with Joey Mercury
+wrs_with-jey-uso_6884bd88,1,1,0,0,0,2014,2014,with Jey Uso
+wrs_with-angel-garza_9a52288f,1,0,1,1,0,2020,2020,with Angel Garza
+wrs_big-show-with-john-laurinaitis-by-escaping-the-cage_0e718aed,1,0,1,0,1,2012,2012,Big Show (with John Laurinaitis ) by escaping the cage
+wrs_big-show-ecw_0e8ac6e8,1,1,0,0,0,2006,2006,Big Show (ECW)
+wrs_world-heavyweight-champion-john-cena_57e70da4,1,1,0,1,0,2008,2008,World Heavyweight Champion John Cena
+wrs_women-s-united-states-champion-giulia_54736624,1,1,0,1,0,2025,2025,Women’s United States Champion Giulia
+wrs_women-s-champion-trish-stratus_dbb57241,1,1,0,1,1,2006,2006,Women's Champion Trish Stratus
+wrs_with-xavier-woods_7d282e13,1,1,0,1,0,2019,2019,with Xavier Woods
+wrs_with-uncle-howdy_b46d4c73,1,1,0,1,0,2025,2025,with Uncle Howdy
+wrs_with-jakara-jackson_634a4806,1,1,0,0,0,2023,2023,with Jakara Jackson
+wrs_with-jack-swagger_51598ea0,1,0,1,0,0,2012,2012,with Jack Swagger
+wrs_with-j_8f651688,1,1,0,0,0,2015,2015,with J
+wrs_with-ice-t_0ee59d93,1,0,1,0,0,2000,2000,with Ice-T
+wrs_with-hulk-hogan_c0075d16,1,1,0,0,0,2019,2019,with Hulk Hogan
+wrs_with-goldust_1b9ab483,1,0,1,0,0,2005,2005,with Goldust
+wrs_with-ridge-holland_329cdc8b,1,0,1,1,0,2022,2022,with Ridge Holland
+wrs_with-raquel-rodriguez_14eccc47,1,1,0,1,0,2025,2025,with Raquel Rodriguez
+wrs_with-otis_e71a6107,1,0,1,1,0,2024,2024,with Otis
+wrs_with-nikki-bella_f149dc2d,1,0,1,0,0,2013,2013,with Nikki Bella
+wrs_with-nia-jax_5798695d,1,0,1,0,0,2021,2021,with Nia Jax
+wrs_akam_62c048e0,1,0,1,0,0,2019,2019,Akam
+wrs_akebono_5fbb5d8e,1,1,0,0,0,2005,2005,Akebono
+wrs_wwe-champion-jeff-hardy_5a4b3eac,1,1,0,1,1,2008,2008,WWE Champion Jeff Hardy
+wrs_al-snow-wwf_3709234c,1,0,1,1,0,2001,2001,Al Snow (WWF)
+wrs_al-snow-with-head_50397d50,1,0,1,0,0,2000,2000,Al Snow (with Head )
+wrs_akira-tozawa-raw_0a7a9278,1,0,1,1,0,2019,2019,Akira Tozawa ( Raw )
+wrs_xavier-woods-with-big-e-raw-tag-team-champions_3978aa24,1,0,1,0,0,2020,2020,Xavier Woods ) (with Big E ) ( Raw Tag Team Champions )
+wrs_with-maryse_07236b31,1,0,1,0,0,2022,2022,with Maryse
+wrs_aaron-relic_a61e51f7,1,0,1,0,0,2012,2012,Aaron Relic
+wrs_a-train-with-sable_7e92c1ed,1,0,1,0,0,2003,2003,A-Train (with Sable )
+wrs_3mb_f57a70e0,1,0,1,0,0,2012,2012,3MB
+wrs_3mb-heath-slater_33879698,1,1,0,0,0,2012,2012,3MB ( Heath Slater
+wrs_big-boss-man-with-prince-albert_8c3720cd,1,0,1,0,0,2000,2000,Big Boss Man (with Prince Albert )
+wrs_becky-lynch_88e2b463,1,0,0,1,0,2019,2019,Becky Lynch **
+wrs_x-pac-wwf_2e3490e2,1,0,1,0,0,2001,2001,X-Pac (WWF)
+wrs_x-pac-cruiserweight_45d308e4,1,1,0,1,0,2001,2001,X-Pac (Cruiserweight)
+wrs_zachary-wentz_d254d3d6,1,1,0,0,0,2024,2024,Zachary Wentz
+wrs_yoshiki-inamura-with-josh-briggs_338e91c4,1,0,1,1,0,2025,2025,Yoshiki Inamura (with Josh Briggs )
+wrs_yoshihiro-tajiri_ce170ef6,1,0,1,0,0,2006,2006,Yoshihiro Tajiri
+wrs_xavier-woods-with-jon-stewart_66d83985,1,0,1,1,0,2016,2016,Xavier Woods ) (with Jon Stewart )
+wrs_with-teddy-long_0cee51c1,1,0,1,0,0,2012,2012,with Teddy Long
+wrs_with-stephanie-mcmahon_7427efb3,1,0,1,0,0,2001,2001,with Stephanie McMahon
+wrs_wwf_d6d54c54,1,1,0,1,1,2001,2001,WWF
+wrs_wwe-universal-champion-roman-reigns_2a4c9dc4,1,1,0,1,1,2021,2021,WWE Universal Champion Roman Reigns
+wrs_wwe-tag-team-champions-air-boom_e3e80c95,1,0,1,0,1,2011,2011,WWE Tag Team Champions Air Boom
+wrs_wwe-tag-team-champions-air-boom-in-a-title-free-match_dd6a63ef,1,0,1,1,0,2011,2011,WWE Tag Team Champions Air Boom in a Title-free match
+wrs_wwe-tag-team-champions-air-boom-in-a-title-free-match-the-ex_8b8ae870,1,0,1,1,0,2011,2011,WWE Tag Team Champions Air Boom in a Title-free match The exciting new tag team of Epico
+wrs_wwe-s-biggest-titans-faced-off-in-a-main-event-truly-worthy-_4b8e139e,1,0,1,1,0,2011,2011,WWE’s biggest titans faced off in a main event truly worthy of Fort Bragg
+wrs_wwe-champion-john-cena_d95c463f,1,1,0,1,0,2006,2006,WWE Champion John Cena
+wrs_aj-styles-by-retrieving-the-championship-belts_fbcffb5d,1,0,1,1,0,2020,2020,AJ Styles by retrieving the championship belts
+wrs_aj-styles-by-making-styles-say-i-quit_c38c970b,1,0,1,1,0,2024,2024,"AJ Styles by making Styles say ""I quit"""
+wrs_x-pac-with-tori_c7522799,1,1,0,0,0,2000,2000,X-Pac (with Tori )

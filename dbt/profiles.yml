@@ -1,0 +1,12 @@
+wwe_history:
+  target: dev
+  outputs:
+    dev:
+      type: postgres
+      host: localhost
+      user: wwe
+      password: wwe
+      port: 5432
+      dbname: wwe_history
+      schema: analytics
+      threads: 4

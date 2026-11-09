@@ -1,0 +1,304 @@
+{
+  "total_eligible_events": 419,
+  "total_events_collected": 419,
+  "total_matches_collected": 0,
+  "total_unique_wrestlers": 0,
+  "total_championship_matches": 0,
+  "total_title_changes": 0,
+  "events_missing_match_cards": 419,
+  "events_missing_results": 419,
+  "records_requiring_manual_verification": 30,
+  "coverage_by_year": {
+    "2000": 100.0,
+    "2001": 100.0,
+    "2002": 100.0,
+    "2003": 100.0,
+    "2004": 100.0,
+    "2005": 100.0,
+    "2006": 100.0,
+    "2007": 100.0,
+    "2008": 100.0,
+    "2009": 100.0,
+    "2010": 100.0,
+    "2011": 100.0,
+    "2012": 100.0,
+    "2013": 100.0,
+    "2014": 100.0,
+    "2015": 100.0,
+    "2016": 100.0,
+    "2017": 100.0,
+    "2018": 100.0,
+    "2019": 100.0,
+    "2020": 100.0,
+    "2021": 100.0,
+    "2022": 100.0,
+    "2023": 100.0,
+    "2024": 100.0,
+    "2025": 100.0,
+    "2026": 100.0,
+    "2027": 100.0
+  },
+  "coverage_by_series": {
+    "Armageddon": {
+      "events": 8,
+      "years_represented": 8
+    },
+    "Backlash": {
+      "events": 18,
+      "years_represented": 18
+    },
+    "Bad Blood": {
+      "events": 3,
+      "years_represented": 3
+    },
+    "Bash in Berlin": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Battleground": {
+      "events": 5,
+      "years_represented": 5
+    },
+    "Bragging Rights": {
+      "events": 2,
+      "years_represented": 2
+    },
+    "Breaking Point": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Capitol Punishment": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Clash at the Castle": {
+      "events": 2,
+      "years_represented": 2
+    },
+    "Clash in Italy": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Clash in Paris": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Clash of Champions": {
+      "events": 4,
+      "years_represented": 4
+    },
+    "Crown Jewel": {
+      "events": 8,
+      "years_represented": 8
+    },
+    "Cyber Sunday": {
+      "events": 3,
+      "years_represented": 3
+    },
+    "December to Dismember": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Elimination Chamber": {
+      "events": 16,
+      "years_represented": 16
+    },
+    "Evolution": {
+      "events": 2,
+      "years_represented": 2
+    },
+    "Extreme Rules": {
+      "events": 14,
+      "years_represented": 14
+    },
+    "Fastlane": {
+      "events": 7,
+      "years_represented": 7
+    },
+    "Fatal 4-Way": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Fully Loaded": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Great Balls of Fire": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Greatest Royal Rumble": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Halftime Heat": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Hell in a Cell": {
+      "events": 14,
+      "years_represented": 14
+    },
+    "In Your House": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Insurrextion": {
+      "events": 4,
+      "years_represented": 4
+    },
+    "Invasion": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Judgment Day": {
+      "events": 10,
+      "years_represented": 10
+    },
+    "King and Queen of the Ring": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "King of the Ring": {
+      "events": 4,
+      "years_represented": 4
+    },
+    "Money in the Bank": {
+      "events": 17,
+      "years_represented": 17
+    },
+    "New Year's Revolution": {
+      "events": 4,
+      "years_represented": 4
+    },
+    "Night of Champions": {
+      "events": 11,
+      "years_represented": 11
+    },
+    "No Mercy": {
+      "events": 14,
+      "years_represented": 14
+    },
+    "No Way Out": {
+      "events": 11,
+      "years_represented": 11
+    },
+    "One Night Stand": {
+      "events": 4,
+      "years_represented": 4
+    },
+    "Over the Limit": {
+      "events": 3,
+      "years_represented": 3
+    },
+    "Payback": {
+      "events": 7,
+      "years_represented": 7
+    },
+    "Rebellion": {
+      "events": 3,
+      "years_represented": 3
+    },
+    "Roadblock": {
+      "events": 2,
+      "years_represented": 1
+    },
+    "Royal Rumble": {
+      "events": 28,
+      "years_represented": 28
+    },
+    "Saturday Night's Main Event": {
+      "events": 14,
+      "years_represented": 6
+    },
+    "Smackville": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Starrcade": {
+      "events": 2,
+      "years_represented": 2
+    },
+    "Stomping Grounds": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "SummerSlam": {
+      "events": 29,
+      "years_represented": 27
+    },
+    "Sunday Night's Main Event": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Super ShowDown": {
+      "events": 3,
+      "years_represented": 3
+    },
+    "Superstar Spectacle": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Survivor Series": {
+      "events": 27,
+      "years_represented": 27
+    },
+    "Survivor Series WarGames": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "TLC": {
+      "events": 13,
+      "years_represented": 13
+    },
+    "Taboo Tuesday": {
+      "events": 2,
+      "years_represented": 2
+    },
+    "The Beast in the East": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "The Great American Bash": {
+      "events": 7,
+      "years_represented": 7
+    },
+    "The Shield's Final Chapter": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "Tribute to the Troops": {
+      "events": 18,
+      "years_represented": 18
+    },
+    "Unforgiven": {
+      "events": 9,
+      "years_represented": 9
+    },
+    "Vengeance": {
+      "events": 8,
+      "years_represented": 8
+    },
+    "WWE vs. ECW Head-to-Head": {
+      "events": 1,
+      "years_represented": 1
+    },
+    "WrestleMania": {
+      "events": 35,
+      "years_represented": 27
+    },
+    "Wrestlepalooza": {
+      "events": 2,
+      "years_represented": 2
+    }
+  },
+  "missing_series_from_registry": [],
+  "unclassified_events": [],
+  "collection_timestamp": "2026-11-08T12:55:51.278662",
+  "notes": [
+    "Phase 1 inventory only \u2014 match cards not yet collected.",
+    "Unannounced future events are not fabricated; empty future years are expected.",
+    "Secondary archives (SDH, OWoW, WrestlingOracle) pending after inventory review.",
+    "Collection logs: 3"
+  ]
+}

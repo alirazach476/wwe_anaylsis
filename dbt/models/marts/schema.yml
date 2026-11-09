@@ -1,0 +1,23 @@
+version: 2
+
+models:
+  - name: mart_wrestler_performance
+    columns:
+      - name: wrestler_id
+        tests: [unique, not_null]
+  - name: mart_event_analytics
+    columns:
+      - name: event_id
+        tests: [unique, not_null]
+  - name: mart_match_analytics
+    columns:
+      - name: match_id
+        tests: [unique, not_null]
+  - name: mart_championship_analytics
+    columns:
+      - name: championship_id
+        tests: [not_null]
+  - name: mart_royal_rumble_analytics
+  - name: mart_mitb_analytics
+  - name: mart_attendance_analytics
+  - name: mart_historical_trends

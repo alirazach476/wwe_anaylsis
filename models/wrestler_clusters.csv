@@ -1,0 +1,404 @@
+wrestler_key,matches,wins,losses,title_matches,main_events,first_year,last_year,wrestler_id,canonical_name,win_pct,career_span_years,cluster
+1317,186,87,84,104,52,2003,2026,wrs_randy-orton_b1eaaa85,Randy Orton,0.5088,23,3
+940,179,108,62,121,78,2002,2025,wrs_john-cena_43142eec,John Cena,0.6353,23,3
+990,132,57,59,66,32,2000,2021,wrs_kane_bdba1e91,Kane,0.4914,21,1
+542,121,48,62,63,23,2000,2018,wrs_chris-jericho_fd60f6c9,Chris Jericho,0.4364,18,1
+1346,119,56,48,66,12,2002,2026,wrs_rey-mysterio_a2fc3ae4,Rey Mysterio,0.5385,24,1
+407,115,45,58,61,20,2000,2020,wrs_big-show_5b188d2a,Big Show,0.4369,20,1
+1743,111,33,61,69,13,2006,2026,wrs_the-miz_88d52981,The Miz,0.3511,20,1
+1519,108,60,37,69,10,2009,2025,wrs_sheamus_2fa9f3c4,Sheamus,0.6186,16,1
+580,104,54,41,68,41,2007,2026,wrs_cody-rhodes_085203c7,Cody Rhodes,0.5684,19,1
+697,103,60,35,60,26,2000,2023,wrs_edge_a0f2c69a,Edge,0.6316,23,1
+1845,103,63,34,63,50,2000,2020,wrs_triple-h_f28aa65b,Triple H,0.6495,20,1
+575,100,51,41,67,37,2006,2026,wrs_cm-punk_4a79114c,CM Punk,0.5543,20,1
+1783,98,66,25,47,34,2000,2020,wrs_the-undertaker_5928984c,The Undertaker,0.7253,20,1
+681,95,44,42,61,16,2009,2026,wrs_drew-mcintyre_dec5f4f3,Drew McIntyre,0.5116,17,1
+1409,90,58,24,44,37,2013,2026,wrs_roman-reigns_6e31eab3,Roman Reigns,0.7073,13,1
+1041,89,35,38,57,9,2008,2025,wrs_kofi-kingston_467df1dc,Kofi Kingston,0.4795,17,1
+1487,83,45,33,50,25,2013,2026,wrs_seth-rollins_76b316d9,Seth Rollins,0.5769,13,1
+657,80,21,44,44,13,2009,2022,wrs_dolph-ziggler_079b1e01,Dolph Ziggler,0.3231,13,1
+907,80,44,31,58,14,2012,2026,wrs_jey-uso_adc98921,Jey Uso,0.5867,14,1
+889,80,35,39,48,11,2000,2021,wrs_jeff-hardy_a569b225,Jeff Hardy,0.473,21,1
+558,80,42,32,61,6,2000,2021,wrs_christian_2314b2e3,Christian,0.5676,21,1
+1023,79,33,42,44,18,2015,2026,wrs_kevin-owens_2dcc9e59,Kevin Owens,0.44,11,1
+1150,76,37,31,36,6,2000,2018,wrs_matt-hardy_c3fdca74,Matt Hardy,0.5441,18,2
+1054,72,35,32,33,19,2000,2019,wrs_kurt-angle_0212456a,Kurt Angle,0.5224,19,1
+386,70,33,33,56,2,2015,2026,wrs_becky-lynch_e5e4d4e9,Becky Lynch,0.5,11,2
+380,68,29,33,44,1,2016,2026,wrs_bayley_d63f5bff,Bayley,0.4677,10,2
+1508,67,36,25,30,33,2002,2020,wrs_shawn-michaels_f7a3e4f1,Shawn Michaels,0.5902,18,1
+374,67,34,28,44,24,2003,2019,wrs_batista_555b37cf,Batista,0.5484,16,1
+624,67,37,25,47,16,2010,2021,wrs_daniel-bryan_4141fc88,Daniel Bryan,0.5968,11,1
+1448,66,30,30,39,21,2016,2026,wrs_sami-zayn_7b0c1ab3,Sami Zayn,0.5,10,1
+28,65,23,37,41,12,2016,2026,wrs_aj-styles_62381180,AJ Styles,0.3833,10,2
+538,62,36,23,38,11,2000,2007,wrs_chris-benoit_eda1ddb9,Chris Benoit,0.6102,7,2
+1236,61,19,34,37,1,2008,2025,wrs_natalya_03bdfaba,Natalya,0.3585,17,2
+642,61,28,28,34,19,2013,2019,wrs_dean-ambrose_437db9d7,Dean Ambrose,0.5,6,2
+521,59,25,28,49,1,2016,2026,wrs_charlotte-flair_57610b5b,Charlotte Flair,0.4717,10,2
+917,57,30,24,43,6,2012,2025,wrs_jimmy-uso_3e9a2776,Jimmy Uso,0.5556,13,2
+1312,57,31,18,22,10,2008,2024,wrs_r-truth_4f076d5e,R-Truth,0.6327,16,2
+1234,54,21,26,31,1,2012,2025,wrs_naomi_751a5cb5,Naomi,0.4468,13,2
+353,53,16,33,40,2,2017,2026,wrs_asuka_c598a07f,Asuka,0.3265,9,2
+432,51,21,23,23,9,2005,2024,wrs_bobby-lashley_1fe46934,Bobby Lashley,0.4773,19,2
+1097,50,16,25,37,1,2018,2026,wrs_liv-morgan_2964892d,Liv Morgan,0.3902,8,2
+1391,50,24,20,33,8,2001,2014,wrs_rob-van-dam_999d8cd6,Rob Van Dam,0.5455,13,2
+948,49,19,24,32,8,2007,2021,wrs_john-morrison_fc4226f4,John Morrison,0.4419,14,2
+506,49,16,28,31,3,2014,2022,wrs_cesaro_accf4234,Cesaro,0.3636,8,2
+396,47,30,12,38,2,2019,2025,wrs_bianca-belair_6a441ace,Bianca Belair,0.7143,6,2
+461,47,30,17,28,21,2002,2026,wrs_brock-lesnar-with-paul-heyman_70722fbb,Brock Lesnar (with Paul Heyman ),0.6383,24,2
+1523,47,16,20,30,8,2003,2021,wrs_shelton-benjamin_77a93365,Shelton Benjamin,0.4444,18,2
+54,47,17,25,37,1,2016,2026,wrs_alexa-bliss_2cdfb233,Alexa Bliss,0.4048,10,2
+446,46,20,18,23,12,2016,2025,wrs_braun-strowman_deabd19e,Braun Strowman,0.5263,9,2
+1857,46,22,22,28,0,2000,2025,wrs_trish-stratus_a99b5ab5,Trish Stratus,0.5,25,2
+1356,44,27,12,38,2,2018,2026,wrs_rhea-ripley_4c9f4aeb,Rhea Ripley,0.6923,8,2
+1135,41,18,15,17,10,2003,2018,wrs_mark-henry_fbb6b2a3,Mark Henry,0.5455,15,2
+791,41,17,21,33,13,2021,2026,wrs_gunther_c9d8f39e,Gunther,0.4474,5,2
+693,39,16,20,19,7,2000,2005,wrs_eddie-guerrero_c251071e,Eddie Guerrero,0.4444,5,2
+760,39,12,23,25,6,2015,2026,wrs_finn-b-lor_b20445e1,Finn Bálor,0.3429,11,2
+438,39,13,18,23,8,2001,2023,wrs_booker-t_23e35b73,Booker T,0.4194,22,2
+449,38,20,14,9,7,2014,2023,wrs_bray-wyatt_a11030fc,Bray Wyatt,0.5882,9,2
+1245,38,16,15,28,1,2016,2026,wrs_nia-jax_d90d1bad,Nia Jax,0.5161,10,2
+493,37,9,21,18,6,2005,2024,wrs_carlito_e4047b9d,Carlito,0.3,19,2
+371,36,12,19,16,8,2016,2026,wrs_baron-corbin_bf723e4c,Baron Corbin,0.3871,10,2
+848,36,10,21,20,5,2009,2016,wrs_jack-swagger_543dcafe,Jack Swagger,0.3226,7,2
+404,36,14,14,25,4,2014,2022,wrs_big-e_ac0c5c87,Big E,0.5,8,2
+459,36,18,12,19,15,2002,2026,wrs_brock-lesnar_b573ebb0,Brock Lesnar,0.6,24,2
+1529,36,15,14,26,2,2017,2026,wrs_shinsuke-nakamura_5896dcf4,Shinsuke Nakamura,0.5172,9,2
+1364,36,19,14,11,3,2002,2008,wrs_ric-flair_7ebf6c79,Ric Flair,0.5758,6,2
+613,34,16,12,21,2,2019,2026,wrs_damian-priest_164df978,Damian Priest,0.5714,7,2
+1501,34,12,20,10,3,2000,2022,wrs_shane-mcmahon_39c357b8,Shane McMahon,0.375,22,2
+1466,34,16,16,27,3,2016,2022,wrs_sasha-banks_65c8481c,Sasha Banks,0.5,6,2
+782,33,13,10,15,5,2002,2018,wrs_goldust_143bb9fa,Goldust,0.5652,16,2
+527,32,6,21,18,3,2002,2011,wrs_chavo-guerrero_0baf7ec3,Chavo Guerrero,0.2222,9,2
+1916,31,13,15,21,3,2000,2011,wrs_william-regal_74bb8db4,William Regal,0.4643,11,2
+1186,31,13,13,21,1,2006,2022,wrs_mickie-james_c02d229b,Mickie James,0.5,16,2
+1440,31,13,14,13,6,2012,2016,wrs_ryback_045c8baa,Ryback,0.4815,4,2
+1208,31,10,18,16,3,2006,2010,wrs_montel-vontavious-porter_e5ac5780,Montel Vontavious Porter,0.3571,4,2
+1770,31,18,11,20,22,2000,2019,wrs_the-rock_0266967d,The Rock,0.6207,19,2
+456,30,7,20,18,0,2012,2026,wrs_brie-bella_81b3ea4e,Brie Bella,0.2593,14,2
+1485,30,16,12,16,11,2021,2025,wrs_seth-freakin-rollins_224eebf9,"Seth ""Freakin"" Rollins",0.5714,4,2
+392,30,16,11,17,1,2007,2023,wrs_beth-phoenix_d081027c,Beth Phoenix,0.5926,16,2
+1757,29,13,16,24,0,2014,2020,wrs_the-new-day-big-e_5151ff8c,The New Day ( Big E,0.4483,6,2
+799,28,7,15,18,7,2000,2008,wrs_hardcore-holly_c8432f4c,Hardcore Holly,0.3182,8,2
+1284,27,8,19,21,0,2014,2026,wrs_paige_ce3ef379,Paige,0.2963,12,2
+2028,27,10,13,14,3,2008,2020,wrs_zack-ryder_7a6e75c4,Zack Ryder,0.4348,12,0
+841,27,12,12,21,1,2022,2026,wrs_iyo-sky_67261377,Iyo Sky,0.5,4,2
+1065,27,12,13,14,3,2021,2026,wrs_la-knight_8b1a4bb3,LA Knight,0.48,5,0
+1516,26,12,8,20,1,2018,2025,wrs_shayna-baszler_bc9206dc,Shayna Baszler,0.6,7,0
+498,26,6,15,16,0,2004,2023,wrs_carmella_67c4e85f,Carmella,0.2857,19,0
+477,26,9,16,9,1,2000,2016,wrs_bubba-ray-dudley_4a6d36f1,Bubba Ray Dudley,0.36,16,0
+1380,25,11,9,11,6,2000,2004,wrs_rikishi_39fee4cd,Rikishi,0.55,4,0
+1092,25,9,14,15,0,2000,2023,wrs_lita_38d8c5e8,Lita,0.3913,23,0
+935,24,12,11,17,11,2004,2014,wrs_john-bradshaw-layfield_dc3bba82,"John ""Bradshaw"" Layfield",0.5217,10,2
+668,24,8,13,11,0,2020,2026,wrs_dominik-mysterio_f9c0a83e,Dominik Mysterio,0.381,6,0
+1113,24,5,15,6,6,2013,2019,wrs_luke-harper_289b01a3,Luke Harper,0.25,6,0
+1459,24,10,9,14,4,2007,2013,wrs_santino-marella_8a5a6869,Santino Marella,0.5263,6,0
+605,24,8,16,8,0,2000,2016,wrs_d-von-dudley_4163b981,D-Von Dudley,0.3333,16,0
+62,23,8,13,9,0,2009,2022,wrs_alicia-fox_b557f679,Alicia Fox,0.381,13,0
+998,22,12,8,11,2,2016,2022,wrs_karl-anderson_d227594b,Karl Anderson,0.6,6,0
+756,22,6,13,8,3,2006,2010,wrs_finlay_0c29a91a,Finlay,0.3158,4,0
+1454,22,6,14,16,6,2017,2020,wrs_samoa-joe_b41e09dc,Samoa Joe,0.3,3,0
+48,22,6,13,16,5,2010,2016,wrs_alberto-del-rio_0b65b111,Alberto Del Rio,0.3158,6,0
+1600,22,4,12,15,0,2010,2023,wrs_tamina_e605e9b6,Tamina,0.25,13,0
+1259,22,11,7,12,0,2013,2026,wrs_nikki-bella_723b3769,Nikki Bella,0.6111,13,0
+2016,21,6,9,14,2,2014,2025,wrs_xavier-woods_c352ea91,Xavier Woods,0.4,11,0
+1119,21,12,7,12,0,2024,2026,wrs_lyra-valkyria_3285f820,Lyra Valkyria,0.6316,2,0
+1372,21,4,12,13,2,2019,2024,wrs_ricochet_99219d83,Ricochet,0.25,5,0
+1419,21,14,6,14,1,2018,2023,wrs_ronda-rousey_ce40c3a9,Ronda Rousey,0.7,5,0
+860,21,10,10,16,0,2024,2026,wrs_jade-cargill_ee8708b6,Jade Cargill,0.5,2,0
+1435,21,13,8,11,0,2014,2019,wrs_rusev-with-lana_776f76db,Rusev (with Lana ),0.619,5,0
+513,21,8,9,15,1,2016,2026,wrs_chad-gable_b78f0287,Chad Gable,0.4706,10,0
+1101,20,10,7,10,4,2022,2026,wrs_logan-paul_602ea247,Logan Paul,0.5882,4,0
+1413,20,18,2,20,15,2020,2024,wrs_roman-reigns-with-paul-heyman_f32b0752,Roman Reigns (with Paul Heyman ),0.9,4,2
+1244,20,14,5,9,2,2015,2017,wrs_neville_6504ab7c,Neville,0.7368,2,0
+1112,19,8,9,8,1,2016,2022,wrs_luke-gallows_4310574b,Luke Gallows,0.4706,6,0
+1220,19,8,10,5,2,2005,2008,wrs_mr-kennedy_a7041deb,Mr. Kennedy,0.4444,3,0
+780,19,10,7,12,11,2003,2022,wrs_goldberg_e21374b1,Goldberg,0.5882,19,0
+1477,19,7,8,9,4,2000,2007,wrs_scotty-2-hotty_6a0a797e,Scotty 2 Hotty,0.4667,7,0
+721,19,8,8,4,3,2013,2025,wrs_erick-rowan_c35db27b,Erick Rowan,0.5,12,0
+1046,19,10,9,17,0,2014,2018,wrs_kofi-kingston-with-xavier-woods_533b4017,Kofi Kingston ) (with Xavier Woods ),0.5263,4,0
+1291,18,7,10,10,1,2004,2008,wrs_paul-london_1229486f,Paul London,0.4118,4,0
+1711,18,4,5,12,10,2007,2018,wrs_the-great-khali_7dd37c85,The Great Khali,0.4444,11,0
+516,18,7,8,9,2,2003,2008,wrs_charlie-haas_de8f517e,Charlie Haas,0.4667,5,0
+1433,18,2,11,8,4,2015,2026,wrs_rusev_9305db53,Rusev,0.1538,11,0
+1011,18,8,6,5,0,2007,2022,wrs_kelly-kelly_960cde5e,Kelly Kelly,0.5714,15,0
+707,18,5,7,10,2,2017,2023,wrs_elias_31cc0cbf,Elias,0.4167,6,0
+1165,18,8,9,10,0,2005,2022,wrs_melina_f76566fd,Melina,0.4706,17,0
+1084,18,8,9,8,0,2007,2014,wrs_layla_9acae32b,Layla,0.4706,7,0
+4,18,11,6,8,10,2000,2022,wrs_stone-cold-steve-austin_b26e8239,"""Stone Cold"" Steve Austin",0.6471,22,0
+986,18,9,8,11,1,2015,2019,wrs_kalisto_776ce91d,Kalisto,0.5294,4,0
+337,18,10,6,11,0,2019,2024,wrs_angelo-dawkins_d760e907,Angelo Dawkins,0.625,5,0
+1911,18,4,11,12,6,2010,2013,wrs_wade-barrett_3f8a8251,Wade Barrett,0.2667,3,0
+1551,17,11,5,7,6,2022,2026,wrs_solo-sikoa_64b11af3,Solo Sikoa,0.6875,4,0
+1814,17,11,4,15,1,2023,2026,wrs_tiffany-stratton_18d3711b,Tiffany Stratton,0.7333,3,0
+343,17,7,6,11,2,2016,2021,wrs_apollo-crews_fac382c2,Apollo Crews,0.5385,5,0
+803,17,3,10,7,3,2010,2018,wrs_heath-slater_e45ab1cd,Heath Slater,0.2308,8,0
+1330,17,2,12,13,1,2022,2026,wrs_raquel-rodriguez_4f0c8311,Raquel Rodriguez,0.1429,4,0
+442,17,5,8,8,4,2000,2004,wrs_bradshaw_8e149206,Bradshaw,0.3846,4,0
+1211,17,8,7,12,0,2019,2023,wrs_montez-ford_7466b1af,Montez Ford,0.5333,4,0
+1665,17,0,13,8,4,2000,2007,wrs_test_a94a8fe5,Test,0.0,7,0
+854,16,7,7,8,5,2024,2026,wrs_jacob-fatu_79545f89,Jacob Fatu,0.5,2,0
+736,16,7,9,9,0,2009,2012,wrs_eve-torres_af675671,Eve Torres,0.4375,3,0
+1726,16,7,5,9,3,2001,2018,wrs_the-hurricane_2f233b42,The Hurricane,0.5833,17,0
+590,16,7,7,9,1,2013,2019,wrs_curtis-axel_45274e78,Curtis Axel,0.5,6,0
+1176,16,7,6,8,0,2006,2023,wrs_michelle-mccool_be251c2b,Michelle McCool,0.5385,17,0
+555,16,3,9,6,4,2005,2011,wrs_chris-masters_45070e70,Chris Masters,0.25,6,0
+421,16,5,8,10,3,2000,2015,wrs_billy-gunn_6533d28d,Billy Gunn,0.3846,15,0
+1652,15,5,8,9,3,2008,2011,wrs_ted-dibiase_92b36f38,Ted DiBiase,0.3846,3,0
+622,15,2,7,8,0,2016,2023,wrs_dana-brooke_36ae241b,Dana Brooke,0.2222,7,0
+619,15,4,9,6,2,2012,2014,wrs_damien-sandow_4f4f109f,Damien Sandow,0.3077,2,0
+466,15,4,9,9,2,2021,2026,wrs_bron-breakker_5988b1d1,Bron Breakker,0.3077,5,0
+1068,15,2,10,10,0,2019,2023,wrs_lacey-evans_37fb9201,Lacey Evans,0.1667,4,0
+1899,15,7,7,11,1,2002,2021,wrs_victoria_d714d845,Victoria,0.5,19,0
+982,15,3,8,12,0,2018,2026,wrs_kairi-sane_57f454d7,Kairi Sane,0.2727,8,0
+25,15,9,6,11,0,2013,2026,wrs_aj-lee_da00bf46,AJ Lee,0.6,13,0
+1207,15,4,10,8,0,2000,2018,wrs_molly-holly_8cac5304,Molly Holly,0.2857,18,0
+1817,15,4,5,11,2,2012,2019,wrs_titus-o-neil_6a9d7cba,Titus O'Neil,0.4444,7,0
+1540,15,6,6,7,2,2011,2018,wrs_sin-cara_ea0d6559,Sin Cara,0.5,7,0
+1360,15,5,7,9,2,2001,2018,wrs_rhyno_afe5489f,Rhyno,0.4167,17,0
+49,14,8,6,12,2,2011,2013,wrs_alberto-del-rio-with-ricardo-rodriguez_d2a7568d,Alberto Del Rio (with Ricardo Rodriguez ),0.5714,2,0
+1276,14,4,7,9,1,2021,2024,wrs_omos_a46132b5,Omos,0.3636,3,0
+1838,14,8,4,2,0,2001,2021,wrs_torrie-wilson_f1edbb74,Torrie Wilson,0.6667,20,0
+1553,14,0,8,8,0,2018,2025,wrs_sonya-deville_9760dcee,Sonya Deville,0.0,7,0
+1564,14,4,8,3,1,2014,2016,wrs_stardust_7005fc6d,Stardust,0.3333,2,0
+1889,14,6,5,4,3,2000,2006,wrs_val-venis_677ec7b3,Val Venis,0.5455,6,0
+399,14,6,6,4,3,2016,2018,wrs_big-cass_e0060866,Big Cass,0.5,2,0
+732,14,9,4,7,2,2008,2011,wrs_evan-bourne_aed7818d,Evan Bourne,0.6923,3,0
+1881,14,6,7,9,4,2006,2009,wrs_umaga_5d28b3b8,Umaga,0.4615,3,0
+1262,13,3,6,11,0,2019,2023,wrs_nikki-cross_41bcb207,Nikki Cross,0.3333,4,0
+1179,13,11,2,13,0,2009,2020,wrs_michelle-mccool-with-layla_c2a08af8,Michelle McCool (with Layla ),0.8462,11,0
+748,13,4,6,4,3,2013,2018,wrs_fandango_d88c3867,Fandango,0.4,5,0
+424,13,5,8,7,0,2002,2004,wrs_billy-kidman_de329832,Billy Kidman,0.3846,2,0
+1036,13,1,10,4,1,2019,2021,wrs_king-corbin_e4270dc3,King Corbin,0.0909,2,0
+1373,13,5,6,12,3,2021,2022,wrs_riddle_ecefe3a4,Riddle,0.4545,1,0
+357,13,6,3,11,1,2021,2026,wrs_austin-theory_b303d8ad,Austin Theory,0.6667,5,0
+52,12,7,3,5,2,2019,2025,wrs_aleister-black_708d7603,Aleister Black,0.7,6,0
+330,12,0,9,12,1,2019,2025,wrs_andrade_6e887f34,Andrade,0.0,6,0
+1385,12,4,6,7,2,2000,2015,wrs_road-dogg_91ea0103,Road Dogg,0.4,15,0
+429,12,4,6,5,1,2013,2019,wrs_bo-dallas_7359edf5,Bo Dallas,0.4,6,0
+1583,12,7,3,4,1,2005,2007,wrs_super-crazy_64ef9b73,Super Crazy,0.7,2,0
+1339,12,3,7,10,2,2003,2005,wrs_ren-dupr-e_d9c6aefa,René Duprée,0.3,2,0
+1146,12,3,9,4,0,2008,2022,wrs_maryse_544f94f0,Maryse,0.25,14,0
+623,12,12,0,0,0,2024,2026,wrs_danhausen_e8815957,Danhausen,1.0,2,0
+680,12,4,7,7,1,2016,2020,wrs_drew-gulak_1e4a6e40,Drew Gulak,0.3636,4,0
+1841,12,7,4,8,0,2005,2007,wrs_trevor-murdoch_12fa0b85,Trevor Murdoch,0.6364,2,0
+1072,12,5,6,6,1,2001,2003,wrs_lance-storm_79fc2c13,Lance Storm,0.4545,2,0
+1908,12,5,5,6,2,2006,2011,wrs_vladimir-kozlov_e8b85250,Vladimir Kozlov,0.5,5,0
+764,12,3,9,7,0,2001,2007,wrs_funaki_611ddd70,Funaki,0.25,6,0
+1273,12,9,2,6,3,2024,2026,wrs_oba-femi_50336068,Oba Femi,0.8182,2,0
+1280,12,3,5,9,1,2019,2025,wrs_otis_bf929217,Otis,0.375,6,0
+454,12,5,7,7,0,2005,2007,wrs_brian-kendrick_a0edc5ec,Brian Kendrick,0.4167,2,0
+1592,12,4,6,7,1,2002,2005,wrs_tajiri_f50794ff,Tajiri,0.4,3,0
+663,12,6,6,8,0,2010,2012,wrs_dolph-ziggler-with-vickie-guerrero_6b72ebf6,Dolph Ziggler (with Vickie Guerrero ),0.5,2,0
+1556,12,8,4,7,0,2001,2005,wrs_spike-dudley_7dc35380,Spike Dudley,0.6667,4,0
+1527,11,0,11,11,0,2009,2020,wrs_shelton-benjamin-30_6645adab,Shelton Benjamin [ 30 ],0.0,11,0
+413,11,0,11,11,11,2009,2020,wrs_big-show-36_09428ade,Big Show ) [ 36 ],0.0,11,0
+1472,11,5,5,8,1,2016,2019,wrs_scott-dawson_e18e0bc1,Scott Dawson,0.5,3,0
+967,11,5,3,6,3,2006,2011,wrs_jtg_02916062,JTG,0.625,5,0
+944,11,0,11,11,0,2009,2020,wrs_john-cena-33_80fa5f4b,John Cena [ 33 ],0.0,11,0
+933,11,3,7,5,4,2005,2015,wrs_joey-mercury_ed3be61d,Joey Mercury,0.3,10,0
+1430,11,3,4,11,0,2023,2026,wrs_roxanne-perez_ab37d5d5,Roxanne Perez,0.4286,3,0
+2031,11,2,4,9,0,2018,2025,wrs_zelina-vega_13cb75ab,Zelina Vega,0.3333,7,0
+790,11,5,5,6,1,2006,2007,wrs_gregory-helms_b71a20dc,Gregory Helms,0.5,1,0
+951,11,0,11,11,0,2009,2020,wrs_john-morrison-31_c318f40a,John Morrison [ 31 ],0.0,11,0
+701,11,4,7,7,3,2005,2006,wrs_edge-with-lita_5e23779d,Edge (with Lita ),0.3636,1,0
+740,11,3,5,7,3,2000,2004,wrs_faarooq_e9d15b3f,Faarooq,0.375,4,0
+1048,11,0,11,0,0,2009,2020,wrs_kofi-kingston-35_bac04887,Kofi Kingston [ 35 ],0.0,11,0
+1843,11,10,0,2,0,2023,2026,wrs_trick-williams_802483a4,Trick Williams,1.0,3,0
+610,11,2,6,5,0,2018,2024,wrs_dakota-kai_d92bcf7d,Dakota Kai,0.25,6,0
+1801,11,5,6,3,2,2010,2026,wrs_the-usos-jey-uso_d49290ae,The Usos ( Jey Uso,0.4545,16,0
+1585,11,5,6,7,0,2003,2005,wrs_sylvain-grenier_a3c98e2c,Sylvain Grenier,0.4545,2,0
+436,11,8,3,11,2,2020,2022,wrs_bobby-lashley-with-mvp_01448752,Bobby Lashley (with MVP ),0.7273,2,0
+1604,11,8,2,4,1,2000,2006,wrs_tazz_c5c358ae,Tazz,0.8,6,0
+1163,11,5,4,4,2,2002,2005,wrs_maven_f7e2f253,Maven,0.5556,3,0
+577,11,0,11,0,0,2009,2020,wrs_cm-punk-with-luke-gallows-29_edb58b13,CM Punk (with Luke Gallows ) [ 29 ],0.0,11,0
+1189,11,0,11,11,0,2009,2020,wrs_mickie-james-32_ee027ea7,Mickie James [ 32 ],0.0,11,0
+1293,11,4,5,11,2,2025,2026,wrs_penta_d0908e2a,Penta,0.4444,1,0
+1206,11,5,4,4,2,2016,2018,wrs_mojo-rawley_670c706a,Mojo Rawley,0.5556,2,0
+377,11,0,11,11,0,2009,2020,wrs_batista-34_e9c65664,Batista [ 34 ],0.0,11,0
+899,11,0,11,11,11,2009,2020,wrs_jeri-show-chris-jericho_211efbf6,Jeri-Show ( Chris Jericho,0.0,11,0
+1221,10,4,6,2,0,2002,2010,wrs_mr-mcmahon_04674da0,Mr. McMahon,0.4,8,0
+851,10,2,8,6,0,2013,2014,wrs_jack-swagger-with-zeb-colter_a298088f,Jack Swagger (with Zeb Colter ),0.2,1,0
+1432,10,1,6,6,1,2018,2021,wrs_ruby-riott_bf56fbab,Ruby Riott,0.1429,3,0
+900,10,3,6,2,1,2000,2012,wrs_jerry-lawler_fa6d19db,Jerry Lawler,0.3333,12,0
+911,10,3,6,1,0,2006,2021,wrs_jillian-hall_72d1cc09,Jillian Hall,0.3333,15,0
+1070,10,7,3,7,0,2005,2007,wrs_lance-cade_0432ec0c,Lance Cade,0.7,2,0
+1034,10,3,7,6,5,2006,2007,wrs_king-booker-with-queen-sharmell_6122491e,King Booker (with Queen Sharmell ),0.3,1,0
+714,10,5,4,4,1,2016,2017,wrs_enzo-amore_4e6292ea,Enzo Amore,0.5556,1,0
+738,10,4,4,6,3,2010,2012,wrs_ezekiel-jackson_15bcc05e,Ezekiel Jackson,0.5,2,0
+1846,10,5,5,10,6,2002,2005,wrs_triple-h-with-ric-flair_b97a3b55,Triple H (with Ric Flair ),0.5,3,0
+589,10,3,5,5,1,2008,2020,wrs_curt-hawkins_a0435ec7,Curt Hawkins,0.375,12,0
+491,10,1,3,8,0,2019,2026,wrs_candice-lerae_7a2621f0,Candice LeRae,0.25,7,0
+492,10,6,4,5,0,2005,2008,wrs_candice-michelle_da324880,Candice Michelle,0.6,3,0
+1573,10,3,7,0,0,2000,2004,wrs_steven-richards_fecf3e53,Steven Richards,0.3,4,0
+573,10,4,5,6,1,2000,2001,wrs_chyna_2d3c73d2,Chyna,0.4444,1,0
+1826,10,4,3,5,3,2003,2009,wrs_tommy-dreamer_d4275a9a,Tommy Dreamer,0.5714,6,0
+636,10,5,4,7,1,2016,2019,wrs_dash-wilder_b3948087,Dash Wilder,0.5556,3,0
+437,10,3,6,8,3,2017,2019,wrs_bobby-roode_40eddf48,Bobby Roode,0.3333,2,0
+1183,10,2,5,5,4,2004,2012,wrs_mick-foley_e5d78c55,Mick Foley,0.2857,8,0
+1715,10,1,9,6,0,2007,2009,wrs_the-great-khali-with-ranjin-singh_2ee55109,The Great Khali (with Ranjin Singh ),0.1,2,0
+1303,10,6,2,6,3,2008,2018,wrs_primo_9d46660b,Primo,0.75,10,0
+1069,10,1,6,6,1,2014,2021,wrs_lana_cbf61ffd,Lana,0.1429,7,0
+788,9,4,3,2,2,2000,2001,wrs_grand-master-sexay_ea58bc06,Grand Master Sexay,0.5714,1,0
+925,9,0,5,5,1,2011,2021,wrs_jinder-mahal_90d95960,Jinder Mahal,0.0,10,0
+809,9,3,3,6,3,2007,2018,wrs_hornswoggle_b20491a3,Hornswoggle,0.5,11,0
+883,9,0,9,0,0,2024,2026,wrs_jd-mcdonagh-with-dominik-mysterio_f5b00a65,JD McDonagh (with Dominik Mysterio ),0.0,2,0
+924,9,3,6,4,0,2006,2009,wrs_jimmy-wang-yang_b9008016,Jimmy Wang Yang,0.3333,3,0
+518,9,7,2,5,1,2015,2016,wrs_charlotte_351429ca,Charlotte,0.7778,1,0
+1229,9,1,6,7,0,2018,2023,wrs_mustafa-ali_f9c2201a,Mustafa Ali,0.1429,5,0
+476,9,6,3,3,1,2001,2005,wrs_bubba-ray_b4fa538b,Bubba Ray,0.6667,4,0
+584,9,3,4,5,2,2000,2001,wrs_crash-holly_6fa192e6,Crash Holly,0.4286,1,0
+534,9,2,2,9,0,2020,2026,wrs_chelsea-green_3196e65e,Chelsea Green,0.5,6,0
+471,9,1,6,5,2,2023,2026,wrs_bronson-reed_182c1aa3,Bronson Reed,0.1429,3,0
+635,9,3,5,6,1,2010,2015,wrs_darren-young_341cab46,Darren Young,0.375,5,0
+1124,9,2,3,6,0,2018,2022,wrs_mandy-rose_8cfa0214,Mandy Rose,0.4,4,0
+177,9,2,7,4,0,2010,2022,wrs_and-natalya_52d0c856,and Natalya,0.2222,12,0
+1835,9,3,5,6,1,2016,2019,wrs_tony-nese_f6cc9a22,Tony Nese,0.375,3,0
+1077,9,0,9,0,0,2024,2026,wrs_laredo-kid_c2a271af,Laredo Kid,0.0,2,0
+746,9,9,0,9,0,2024,2026,wrs_fallon-henley-with-jacy-jayne_df28613c,Fallon Henley ) (with Jacy Jayne ),1.0,2,0
+752,9,9,0,9,0,2024,2026,wrs_fatal-influence-lainey-reid_0b223912,Fatal Influence ( Lainey Reid,1.0,2,0
+1287,9,5,3,1,0,2022,2025,wrs_pat-mcafee_d455630c,Pat McAfee,0.625,3,0
+367,9,6,2,5,2,2014,2015,wrs_bad-news-barrett_69a37cf3,Bad News Barrett,0.75,1,0
+24,9,2,6,5,0,2016,2018,wrs_aiden-english_209c3d74,Aiden English,0.25,2,0
+1507,9,1,8,5,0,2002,2008,wrs_shannon-moore_425e6fd2,Shannon Moore,0.1111,6,0
+728,9,5,3,3,1,2004,2007,wrs_eugene_9ca3a9f7,Eugene,0.625,3,0
+8,9,6,3,3,1,2017,2026,wrs_the-demon-finn-b-lor_dc9cb590,"""The Demon"" Finn Bálor",0.6667,9,0
+9,9,7,2,7,5,2019,2020,wrs_the-fiend-bray-wyatt_ab332da5,"""The Fiend"" Bray Wyatt",0.7778,1,0
+1691,9,3,5,6,1,2008,2017,wrs_the-brian-kendrick_e3548753,The Brian Kendrick,0.375,9,0
+1906,9,1,4,4,4,2000,2007,wrs_viscera_be7dd2df,Viscera,0.2,7,0
+956,8,1,5,5,1,2005,2007,wrs_johnny-nitro_8a5b38e4,Johnny Nitro,0.1667,2,0
+1869,8,2,4,2,1,2016,2018,wrs_tyler-breeze_739d70f2,Tyler Breeze,0.3333,2,0
+1970,8,5,3,3,1,2010,2022,wrs_with-luke-gallows_fa1ad181,with Luke Gallows,0.625,12,0
+45,8,3,3,2,2,2001,2002,wrs_albert_7aa129f6,Albert,0.5,1,0
+639,8,2,3,4,3,2010,2013,wrs_david-otunga_5c335262,David Otunga,0.4,3,0
+644,8,3,5,2,0,2000,2001,wrs_dean-malenko_e006fe92,Dean Malenko,0.375,1,0
+1160,8,3,4,3,1,2019,2023,wrs_matt-riddle_1cfe3bda,Matt Riddle,0.4286,4,0
+201,8,1,7,6,4,2007,2024,wrs_and-randy-orton_f311760b,and Randy Orton,0.125,17,0
+218,8,3,5,3,5,2014,2025,wrs_and-roman-reigns_9b4d67ba,and Roman Reigns,0.375,11,0
+1300,8,3,3,6,0,2018,2021,wrs_peyton-royce_cf21c266,Peyton Royce,0.5,3,0
+1750,8,6,2,7,0,2016,2022,wrs_the-miz-with-maryse_87818174,The Miz (with Maryse ),0.75,6,0
+578,8,3,5,4,6,2012,2025,wrs_cm-punk-with-paul-heyman_eee5bc7b,CM Punk (with Paul Heyman ),0.375,13,0
+1294,8,1,5,5,2,2000,2002,wrs_perry-saturn_fa476f2c,Perry Saturn,0.1667,2,0
+2011,8,4,3,2,1,2000,2002,wrs_x-pac_579c6528,X-Pac,0.5714,2,0
+226,8,1,7,6,1,2016,2026,wrs_and-sami-zayn_9a3fc205,and Sami Zayn,0.125,10,0
+248,8,1,7,5,3,2009,2021,wrs_and-sheamus_8311cea0,and Sheamus,0.125,12,0
+1536,8,1,4,4,0,2021,2024,wrs_shotzi_06c862df,Shotzi,0.2,3,0
+1476,8,4,3,3,1,2003,2004,wrs_scott-steiner_2db31805,Scott Steiner,0.5714,1,0
+1389,8,1,7,1,0,2004,2006,wrs_rob-conway_1819e16c,Rob Conway,0.125,2,0
+505,8,5,3,6,0,2016,2021,wrs_cedric-alexander_469f9323,Cedric Alexander,0.625,5,0
+711,8,2,3,6,0,2018,2021,wrs_ember-moon_860ee73c,Ember Moon,0.4,3,0
+766,8,2,6,2,0,2003,2010,wrs_gail-kim_1edccac1,Gail Kim,0.25,7,0
+419,8,3,3,6,0,2018,2021,wrs_billie-kay_be07d8e3,Billie Kay,0.5,3,0
+1568,8,4,3,7,0,2025,2026,wrs_stephanie-vaquer_ef99a33e,Stephanie Vaquer,0.5714,1,0
+867,8,2,5,5,1,2004,2008,wrs_jamie-noble_595531df,Jamie Noble,0.2857,4,0
+868,8,5,3,6,0,2002,2004,wrs_jamie-noble-with-nidia_d0c90331,Jamie Noble (with Nidia ),0.625,2,0
+1429,8,6,2,6,0,2017,2019,wrs_rowan_67f214a5,Rowan,0.75,2,0
+918,8,4,4,2,2,2010,2026,wrs_jimmy-uso_52c4f07b,Jimmy Uso ),0.5,16,0
+837,7,3,3,5,0,2000,2022,wrs_ivory_62691d0c,Ivory,0.5,22,0
+884,7,3,3,5,1,2025,2026,wrs_je-von-evans_0a70cea5,Je'Von Evans,0.5,1,0
+1400,7,3,4,4,0,2004,2005,wrs_rob-rt-conway_17d3b259,Robért Conway,0.4286,1,0
+1463,7,1,2,5,0,2018,2022,wrs_sarah-logan_d29c61c6,Sarah Logan,0.3333,4,0
+834,7,2,4,4,0,2019,2025,wrs_ivar_79475d27,Ivar,0.3333,6,0
+856,7,2,4,5,0,2001,2018,wrs_jacqueline_60bcd4ac,Jacqueline,0.3333,17,0
+600,7,4,3,3,1,2001,2005,wrs_d-von_9fc9f3d2,D-Von,0.5714,4,0
+1850,7,4,3,5,3,2000,2001,wrs_triple-h-with-stephanie-mcmahon-helmsley_f2083a69,Triple H (with Stephanie McMahon-Helmsley ),0.5714,1,0
+1571,7,4,1,5,2,2000,2001,wrs_steve-blackman_7ed1befb,Steve Blackman,0.8,1,0
+1205,7,2,5,2,0,2005,2007,wrs_mnm-joey-mercury_bc05d7e9,MNM ( Joey Mercury,0.2857,2,0
+1688,7,4,2,1,1,2006,2015,wrs_the-boogeyman_f995af21,The Boogeyman,0.6667,9,0
+479,7,5,2,6,0,2018,2019,wrs_buddy-murphy_fe138a81,Buddy Murphy,0.7143,1,0
+53,7,1,4,4,2,2011,2012,wrs_alex-riley_05d23e2d,Alex Riley,0.2,1,0
+813,7,1,6,6,0,2019,2023,wrs_humberto-carrillo_e2b05734,Humberto Carrillo,0.1429,4,0
+350,7,4,3,1,0,2005,2007,wrs_ashley_782f9b10,Ashley,0.5714,2,0
+339,7,4,1,7,1,2012,2014,wrs_antonio-cesaro_5dde5f47,Antonio Cesaro,0.8,2,0
+406,7,3,3,5,1,2013,2014,wrs_big-e-langston_cb4286f4,Big E Langston,0.5,1,0
+1734,7,2,5,3,0,2022,2024,wrs_the-judgment-day-finn-b-lor_3071d9fd,The Judgment Day ( Finn Bálor,0.2857,2,0
+480,7,4,2,1,1,2000,2001,wrs_bull-buchanan_b816147c,Bull Buchanan,0.6667,1,0
+1758,7,2,5,5,0,2016,2026,wrs_the-new-day-kofi-kingston_545e8d37,The New Day ( Kofi Kingston,0.2857,10,0
+1132,7,3,3,0,0,2005,2008,wrs_maria_e21fc56c,Maria,0.5,3,0
+1581,7,2,4,2,0,2013,2022,wrs_summer-rae_5683534e,Summer Rae,0.3333,9,0
+1844,7,5,2,7,0,2026,2026,wrs_trick-williams-with-lil-yachty_d90e02d7,Trick Williams (with Lil Yachty ),0.7143,0,0
+984,7,3,4,4,0,2012,2013,wrs_kaitlyn_0eb0acfa,Kaitlyn,0.4286,1,0
+963,7,2,3,3,1,2003,2006,wrs_jonathan-coachman_4be278a3,Jonathan Coachman,0.4,3,0
+1032,7,1,6,1,1,2015,2016,wrs_king-barrett_62556dd0,King Barrett,0.1429,1,0
+1538,7,0,5,2,1,2005,2006,wrs_simon-dean_48d04b5c,Simon Dean,0.0,1,0
+1875,7,1,4,5,2,2009,2015,wrs_tyson-kidd_f75b7107,Tyson Kidd,0.2,6,0
+974,7,0,5,4,3,2010,2014,wrs_justin-gabriel_b9572c92,Justin Gabriel,0.0,4,0
+1332,6,1,4,4,1,2001,2002,wrs_raven_0efec51f,Raven,0.2,1,0
+1231,6,0,5,4,0,2006,2022,wrs_mvp_3207c40f,MVP,0.0,16,0
+572,6,3,2,2,1,2001,2008,wrs_chuck-palumbo_8005ceeb,Chuck Palumbo,0.6,7,0
+1260,6,4,2,6,1,2012,2018,wrs_nikki-bella-with-brie-bella_e68e9cd4,Nikki Bella (with Brie Bella ),0.6667,6,0
+199,6,2,4,4,2,2009,2012,wrs_and-r-truth_d21f1984,and R-Truth,0.3333,3,0
+649,6,3,1,5,3,2001,2015,wrs_diamond-dallas-page_382c4435,Diamond Dallas Page,0.75,14,0
+1700,6,3,3,5,1,2001,2004,wrs_the-dudley-boyz-bubba-ray_42f64031,The Dudley Boyz ( Bubba Ray,0.5,3,0
+1269,6,1,4,5,1,2004,2006,wrs_nunzio_6c05243e,Nunzio,0.2,2,0
+488,6,3,2,3,0,2013,2022,wrs_cameron_1d572acb,Cameron,0.6,9,0
+712,6,1,4,3,0,2014,2023,wrs_emma_efdb8f7f,Emma,0.2,9,0
+694,6,4,2,5,0,2000,2000,wrs_eddie-guerrero-with-chyna_5f522cd1,Eddie Guerrero (with Chyna ),0.6667,0,0
+333,6,2,4,3,0,2019,2020,wrs_andrade-with-zelina-vega_6dc787b4,Andrade (with Zelina Vega ),0.3333,1,0
+1366,6,5,1,2,0,2016,2017,wrs_rich-swann_0626ecab,Rich Swann,0.8333,1,0
+724,6,2,4,3,0,2019,2025,wrs_erik_c195b508,Erik,0.3333,6,0
+1079,6,1,3,5,0,2023,2026,wrs_lash-legend_366f9bc5,Lash Legend,0.25,3,0
+1866,6,2,2,3,2,2017,2018,wrs_tye-dillinger_72b7e9b3,Tye Dillinger,0.5,1,0
+420,6,2,3,3,1,2001,2002,wrs_billy_051522d0,Billy,0.4,1,0
+1936,6,6,0,0,0,2012,2013,wrs_with-cameron_cb159928,with Cameron,1.0,1,0
+958,6,2,4,2,0,2005,2007,wrs_johnny-nitro-with-melina_6c557d57,Johnny Nitro ) (with Melina ),0.3333,2,0
+927,6,5,1,6,3,2017,2017,wrs_jinder-mahal-with-the-singh-brothers_8e3a382c,Jinder Mahal (with The Singh Brothers ),0.8333,0,0
+1499,6,3,3,3,0,2006,2010,wrs_shad-gaspard_79414b8f,Shad Gaspard,0.5,4,0
+801,6,5,1,5,0,2017,2018,wrs_harper_1b1c26a3,Harper,0.8333,1,0
+805,6,2,4,2,0,2004,2005,wrs_heidenreich_bcdde9e2,Heidenreich,0.3333,1,0
+1427,6,3,2,2,0,2003,2005,wrs_rosey_04b3644b,Rosey,0.6,2,0
+1461,6,2,1,4,0,2023,2025,wrs_santos-escobar_b1c11b38,Santos Escobar,0.6667,2,0
+2032,6,0,3,5,0,2021,2025,wrs_zoey-stark_47a7515c,Zoey Stark,0.0,4,0
+2023,6,3,1,3,3,2010,2012,wrs_yoshi-tatsu_df2198cd,Yoshi Tatsu,0.75,2,0
+876,5,2,3,4,0,2002,2003,wrs_jazz_6abc743b,Jazz,0.4,1,0
+2021,5,2,3,5,0,2016,2018,wrs_xavier-woods-with-kofi-kingston_95484f82,Xavier Woods ) (with Kofi Kingston ),0.4,2,0
+36,5,2,3,2,0,2004,2005,wrs_akio_c2937ce0,Akio,0.4,1,0
+882,5,0,4,3,0,2023,2026,wrs_jd-mcdonagh_09089238,JD McDonagh,0.0,3,0
+1959,5,2,3,3,3,2014,2015,wrs_with-jamie-noble_6ef33502,with Jamie Noble,0.4,1,0
+1981,5,5,0,5,5,2021,2023,wrs_with-paul-heyman_f9b9ee60,with Paul Heyman,1.0,2,0
+797,5,0,4,1,0,2021,2022,wrs_happy-corbin_b192732f,Happy Corbin,0.0,1,0
+81,5,5,0,0,0,2017,2023,wrs_and-becky-lynch_fe820a6b,and Becky Lynch,1.0,6,0
+936,5,4,1,1,0,2005,2006,wrs_john-bradshaw-layfield-with-jillian-hall_955e617f,"John ""Bradshaw"" Layfield (with Jillian Hall )",0.8,1,0
+808,5,1,4,3,2,2002,2002,wrs_hollywood-hulk-hogan_4f0e1b5e,Hollywood Hulk Hogan,0.2,0,0
+812,5,4,1,0,2,2003,2006,wrs_hulk-hogan_40635e92,Hulk Hogan,0.8,3,0
+964,5,2,0,3,1,2024,2026,wrs_jordynne-grace_cc91d1c3,Jordynne Grace,1.0,2,0
+972,5,2,3,1,0,2001,2002,wrs_justin-credible_8bb4333f,Justin Credible,0.4,1,0
+1902,5,3,1,1,1,2015,2018,wrs_viktor_86faeb3e,Viktor,0.75,3,0
+954,5,1,2,4,1,2019,2025,wrs_johnny-gargano_28d69a4b,Johnny Gargano,0.3333,6,0
+1398,5,1,2,5,0,2019,2022,wrs_robert-roode_7138ff57,Robert Roode,0.3333,3,0
+397,5,2,1,3,2,2000,2002,wrs_big-boss-man_0b3464cc,Big Boss Man,0.6667,2,0
+322,5,2,3,1,0,2015,2021,wrs_and-xavier-woods_5cfafa86,and Xavier Woods,0.4,6,0
+1376,5,2,2,2,1,2022,2022,wrs_ridge-holland_47bc8b52,Ridge Holland,0.5,0,0
+1746,5,3,2,5,2,2010,2011,wrs_the-miz-with-alex-riley_7ee2da7b,The Miz (with Alex Riley ),0.6,1,0
+709,5,1,3,2,1,2006,2008,wrs_elijah-burke_f7e877a5,Elijah Burke,0.25,2,0
+1050,5,3,1,1,1,2015,2018,wrs_konnor_2fded75c,Konnor,0.75,3,0
+705,5,3,1,2,0,2025,2026,wrs_el-grande-americano_35019828,El Grande Americano,0.75,1,0
+677,5,0,4,3,0,2023,2026,wrs_dragon-lee_f0f3720c,Dragon Lee,0.0,3,0
+1116,5,0,4,1,2,2004,2005,wrs_luther-reigns_513c2a49,Luther Reigns,0.0,1,0
+1445,5,1,3,2,1,2006,2007,wrs_sabu_d80b6ae0,Sabu,0.25,1,0
+1898,5,2,2,3,0,2009,2018,wrs_vickie-guerrero_5eb5dfdc,Vickie Guerrero,0.5,9,0
+715,5,3,1,3,2,2011,2012,wrs_epico_3357a923,Epico,0.75,1,0
+1370,5,1,3,2,1,2002,2004,wrs_rico_2affaef5,Rico,0.25,2,0
+1309,5,1,3,2,0,2005,2006,wrs_psicosis_c9efd736,Psicosis,0.25,1,0
+1279,5,2,1,5,1,2005,2006,wrs_orlando-jordan_456952bd,Orlando Jordan,0.6667,1,0
+253,5,1,4,2,0,2006,2020,wrs_and-shelton-benjamin_1de29e38,and Shelton Benjamin,0.2,14,0
+206,5,2,3,3,2,2005,2019,wrs_and-rey-mysterio_f1d536c6,and Rey Mysterio,0.4,14,0
+1717,5,1,4,4,0,2000,2017,wrs_the-hardy-boyz-jeff-hardy_9e5c3e6e,The Hardy Boyz ( Jeff Hardy,0.2,17,0
+1197,5,0,4,2,2,2006,2010,wrs_mike-knox_1d22c084,Mike Knox,0.0,4,0
+871,5,2,3,3,0,2016,2018,wrs_jason-jordan_2f01e37b,Jason Jordan,0.4,2,0
+858,5,3,1,3,0,2022,2026,wrs_jacy-jayne_e5d87be8,Jacy Jayne,0.75,4,0
+41,5,1,1,4,3,2000,2003,wrs_al-snow_bfec792f,Al Snow,0.5,3,0
+19,5,0,3,1,1,2002,2004,wrs_a-train_df8b8e90,A-Train,0.0,2,0
+3,5,0,3,3,1,2023,2025,wrs_dirty-dominik-mysterio_6db57b9d,"""Dirty"" Dominik Mysterio",0.0,2,0
+273,5,0,5,3,0,2016,2020,wrs_and-tamina_0f0ffaf2,and Tamina,0.0,4,0
+1290,5,3,2,2,2,2002,2026,wrs_paul-heyman_28670baa,Paul Heyman,0.6,24,0
+501,5,0,3,5,0,2023,2025,wrs_carmelo-hayes_da88a478,Carmelo Hayes,0.0,2,0
+238,5,5,0,0,1,2013,2018,wrs_and-seth-rollins_9e34f94c,and Seth Rollins,1.0,5,0
+520,5,5,0,5,0,2016,2016,wrs_charlotte-with-ric-flair_20d1480e,Charlotte (with Ric Flair ),1.0,0,0
+1539,5,1,4,3,0,2016,2016,wrs_simon-gotch_8d9c6ac0,Simon Gotch,0.2,0,0
+1547,5,1,3,1,1,2005,2008,wrs_snitsky_4ea09d60,Snitsky,0.25,3,0
+304,5,2,3,1,3,2001,2017,wrs_and-triple-h_5cb5165c,and Triple H,0.4,16,0
+441,5,2,3,4,0,2005,2006,wrs_booker-t-with-sharmell_6f9c87e8,Booker T (with Sharmell ),0.4,1,0
+1140,5,1,4,3,0,2008,2009,wrs_mark-henry-with-tony-atlas_ff7166d6,Mark Henry (with Tony Atlas ),0.2,1,0
+1111,5,0,3,3,1,2021,2025,wrs_ludwig-kaiser_dcc3882f,Ludwig Kaiser,0.0,4,0
+1701,5,3,2,2,0,2000,2015,wrs_the-dudley-boyz-bubba-ray-dudley_0293670d,The Dudley Boyz ( Bubba Ray Dudley,0.6,15,0
+1164,5,1,1,5,0,2024,2026,wrs_maxxine-dupri_a7dc1f4d,Maxxine Dupri,0.5,2,0

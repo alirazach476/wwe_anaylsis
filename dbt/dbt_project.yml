@@ -1,0 +1,19 @@
+name: wwe_history
+version: 1.0.0
+config-version: 2
+profile: wwe_history
+model-paths: ["models"]
+analysis-paths: ["analyses"]
+test-paths: ["tests"]
+seed-paths: ["seeds"]
+macro-paths: ["macros"]
+target-path: "target"
+clean-targets: ["target", "dbt_packages"]
+
+models:
+  wwe_history:
+    +materialized: table
+    staging:
+      +schema: staging
+    marts:
+      +schema: marts

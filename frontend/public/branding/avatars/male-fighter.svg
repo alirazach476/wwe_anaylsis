@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 260" role="img" aria-label="Man wrestler">
+  <defs>
+    <linearGradient id="mStage" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#141820"/>
+      <stop offset="55%" stop-color="#0a0c12"/>
+      <stop offset="100%" stop-color="#161018"/>
+    </linearGradient>
+    <linearGradient id="mSkin" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#e0b086"/>
+      <stop offset="100%" stop-color="#a87448"/>
+    </linearGradient>
+    <linearGradient id="mGear" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#2a3040"/>
+      <stop offset="100%" stop-color="#10141c"/>
+    </linearGradient>
+    <radialGradient id="mGlow" cx="50%" cy="30%" r="60%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.28"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="200" height="260" fill="url(#mStage)"/>
+  <ellipse cx="100" cy="70" rx="90" ry="70" fill="url(#mGlow)"/>
+  <!-- broad shoulders -->
+  <path fill="url(#mGear)" d="M26 128 C40 104 72 96 100 96 C128 96 160 104 174 128 L170 170 C150 156 128 148 100 148 C72 148 50 156 30 170 Z"/>
+  <!-- torso -->
+  <path fill="url(#mGear)" d="M46 140 C52 192 66 232 100 248 C134 232 148 192 154 140 C136 148 116 152 100 152 C84 152 64 148 46 140 Z"/>
+  <path fill="#1a2030" opacity="0.55" d="M84 168 h32 v10 h-32 z M84 184 h32 v10 h-32 z M84 200 h32 v10 h-32 z"/>
+  <!-- arms -->
+  <path fill="url(#mSkin)" d="M32 132 C14 152 10 192 20 224 C34 216 42 190 46 160 Z"/>
+  <path fill="url(#mSkin)" d="M168 132 C186 152 190 192 180 224 C166 216 158 190 154 160 Z"/>
+  <!-- neck -->
+  <rect x="84" y="94" width="32" height="38" rx="8" fill="url(#mSkin)"/>
+  <!-- head -->
+  <ellipse cx="100" cy="70" rx="34" ry="40" fill="url(#mSkin)"/>
+  <!-- short hair -->
+  <path fill="#12161e" d="M66 60 C68 26 132 26 134 60 C126 42 74 42 66 60 Z"/>
+  <path fill="#0c1016" d="M68 56 C78 44 122 44 132 56 C120 48 80 48 68 56 Z"/>
+  <!-- face -->
+  <rect x="82" y="68" width="14" height="3.5" rx="1.5" fill="#1a120c"/>
+  <rect x="104" y="68" width="14" height="3.5" rx="1.5" fill="#1a120c"/>
+  <path d="M92 86 Q100 92 108 86" stroke="#8a5a38" stroke-width="2.5" fill="none" stroke-linecap="round"/>
+  <ellipse cx="100" cy="96" rx="18" ry="8" fill="#9a6a42" opacity="0.35"/>
+  <!-- belt -->
+  <rect x="62" y="228" width="76" height="10" rx="2" fill="#1d4ed8"/>
+  <rect x="90" y="226" width="20" height="14" rx="2" fill="#93c5fd"/>
+  <!-- MAN mark -->
+  <rect x="66" y="8" width="68" height="20" rx="6" fill="#1d4ed8"/>
+  <text x="100" y="22" text-anchor="middle" font-family="Arial Black, Impact, sans-serif" font-size="11" font-weight="800" fill="#fff" letter-spacing="2">MAN</text>
+</svg>

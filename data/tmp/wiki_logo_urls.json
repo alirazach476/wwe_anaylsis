@@ -1,0 +1,464 @@
+[
+  {
+    "series": "Armageddon",
+    "slug": "armageddon",
+    "title": "WWE Armageddon",
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Backlash",
+    "slug": "backlash",
+    "title": "WWE Backlash",
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Bad Blood",
+    "slug": "bad-blood",
+    "title": "WWE Bad Blood",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/e/ee/Bad_Blood_%282024%29_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "Bad_Blood_(2024)_logo.png"
+  },
+  {
+    "series": "Bash in Berlin",
+    "slug": "bash-in-berlin",
+    "title": "Bash in Berlin",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e1/Bash_in_Berlin_%282024%29_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "Bash_in_Berlin_(2024)_poster.jpg"
+  },
+  {
+    "series": "Battleground",
+    "slug": "battleground",
+    "title": "WWE Battleground",
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Bragging Rights",
+    "slug": "bragging-rights",
+    "title": null,
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Breaking Point",
+    "slug": "breaking-point",
+    "title": null,
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Capitol Punishment",
+    "slug": "capitol-punishment",
+    "title": null,
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Clash at the Castle",
+    "slug": "clash-at-the-castle",
+    "title": "WWE Clash",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/47/WWE_Clash_at_the_Castle_2022_logo.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Clash_at_the_Castle_2022_logo.jpeg"
+  },
+  {
+    "series": "Clash in Italy",
+    "slug": "clash-in-italy",
+    "title": null,
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Clash in Paris",
+    "slug": "clash-in-paris",
+    "title": "Clash in Paris",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/5/58/WWE_Clash_in_Paris_poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Clash_in_Paris_poster.jpg"
+  },
+  {
+    "series": "Clash of Champions",
+    "slug": "clash-of-champions",
+    "title": "Clash of the Champions",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/ce/Wcwclashofthechampions.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "Wcwclashofthechampions.jpg"
+  },
+  {
+    "series": "Crown Jewel",
+    "slug": "crown-jewel",
+    "title": "WWE Crown Jewel",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/a/af/WWE_Crown_Jewel_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Crown_Jewel_Logo.png"
+  },
+  {
+    "series": "Cyber Sunday",
+    "slug": "cyber-sunday",
+    "title": "WWE Cyber Sunday",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/WWE_Cyber_Sunday_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Cyber_Sunday_logo.png"
+  },
+  {
+    "series": "December to Dismember",
+    "slug": "december-to-dismember",
+    "title": "December to Dismember",
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Elimination Chamber",
+    "slug": "elimination-chamber",
+    "title": "Elimination Chamber",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/WWE_Elimination_Chamber_2017.jpg/1920px-WWE_Elimination_Chamber_2017.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pageimage": "1920px-WWE_Elimination_Chamber_2017.jpg"
+  },
+  {
+    "series": "Evolution",
+    "slug": "evolution",
+    "title": "WWE Evolution",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/96/WWE_Evolution_2025_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Evolution_2025_Logo.png"
+  },
+  {
+    "series": "Extreme Rules",
+    "slug": "extreme-rules",
+    "title": "WWE Extreme Rules",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/6/6f/WWE_Extreme_Rules_logo%2C_2020_version.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Extreme_Rules_logo,_2020_version.png"
+  },
+  {
+    "series": "Fastlane",
+    "slug": "fastlane",
+    "title": "WWE Fastlane",
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Fatal 4-Way",
+    "slug": "fatal-4-way",
+    "title": null,
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Fully Loaded",
+    "slug": "fully-loaded",
+    "title": "Fully Loaded",
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Great Balls of Fire",
+    "slug": "great-balls-of-fire",
+    "title": null,
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Greatest Royal Rumble",
+    "slug": "greatest-royal-rumble",
+    "title": "Greatest Royal Rumble",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/e/e3/WWE_greatest_royal.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_greatest_royal.jpg"
+  },
+  {
+    "series": "Halftime Heat",
+    "slug": "halftime-heat",
+    "title": "Halftime Heat",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/24/WWF_Halftime_Heat_1999.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWF_Halftime_Heat_1999.jpg"
+  },
+  {
+    "series": "Hell in a Cell",
+    "slug": "hell-in-a-cell",
+    "title": "WWE Hell in a Cell",
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "In Your House",
+    "slug": "in-your-house",
+    "title": "In Your House",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/86/NXT_In_Your_House_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "NXT_In_Your_House_logo.png"
+  },
+  {
+    "series": "Insurrextion",
+    "slug": "insurrextion",
+    "title": "WWE Insurrextion",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4f/Insurrextion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "Insurrextion.jpg"
+  },
+  {
+    "series": "Invasion",
+    "slug": "invasion",
+    "title": "The Invasion (professional wrestling)",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/7/72/Wwfwcwecwinvasion.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "Wwfwcwecwinvasion.jpg"
+  },
+  {
+    "series": "Judgment Day",
+    "slug": "judgment-day",
+    "title": "WWE Judgment Day",
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "King and Queen of the Ring",
+    "slug": "king-and-queen-of-the-ring",
+    "title": "King of the Ring",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/22/WWE_King_%26_Queen_of_the_Ring_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_King_&_Queen_of_the_Ring_Logo.png"
+  },
+  {
+    "series": "King of the Ring",
+    "slug": "king-of-the-ring",
+    "title": "King of the Ring",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/22/WWE_King_%26_Queen_of_the_Ring_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_King_&_Queen_of_the_Ring_Logo.png"
+  },
+  {
+    "series": "Money in the Bank",
+    "slug": "money-in-the-bank",
+    "title": "WWE Money in the Bank",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/4f/WWE_Money_In_the_Bank_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Money_In_the_Bank_Logo.png"
+  },
+  {
+    "series": "New Year's Revolution",
+    "slug": "new-year-s-revolution",
+    "title": "WWE New Year's Revolution",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/28/WWE_New_Year%27s_Revolution_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_New_Year's_Revolution_logo.png"
+  },
+  {
+    "series": "Night of Champions",
+    "slug": "night-of-champions",
+    "title": "WWE Night of Champions",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c3/WWE_Night_of_Champions_2023_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Night_of_Champions_2023_logo.png"
+  },
+  {
+    "series": "No Mercy",
+    "slug": "no-mercy",
+    "title": "WWE No Mercy",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/97/NXT_No_Mercy_Logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "NXT_No_Mercy_Logo.png"
+  },
+  {
+    "series": "No Way Out",
+    "slug": "no-way-out",
+    "title": "WWE No Way Out",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/33/Ppv_NWO08_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "Ppv_NWO08_logo.png"
+  },
+  {
+    "series": "One Night Stand",
+    "slug": "one-night-stand",
+    "title": "WWE One Night Stand",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/4/40/WWE_One_Night_Stand_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_One_Night_Stand_logo.png"
+  },
+  {
+    "series": "Over the Limit",
+    "slug": "over-the-limit",
+    "title": null,
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Payback",
+    "slug": "payback",
+    "title": "WWE Payback",
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Raw Netflix Premiere",
+    "slug": "raw-netflix-premiere",
+    "title": "WWE Raw",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/WWE_RAW_Logo_2025.svg/1280px-WWE_RAW_Logo_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pageimage": "1280px-WWE_RAW_Logo_2025.svg.png"
+  },
+  {
+    "series": "Raw Special",
+    "slug": "raw-special",
+    "title": "WWE Raw",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/WWE_RAW_Logo_2025.svg/1280px-WWE_RAW_Logo_2025.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pageimage": "1280px-WWE_RAW_Logo_2025.svg.png"
+  },
+  {
+    "series": "Rebellion",
+    "slug": "rebellion",
+    "title": null,
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Roadblock",
+    "slug": "roadblock",
+    "title": "WWE Roadblock",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/87/WWE_Roadblock_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Roadblock_logo.png"
+  },
+  {
+    "series": "Royal Rumble",
+    "slug": "royal-rumble",
+    "title": "Royal Rumble",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/c1/Royal_Rumble_logo_%282022%29.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "Royal_Rumble_logo_(2022).png"
+  },
+  {
+    "series": "Saturday Night's Main Event",
+    "slug": "saturday-night-s-main-event",
+    "title": "Saturday Night's Main Event",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/a/a5/Saturday_Night%27s_Main_Event_transparent_2024_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "Saturday_Night's_Main_Event_transparent_2024_logo.png"
+  },
+  {
+    "series": "SmackDown Special",
+    "slug": "smackdown-special",
+    "title": "WWE SmackDown",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/WWE_SmackDown_%282024%29_Logo.svg/1280px-WWE_SmackDown_%282024%29_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pageimage": "1280px-WWE_SmackDown_(2024)_Logo.svg.png"
+  },
+  {
+    "series": "Smackville",
+    "slug": "smackville",
+    "title": "Smackville",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/20/Smackville.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "Smackville.jpg"
+  },
+  {
+    "series": "Starrcade",
+    "slug": "starrcade",
+    "title": "Starrcade",
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Stomping Grounds",
+    "slug": "stomping-grounds",
+    "title": "Stomping Grounds",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/c/ce/WWE_Stomping_Grounds_Poster.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Stomping_Grounds_Poster.jpg"
+  },
+  {
+    "series": "SummerSlam",
+    "slug": "summerslam",
+    "title": "SummerSlam",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d4/WWE_SummerSlam_logo_2023.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_SummerSlam_logo_2023.png"
+  },
+  {
+    "series": "Sunday Night's Main Event",
+    "slug": "sunday-night-s-main-event",
+    "title": "Sunday Night's Main Event",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/9/93/Sunday_Night%27s_Main_Event.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "Sunday_Night's_Main_Event.jpg"
+  },
+  {
+    "series": "Super ShowDown",
+    "slug": "super-showdown",
+    "title": "WWE Super ShowDown",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/d0/WWE_Super_ShowDown_logo.webp?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Super_ShowDown_logo.webp"
+  },
+  {
+    "series": "Superstar Spectacle",
+    "slug": "superstar-spectacle",
+    "title": "WWE Superstar Spectacle",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f6/WWE_Superstar_Spectacle_logo.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Superstar_Spectacle_logo.jpeg"
+  },
+  {
+    "series": "Survivor Series",
+    "slug": "survivor-series",
+    "title": "Survivor Series",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/6/66/Survivor_Series_2022_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "Survivor_Series_2022_logo.png"
+  },
+  {
+    "series": "Survivor Series WarGames",
+    "slug": "survivor-series-wargames",
+    "title": "Survivor Series",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/6/66/Survivor_Series_2022_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "Survivor_Series_2022_logo.png"
+  },
+  {
+    "series": "TLC",
+    "slug": "tlc",
+    "title": "WWE TLC: Tables, Ladders & Chairs",
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "Taboo Tuesday",
+    "slug": "taboo-tuesday",
+    "title": "WWE Cyber Sunday",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3b/WWE_Cyber_Sunday_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Cyber_Sunday_logo.png"
+  },
+  {
+    "series": "The Beast in the East",
+    "slug": "the-beast-in-the-east",
+    "title": "The Beast in the East",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/f/f3/WWEtheBeastIntheEast.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWEtheBeastIntheEast.jpg"
+  },
+  {
+    "series": "The Great American Bash",
+    "slug": "the-great-american-bash",
+    "title": "The Great American Bash",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/8/8a/NXT_The_Great_American_Bash_2024_logo.jpeg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "NXT_The_Great_American_Bash_2024_logo.jpeg"
+  },
+  {
+    "series": "The Shield's Final Chapter",
+    "slug": "the-shield-s-final-chapter",
+    "title": "WWE The Shield's Final Chapter",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/6/61/WWE_The_Shield%27s_Final_Goodbye.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_The_Shield's_Final_Goodbye.jpg"
+  },
+  {
+    "series": "Tribute to the Troops",
+    "slug": "tribute-to-the-troops",
+    "title": "WWE Tribute to the Troops",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/d/da/WWE_Tribute_to_the_Troops_logo.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Tribute_to_the_Troops_logo.png"
+  },
+  {
+    "series": "Unforgiven",
+    "slug": "unforgiven",
+    "title": "WWE Unforgiven",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/2/26/WWE_Unforgiven_logo.jpg?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "WWE_Unforgiven_logo.jpg"
+  },
+  {
+    "series": "Vengeance",
+    "slug": "vengeance",
+    "title": "WWE Vengeance",
+    "image_url": "https://upload.wikimedia.org/wikipedia/en/3/3a/NXT_Vengeance_Day_2023.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail_unscaled",
+    "pageimage": "NXT_Vengeance_Day_2023.png"
+  },
+  {
+    "series": "WWE vs. ECW Head-to-Head",
+    "slug": "wwe-vs-ecw-head-to-head",
+    "title": null,
+    "image_url": null,
+    "pageimage": null
+  },
+  {
+    "series": "WrestleMania",
+    "slug": "wrestlemania",
+    "title": "WrestleMania",
+    "image_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/Wrestlemania_Neutral_Logo.svg/500px-Wrestlemania_Neutral_Logo.svg.png?utm_source=en.wikipedia.org&utm_campaign=api&utm_content=thumbnail",
+    "pageimage": "500px-Wrestlemania_Neutral_Logo.svg.png"
+  },
+  {
+    "series": "Wrestlepalooza",
+    "slug": "wrestlepalooza",
+    "title": "Wrestlepalooza",
+    "image_url": null,
+    "pageimage": null
+  }
+]

@@ -1,0 +1,19 @@
+{
+  "phase": "analytics",
+  "generated_at": "2026-11-08T15:11:40.212456Z",
+  "tables": {
+    "dim_events": "C:\\Users\\DELL\\Downloads\\wwe anaylsis\\data\\analytics\\dim_events.csv",
+    "fct_matches": "C:\\Users\\DELL\\Downloads\\wwe anaylsis\\data\\analytics\\fct_matches.csv",
+    "event_year_summary": "C:\\Users\\DELL\\Downloads\\wwe anaylsis\\data\\analytics\\event_year_summary.csv",
+    "series_summary": "C:\\Users\\DELL\\Downloads\\wwe anaylsis\\data\\analytics\\series_summary.csv",
+    "wrestler_match_counts": "C:\\Users\\DELL\\Downloads\\wwe anaylsis\\data\\analytics\\wrestler_match_counts.csv",
+    "title_changes": "C:\\Users\\DELL\\Downloads\\wwe anaylsis\\data\\analytics\\title_changes.csv",
+    "event_geography": "C:\\Users\\DELL\\Downloads\\wwe anaylsis\\data\\analytics\\event_geography.csv"
+  },
+  "row_counts": {
+    "dim_events": 424,
+    "fct_matches": 3383,
+    "wrestler_match_counts": 2033,
+    "title_changes": 573
+  }
+}

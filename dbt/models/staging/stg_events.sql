@@ -1,0 +1,21 @@
+select
+  event_id,
+  event_name,
+  canonical_event_name,
+  event_series,
+  event_year,
+  event_date,
+  event_end_date,
+  event_type,
+  event_status,
+  venue,
+  city,
+  state_province,
+  country,
+  attendance,
+  broadcast_platform,
+  brand,
+  official_url,
+  source_url,
+  verification_status
+from {{ source('raw', 'events') }}

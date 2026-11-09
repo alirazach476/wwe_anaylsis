@@ -1,0 +1,404 @@
+{
+  "generated_by": "scripts/build_event_logo_manifest.py",
+  "source": "English Wikipedia / upload.wikimedia.org",
+  "count_ok": 66,
+  "count_total": 66,
+  "items": [
+    {
+      "series": "Armageddon",
+      "slug": "armageddon",
+      "local_path": "/events/armageddon.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Backlash",
+      "slug": "backlash",
+      "local_path": "/events/backlash.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Bad Blood",
+      "slug": "bad-blood",
+      "local_path": "/events/bad-blood.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Bash in Berlin",
+      "slug": "bash-in-berlin",
+      "local_path": "/events/bash-in-berlin.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Battleground",
+      "slug": "battleground",
+      "local_path": "/events/battleground.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Bragging Rights",
+      "slug": "bragging-rights",
+      "local_path": "/events/bragging-rights.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Breaking Point",
+      "slug": "breaking-point",
+      "local_path": "/events/breaking-point.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Capitol Punishment",
+      "slug": "capitol-punishment",
+      "local_path": "/events/capitol-punishment.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Clash at the Castle",
+      "slug": "clash-at-the-castle",
+      "local_path": "/events/clash-at-the-castle.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Clash in Italy",
+      "slug": "clash-in-italy",
+      "local_path": "/events/clash-in-italy.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Clash in Paris",
+      "slug": "clash-in-paris",
+      "local_path": "/events/clash-in-paris.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Clash of Champions",
+      "slug": "clash-of-champions",
+      "local_path": "/events/clash-of-champions.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Crown Jewel",
+      "slug": "crown-jewel",
+      "local_path": "/events/crown-jewel.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Cyber Sunday",
+      "slug": "cyber-sunday",
+      "local_path": "/events/cyber-sunday.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "December to Dismember",
+      "slug": "december-to-dismember",
+      "local_path": "/events/december-to-dismember.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Elimination Chamber",
+      "slug": "elimination-chamber",
+      "local_path": "/events/elimination-chamber.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Evolution",
+      "slug": "evolution",
+      "local_path": "/events/evolution.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Extreme Rules",
+      "slug": "extreme-rules",
+      "local_path": "/events/extreme-rules.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Fastlane",
+      "slug": "fastlane",
+      "local_path": "/events/fastlane.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Fatal 4-Way",
+      "slug": "fatal-4-way",
+      "local_path": "/events/fatal-4-way.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Fully Loaded",
+      "slug": "fully-loaded",
+      "local_path": "/events/fully-loaded.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Great Balls of Fire",
+      "slug": "great-balls-of-fire",
+      "local_path": "/events/great-balls-of-fire.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Greatest Royal Rumble",
+      "slug": "greatest-royal-rumble",
+      "local_path": "/events/greatest-royal-rumble.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Halftime Heat",
+      "slug": "halftime-heat",
+      "local_path": "/events/halftime-heat.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Hell in a Cell",
+      "slug": "hell-in-a-cell",
+      "local_path": "/events/hell-in-a-cell.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "In Your House",
+      "slug": "in-your-house",
+      "local_path": "/events/in-your-house.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Insurrextion",
+      "slug": "insurrextion",
+      "local_path": "/events/insurrextion.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Invasion",
+      "slug": "invasion",
+      "local_path": "/events/invasion.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Judgment Day",
+      "slug": "judgment-day",
+      "local_path": "/events/judgment-day.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "King and Queen of the Ring",
+      "slug": "king-and-queen-of-the-ring",
+      "local_path": "/events/king-and-queen-of-the-ring.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "King of the Ring",
+      "slug": "king-of-the-ring",
+      "local_path": "/events/king-of-the-ring.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Money in the Bank",
+      "slug": "money-in-the-bank",
+      "local_path": "/events/money-in-the-bank.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "New Year's Revolution",
+      "slug": "new-year-s-revolution",
+      "local_path": "/events/new-year-s-revolution.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Night of Champions",
+      "slug": "night-of-champions",
+      "local_path": "/events/night-of-champions.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "No Mercy",
+      "slug": "no-mercy",
+      "local_path": "/events/no-mercy.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "No Way Out",
+      "slug": "no-way-out",
+      "local_path": "/events/no-way-out.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "One Night Stand",
+      "slug": "one-night-stand",
+      "local_path": "/events/one-night-stand.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Over the Limit",
+      "slug": "over-the-limit",
+      "local_path": "/events/over-the-limit.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Payback",
+      "slug": "payback",
+      "local_path": "/events/payback.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Raw Netflix Premiere",
+      "slug": "raw-netflix-premiere",
+      "local_path": "/events/raw-netflix-premiere.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Raw Special",
+      "slug": "raw-special",
+      "local_path": "/events/raw-special.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Rebellion",
+      "slug": "rebellion",
+      "local_path": "/events/rebellion.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Roadblock",
+      "slug": "roadblock",
+      "local_path": "/events/roadblock.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Royal Rumble",
+      "slug": "royal-rumble",
+      "local_path": "/events/royal-rumble.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Saturday Night's Main Event",
+      "slug": "saturday-night-s-main-event",
+      "local_path": "/events/saturday-night-s-main-event.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "SmackDown Special",
+      "slug": "smackdown-special",
+      "local_path": "/events/smackdown-special.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Smackville",
+      "slug": "smackville",
+      "local_path": "/events/smackville.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Starrcade",
+      "slug": "starrcade",
+      "local_path": "/events/starrcade.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Stomping Grounds",
+      "slug": "stomping-grounds",
+      "local_path": "/events/stomping-grounds.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "SummerSlam",
+      "slug": "summerslam",
+      "local_path": "/events/summerslam.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Sunday Night's Main Event",
+      "slug": "sunday-night-s-main-event",
+      "local_path": "/events/sunday-night-s-main-event.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Super ShowDown",
+      "slug": "super-showdown",
+      "local_path": "/events/super-showdown.webp",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Superstar Spectacle",
+      "slug": "superstar-spectacle",
+      "local_path": "/events/superstar-spectacle.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Survivor Series",
+      "slug": "survivor-series",
+      "local_path": "/events/survivor-series.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Survivor Series WarGames",
+      "slug": "survivor-series-wargames",
+      "local_path": "/events/survivor-series-wargames.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "TLC",
+      "slug": "tlc",
+      "local_path": "/events/tlc.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Taboo Tuesday",
+      "slug": "taboo-tuesday",
+      "local_path": "/events/taboo-tuesday.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "The Beast in the East",
+      "slug": "the-beast-in-the-east",
+      "local_path": "/events/the-beast-in-the-east.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "The Great American Bash",
+      "slug": "the-great-american-bash",
+      "local_path": "/events/the-great-american-bash.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "The Shield's Final Chapter",
+      "slug": "the-shield-s-final-chapter",
+      "local_path": "/events/the-shield-s-final-chapter.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Tribute to the Troops",
+      "slug": "tribute-to-the-troops",
+      "local_path": "/events/tribute-to-the-troops.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Unforgiven",
+      "slug": "unforgiven",
+      "local_path": "/events/unforgiven.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Vengeance",
+      "slug": "vengeance",
+      "local_path": "/events/vengeance.png",
+      "method": "wikipedia"
+    },
+    {
+      "series": "WWE vs. ECW Head-to-Head",
+      "slug": "wwe-vs-ecw-head-to-head",
+      "local_path": "/events/wwe-vs-ecw-head-to-head.jpg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "WrestleMania",
+      "slug": "wrestlemania",
+      "local_path": "/events/wrestlemania.svg",
+      "method": "wikipedia"
+    },
+    {
+      "series": "Wrestlepalooza",
+      "slug": "wrestlepalooza",
+      "local_path": "/events/wrestlepalooza.jpg",
+      "method": "wikipedia"
+    }
+  ]
+}

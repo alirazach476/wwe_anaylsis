@@ -1,0 +1,26 @@
+{
+  "cleaned_at": "2026-11-08T15:23:54.549099Z",
+  "source": "C:\\Users\\DELL\\Downloads\\wwe anaylsis\\data\\exports",
+  "output": "C:\\Users\\DELL\\Downloads\\wwe anaylsis\\data\\warehouse",
+  "counts": {
+    "stg_events": 424,
+    "stg_matches": 3383,
+    "participants_deduped": 41,
+    "stg_match_participants": 10856,
+    "stg_wrestlers": 2033,
+    "stg_wrestler_aliases": 2033,
+    "stg_championships": 840,
+    "stg_match_championships": 1766,
+    "stg_special_royal_rumble": 1155,
+    "stg_special_money_in_the_bank": 37,
+    "stg_special_mitb_cash_ins": 36,
+    "stg_special_survivor_series": 52,
+    "stg_special_elimination_chamber": 38,
+    "stg_event_match_status": 424
+  },
+  "policy": {
+    "raw_exports_immutable": true,
+    "null_attendance_preserved": true,
+    "zero_distinct_from_null": true
+  }
+}

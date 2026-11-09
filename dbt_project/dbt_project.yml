@@ -1,0 +1,8 @@
+name: wwe_history
+version: 1.0.0
+config-version: 2
+profile: wwe_history
+model-paths: ["models"]
+models:
+  wwe_history:
+    +materialized: view

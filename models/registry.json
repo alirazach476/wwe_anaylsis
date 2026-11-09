@@ -1,0 +1,60 @@
+{
+  "generated_at": "2026-11-08T15:29:56.803362Z",
+  "disclaimer": "WWE outcomes are scripted. Models explore historical booking patterns / estimation only.",
+  "experiments": [
+    {
+      "experiment": "wrestler_kmeans",
+      "silhouette": 0.6417978678251821,
+      "n": 403,
+      "k": 4
+    },
+    {
+      "experiment": "duration_rf",
+      "mae": 336.10358093395354,
+      "rmse": 458.52488732949564,
+      "r2": 0.39589941028258524,
+      "n_train": 2381,
+      "n_test": 786,
+      "feature_importance": {
+        "type_enc": 0.4346737752217088,
+        "is_title": 0.034110690442744576,
+        "is_main": 0.3468103563240412,
+        "event_year": 0.18440517801150527
+      },
+      "disclaimer": "Duration estimation from stipulation features; not causal."
+    },
+    {
+      "experiment": "attendance_rf",
+      "mae": 14033.296253229973,
+      "rmse": 21000.176877487178,
+      "r2": -0.04995493156077502,
+      "n_train": 251,
+      "n_test": 129,
+      "feature_importance": {
+        "event_year": 0.2096033696095295,
+        "series_enc": 0.7810864045786602,
+        "country_enc": 0.009310225811810223
+      },
+      "disclaimer": "Uses pre-event features only (year/series/country)."
+    },
+    {
+      "experiment": "career_agglomerative",
+      "silhouette": 0.3293878110248662,
+      "k": 5,
+      "n": 294
+    },
+    {
+      "experiment": "similar_events_nn",
+      "n_seed": 20,
+      "neighbors": 5
+    },
+    {
+      "experiment": "title_match_gb",
+      "accuracy": 0.6411192214111923,
+      "precision": 0.634965034965035,
+      "recall": 0.930327868852459,
+      "f1": 0.7547797173732336,
+      "disclaimer": "Historical booking-pattern classification; results are scripted entertainment."
+    }
+  ]
+}

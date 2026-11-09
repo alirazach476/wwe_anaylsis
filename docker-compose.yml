@@ -1,0 +1,63 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    environment:
+      POSTGRES_USER: wwe
+      POSTGRES_PASSWORD: wwe
+      POSTGRES_DB: wwe_history
+    ports:
+      - "5432:5432"
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+      - ./src/wwe_data/db/warehouse_schema.sql:/docker-entrypoint-initdb.d/01_schema.sql:ro
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U wwe -d wwe_history"]
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile.api
+    environment:
+      WWE_DATABASE_URL: postgresql+psycopg2://wwe:wwe@postgres:5432/wwe_history
+      WWE_DATA_DIR: /app/data
+    ports:
+      - "8000:8000"
+    volumes:
+      - ./data:/app/data
+      - ./src:/app/src
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  frontend:
+    build:
+      context: ./frontend
+      dockerfile: Dockerfile
+    ports:
+      - "5173:80"
+    depends_on:
+      - api
+
+  airflow-webserver:
+    image: apache/airflow:2.9.3
+    profiles: ["airflow"]
+    environment:
+      AIRFLOW__CORE__EXECUTOR: LocalExecutor
+      AIRFLOW__DATABASE__SQL_ALCHEMY_CONN: postgresql+psycopg2://wwe:wwe@postgres:5432/wwe_history
+      AIRFLOW__CORE__LOAD_EXAMPLES: "false"
+      WWE_DATABASE_URL: postgresql+psycopg2://wwe:wwe@postgres:5432/wwe_history
+    volumes:
+      - ./airflow/dags:/opt/airflow/dags
+      - ./:/opt/airflow/project
+    ports:
+      - "8080:8080"
+    command: webserver
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+volumes:
+  pgdata:

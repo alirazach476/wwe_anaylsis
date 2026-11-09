@@ -1,0 +1,194 @@
+# Eligibility rules for the WWE major-event inventory (2000–2027).
+# Confirmed facts only — no fabrication of unannounced future events.
+
+window:
+  start_date: "2000-01-01"
+  end_date: "2027-12-31"
+
+include:
+  event_types:
+    - ppv
+    - ple
+    - premium_live_event
+    - special  # SNME, Tribute to the Troops, Saudi specials, etc. when listed as eligible
+
+  # Explicitly requested series / names (also covered by registry)
+  must_consider_series:
+    - WrestleMania
+    - Royal Rumble
+    - SummerSlam
+    - Survivor Series
+    - Money in the Bank
+    - Elimination Chamber
+    - Backlash
+    - Crown Jewel
+    - Wrestlepalooza
+    - Clash at the Castle
+    - Clash in Paris
+    - Bash in Berlin
+    - Saturday Night's Main Event
+    - Sunday Night's Main Event
+    - No Mercy
+    - No Way Out
+    - Armageddon
+    - Judgment Day
+    - Unforgiven
+    - King of the Ring
+    - Vengeance
+    - Night of Champions
+    - Bad Blood
+    - Fastlane
+    - Payback
+    - Extreme Rules
+    - TLC
+    - Hell in a Cell
+    - Great American Bash
+    - One Night Stand
+    - In Your House
+    - Insurrextion
+    - Rebellion
+    - Evolution
+    - Greatest Royal Rumble
+    - Super ShowDown
+    - Clash of Champions
+    - Battleground
+    - Bragging Rights
+    - Cyber Sunday
+    - Taboo Tuesday
+    - Fully Loaded
+    - Breaking Point
+    - Capitol Punishment
+    - Over the Limit
+    - The Bash
+    - Starrcade
+    - Roadblock
+    - New Year's Revolution
+    - Day 1
+    - Tribute to the Troops
+    - December to Dismember
+    - Fatal 4-Way
+
+exclude:
+  # Hard exclusions (substring, case-insensitive)
+  name_patterns:
+    - "^raw$"
+    - "^monday night raw"
+    - "^wwe raw$"
+    - "^smackdown$"
+    - "^friday night smackdown"
+    - "^wwe smackdown"
+    - "^nxt$"
+    - "^wwe nxt$"
+    - "nxt takeover"
+    - "^takeover\\b"          # NXT TakeOver often listed without NXT prefix
+    - "takeover:"
+    - "^stand & deliver"
+    - "^stand and deliver"
+    - "^halloween havoc"      # modern editions are NXT
+    - "^deadline$"            # NXT Deadline
+    - "^heatwave$"            # NXT Heatwave
+    - "^vengeance day"
+    - "^new year.?s evil"
+    - "^spring breakin"
+    - "^arrival$"             # NXT Arrival
+    - "^u\\.k\\. championship"
+    - "^uk championship"
+    - "house show"
+    - "live event$"
+    - "dark match"
+    - "ae\\s*w\\b"
+    - "impact wrestling"
+    - "tna\\b"
+    - "wcw\\b"  # pre-acquisition WCW events outside WWE promotion
+    - "hall of fame"  # ceremony, not a PLE card
+    - "wrestlemania access"
+    - "raw talk"
+    - "talking smack"
+    - "main event$"  # weekly Main Event TV — careful: SNME handled via include first
+    - "205 live"
+    - "nxt level up"
+    - "nxt 2\\.0"
+    - "^tripleman"            # AAA partner cards
+    - "guerra de titanes"
+    - "^ola de calor"
+    - "^evolve\\b"
+    - "cruiserweight classic"
+    - "mae young classic"
+    - "united kingdom championship"  # UK tournament finales on NXT UK cards
+
+  # Names that are main-roster historically but NXT-only in modern years
+  nxt_era_name_patterns:
+    - pattern: "^battleground$"
+      exclude_from_year: 2023
+    - pattern: "^the great american bash$"
+      exclude_from_year: 2022
+    - pattern: "^worlds collide"
+      exclude_from_year: 2000   # NXT/partner crossover cards
+    - pattern: "^roadblock$"
+      exclude_from_year: 2022   # modern Roadblock is NXT TV special; 2016 PPVs kept
+
+  # If name matches these AND is not SNME / Tribute / other allowlisted specials, exclude
+  weekly_or_tv_episode_patterns:
+    - "aired as a special episode of raw"
+    - "aired as a special episode of smackdown"
+    - "aired as a special episode of nxt"
+    - "special episode of raw"
+    - "special episode of smackdown"
+    - "special episode of nxt"
+
+  brands_to_drop_when_nxt_only:
+    - NXT
+    - NXT UK
+    - Evolve  # unless later reclassified as main-roster eligible
+
+# Allowlist overrides: events matching exclude patterns but still eligible
+allowlist_name_patterns:
+  - "saturday night.?s main event"
+  - "sunday night.?s main event"
+  - "tribute to the troops"
+  - "greatest royal rumble"
+  - "super showdown"
+  - "ecw one night stand"
+  - "wwe vs.? ecw"
+  - "john cena.?s farewell"
+  - "john cena.?s final"
+
+# Status rules
+status:
+  completed_if_date_on_or_before_today: true
+  announced_future_allowed: true
+  fabricate_unannounced_future: false
+
+sources:
+  primary:
+    - name: wikipedia_ppv_list
+      url: https://en.wikipedia.org/wiki/List_of_WWE_pay-per-view_and_livestreaming_supercards
+      type: archive
+      access: mediawiki_api
+    - name: wikipedia_snme
+      url: https://en.wikipedia.org/wiki/Saturday_Night%27s_Main_Event
+      type: archive
+      access: mediawiki_api
+    - name: wikipedia_tv_specials
+      url: https://en.wikipedia.org/wiki/List_of_WWE_television_specials
+      type: archive
+      access: mediawiki_api
+      filter: allowlist_only
+  secondary:
+    - name: the_smackdown_hotel
+      url: https://www.thesmackdownhotel.com/events-results/ppv-special/wwe/
+      type: archive
+      access: permitted_html
+      notes: Prefer documented/filter pages; respect robots.txt; JS-heavy pages may need manual export
+    - name: online_world_of_wrestling
+      url: https://www.onlineworldofwrestling.com/
+      type: archive
+      access: permitted_html
+    - name: wrestling_oracle
+      url: https://www.wrestlingoracle.com/
+      type: archive
+      access: permitted_html
+    - name: wwe_official
+      url: https://www.wwe.com/
+      type: official
+      access: permitted_html

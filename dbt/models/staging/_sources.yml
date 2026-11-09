@@ -1,0 +1,22 @@
+version: 2
+
+sources:
+  - name: analytics
+    schema: analytics
+    tables:
+      - name: dim_event
+      - name: dim_wrestler
+      - name: dim_championship
+      - name: dim_venue
+      - name: dim_date
+      - name: dim_match_type
+      - name: dim_brand
+      - name: dim_country
+      - name: dim_team
+      - name: fact_matches
+      - name: fact_match_participants
+      - name: fact_championship_changes
+      - name: fact_royal_rumble
+      - name: fact_money_in_the_bank
+      - name: fact_survivor_series
+      - name: fact_event_attendance

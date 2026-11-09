@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-11-08T15:37:45.038587Z",
+  "source": "sqlite:///C:/Users/DELL/Downloads/wwe anaylsis/data/processed/wwe_analytics.sqlite",
+  "marts": {
+    "mart_attendance_analytics": 424,
+    "mart_championship_analytics": 344,
+    "mart_championship_changes": 573,
+    "mart_event_analytics": 424,
+    "mart_historical_trends": 28,
+    "mart_match_analytics": 3383,
+    "mart_mitb_analytics": 37,
+    "mart_overview": 1,
+    "mart_royal_rumble_analytics": 1155,
+    "mart_wrestler_performance": 2033
+  }
+}

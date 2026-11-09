@@ -1,0 +1,104 @@
+{
+  "generated_at": "2026-11-08T15:11:41.507528Z",
+  "ok": true,
+  "summary": {
+    "events": 424,
+    "matches": 3383,
+    "participants": 10897,
+    "wrestlers": 2033,
+    "championships": 840,
+    "match_championships": 1766
+  },
+  "checks": [
+    {
+      "name": "required_exports_present",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "unique_events",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "unique_matches",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "unique_wrestlers",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "unique_championships",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "matches_event_fk",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "participants_match_fk",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "participants_wrestler_fk",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "aliases_wrestler_fk",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "match_championships_match_fk",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "match_championships_championship_fk",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "completed_events_have_cards",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "event_year_window",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "no_nxt_takeover",
+      "passed": true,
+      "detail": "ok",
+      "count": 0
+    },
+    {
+      "name": "title_matches_have_championship_link",
+      "passed": true,
+      "detail": "45 is_title_match rows without championship link (informational)",
+      "count": 45
+    }
+  ]
+}

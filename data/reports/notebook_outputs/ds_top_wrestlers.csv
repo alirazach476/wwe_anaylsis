@@ -1,0 +1,26 @@
+wrestler_key,matches,wins,losses,title_matches,main_events,first_year,last_year,wrestler_id,canonical_name,win_pct,career_span_years
+1317,186,87,84,104,52,2003,2026,wrs_randy-orton_b1eaaa85,Randy Orton,0.5088,23
+940,179,108,62,121,78,2002,2025,wrs_john-cena_43142eec,John Cena,0.6353,23
+990,132,57,59,66,32,2000,2021,wrs_kane_bdba1e91,Kane,0.4914,21
+542,121,48,62,63,23,2000,2018,wrs_chris-jericho_fd60f6c9,Chris Jericho,0.4364,18
+1346,119,56,48,66,12,2002,2026,wrs_rey-mysterio_a2fc3ae4,Rey Mysterio,0.5385,24
+407,115,45,58,61,20,2000,2020,wrs_big-show_5b188d2a,Big Show,0.4369,20
+1743,111,33,61,69,13,2006,2026,wrs_the-miz_88d52981,The Miz,0.3511,20
+1519,108,60,37,69,10,2009,2025,wrs_sheamus_2fa9f3c4,Sheamus,0.6186,16
+580,104,54,41,68,41,2007,2026,wrs_cody-rhodes_085203c7,Cody Rhodes,0.5684,19
+697,103,60,35,60,26,2000,2023,wrs_edge_a0f2c69a,Edge,0.6316,23
+1845,103,63,34,63,50,2000,2020,wrs_triple-h_f28aa65b,Triple H,0.6495,20
+575,100,51,41,67,37,2006,2026,wrs_cm-punk_4a79114c,CM Punk,0.5543,20
+1783,98,66,25,47,34,2000,2020,wrs_the-undertaker_5928984c,The Undertaker,0.7253,20
+681,95,44,42,61,16,2009,2026,wrs_drew-mcintyre_dec5f4f3,Drew McIntyre,0.5116,17
+1409,90,58,24,44,37,2013,2026,wrs_roman-reigns_6e31eab3,Roman Reigns,0.7073,13
+1041,89,35,38,57,9,2008,2025,wrs_kofi-kingston_467df1dc,Kofi Kingston,0.4795,17
+1487,83,45,33,50,25,2013,2026,wrs_seth-rollins_76b316d9,Seth Rollins,0.5769,13
+657,80,21,44,44,13,2009,2022,wrs_dolph-ziggler_079b1e01,Dolph Ziggler,0.3231,13
+907,80,44,31,58,14,2012,2026,wrs_jey-uso_adc98921,Jey Uso,0.5867,14
+889,80,35,39,48,11,2000,2021,wrs_jeff-hardy_a569b225,Jeff Hardy,0.473,21
+558,80,42,32,61,6,2000,2021,wrs_christian_2314b2e3,Christian,0.5676,21
+1023,79,33,42,44,18,2015,2026,wrs_kevin-owens_2dcc9e59,Kevin Owens,0.44,11
+1150,76,37,31,36,6,2000,2018,wrs_matt-hardy_c3fdca74,Matt Hardy,0.5441,18
+1054,72,35,32,33,19,2000,2019,wrs_kurt-angle_0212456a,Kurt Angle,0.5224,19
+386,70,33,33,56,2,2015,2026,wrs_becky-lynch_e5e4d4e9,Becky Lynch,0.5,11

@@ -1,0 +1,101 @@
+event,similar,distance
+Royal Rumble,Royal Rumble,0.5154109700681183
+Royal Rumble,Royal Rumble,0.5452137272618157
+Royal Rumble,Royal Rumble,0.5598151246366262
+Royal Rumble,Royal Rumble,0.8047387860103794
+Royal Rumble,Royal Rumble,0.8114157306042356
+No Way Out,No Mercy,0.257619169954128
+No Way Out,Judgment Day,0.3855143691437109
+No Way Out,Judgment Day,0.4431318477853244
+No Way Out,Rebellion,0.5015208267100884
+No Way Out,Rebellion,0.602616890247772
+WrestleMania 2000,Unforgiven,0.2967052460385855
+WrestleMania 2000,Unforgiven,0.4223732394044017
+WrestleMania 2000,Vengeance,0.5694086027813446
+WrestleMania 2000,Vengeance,0.6354528567069374
+WrestleMania 2000,Unforgiven,0.6460199780454624
+Backlash,Backlash,0.4665659998533083
+Backlash,Armageddon,0.5024359945493639
+Backlash,Backlash,1.007397323086017
+Backlash,Armageddon,1.016006326328596
+Backlash,Backlash,1.068722624651429
+Insurrextion,King of the Ring,0.5108978027130716
+Insurrextion,Insurrextion,0.5452137272618157
+Insurrextion,Judgment Day,0.6354528567069373
+Insurrextion,Judgment Day,0.6476843661769592
+Insurrextion,Judgment Day,0.656129668963898
+Judgment Day,No Mercy,0.8447464788088034
+Judgment Day,Royal Rumble,0.9268765748414356
+Judgment Day,King of the Ring,0.9447643178754034
+Judgment Day,No Way Out,0.9666103137093282
+Judgment Day,Royal Rumble,1.0036121925506758
+King of the Ring,No Way Out,0.604123665385642
+King of the Ring,Insurrextion,0.6686485300275469
+King of the Ring,Insurrextion,0.850347010727354
+King of the Ring,No Mercy,0.8959152944495092
+King of the Ring,King of the Ring,0.9641011040790574
+Fully Loaded,King of the Ring,0.535485213588729
+Fully Loaded,Insurrextion,0.6282966311703876
+Fully Loaded,King of the Ring,0.698937344084692
+Fully Loaded,Insurrextion,0.7516090163082743
+Fully Loaded,Judgment Day,0.7557789433886939
+SummerSlam,Survivor Series,0.5413560431263009
+SummerSlam,Rebellion,0.5858927008467201
+SummerSlam,SummerSlam,0.6392666540971518
+SummerSlam,Rebellion,0.6504341344234229
+SummerSlam,SummerSlam,0.6836793583622042
+Unforgiven,WrestleMania 2000,0.4223732394044017
+Unforgiven,Survivor Series,0.4350238678817868
+Unforgiven,Unforgiven,0.4665659998533083
+Unforgiven,Unforgiven,0.5046160557908692
+Unforgiven,Vengeance,0.5072924792950356
+No Mercy,No Way Out,0.518031624376282
+No Mercy,No Mercy,0.5452137272618157
+No Mercy,King of the Ring,0.5558607745330536
+No Mercy,Rebellion,0.5919377718985922
+No Mercy,Insurrextion,0.6253117323470164
+Survivor Series,SummerSlam,0.5108978027130716
+Survivor Series,SummerSlam,0.5413560431263009
+Survivor Series,Unforgiven,0.6859948533235735
+Survivor Series,The Great American Bash,0.6901950809190319
+Survivor Series,Vengeance,0.7187697595000285
+Rebellion,No Way Out,0.5015208267100884
+Rebellion,No Mercy,0.5919377718985923
+Rebellion,No Mercy,0.6311536751439473
+Rebellion,Rebellion,0.6478217033607262
+Rebellion,SummerSlam,0.6504341344234229
+Armageddon,Backlash,0.5024359945493639
+Armageddon,Backlash,0.5180316243762819
+Armageddon,Backlash,0.6290273807513438
+Armageddon,Armageddon,0.6836793583622042
+Armageddon,Backlash,0.6856571744231411
+Royal Rumble,Royal Rumble,0.1261540139477173
+Royal Rumble,Royal Rumble,0.5154109700681183
+Royal Rumble,Royal Rumble,0.5452137272618157
+Royal Rumble,Survivor Series,0.6639042892245844
+Royal Rumble,Royal Rumble,0.6836793583622042
+No Way Out,King of the Ring,0.26020644627730016
+No Way Out,No Way Out,0.3784620418431519
+No Way Out,King of the Ring,0.4874902267717951
+No Way Out,Rebellion,0.5015208267100882
+No Way Out,No Mercy,0.518031624376282
+WrestleMania X-Seven,WrestleMania X8,0.1261540139477173
+WrestleMania X-Seven,WrestleMania XX,0.6268709196856445
+WrestleMania X-Seven,WrestleMania 22,0.8047387860103794
+WrestleMania X-Seven,WrestleMania XIX,0.8244739571720983
+WrestleMania X-Seven,Vengeance,0.9363037867569775
+Backlash,Backlash,0.2523080278954346
+Backlash,Armageddon,0.4155088715071258
+Backlash,Armageddon,0.4694593997423928
+Backlash,Armageddon,0.5180316243762819
+Backlash,Armageddon,0.5476917967087804
+Insurrextion,ECW One Night Stand,0.880454754845709
+Insurrextion,December to Dismember,0.8876178649956112
+Insurrextion,ECW One Night Stand,0.9583496712820979
+Insurrextion,No Mercy,0.9874005951891068
+Insurrextion,Judgment Day,1.086143195434648
+Judgment Day,Judgment Day,0.1261540139477173
+Judgment Day,No Mercy,0.3367691844282333
+Judgment Day,No Way Out,0.3855143691437109
+Judgment Day,Judgment Day,0.4665659998533083
+Judgment Day,King of the Ring,0.5258152253558664

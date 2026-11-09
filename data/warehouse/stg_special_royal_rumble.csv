@@ -1,0 +1,1156 @@
+match_id,event_id,entrant,wrestler_id,entry_number,elimination_order,eliminated_by,time_in_match_seconds,eliminations_made,is_winner,is_final_four
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,D'Lo Brown,wrs_d-lo-brown_c64beead,1,3.0,Rikishi,368.0,0.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Grand Master Sexay,wrs_grand-master-sexay_ea58bc06,2,4.0,07:42,,,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Mosh,wrs_mosh_47c1bc54,3,1.0,03:37,,,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Christian,wrs_christian_2314b2e3,4,2.0,02:08,,,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Rikishi,wrs_rikishi_39fee4cd,5,8.0,"Big Boss Man, Bob Backlund, Edge, Gangrel, Test & The British Bulldog",983.0,7.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Scotty 2 Hotty,wrs_scotty-2-hotty_6a0a797e,6,5.0,Rikishi,62.0,0.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Steve Blackman,wrs_steve-blackman_7ed1befb,7,6.0,00:44,,,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Viscera,wrs_viscera_be7dd2df,8,7.0,01:25,,,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Big Boss Man,wrs_big-boss-man_0b3464cc,9,15.0,The Rock,1367.0,3.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Test,wrs_test_a94a8fe5,10,17.0,Big Show,1577.0,1.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,The British Bulldog,wrs_the-british-bulldog_84c169e8,11,13.0,Road Dogg,922.0,1.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Gangrel,wrs_gangrel_9c8152e5,12,18.0,Big Show,1399.0,1.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Edge,wrs_edge_a0f2c69a,13,14.0,Al Snow & Val Venis,888.0,1.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Bob Backlund,wrs_bob-backlund_76902403,14,9.0,Chris Jericho,120.0,1.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Chris Jericho,wrs_chris-jericho_fd60f6c9,15,10.0,Chyna,227.0,1.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Crash Holly,wrs_crash-holly_6fa192e6,16,16.0,The Rock,894.0,0.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Chyna,wrs_chyna_2d3c73d2,17,11.0,Big Boss Man,38.0,1.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Faarooq,wrs_faarooq_e9d15b3f,18,12.0,00:18,,,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Road Dogg,wrs_road-dogg_91ea0103,19,25.0,Billy Gunn,1142.0,2.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Al Snow,wrs_al-snow_bfec792f,20,24.0,The Rock,1037.0,2.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Val Venis,wrs_val-venis_677ec7b3,21,20.0,Kane,707.0,1.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Prince Albert,wrs_prince-albert_6cfdaa0e,22,21.0,11:23,,,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Hardcore Holly,wrs_hardcore-holly_c8432f4c,23,22.0,Al Snow,708.0,0.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,The Rock,wrs_the-rock_0266967d,24,,Winner,887.0,4.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Billy Gunn,wrs_billy-gunn_6533d28d,25,26.0,Kane,578.0,2.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Big Show,wrs_big-show_5b188d2a,26,29.0,The Rock,672.0,4.0,False,True
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Bradshaw,wrs_bradshaw_8e149206,27,19.0,Billy Gunn & Road Dogg,25.0,0.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,Kane,wrs_kane_bdba1e91,28,27.0,X-Pac,371.0,3.0,False,True
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,The Godfather,wrs_the-godfather_b72bfe63,29,23.0,Big Show [1],92.0,0.0,False,False
+mtc_b2e1a5183f0b_6,evt_20000123_royal-rumble_889598fe4f,X-Pac,wrs_x-pac_579c6528,30,28.0,03:32,,,False,True
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Jeff Hardy,wrs_jeff-hardy_a569b225,1,4.0,Matt Hardy,396.0,3.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Bull Buchanan,wrs_bull-buchanan_b816147c,2,1.0,Jeff Hardy & Matt Hardy,128.0,0.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Matt Hardy,wrs_matt-hardy_c3fdca74,3,3.0,Jeff Hardy,285.0,3.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Faarooq,wrs_faarooq_e9d15b3f,4,2.0,Jeff Hardy & Matt Hardy,58.0,0.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Drew Carey,wrs_drew-carey_63df5043,5,5.0,Himself,174.0,1.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Kane,wrs_kane_bdba1e91,6,29.0,"""Stone Cold"" Steve Austin",3226.0,11.0,False,True
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Raven,wrs_raven_0efec51f,7,9.0,Kane,531.0,0.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Al Snow,wrs_al-snow_bfec792f,8,8.0,07:08,,,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Perry Saturn,wrs_perry-saturn_fa476f2c,9,10.0,05:02,,,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Steve Blackman,wrs_steve-blackman_7ed1befb,10,7.0,03:08,,,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Grand Master Sexay,wrs_grand-master-sexay_ea58bc06,11,6.0,01:03,,,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,The Honky Tonk Man,wrs_the-honky-tonk-man_44f0c359,12,11.0,01:16,,,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,The Rock,wrs_the-rock_0266967d,13,28.0,38:42,,,False,True
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,The Goodfather,wrs_the-goodfather_401d2ad4,14,12.0,The Rock,13.0,0.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Tazz,wrs_tazz_c5c358ae,15,13.0,Kane,10.0,0.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Bradshaw,wrs_bradshaw_8e149206,16,18.0,The Undertaker,1060.0,0.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Albert,wrs_albert_7aa129f6,17,20.0,Kane,953.0,0.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Hardcore Holly,wrs_hardcore-holly_c8432f4c,18,21.0,The Undertaker,844.0,0.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,K-Kwik,wrs_k-kwik_951d7fda,19,16.0,Big Show,473.0,0.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Val Venis,wrs_val-venis_677ec7b3,20,22.0,The Undertaker,622.0,0.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,William Regal,wrs_william-regal_74bb8db4,21,14.0,Test,121.0,0.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Test,wrs_test_a94a8fe5,22,15.0,Big Show,128.0,1.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Big Show,wrs_big-show_5b188d2a,23,17.0,The Rock,83.0,2.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Crash Holly,wrs_crash-holly_6fa192e6,24,19.0,Kane,151.0,0.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,The Undertaker,wrs_the-undertaker_5928984c,25,25.0,Rikishi,645.0,4.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Scotty 2 Hotty,wrs_scotty-2-hotty_6a0a797e,26,23.0,Kane & The Undertaker,47.0,0.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Stone Cold Steve Austin,wrs_stone-cold-steve-austin_f04381cd,27,,Winner,578.0,3.0,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Billy Gunn,wrs_billy-gunn_6533d28d,28,27.0,"""Stone Cold"" Steve Austin",442.0,0.0,False,True
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Haku,wrs_haku_d1761a06,29,24.0,02:51,,,False,False
+mtc_920feb5ab623_6,evt_20010121_royal-rumble_bede28b466,Rikishi,wrs_rikishi_39fee4cd,30,26.0,The Rock,155.0,1.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Rikishi,wrs_rikishi_39fee4cd,1,6.0,The Undertaker,819.0,1.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Goldust,wrs_goldust_143bb9fa,2,4.0,12:52,,,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Big Boss Man,wrs_big-boss-man_0b3464cc,3,1.0,Rikishi,185.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Bradshaw,wrs_bradshaw_8e149206,4,3.0,Billy,437.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Lance Storm,wrs_lance-storm_79fc2c13,5,2.0,Al Snow,286.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Al Snow,wrs_al-snow_bfec792f,6,5.0,The Undertaker,312.0,1.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Billy,wrs_billy_051522d0,7,7.0,03:37,,,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,The Undertaker,wrs_the-undertaker_5928984c,8,10.0,Maven,460.0,7.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Matt Hardy,wrs_matt-hardy_c3fdca74,9,9.0,The Undertaker,256.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Jeff Hardy,wrs_jeff-hardy_a569b225,10,8.0,The Undertaker,90.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Maven,wrs_maven_f7e2f253,11,11.0,The Undertaker [1],214.0,1.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Scotty 2 Hotty,wrs_scotty-2-hotty_6a0a797e,12,12.0,Diamond Dallas Page,156.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Christian,wrs_christian_2314b2e3,13,16.0,"""Stone Cold"" Steve Austin",734.0,3.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Diamond Dallas Page,wrs_diamond-dallas-page_382c4435,14,13.0,Christian,315.0,1.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Chuck,wrs_chuck_9406619c,15,17.0,"""Stone Cold"" Steve Austin",544.0,2.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,The Godfather,wrs_the-godfather_b72bfe63,16,15.0,Chuck and Christian,108.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Albert,wrs_albert_7aa129f6,17,14.0,Chuck and Christian,48.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Perry Saturn,wrs_perry-saturn_fa476f2c,18,18.0,"""Stone Cold"" Steve Austin",177.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,"""Stone Cold"" Steve Austin",wrs_stone-cold-steve-austin_b26e8239,19,27.0,Kurt Angle & Mr. Perfect,1606.0,7.0,False,True
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Val Venis,wrs_val-venis_677ec7b3,20,19.0,"""Stone Cold"" Steve Austin",178.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Test,wrs_test_a94a8fe5,21,20.0,01:42,,,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Triple H,wrs_triple-h_f28aa65b,22,,Winner,1394.0,4.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,The Hurricane,wrs_the-hurricane_2f233b42,23,21.0,"""Stone Cold"" Steve Austin & Triple H",39.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Faarooq,wrs_faarooq_e9d15b3f,24,22.0,Triple H,36.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Mr. Perfect,wrs_mr-perfect_c2d552db,25,28.0,15:18,,,False,True
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Kurt Angle,wrs_kurt-angle_0212456a,26,29.0,16:09,,,False,True
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Big Show,wrs_big-show_5b188d2a,27,23.0,Kane,165.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Kane,wrs_kane_bdba1e91,28,24.0,Kurt Angle,62.0,1.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Rob Van Dam,wrs_rob-van-dam_999d8cd6,29,25.0,Booker T,132.0,0.0,False,False
+mtc_b1f1c3ab7887_6,evt_20020120_royal-rumble_71ecc1ac4c,Booker T,wrs_booker-t_23e35b73,30,26.0,"""Stone Cold"" Steve Austin [2]",33.0,1.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Shawn Michaels,wrs_shawn-michaels_f7a3e4f1,1,1.0,Chris Jericho,125.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Chris Jericho,wrs_chris-jericho_fd60f6c9,2,14.0,Test,2340.0,6.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Christopher Nowinski,wrs_christopher-nowinski_521d423d,3,2.0,Rey Mysterio,277.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,4,3.0,Chris Jericho,355.0,1.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Edge,wrs_edge_a0f2c69a,5,10.0,11:00,,,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Christian,wrs_christian_2314b2e3,6,9.0,Chris Jericho,543.0,1.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Chavo Guerrero,wrs_chavo-guerrero_0baf7ec3,7,8.0,Edge,430.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Tajiri,wrs_tajiri_f50794ff,8,6.0,Chris Jericho,281.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Bill DeMott,wrs_bill-demott_74e6548d,9,4.0,Edge,133.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Tommy Dreamer,wrs_tommy-dreamer_d4275a9a,10,5.0,Chris Jericho & Christian,48.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,B-2,wrs_b-2_672724e1,11,7.0,Edge,24.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Rob Van Dam,wrs_rob-van-dam_999d8cd6,12,26.0,Kane,1980.0,2.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Matt Hardy,wrs_matt-hardy_c3fdca74,13,21.0,Brock Lesnar,1633.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Eddie Guerrero,wrs_eddie-guerrero_c251071e,14,13.0,Booker T,989.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Jeff Hardy,wrs_jeff-hardy_a569b225,15,11.0,Rob Van Dam,446.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Rosey,wrs_rosey_04b3644b,16,12.0,Kane,616.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Test,wrs_test_a94a8fe5,17,17.0,Batista,1125.0,1.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,John Cena,wrs_john-cena_43142eec,18,22.0,The Undertaker,1185.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Charlie Haas,wrs_charlie-haas_de8f517e,19,19.0,Brock Lesnar,1036.0,2.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Rikishi,wrs_rikishi_39fee4cd,20,18.0,Batista,895.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Jamal,wrs_jamal_e0195770,21,23.0,The Undertaker,967.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Kane,wrs_kane_bdba1e91,22,28.0,20:24,,,False,True
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Shelton Benjamin,wrs_shelton-benjamin_77a93365,23,20.0,Brock Lesnar,654.0,2.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Booker T,wrs_booker-t_23e35b73,24,16.0,Charlie Haas & Shelton Benjamin,380.0,1.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,A-Train,wrs_a-train_df8b8e90,25,25.0,Kane & Rob Van Dam,660.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Maven,wrs_maven_f7e2f253,26,24.0,The Undertaker,499.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Goldust,wrs_goldust_143bb9fa,27,15.0,Charlie Haas & Shelton Benjamin,47.0,0.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Batista,wrs_batista_555b37cf,28,27.0,The Undertaker,595.0,2.0,False,True
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,Brock Lesnar,wrs_brock-lesnar_b573ebb0,29,,Winner,540.0,4.0,False,False
+mtc_c9c2e68f533d_2,evt_20030119_royal-rumble_07a92c8330,The Undertaker,wrs_the-undertaker_5928984c,30,29.0,Brock Lesnar,405.0,5.0,False,True
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Kurt Angle,wrs_kurt-angle_0212456a,1,,Guerrero,2054.0,6.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Rhyno,wrs_rhyno_afe5489f,2,,Angle,839.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Charlie Haas,wrs_charlie-haas_de8f517e,3,,Guerrero,1254.0,1.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Shelton Benjamin,wrs_shelton-benjamin_77a93365,4,,Angle,1169.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Bradshaw,wrs_bradshaw_8e149206,5,,Big Show,419.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Ernest Miller,wrs_ernest-miller_24c48a4d,6,,Angle,42.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Tajiri,wrs_tajiri_f50794ff,7,,Big Show,226.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Billy Gunn,wrs_billy-gunn_6533d28d,8,,Guerrero,895.0,1.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Big Show,wrs_big-show_5b188d2a,9,,"Angle, Gunn, Guerrero, Haas, Holly, Rikishi, Cena",562.0,3.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,John Cena,wrs_john-cena_43142eec,10,,Big Show,369.0,2.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Nunzio,wrs_nunzio_6c05243e,11,,Cena,52.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,A-Train,wrs_a-train_df8b8e90,12,,Guerrero,163.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Eddie Guerrero,wrs_eddie-guerrero_c251071e,13,,Winner,1064.0,6.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Rikishi,wrs_rikishi_39fee4cd,14,,Guerrero and Angle,497.0,1.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Hardcore Holly,wrs_hardcore-holly_c8432f4c,15,,Angle,240.0,1.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Chris Benoit,wrs_chris-benoit_eda1ddb9,1,,Winner,,6.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Randy Orton,wrs_randy-orton_b1eaaa85,2,19.0,Mick Foley,2024.0,5.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Mark Henry,wrs_mark-henry_fbb6b2a3,3,3.0,Chris Benoit,314.0,1.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Tajiri,wrs_tajiri_f50794ff,4,2.0,Rhyno,219.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Bradshaw,wrs_bradshaw_8e149206,5,1.0,Chris Benoit,38.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Rhyno,wrs_rhyno_afe5489f,6,8.0,14:00,,,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Matt Hardy,wrs_matt-hardy_c3fdca74,7,9.0,René Duprée,858.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Scott Steiner,wrs_scott-steiner_2db31805,8,5.0,Booker T,409.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Matt Morgan,wrs_matt-morgan_d16b407f,9,11.0,Chris Benoit,734.0,1.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,The Hurricane,wrs_the-hurricane_2f233b42,10,4.0,Matt Morgan,19.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Booker T,wrs_booker-t_23e35b73,11,13.0,Randy Orton,551.0,2.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Kane,wrs_kane_bdba1e91,12,6.0,Booker T,100.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Spike Dudley [ b ],wrs_spike-dudley-b_7255be7f,13,7.0,Unable to compete,0.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Rikishi,wrs_rikishi_39fee4cd,14,12.0,Randy Orton,228.0,1.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,René Duprée,wrs_ren-dupr-e_d9c6aefa,15,10.0,Rikishi,33.0,1.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,A-Train,wrs_a-train_df8b8e90,16,14.0,Chris Benoit,104.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Shelton Benjamin,wrs_shelton-benjamin_77a93365,17,15.0,Randy Orton,37.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Ernest Miller,wrs_ernest-miller_24c48a4d,18,16.0,00:56,,,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Kurt Angle,wrs_kurt-angle_0212456a,19,28.0,Big Show,1744.0,1.0,False,True
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Rico,wrs_rico_2affaef5,20,17.0,Randy Orton,66.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Mick Foley,wrs_mick-foley_e5d78c55,21,18.0,Himself,43.0,2.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Christian,wrs_christian_2314b2e3,22,20.0,Chris Jericho,459.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Nunzio,wrs_nunzio_6c05243e,23,23.0,Goldberg,228.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Big Show,wrs_big-show_5b188d2a,24,29.0,Chris Benoit,1358.0,4.0,False,True
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Chris Jericho,wrs_chris-jericho_fd60f6c9,25,27.0,Big Show,898.0,1.0,False,True
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Charlie Haas,wrs_charlie-haas_de8f517e,26,21.0,Goldberg and Rob Van Dam,413.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Billy Gunn,wrs_billy-gunn_6533d28d,27,22.0,Goldberg,337.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,John Cena,wrs_john-cena_43142eec,28,25.0,Big Show,457.0,0.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Rob Van Dam,wrs_rob-van-dam_999d8cd6,29,26.0,Big Show,408.0,1.0,False,False
+mtc_e72095d6c213_7,evt_20040125_royal-rumble_522350fd2f,Goldberg,wrs_goldberg_e21374b1,30,24.0,Kurt Angle,124.0,3.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Eddie Guerrero,wrs_eddie-guerrero_c251071e,1,11.0,Edge,1691.0,3.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Chris Benoit,wrs_chris-benoit_eda1ddb9,2,25.0,Batista & Ric Flair,2846.0,3.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Daniel Puder,wrs_daniel-puder_c13ffedb,3,1.0,Hardcore Holly,249.0,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Hardcore Holly,wrs_hardcore-holly_c8432f4c,4,2.0,Chris Benoit & Eddie Guerrero,119.0,1.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,The Hurricane,wrs_the-hurricane_2f233b42,5,3.0,Chris Benoit & Eddie Guerrero,64.0,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Kenzo Suzuki,wrs_kenzo-suzuki_6667b999,6,4.0,Rey Mysterio,211.0,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Edge,wrs_edge_a0f2c69a,7,28.0,Batista & John Cena,2419.0,5.0,False,True
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,8,27.0,Edge,2305.0,2.0,False,True
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Shelton Benjamin,wrs_shelton-benjamin_77a93365,9,10.0,Edge,875.0,1.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Booker T,wrs_booker-t_23e35b73,10,9.0,Rey Mysterio & Eddie Guerrero,642.0,3.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Chris Jericho,wrs_chris-jericho_fd60f6c9,11,21.0,Batista,1702.0,2.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Luther Reigns,wrs_luther-reigns_513c2a49,12,7.0,Booker T,433.0,1.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Muhammad Hassan,wrs_muhammad-hassan_1db6a1c5,13,5.0,"Booker T, Chris Benoit, Chris Jericho, Edge, Luther Reigns & Shelton Benjamin",54.0,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Orlando Jordan,wrs_orlando-jordan_456952bd,14,8.0,Booker T,216.0,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Scotty 2 Hotty,wrs_scotty-2-hotty_6a0a797e,15,6.0,Unable to compete [1],,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Charlie Haas,wrs_charlie-haas_de8f517e,16,13.0,Shawn Michaels,380.0,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,René Duprée,wrs_ren-dupr-e_d9c6aefa,17,16.0,Chris Jericho,692.0,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Simon Dean,wrs_simon-dean_48d04b5c,18,12.0,Shawn Michaels,20.0,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Shawn Michaels,wrs_shawn-michaels_f7a3e4f1,19,15.0,Kurt Angle [2],296.0,3.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Kurt Angle,wrs_kurt-angle_0212456a,20,14.0,Shawn Michaels,37.0,1.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Jonathan Coachman,wrs_jonathan-coachman_4be278a3,21,23.0,Ric Flair,828.0,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Mark Jindrak,wrs_mark-jindrak_a30a5fda,22,19.0,Kane,495.0,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Viscera,wrs_viscera_be7dd2df,23,17.0,John Cena,180.0,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Paul London,wrs_paul-london_1229486f,24,18.0,Gene Snitsky,195.0,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,John Cena,wrs_john-cena_43142eec,25,29.0,Batista,928.0,3.0,False,True
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Gene Snitsky,wrs_gene-snitsky_b3bb901a,26,20.0,Batista,218.0,1.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Kane,wrs_kane_bdba1e91,27,22.0,John Cena,234.0,1.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Batista,wrs_batista_555b37cf,28,,Winner,654.0,6.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Christian,wrs_christian_2314b2e3,29,24.0,Batista,129.0,0.0,False,False
+mtc_80c9d90af26a_6,evt_20050130_royal-rumble_8d5b247833,Ric Flair,wrs_ric-flair_7ebf6c79,30,26.0,Edge,118.0,2.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Triple H,wrs_triple-h_f28aa65b,1,28.0,Rey Mysterio,3616.0,6.0,False,True
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,2,,Winner,,6.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Simon Dean,wrs_simon-dean_48d04b5c,3,1.0,Rey Mysterio and Triple H,45.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Psicosis,wrs_psicosis_c9efd736,4,2.0,Rey Mysterio,75.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Ric Flair,wrs_ric-flair_7ebf6c79,5,3.0,Triple H,80.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Big Show,wrs_big-show_5b188d2a,6,7.0,09:02,,,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Jonathan Coachman,wrs_jonathan-coachman_4be278a3,7,4.0,Big Show,30.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Bobby Lashley,wrs_bobby-lashley_1fe46934,8,6.0,Big Show and Kane,257.0,1.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Kane,wrs_kane_bdba1e91,9,8.0,Triple H,213.0,1.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Sylvan,wrs_sylvan_fa5e887e,10,5.0,Bobby Lashley,18.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Carlito,wrs_carlito_e4047b9d,11,26.0,Rob Van Dam,2309.0,2.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Chris Benoit,wrs_chris-benoit_eda1ddb9,12,17.0,Randy Orton,1831.0,2.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Booker T,wrs_booker-t_23e35b73,13,9.0,Chris Benoit,18.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Joey Mercury,wrs_joey-mercury_ed3be61d,14,22.0,Shawn Michaels and Johnny Nitro,1754.0,1.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Tatanka,wrs_tatanka_66f34642,15,12.0,Joey Mercury and Johnny Nitro,849.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Johnny Nitro,wrs_johnny-nitro_8a5b38e4,16,23.0,Shawn Michaels,1545.0,2.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Trevor Murdoch,wrs_trevor-murdoch_12fa0b85,17,13.0,Shawn Michaels,821.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Eugene,wrs_eugene_9ca3a9f7,18,15.0,Chris Benoit,985.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Road Warrior Animal,wrs_road-warrior-animal_59909f80,19,10.0,Rob Van Dam,169.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Rob Van Dam,wrs_rob-van-dam_999d8cd6,20,27.0,Triple H and Rey Mysterio,1432.0,4.0,False,True
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Orlando Jordan,wrs_orlando-jordan_456952bd,21,21.0,Randy Orton,969.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Chavo Guerrero,wrs_chavo-guerrero_0baf7ec3,22,11.0,Triple H,59.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Matt Hardy,wrs_matt-hardy_c3fdca74,23,14.0,Viscera,462.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Super Crazy,wrs_super-crazy_64ef9b73,24,16.0,Rey Mysterio and Rob Van Dam,460.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Shawn Michaels,wrs_shawn-michaels_f7a3e4f1,25,25.0,Shane McMahon **,775.0,4.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Chris Masters,wrs_chris-masters_45070e70,26,19.0,Carlito,421.0,1.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Viscera,wrs_viscera_be7dd2df,27,18.0,Carlito & Chris Masters,320.0,1.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Shelton Benjamin,wrs_shelton-benjamin_77a93365,28,24.0,Shawn Michaels,411.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Goldust,wrs_goldust_143bb9fa,29,20.0,Rob Van Dam,189.0,0.0,False,False
+mtc_2c35258b5c04_5,evt_20060129_royal-rumble_659b57db4e,Randy Orton,wrs_randy-orton_b1eaaa85,30,29.0,Rey Mysterio,784.0,2.0,False,True
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Ric Flair,wrs_ric-flair_7ebf6c79,1,1.0,Edge,340.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Finlay,wrs_finlay_0c29a91a,2,12.0,Shawn Michaels,1952.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Kenny Dykstra,wrs_kenny-dykstra_7345c740,3,2.0,Edge,245.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Matt Hardy,wrs_matt-hardy_c3fdca74,4,9.0,Randy Orton,1135.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Edge,wrs_edge_a0f2c69a,5,28.0,Shawn Michaels,2642.0,5.0,False,True
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Tommy Dreamer,wrs_tommy-dreamer_d4275a9a,6,3.0,Kane,401.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Sabu,wrs_sabu_d80b6ae0,7,4.0,05:27,,,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Gregory Helms,wrs_gregory-helms_b71a20dc,8,5.0,King Booker,410.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Shelton Benjamin,wrs_shelton-benjamin_77a93365,9,14.0,Shawn Michaels,1342.0,1.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Kane 1,wrs_kane-1_8ede7d2c,10,11.0,King Booker 4,801.0,3.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,CM Punk,wrs_cm-punk_4a79114c,11,22.0,The Great Khali,1636.0,1.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,King Booker,wrs_king-booker_198dc60e,12,10.0,Kane,563.0,3.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Super Crazy,wrs_super-crazy_64ef9b73,13,7.0,Edge and Randy Orton,272.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Jeff Hardy,wrs_jeff-hardy_a569b225,14,8.0,Edge,218.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,The Sandman,wrs_the-sandman_7aa48e3b,15,6.0,King Booker,13.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Randy Orton,wrs_randy-orton_b1eaaa85,16,27.0,Shawn Michaels,1634.0,2.0,False,True
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Chris Benoit,wrs_chris-benoit_eda1ddb9,17,19.0,The Great Khali,1072.0,3.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Rob Van Dam,wrs_rob-van-dam_999d8cd6,18,21.0,The Great Khali,990.0,2.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Viscera,wrs_viscera_be7dd2df,19,13.0,"Chris Benoit, CM Punk, Edge, Hardcore Holly, Johnny Nitro, Kevin Thorn, Rob Van Dam, Shawn Michaels, and Shelton Benjamin 2",382.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Johnny Nitro,wrs_johnny-nitro_8a5b38e4,20,15.0,Chris Benoit,378.0,1.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Kevin Thorn,wrs_kevin-thorn_c62571c3,21,16.0,Chris Benoit,375.0,1.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Hardcore Holly,wrs_hardcore-holly_c8432f4c,22,18.0,The Great Khali,621.0,1.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Shawn Michaels,wrs_shawn-michaels_f7a3e4f1,23,29.0,The Undertaker,1451.0,5.0,False,True
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Chris Masters,wrs_chris-masters_45070e70,24,17.0,Rob Van Dam,212.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Chavo Guerrero,wrs_chavo-guerrero_0baf7ec3,25,24.0,The Great Khali,384.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Montel Vontavious Porter,wrs_montel-vontavious-porter_e5ac5780,26,26.0,The Undertaker,451.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,Carlito,wrs_carlito_e4047b9d,27,23.0,The Great Khali,199.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,The Great Khali,wrs_the-great-khali_7dd37c85,28,25.0,The Undertaker,225.0,7.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,The Miz,wrs_the-miz_88d52981,29,20.0,The Great Khali,7.0,0.0,False,False
+mtc_2bd5e0f4fb52_6,evt_20070128_royal-rumble_e0aefead71,The Undertaker,wrs_the-undertaker_5928984c,30,,Winner 3,795.0,3.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,The Undertaker,wrs_the-undertaker_5928984c,1,11.0,Shawn Michaels,1953.0,3.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Shawn Michaels,wrs_shawn-michaels_f7a3e4f1,2,12.0,Mr. Kennedy,1959.0,2.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Santino Marella,wrs_santino-marella_8a5a6869,3,1.0,The Undertaker,25.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,The Great Khali,wrs_the-great-khali_7dd37c85,4,2.0,The Undertaker,69.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Hardcore Holly,wrs_hardcore-holly_c8432f4c,5,6.0,Umaga,826.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,John Morrison,wrs_john-morrison_fc4226f4,6,14.0,Kane,1763.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Tommy Dreamer,wrs_tommy-dreamer_d4275a9a,7,3.0,Batista,129.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Batista,wrs_batista_555b37cf,8,28.0,Triple H,2266.0,4.0,False,True
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Hornswoggle,wrs_hornswoggle_b20491a3,9,16.0,Never re-entered match [1],1577.0,1.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Chuck Palumbo,wrs_chuck-palumbo_8005ceeb,10,5.0,CM Punk,240.0,1.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Jamie Noble,wrs_jamie-noble_595531df,11,4.0,Chuck Palumbo,28.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,CM Punk,wrs_cm-punk_4a79114c,12,17.0,Chavo Guerrero,1430.0,1.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Cody Rhodes,wrs_cody-rhodes_085203c7,13,18.0,Triple H,1394.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Umaga,wrs_umaga_5d28b3b8,14,26.0,Batista,1565.0,1.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Snitsky,wrs_snitsky_4ea09d60,15,10.0,The Undertaker,746.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,The Miz,wrs_the-miz_88d52981,16,13.0,Hornswoggle,787.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Shelton Benjamin,wrs_shelton-benjamin_77a93365,17,7.0,Shawn Michaels,18.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Jimmy Snuka,wrs_jimmy-snuka_f7276252,18,9.0,Kane,163.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Roddy Piper,wrs_roddy-piper_e2f3a49c,19,8.0,01:00,,,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Kane,wrs_kane_bdba1e91,20,27.0,Batista & Triple H,1078.0,3.0,False,True
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Carlito,wrs_carlito_e4047b9d,21,22.0,John Cena,907.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Mick Foley,wrs_mick-foley_e5d78c55,22,20.0,Triple H,689.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Mr. Kennedy,wrs_mr-kennedy_a7041deb,23,25.0,Batista,812.0,1.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Big Daddy V,wrs_big-daddy-v_684db747,24,19.0,Triple H,469.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Mark Henry,wrs_mark-henry_fbb6b2a3,25,24.0,John Cena,552.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Chavo Guerrero,wrs_chavo-guerrero_0baf7ec3,26,23.0,John Cena,453.0,1.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Finlay,wrs_finlay_0c29a91a,27,15.0,Himself [2],0.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Elijah Burke,wrs_elijah-burke_f7e877a5,28,21.0,Triple H,131.0,0.0,False,False
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,Triple H,wrs_triple-h_f28aa65b,29,29.0,John Cena,682.0,6.0,False,True
+mtc_066720f03bc3_6,evt_20080127_royal-rumble_7d0071d717,John Cena,wrs_john-cena_43142eec,30,,Winner,508.0,4.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,1,,Big Show,2966.0,1.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,John Morrison,wrs_john-morrison_fc4226f4,2,,Triple H,1175.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Carlito,wrs_carlito_e4047b9d,3,,Vladimir Kozlov,371.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Montel Vontavious Porter,wrs_montel-vontavious-porter_e5ac5780,4,,03:52,,,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,The Great Khali,wrs_the-great-khali_7dd37c85,5,,01:30,,,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Vladimir Kozlov,wrs_vladimir-kozlov_e8b85250,6,,Triple H,160.0,3.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Triple H,wrs_triple-h_f28aa65b,7,,Randy Orton,3000.0,6.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Randy Orton,wrs_randy-orton_b1eaaa85,8,,Winner,2910.0,3.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,JTG,wrs_jtg_02916062,9,,The Undertaker,719.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Ted DiBiase Jr.,wrs_ted-dibiase-jr_9e17f178,10,,Triple H,2711.0,1.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Chris Jericho,wrs_chris-jericho_fd60f6c9,11,,The Undertaker,2237.0,1.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Mike Knox,wrs_mike-knox_1d22c084,12,,Big Show,1962.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,The Miz,wrs_the-miz_88d52981,13,,Triple H,81.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Finlay,wrs_finlay_0c29a91a,14,,Kane,1800.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Cody Rhodes,wrs_cody-rhodes_085203c7,15,,Triple H,2221.0,2.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,The Undertaker,wrs_the-undertaker_5928984c,16,,Big Show 1,2010.0,4.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Goldust,wrs_goldust_143bb9fa,17,,Cody Rhodes,71.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,CM Punk,wrs_cm-punk_4a79114c,18,,Big Show,1349.0,1.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Mark Henry,wrs_mark-henry_fbb6b2a3,19,,The Undertaker & Rey Mysterio,194.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Shelton Benjamin,wrs_shelton-benjamin_77a93365,20,,The Undertaker,257.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,William Regal,wrs_william-regal_74bb8db4,21,,CM Punk,263.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Kofi Kingston,wrs_kofi-kingston_467df1dc,22,,The Brian Kendrick,418.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Kane,wrs_kane_bdba1e91,23,,"Cody Rhodes, Randy Orton & Ted DiBiase",1101.0,3.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,R-Truth,wrs_r-truth_4f076d5e,24,,Big Show,726.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Rob Van Dam,wrs_rob-van-dam_999d8cd6,25,,Chris Jericho,840.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,The Brian Kendrick,wrs_the-brian-kendrick_e3548753,26,,Triple H,15.0,1.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,27,,Kane,21.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Santino Marella,wrs_santino-marella_8a5a6869,28,,00:01,,,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Jim Duggan,wrs_jim-duggan_17a9ff74,29,,Big Show,170.0,0.0,False,False
+mtc_709b7a4570ee_6,evt_20090125_royal-rumble_8fe44b9507,Big Show,wrs_big-show_5b188d2a,30,,Randy Orton,572.0,6.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,1,,CM Punk,149.0,0.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Evan Bourne,wrs_evan-bourne_aed7818d,2,,CM Punk,146.0,0.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,CM Punk,wrs_cm-punk_4a79114c,3,,Triple H,604.0,5.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,JTG,wrs_jtg_02916062,4,,00:25,,,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,The Great Khali,wrs_the-great-khali_7dd37c85,5,,01:37,,,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Beth Phoenix,wrs_beth-phoenix_d081027c,6,,01:39,,,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Zack Ryder,wrs_zack-ryder_7a6e75c4,7,,CM Punk,32.0,0.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Triple H,wrs_triple-h_f28aa65b,8,,Shawn Michaels,1075.0,3.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Drew McIntyre,wrs_drew-mcintyre_dec5f4f3,9,,Shawn Michaels & Triple H,883.0,0.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Ted DiBiase,wrs_ted-dibiase_92b36f38,10,,Shawn Michaels,820.0,0.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,John Morrison,wrs_john-morrison_fc4226f4,11,,Shawn Michaels,697.0,0.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Kane,wrs_kane_bdba1e91,12,,08:59,,,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Cody Rhodes,wrs_cody-rhodes_085203c7,13,,Shawn Michaels,534.0,0.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Montel Vontavious Porter,wrs_montel-vontavious-porter_e5ac5780,14,,00:07,,,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Carlito,wrs_carlito_e4047b9d,15,,05:09,,,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,The Miz,wrs_the-miz_88d52981,16,,00:17,,,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Matt Hardy,wrs_matt-hardy_c3fdca74,17,,Kane,20.0,0.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Shawn Michaels,wrs_shawn-michaels_f7a3e4f1,18,,Batista,1425.0,6.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,John Cena,wrs_john-cena_43142eec,19,,Edge,1631.0,4.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Shelton Benjamin,wrs_shelton-benjamin_77a93365,20,,John Cena,48.0,0.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Yoshi Tatsu,wrs_yoshi-tatsu_df2198cd,21,,0,,,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Big Show,wrs_big-show_5b188d2a,22,,R-Truth,304.0,1.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Mark Henry,wrs_mark-henry_fbb6b2a3,23,,0,,,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Chris Masters,wrs_chris-masters_45070e70,24,,00:29,,,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,R-Truth,wrs_r-truth_4f076d5e,25,,Kofi Kingston,262.0,2.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Jack Swagger,wrs_jack-swagger_543dcafe,26,,Kofi Kingston,126.0,0.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Kofi Kingston,wrs_kofi-kingston_467df1dc,27,,03:09,,,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Chris Jericho,wrs_chris-jericho_fd60f6c9,28,,Edge,144.0,0.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Edge,wrs_edge_a0f2c69a,29,,Winner,457.0,2.0,False,False
+mtc_5de779c89e8d_7,evt_20100131_royal-rumble_a282e5d5e2,Batista,wrs_batista_555b37cf,30,,John Cena,324.0,1.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,CM Punk,wrs_cm-punk_4a79114c,1,,John Cena,2121.0,7.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Daniel Bryan,wrs_daniel-bryan_4141fc88,2,,CM Punk,1255.0,2.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Justin Gabriel,wrs_justin-gabriel_b9572c92,3,,Daniel Bryan,58.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Zack Ryder,wrs_zack-ryder_7a6e75c4,4,,Daniel Bryan,43.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,William Regal,wrs_william-regal_74bb8db4,5,,Ted DiBiase,250.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Ted DiBiase,wrs_ted-dibiase_92b36f38,6,,"Michael McGillicutty, Husky Harris",736.0,1.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,John Morrison,wrs_john-morrison_fc4226f4,7,,"CM Punk, David Otunga, Michael McGillicutty, Husky Harris",804.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Yoshi Tatsu,wrs_yoshi-tatsu_df2198cd,8,,Mark Henry,335.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Husky Harris,wrs_husky-harris_07059644,9,,The Great Khali,948.0,3.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Chavo Guerrero,wrs_chavo-guerrero_0baf7ec3,10,,Mark Henry,121.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Mark Henry,wrs_mark-henry_fbb6b2a3,11,,"CM Punk, David Otunga, Michael McGillicutty, Husky Harris",424.0,2.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,JTG,wrs_jtg_02916062,12,,Michael McGillicutty,108.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Michael McGillicutty,wrs_michael-mcgillicutty_6a01baa4,13,,John Cena,907.0,4.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Chris Masters,wrs_chris-masters_45070e70,14,,CM Punk,118.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,David Otunga,wrs_david-otunga_5c335262,15,,John Cena,716.0,2.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Tyler Reks,wrs_tyler-reks_0ebc219e,16,,CM Punk,34.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Vladimir Kozlov,wrs_vladimir-kozlov_e8b85250,17,,CM Punk,40.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,R-Truth,wrs_r-truth_4f076d5e,18,,CM Punk,62.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,The Great Khali,wrs_the-great-khali_7dd37c85,19,,Mason Ryan,77.0,1.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Mason Ryan,wrs_mason-ryan_8eff632d,20,,John Cena,272.0,2.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Booker T,wrs_booker-t_23e35b73,21,,Mason Ryan,68.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,John Cena,wrs_john-cena_43142eec,22,,The Miz 1,2057.0,7.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Hornswoggle,wrs_hornswoggle_b20491a3,23,,Sheamus,579.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Tyson Kidd,wrs_tyson-kidd_f75b7107,24,,John Cena,53.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Heath Slater,wrs_heath-slater_e45ab1cd,25,,John Cena,57.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Kofi Kingston,wrs_kofi-kingston_467df1dc,26,,Randy Orton,1564.0,1.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Jack Swagger,wrs_jack-swagger_543dcafe,27,,Rey Mysterio,281.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Sheamus,wrs_sheamus_2fa9f3c4,28,,Randy Orton,1249.0,1.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,29,,Wade Barrett,1354.0,2.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Wade Barrett,wrs_wade-barrett_3f8a8251,30,,Randy Orton,1283.0,2.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,31,,Big Show,432.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Diesel,wrs_diesel_90cf16d6,32,,Wade Barrett,165.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Drew McIntyre,wrs_drew-mcintyre_dec5f4f3,33,,Big Show,286.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Alex Riley,wrs_alex-riley_05d23e2d,34,,"John Cena, Kofi Kingston",170.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Big Show,wrs_big-show_5b188d2a,35,,Ezekiel Jackson,90.0,2.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Ezekiel Jackson,wrs_ezekiel-jackson_15bcc05e,36,,Kane,434.0,1.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Santino Marella,wrs_santino-marella_8a5a6869,37,,Alberto Del Rio,774.0,0.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Alberto Del Rio,wrs_alberto-del-rio_0b65b111,38,,Winner,573.0,2.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Randy Orton,wrs_randy-orton_b1eaaa85,39,,Alberto Del Rio,498.0,3.0,False,False
+mtc_6dec45ffb6c8_5,evt_20110130_royal-rumble_ee9ab57ab0,Kane,wrs_kane_bdba1e91,40,,Rey Mysterio,96.0,1.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,The Miz,wrs_the-miz_88d52981,1,,Big Show,2739.0,2.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Alex Riley,wrs_alex-riley_05d23e2d,2,,The Miz,75.0,0.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,R-Truth,wrs_r-truth_4f076d5e,3,,04:57,,,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Cody Rhodes,wrs_cody-rhodes_085203c7,4,,Big Show,2515.0,6.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Justin Gabriel,wrs_justin-gabriel_b9572c92,5,,Mick Foley & Ricardo Rodriguez,372.0,0.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Primo,wrs_primo_9d46660b,6,,Mick Foley,117.0,0.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Mick Foley,wrs_mick-foley_e5d78c55,7,,Cody Rhodes,394.0,3.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Ricardo Rodriguez,wrs_ricardo-rodriguez_9461709d,8,,Santino Marella,139.0,1.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Santino Marella,wrs_santino-marella_8a5a6869,9,,Cody Rhodes,151.0,1.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Epico,wrs_epico_3357a923,10,,Mick Foley,11.0,0.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Kofi Kingston,wrs_kofi-kingston_467df1dc,11,,Sheamus,1075.0,0.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Jerry Lawler,wrs_jerry-lawler_fa6d19db,12,,Cody Rhodes,43.0,1.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Ezekiel Jackson,wrs_ezekiel-jackson_15bcc05e,13,,The Great Khali,226.0,0.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Jinder Mahal,wrs_jinder-mahal_90d95960,14,,01:17,,,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,The Great Khali,wrs_the-great-khali_7dd37c85,15,,Cody Rhodes & Dolph Ziggler,449.0,2.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Hunico,wrs_hunico_e236cfbd,16,,Kharma,540.0,0.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Booker T,wrs_booker-t_23e35b73,17,,Cody Rhodes & Dolph Ziggler,280.0,1.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,18,,Big Show,1186.0,3.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Jim Duggan,wrs_jim-duggan_17a9ff74,19,,Cody Rhodes,56.0,0.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Michael Cole,wrs_michael-cole_b70fd317,20,,Booker T & Jerry Lawler [ a ],83.0,0.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Kharma,wrs_kharma_567e7b0c,21,,Dolph Ziggler,60.0,1.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Sheamus,wrs_sheamus_2fa9f3c4,22,,Winner,1341.0,3.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Road Dogg,wrs_road-dogg_91ea0103,23,,Wade Barrett,295.0,0.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Jey Uso,wrs_jey-uso_adc98921,24,,Randy Orton,423.0,0.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Jack Swagger,wrs_jack-swagger_543dcafe,25,,Big Show & Sheamus [ b ],479.0,0.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Wade Barrett,wrs_wade-barrett_3f8a8251,26,,Randy Orton,235.0,1.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,David Otunga,wrs_david-otunga_5c335262,27,,Chris Jericho,195.0,0.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Randy Orton,wrs_randy-orton_b1eaaa85,28,,05:46,,,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Chris Jericho,wrs_chris-jericho_fd60f6c9,29,,Sheamus,694.0,2.0,False,False
+mtc_a43af47d100b_7,evt_20120129_royal-rumble_89b45de871,Big Show,wrs_big-show_5b188d2a,30,,Randy Orton,111.0,4.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,1,,Sheamus,2987.0,2.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Chris Jericho,wrs_chris-jericho_fd60f6c9,2,,Dolph Ziggler,2873.0,2.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Cody Rhodes,wrs_cody-rhodes_085203c7,3,,John Cena,1659.0,4.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Kofi Kingston,wrs_kofi-kingston_467df1dc,4,,Cody Rhodes,1278.0,2.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Santino Marella,wrs_santino-marella_8a5a6869,5,,00:55,,,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Drew McIntyre,wrs_drew-mcintyre_dec5f4f3,6,,Chris Jericho,160.0,0.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Titus O'Neil,wrs_titus-o-neil_6a9d7cba,7,,Sheamus,450.0,0.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Goldust,wrs_goldust_143bb9fa,8,,Cody Rhodes,581.0,0.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,David Otunga,wrs_david-otunga_5c335262,9,,Sheamus,264.0,0.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Heath Slater,wrs_heath-slater_e45ab1cd,10,,John Cena,949.0,1.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Sheamus,wrs_sheamus_2fa9f3c4,11,,Ryback,2243.0,5.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Tensai,wrs_tensai_5af278e7,12,,Kofi Kingston,337.0,0.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Brodus Clay,wrs_brodus-clay_cc1d6eeb,13,,"Chris Jericho, Cody Rhodes, Darren Young, Heath Slater & Sheamus",227.0,0.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,14,,Wade Barrett,633.0,0.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Darren Young,wrs_darren-young_341cab46,15,,Kofi Kingston,171.0,1.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Bo Dallas,wrs_bo-dallas_7359edf5,16,,Sin Cara & Wade Barrett 1,1302.0,1.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,The Godfather,wrs_the-godfather_b72bfe63,17,,Dolph Ziggler,5.0,0.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Wade Barrett,wrs_wade-barrett_3f8a8251,18,,Bo Dallas,1234.0,2.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,John Cena,wrs_john-cena_43142eec,19,,Winner,1599.0,4.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Damien Sandow,wrs_damien-sandow_4f4f109f,20,,Ryback,986.0,0.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Daniel Bryan,wrs_daniel-bryan_4141fc88,21,,Antonio Cesaro & Kane 2,475.0,2.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Antonio Cesaro,wrs_antonio-cesaro_5dde5f47,22,,John Cena,530.0,1.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,The Great Khali,wrs_the-great-khali_7dd37c85,23,,Daniel Bryan & Kane,188.0,0.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Kane,wrs_kane_bdba1e91,24,,Daniel Bryan,106.0,2.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Zack Ryder,wrs_zack-ryder_7a6e75c4,25,,Randy Orton,154.0,0.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Randy Orton,wrs_randy-orton_b1eaaa85,26,,Ryback,620.0,1.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Jinder Mahal,wrs_jinder-mahal_90d95960,27,,Sheamus,130.0,0.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,The Miz,wrs_the-miz_88d52981,28,,Ryback,308.0,0.0,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Sin Cara,wrs_sin-cara_ea0d6559,29,,03:27,,,False,False
+mtc_59cc1ba4b2fc_4,evt_20130127_royal-rumble_16590d9b79,Ryback,wrs_ryback_045c8baa,30,,John Cena,546.0,5.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,CM Punk,wrs_cm-punk_4a79114c,1,,Kane [1],2953.0,3.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Seth Rollins,wrs_seth-rollins_76b316d9,2,,Roman Reigns,2911.0,3.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Damien Sandow,wrs_damien-sandow_4f4f109f,3,,CM Punk,137.0,0.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Cody Rhodes,wrs_cody-rhodes_085203c7,4,,Goldust,1261.0,1.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Kane,wrs_kane_bdba1e91,5,,CM Punk,70.0,1.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Alexander Rusev,wrs_alexander-rusev_4e923450,6,,"CM Punk, Cody Rhodes, Kofi Kingston, and Seth Rollins",426.0,0.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Jack Swagger,wrs_jack-swagger_543dcafe,7,,Kevin Nash,744.0,0.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Kofi Kingston,wrs_kofi-kingston_467df1dc,8,,Roman Reigns,762.0,1.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Jimmy Uso,wrs_jimmy-uso_3e9a2776,9,,Dean Ambrose,473.0,0.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Goldust,wrs_goldust_143bb9fa,10,,Roman Reigns,720.0,1.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Dean Ambrose,wrs_dean-ambrose_437db9d7,11,,33:56,,,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,12,,06:09,,,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,R-Truth,wrs_r-truth_4f076d5e,13,,Dean Ambrose,36.0,0.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Kevin Nash,wrs_kevin-nash_bdda387a,14,,Roman Reigns,36.0,1.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Roman Reigns,wrs_roman-reigns_6e31eab3,15,,Batista,2038.0,12.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,The Great Khali,wrs_the-great-khali_7dd37c85,16,,"The Shield (Roman, Rollins, Ambrose)",53.0,0.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Sheamus,wrs_sheamus_2fa9f3c4,17,,Roman Reigns,1702.0,1.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,The Miz,wrs_the-miz_88d52981,18,,Luke Harper,729.0,0.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Fandango,wrs_fandango_d88c3867,19,,El Torito,182.0,0.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,El Torito,wrs_el-torito_f7936e95,20,,Roman Reigns,109.0,1.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Antonio Cesaro,wrs_antonio-cesaro_5dde5f47,21,,17:16,,,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Luke Harper,wrs_luke-harper_289b01a3,22,,15:21,,,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Jey Uso,wrs_jey-uso_adc98921,23,,Luke Harper,272.0,0.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,"John ""Bradshaw"" Layfield",wrs_john-bradshaw-layfield_dc3bba82,24,,Roman Reigns,49.0,0.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Erick Rowan,wrs_erick-rowan_c35db27b,25,,Batista,305.0,0.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Ryback,wrs_ryback_045c8baa,26,,04:01,,,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Alberto Del Rio,wrs_alberto-del-rio_0b65b111,27,,03:00,,,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Batista,wrs_batista_555b37cf,28,,Winner,782.0,4.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Big E Langston,wrs_big-e-langston_cb4286f4,29,,Sheamus,169.0,0.0,False,False
+mtc_c0b628c42256_5,evt_20140126_royal-rumble_036e8f0f60,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,30,,Seth Rollins,130.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,The Miz,wrs_the-miz_88d52981,1,,Bubba Ray Dudley,241.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,R-Truth,wrs_r-truth_4f076d5e,2,,04:13,,,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Bubba Ray Dudley,wrs_bubba-ray-dudley_4a6d36f1,3,,Bray Wyatt,322.0,2.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Luke Harper,wrs_luke-harper_289b01a3,4,,03:42,,,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Bray Wyatt,wrs_bray-wyatt_a11030fc,5,,Big Show and Kane,2849.0,7.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Erick Rowan *,wrs_erick-rowan_1c6df2f1,6,,Bray Wyatt,50.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,The Boogeyman,wrs_the-boogeyman_f995af21,7,,Bray Wyatt,47.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Sin Cara,wrs_sin-cara_ea0d6559,8,,00:37,,,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Zack Ryder,wrs_zack-ryder_7a6e75c4,9,,00:34,,,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Daniel Bryan,wrs_daniel-bryan_4141fc88,10,,10:36,,,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Fandango,wrs_fandango_d88c3867,11,,Rusev,470.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Tyson Kidd,wrs_tyson-kidd_f75b7107,12,,Daniel Bryan,149.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Stardust,wrs_stardust_7005fc6d,13,,Roman Reigns,769.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Diamond Dallas Page,wrs_diamond-dallas-page_382c4435,14,,Rusev,148.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Rusev,wrs_rusev_9305db53,15,,Roman Reigns,2140.0,6.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Goldust,wrs_goldust_143bb9fa,16,,06:35,,,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Kofi Kingston,wrs_kofi-kingston_467df1dc,17,,Rusev,184.0,1.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Adam Rose,wrs_adam-rose_03db5a3e,18,,Rusev and Kofi Kingston,61.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Roman Reigns,wrs_roman-reigns_6e31eab3,19,,Winner,1649.0,6.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Big E,wrs_big-e_ac0c5c87,20,,Rusev,904.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Damien Mizdow,wrs_damien-mizdow_6dc48dc1,21,,00:18,,,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Jack Swagger,wrs_jack-swagger_543dcafe,22,,Big Show,786.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Ryback,wrs_ryback_045c8baa,23,,Big Show and Kane,675.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Kane,wrs_kane_bdba1e91,24,,Roman Reigns,1033.0,4.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Dean Ambrose,wrs_dean-ambrose_437db9d7,25,,Big Show and Kane,640.0,1.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Titus O'Neil,wrs_titus-o-neil_6a9d7cba,26,,Dean Ambrose and Roman Reigns,4.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Bad News Barrett,wrs_bad-news-barrett_69a37cf3,27,,Dolph Ziggler,370.0,0.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Cesaro,wrs_cesaro_accf4234,28,,05:16,,,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Big Show,wrs_big-show_5b188d2a,29,,Roman Reigns,519.0,5.0,False,False
+mtc_49ea7718d5b2_6,evt_20150125_royal-rumble_0dcdc42e46,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,30,,Big Show and Kane,149.0,2.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Roman Reigns,wrs_roman-reigns_6e31eab3,1,,Triple H,3588.0,5.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Rusev,wrs_rusev_9305db53,2,,Roman Reigns,,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,AJ Styles,wrs_aj-styles_62381180,3,,Kevin Owens,1738.0,2.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Tyler Breeze,wrs_tyler-breeze_739d70f2,4,,Roman Reigns and AJ Styles,78.0,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Curtis Axel,wrs_curtis-axel_45274e78,5,,AJ Styles,,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Chris Jericho,wrs_chris-jericho_fd60f6c9,6,,Dean Ambrose,3080.0,1.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Kane,wrs_kane_bdba1e91,7,,Braun Strowman,1147.0,1.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Goldust,wrs_goldust_143bb9fa,8,,Titus O'Neil,,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Ryback,wrs_ryback_045c8baa,9,,Big Show,757.0,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Kofi Kingston,wrs_kofi-kingston_467df1dc,10,,Chris Jericho,,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Titus O'Neil,wrs_titus-o-neil_6a9d7cba,11,,Big Show,,1.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,R-Truth,wrs_r-truth_4f076d5e,12,,Kane,,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Luke Harper,wrs_luke-harper_289b01a3,13,,Brock Lesnar,1456.0,4.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Stardust,wrs_stardust_7005fc6d,14,,Luke Harper,852.0,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Big Show,wrs_big-show_5b188d2a,15,,Braun Strowman,,2.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Neville,wrs_neville_6504ab7c,16,,Luke Harper,617.0,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Braun Strowman,wrs_braun-strowman_deabd19e,17,,Brock Lesnar,1081.0,5.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Kevin Owens,wrs_kevin-owens_2dcc9e59,18,,Sami Zayn,,1.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Dean Ambrose,wrs_dean-ambrose_437db9d7,19,,Triple H,1797.0,1.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Sami Zayn,wrs_sami-zayn_7b0c1ab3,20,,Braun Strowman,,1.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Erick Rowan,wrs_erick-rowan_c35db27b,21,,Brock Lesnar,,2.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Mark Henry,wrs_mark-henry_fbb6b2a3,22,,"The Wyatt Family (Braun Strowman, Erick Rowan, and Luke Harper)",,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Brock Lesnar,wrs_brock-lesnar_b573ebb0,23,,0 9:31,,,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Jack Swagger,wrs_jack-swagger_543dcafe,24,,Brock Lesnar,,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,The Miz,wrs_the-miz_88d52981,25,,Roman Reigns,,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Alberto Del Rio,wrs_alberto-del-rio_0b65b111,26,,0 7:02,,,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Bray Wyatt,wrs_bray-wyatt_a11030fc,27,,Sheamus and Triple H,685.0,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,28,,Triple H,,0.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Sheamus,wrs_sheamus_2fa9f3c4,29,,Roman Reigns,,1.0,False,False
+mtc_abaa19b6c784_1,evt_20160124_royal-rumble_c0a7193007,Triple H,wrs_triple-h_f28aa65b,30,,Winner,,4.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Big Cass,wrs_big-cass_e0060866,1,,Braun Strowman,597.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Chris Jericho,wrs_chris-jericho_fd60f6c9,2,,Roman Reigns,3613.0,2.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Kalisto,wrs_kalisto_776ce91d,3,,Braun Strowman,497.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Mojo Rawley,wrs_mojo-rawley_670c706a,4,,06:16,,,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Jack Gallagher,wrs_jack-gallagher_eb73ad76,5,,Mark Henry,200.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Mark Henry,wrs_mark-henry_fbb6b2a3,6,,Braun Strowman,197.0,1.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Braun Strowman,wrs_braun-strowman_deabd19e,7,,Baron Corbin,791.0,7.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Sami Zayn,wrs_sami-zayn_7b0c1ab3,8,,The Undertaker,2815.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Big Show,wrs_big-show_5b188d2a,9,,Braun Strowman,102.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Tye Dillinger,wrs_tye-dillinger_72b7e9b3,10,,Braun Strowman,327.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,James Ellsworth,wrs_james-ellsworth_be90eddd,11,,Braun Strowman,15.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Dean Ambrose,wrs_dean-ambrose_437db9d7,12,,Brock Lesnar,1615.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Baron Corbin,wrs_baron-corbin_bf723e4c,13,,The Undertaker,1959.0,1.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Kofi Kingston,wrs_kofi-kingston_467df1dc,14,,Cesaro & Sheamus,973.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,The Miz,wrs_the-miz_88d52981,15,,The Undertaker,1964.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Sheamus,wrs_sheamus_2fa9f3c4,16,,Chris Jericho,733.0,3.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Big E,wrs_big-e_ac0c5c87,17,,Cesaro & Sheamus,586.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Rusev,wrs_rusev_9305db53,18,,Goldberg,1351.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Cesaro,wrs_cesaro_accf4234,19,,Chris Jericho,404.0,3.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Xavier Woods,wrs_xavier-woods_c352ea91,20,,Cesaro & Sheamus,287.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Bray Wyatt,wrs_bray-wyatt_a11030fc,21,,Roman Reigns,1451.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Apollo Crews,wrs_apollo-crews_fac382c2,22,,Luke Harper,346.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Randy Orton,wrs_randy-orton_b1eaaa85,23,,Winner,1252.0,1.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,24,,Brock Lesnar,261.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Luke Harper,wrs_luke-harper_289b01a3,25,,Goldberg,596.0,1.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Brock Lesnar,wrs_brock-lesnar_b573ebb0,26,,Goldberg,270.0,3.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Enzo Amore,wrs_enzo-amore_4e6292ea,27,,Brock Lesnar,18.0,0.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Goldberg,wrs_goldberg_e21374b1,28,,The Undertaker,201.0,3.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,The Undertaker,wrs_the-undertaker_5928984c,29,,Roman Reigns,526.0,4.0,False,False
+mtc_a58386b4bb06_8,evt_20170129_royal-rumble_26c75991ef,Roman Reigns,wrs_roman-reigns_6e31eab3,30,,Randy Orton,305.0,3.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Rusev,wrs_rusev_9305db53,1,,Bray Wyatt and Matt Hardy,1828.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Finn Bálor,wrs_finn-b-lor_b20445e1,2,,John Cena,3458.0,4.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Rhyno,wrs_rhyno_afe5489f,3,,Baron Corbin,126.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Baron Corbin,wrs_baron-corbin_bf723e4c,4,,Finn Bálor,66.0,1.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Heath Slater,wrs_heath-slater_e45ab1cd,5,,Bray Wyatt,,1.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Elias,wrs_elias_31cc0cbf,6,,John Cena,1560.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,"Andrade ""Cien"" Almas",wrs_andrade-cien-almas_836b590a,7,,Randy Orton,1764.0,1.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Bray Wyatt,wrs_bray-wyatt_a11030fc,8,,Matt Hardy,1238.0,3.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Big E,wrs_big-e_ac0c5c87,9,,Jinder Mahal,854.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Sami Zayn *,wrs_sami-zayn_731e6127,10,,Shinsuke Nakamura,417.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Sheamus,wrs_sheamus_2fa9f3c4,11,,Heath Slater,,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Xavier Woods,wrs_xavier-woods_c352ea91,12,,Jinder Mahal,504.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Apollo Crews,wrs_apollo-crews_fac382c2,13,,Cesaro,316.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Shinsuke Nakamura,wrs_shinsuke-nakamura_5896dcf4,14,,Winner,2678.0,3.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Cesaro,wrs_cesaro_accf4234,15,,Seth Rollins,308.0,1.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Kofi Kingston,wrs_kofi-kingston_467df1dc,16,,"Andrade ""Cien"" Almas",341.0,1.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Jinder Mahal,wrs_jinder-mahal_90d95960,17,,Kofi Kingston,228.0,2.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Seth Rollins,wrs_seth-rollins_76b316d9,18,,Roman Reigns,1141.0,2.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Matt Hardy,wrs_matt-hardy_c3fdca74,19,,Bray Wyatt****,77.0,2.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,John Cena,wrs_john-cena_43142eec,20,,Shinsuke Nakamura,1754.0,3.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,The Hurricane,wrs_the-hurricane_2f233b42,21,,John Cena,45.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Aiden English,wrs_aiden-english_209c3d74,22,,Finn Bálor,136.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Adam Cole,wrs_adam-cole_8f05d1d0,23,,Rey Mysterio,412.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Randy Orton,wrs_randy-orton_b1eaaa85,24,,Roman Reigns,835.0,1.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Titus O'Neil,wrs_titus-o-neil_6a9d7cba,25,,Roman Reigns,367.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,The Miz,wrs_the-miz_88d52981,26,,Roman Reigns and Seth Rollins,320.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,27,,Finn Bálor,580.0,1.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Roman Reigns,wrs_roman-reigns_6e31eab3,28,,Shinsuke Nakamura,1312.0,4.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Goldust,wrs_goldust_143bb9fa,29,,Dolph Ziggler,163.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,30,,Finn Bálor,121.0,1.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Sasha Banks,wrs_sasha-banks_65c8481c,1,,Brie Bella & Nikki Bella,3286.0,3.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Becky Lynch,wrs_becky-lynch_e5e4d4e9,2,,Ruby Riott,1854.0,2.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Sarah Logan,wrs_sarah-logan_d29c61c6,3,,Molly Holly,990.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Mandy Rose,wrs_mandy-rose_8cfa0214,4,,Lita,232.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Lita,wrs_lita_38d8c5e8,5,,Becky Lynch,351.0,2.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Kairi Sane *,wrs_kairi-sane_84629fd4,6,,Dana Brooke,289.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Tamina,wrs_tamina_e605e9b6,7,,Lita,94.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Dana Brooke,wrs_dana-brooke_36ae241b,8,,Torrie Wilson,179.0,1.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Torrie Wilson,wrs_torrie-wilson_f1edbb74,9,,Sonya Deville,184.0,1.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Sonya Deville,wrs_sonya-deville_9760dcee,10,,Michelle McCool,401.0,1.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Liv Morgan,wrs_liv-morgan_2964892d,11,,Michelle McCool,312.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Molly Holly,wrs_molly-holly_8cac5304,12,,Michelle McCool,244.0,1.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Lana,wrs_lana_cbf61ffd,13,,Michelle McCool,174.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Michelle McCool,wrs_michelle-mccool_be251c2b,14,,Natalya,518.0,5.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Ruby Riott,wrs_ruby-riott_bf56fbab,15,,Nia Jax,692.0,2.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Vickie Guerrero,wrs_vickie-guerrero_5eb5dfdc,16,,"Becky Lynch, Michelle McCool, Ruby Riott, & Sasha Banks",57.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Carmella,wrs_carmella_67c4e85f,17,,Nikki Bella,1125.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Natalya,wrs_natalya_03bdfaba,18,,Trish Stratus,1534.0,3.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Kelly Kelly,wrs_kelly-kelly_960cde5e,19,,Nia Jax,302.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Naomi,wrs_naomi_751a5cb5,20,,Nia Jax,409.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Jacqueline,wrs_jacqueline_60bcd4ac,21,,Nia Jax,112.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Nia Jax,wrs_nia-jax_d90d1bad,22,,"Asuka, Bayley, Brie Bella, Natalya, Nikki Bella, & Trish Stratus",1076.0,4.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Ember Moon,wrs_ember-moon_860ee73c,23,,Asuka,374.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Beth Phoenix,wrs_beth-phoenix_d081027c,24,,Natalya,142.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Asuka,wrs_asuka_c598a07f,25,,Winner,1181.0,3.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Mickie James,wrs_mickie-james_c02d229b,26,,Trish Stratus,504.0,0.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Nikki Bella,wrs_nikki-bella_723b3769,27,,Asuka,990.0,4.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Brie Bella,wrs_brie-bella_81b3ea4e,28,,Nikki Bella,718.0,2.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Bayley,wrs_bayley_d63f5bff,29,,Sasha Banks,304.0,1.0,False,False
+mtc_95112dfca730_6,evt_20180128_royal-rumble_b1a70584ab,Trish Stratus,wrs_trish-stratus_a99b5ab5,30,,Sasha Banks,336.0,3.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Daniel Bryan,wrs_daniel-bryan_4141fc88,1,48.0,Big Cass,4565.0,3.0,False,True
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,2,12.0,Kurt Angle,1304.0,3.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Sin Cara,wrs_sin-cara_ea0d6559,3,1.0,Dolph Ziggler,78.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Curtis Axel,wrs_curtis-axel_45274e78,4,2.0,Mark Henry,120.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Mark Henry,wrs_mark-henry_fbb6b2a3,5,5.0,Daniel Bryan and Dolph Ziggler,207.0,3.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Mike Kanellis,wrs_mike-kanellis_34c9fef9,6,3.0,Mark Henry,3.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Hiroki Sumi,wrs_hiroki-sumi_138d6ae9,7,4.0,Mark Henry,46.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Viktor,wrs_viktor_86faeb3e,8,6.0,Daniel Bryan,51.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Kofi Kingston,wrs_kofi-kingston_467df1dc,9,14.0,Elias,994.0,1.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Tony Nese,wrs_tony-nese_f6cc9a22,10,9.0,Kofi Kingston and Xavier Woods,433.0,1.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Dash Wilder,wrs_dash-wilder_b3948087,11,7.0,Daniel Bryan and Hornswoggle,86.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Hornswoggle,wrs_hornswoggle_b20491a3,12,8.0,Dolph Ziggler and Tony Nese,60.0,1.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Primo,wrs_primo_9d46660b,13,11.0,Kurt Angle,310.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Xavier Woods,wrs_xavier-woods_c352ea91,14,15.0,Elias,596.0,1.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Bo Dallas,wrs_bo-dallas_7359edf5,15,10.0,Kurt Angle,94.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Kurt Angle,wrs_kurt-angle_0212456a,16,16.0,Elias,479.0,3.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Scott Dawson,wrs_scott-dawson_e18e0bc1,17,19.0,Bobby Roode,704.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Goldust,wrs_goldust_143bb9fa,18,18.0,Bobby Roode,604.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Konnor,wrs_konnor_2fded75c,19,13.0,Elias,145.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Elias,wrs_elias_31cc0cbf,20,41.0,Bobby Lashley,2044.0,5.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Luke Gallows,wrs_luke-gallows_4310574b,21,20.0,Rey Mysterio,556.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Rhyno,wrs_rhyno_afe5489f,22,25.0,Roderick Strong,982.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Drew Gulak,wrs_drew-gulak_1e4a6e40,23,17.0,Tucker Knight,107.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Tucker Knight,wrs_tucker-knight_25bec8bd,24,23.0,Big E,608.0,1.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Bobby Roode,wrs_bobby-roode_40eddf48,25,29.0,Baron Corbin,1064.0,2.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Fandango,wrs_fandango_d88c3867,26,21.0,Mojo Rawley,222.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Chad Gable,wrs_chad-gable_b78f0287,27,24.0,Apollo Crews,497.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,28,37.0,Baron Corbin,1225.0,1.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Mojo Rawley,wrs_mojo-rawley_670c706a,29,27.0,Randy Orton,532.0,2.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Tyler Breeze,wrs_tyler-breeze_739d70f2,30,22.0,Mojo Rawley,16.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Big E,wrs_big-e_ac0c5c87,31,33.0,Braun Strowman,839.0,1.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Karl Anderson,wrs_karl-anderson_d227594b,32,26.0,Randy Orton,265.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Apollo Crews,wrs_apollo-crews_fac382c2,33,28.0,Randy Orton,206.0,1.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Roderick Strong,wrs_roderick-strong_96b2bfea,34,30.0,Baron Corbin,360.0,1.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Randy Orton,wrs_randy-orton_b1eaaa85,35,39.0,Elias,658.0,4.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Heath Slater,wrs_heath-slater_e45ab1cd,36,34.0,Braun Strowman,458.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Babatunde,wrs_babatunde_cc02771a,37,31.0,Braun Strowman,353.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Baron Corbin,wrs_baron-corbin_bf723e4c,38,38.0,Randy Orton,428.0,3.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Titus O'Neil,wrs_titus-o-neil_6a9d7cba,39,35.0,Braun Strowman,282.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Dan Matha,wrs_dan-matha_301ebca7,40,32.0,Braun Strowman,121.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Braun Strowman,wrs_braun-strowman_deabd19e,41,,Winner,1334.0,13.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Tye Dillinger,wrs_tye-dillinger_72b7e9b3,42,36.0,Braun Strowman,29.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Curt Hawkins,wrs_curt-hawkins_a0435ec7,43,40.0,Braun Strowman,20.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Bobby Lashley,wrs_bobby-lashley_1fe46934,44,45.0,Braun Strowman,878.0,2.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,The Great Khali,wrs_the-great-khali_7dd37c85,45,42.0,Braun Strowman and Bobby Lashley,31.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Kevin Owens,wrs_kevin-owens_2dcc9e59,46,47.0,Braun Strowman,643.0,0.0,False,True
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Shane McMahon,wrs_shane-mcmahon_39c357b8,47,44.0,Braun Strowman,487.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Shelton Benjamin,wrs_shelton-benjamin_77a93365,48,43.0,Chris Jericho,263.0,0.0,False,False
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Big Cass,wrs_big-cass_e0060866,49,49.0,Braun Strowman,443.0,1.0,False,True
+mtc_6741dfe2e8d3_10,evt_20180427_greatest-royal-rumble_4717634b57,Chris Jericho,wrs_chris-jericho_fd60f6c9,50,46.0,Braun Strowman,198.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Lacey Evans,wrs_lacey-evans_37fb9201,1,,Charlotte Flair,1760.0,2.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Natalya,wrs_natalya_03bdfaba,2,,Nia Jax,3361.0,2.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Mandy Rose,wrs_mandy-rose_8cfa0214,3,,Naomi,1550.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Liv Morgan,wrs_liv-morgan_2964892d,4,,Natalya,8.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Mickie James,wrs_mickie-james_c02d229b,5,,Tamina,698.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Ember Moon,wrs_ember-moon_860ee73c,6,,Alexa Bliss,3130.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Billie Kay,wrs_billie-kay_be07d8e3,7,,Lacey Evans,565.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Nikki Cross,wrs_nikki-cross_41bcb207,8,,Billie Kay and Peyton Royce,540.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Peyton Royce,wrs_peyton-royce_cf21c266,9,,Lacey Evans,518.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Tamina,wrs_tamina_e605e9b6,10,,Charlotte Flair,502.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Xia Li,wrs_xia-li_924c33bb,11,,Charlotte Flair,288.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Sarah Logan,wrs_sarah-logan_d29c61c6,12,,Natalya and Kairi Sane,338.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Charlotte Flair,wrs_charlotte-flair_57610b5b,13,,Becky Lynch,3001.0,5.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Kairi Sane,wrs_kairi-sane_57f454d7,14,,Ruby Riott,1020.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Maria Kanellis,wrs_maria-kanellis_35ea4807,15,,Alicia Fox,492.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Naomi,wrs_naomi_751a5cb5,16,,Mandy Rose*,88.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Candice LeRae,wrs_candice-lerae_7a2621f0,17,,Ruby Riott,575.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Alicia Fox,wrs_alicia-fox_b557f679,18,,Ruby Riott,415.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Kacy Catanzaro,wrs_kacy-catanzaro_da0e418d,19,,Rhea Ripley,645.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Zelina Vega,wrs_zelina-vega_13cb75ab,20,,Rhea Ripley,702.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Ruby Riott,wrs_ruby-riott_bf56fbab,21,,Bayley,788.0,3.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Dana Brooke,wrs_dana-brooke_36ae241b,22,,Rhea Ripley,437.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Io Shirai,wrs_io-shirai_197217a4,23,,Nia Jax,801.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Rhea Ripley,wrs_rhea-ripley_4c9f4aeb,24,,Bayley,475.0,3.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Sonya Deville,wrs_sonya-deville_9760dcee,25,,Alexa Bliss,266.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Alexa Bliss,wrs_alexa-bliss_2cdfb233,26,,Bayley and Carmella,779.0,2.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Bayley,wrs_bayley_d63f5bff,27,,Nia Jax and Charlotte Flair,867.0,3.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Becky Lynch **,wrs_becky-lynch_88e2b463,28,,Winner,800.0,2.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Nia Jax,wrs_nia-jax_d90d1bad,29,,Becky Lynch,719.0,3.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Carmella,wrs_carmella_67c4e85f,30,,Charlotte Flair,432.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Elias,wrs_elias_31cc0cbf,1,,Seth Rollins,907.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Jeff Jarrett,wrs_jeff-jarrett_eabed4e7,2,,Elias,80.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Shinsuke Nakamura,wrs_shinsuke-nakamura_5896dcf4,3,,Mustafa Ali,1066.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Kurt Angle,wrs_kurt-angle_0212456a,4,,Shinsuke Nakamura,195.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Big E,wrs_big-e_ac0c5c87,5,,Samoa Joe,361.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Johnny Gargano,wrs_johnny-gargano_28d69a4b,6,,Dean Ambrose,830.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Jinder Mahal,wrs_jinder-mahal_90d95960,7,,Johnny Gargano,30.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Samoa Joe,wrs_samoa-joe_b41e09dc,8,,Mustafa Ali,1445.0,3.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Curt Hawkins,wrs_curt-hawkins_a0435ec7,9,,Samoa Joe,249.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Seth Rollins,wrs_seth-rollins_76b316d9,10,,Winner,2580.0,3.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Titus O'Neil,wrs_titus-o-neil_6a9d7cba,11,,Curt Hawkins,5.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Kofi Kingston,wrs_kofi-kingston_467df1dc,12,,Drew McIntyre,533.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Mustafa Ali,wrs_mustafa-ali_f9c2201a,13,,Nia Jax,1805.0,2.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Dean Ambrose,wrs_dean-ambrose_437db9d7,14,,Aleister Black,882.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,No Way Jose,wrs_no-way-jose_d1989dc3,15,,Samoa Joe,2.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Drew McIntyre,wrs_drew-mcintyre_dec5f4f3,16,,Dolph Ziggler and Braun Strowman,1206.0,4.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Xavier Woods,wrs_xavier-woods_c352ea91,17,,Drew McIntyre,3.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Pete Dunne,wrs_pete-dunne_5c7a1a6b,18,,Drew McIntyre,673.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Andrade,wrs_andrade_6e887f34,19,,Braun Strowman,1590.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Apollo Crews,wrs_apollo-crews_fac382c2,20,,Baron Corbin,347.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Aleister Black,wrs_aleister-black_708d7603,21,,Baron Corbin,369.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Shelton Benjamin,wrs_shelton-benjamin_77a93365,22,,Braun Strowman,561.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Baron Corbin,wrs_baron-corbin_bf723e4c,23,,Braun Strowman,439.0,2.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Jeff Hardy,wrs_jeff-hardy_a569b225,24,,Braun Strowman and Drew McIntyre,475.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,25,,Randy Orton,750.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Bobby Lashley,wrs_bobby-lashley_1fe46934,26,,Seth Rollins,13.0,0.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Braun Strowman,wrs_braun-strowman_deabd19e,27,,14:37,,,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,28,,Braun Strowman,694.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Randy Orton,wrs_randy-orton_b1eaaa85,29,,Andrade,360.0,1.0,False,False
+mtc_2228ee2e94ed_7,evt_20190127_royal-rumble_2d67527bff,Nia Jax *,wrs_nia-jax_680880f0,30,,Rey Mysterio,189.0,1.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Alexa Bliss,wrs_alexa-bliss_2cdfb233,1,,Bianca Belair,1594.0,3.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Bianca Belair,wrs_bianca-belair_6a441ace,2,,Charlotte Flair,2000.0,8.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Mighty Molly,wrs_mighty-molly_dc1b474a,3,,Bianca Belair,621.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Nikki Cross,wrs_nikki-cross_41bcb207,4,,Bianca Belair,908.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Lana,wrs_lana_cbf61ffd,5,,Liv Morgan,149.0,1.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Mercedes Martinez,wrs_mercedes-martinez_9d805800,6,,Mandy Rose and Sonya Deville,494.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Liv Morgan,wrs_liv-morgan_2964892d,7,,Lana,44.0,1.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Mandy Rose,wrs_mandy-rose_8cfa0214,8,,Bianca Belair,529.0,1.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Candice LeRae,wrs_candice-lerae_7a2621f0,9,,Bianca Belair,541.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Sonya Deville,wrs_sonya-deville_9760dcee,10,,Bianca Belair,331.0,1.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Kairi Sane,wrs_kairi-sane_57f454d7,11,,Alexa Bliss,322.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Mia Yim,wrs_mia-yim_feb577f4,12,,Alexa Bliss,390.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Dana Brooke,wrs_dana-brooke_36ae241b,13,,Bianca Belair,326.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Tamina,wrs_tamina_e605e9b6,14,,Bianca Belair,39.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Dakota Kai,wrs_dakota-kai_d92bcf7d,15,,Chelsea Green,92.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Chelsea Green,wrs_chelsea-green_3196e65e,16,,Alexa Bliss,12.0,1.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Charlotte Flair,wrs_charlotte-flair_57610b5b,17,,Winner,1639.0,4.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Naomi,wrs_naomi_751a5cb5,18,,Shayna Baszler,1321.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Beth Phoenix,wrs_beth-phoenix_d081027c,19,,Shayna Baszler,1385.0,1.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Toni Storm,wrs_toni-storm_63539455,20,,Shayna Baszler,1120.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Kelly Kelly,wrs_kelly-kelly_960cde5e,21,,Charlotte Flair,149.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Sarah Logan,wrs_sarah-logan_d29c61c6,22,,Charlotte Flair,28.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Natalya,wrs_natalya_03bdfaba,23,,Beth Phoenix,883.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Xia Li,wrs_xia-li_924c33bb,24,,Shayna Baszler,649.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Zelina Vega,wrs_zelina-vega_13cb75ab,25,,Shayna Baszler,571.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Shotzi Blackheart,wrs_shotzi-blackheart_1431335f,26,,Shayna Baszler,477.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Carmella,wrs_carmella_67c4e85f,27,,Shayna Baszler,396.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Tegan Nox,wrs_tegan-nox_e88a3cea,28,,Shayna Baszler,230.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Santina Marella,wrs_santina-marella_0c463e8a,29,,Self,61.0,1.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Shayna Baszler,wrs_shayna-baszler_bc9206dc,30,,Charlotte Flair,267.0,8.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Brock Lesnar [1],wrs_brock-lesnar-1_265ba185,1,,Drew McIntyre,1584.0,13.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Elias,wrs_elias_31cc0cbf,2,,Brock Lesnar,60.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Erick Rowan,wrs_erick-rowan_c35db27b,3,,Brock Lesnar,8.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Robert Roode,wrs_robert-roode_7138ff57,4,,Brock Lesnar,41.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,John Morrison,wrs_john-morrison_fc4226f4,5,,00:09,,,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Kofi Kingston,wrs_kofi-kingston_467df1dc,6,,05:06,,,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,7,,Brock Lesnar,174.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Big E,wrs_big-e_ac0c5c87,8,,Brock Lesnar,53.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Cesaro,wrs_cesaro_accf4234,9,,00:18,,,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Shelton Benjamin,wrs_shelton-benjamin_77a93365,10,,Brock Lesnar,37.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Shinsuke Nakamura,wrs_shinsuke-nakamura_5896dcf4,11,,Brock Lesnar,20.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,MVP,wrs_mvp_3207c40f,12,,Brock Lesnar,24.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Keith Lee,wrs_keith-lee_657b58a2,13,,Brock Lesnar and Braun Strowman,212.0,1.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Braun Strowman,wrs_braun-strowman_deabd19e,14,,Brock Lesnar and Keith Lee,110.0,1.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Ricochet,wrs_ricochet_99219d83,15,,Drew McIntyre,189.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Drew McIntyre,wrs_drew-mcintyre_dec5f4f3,16,,Winner,2051.0,6.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,The Miz,wrs_the-miz_88d52981,17,,Drew McIntyre,30.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,AJ Styles,wrs_aj-styles_62381180,18,,Edge,469.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,19,,Roman Reigns,740.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Karl Anderson,wrs_karl-anderson_d227594b,20,,Randy Orton,586.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Edge,wrs_edge_a0f2c69a,21,,Roman Reigns,1423.0,3.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,King Corbin,wrs_king-corbin_e4270dc3,22,,Drew McIntyre,246.0,1.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Matt Riddle,wrs_matt-riddle_1cfe3bda,23,,King Corbin,41.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Luke Gallows,wrs_luke-gallows_4310574b,24,,Edge,120.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Randy Orton,wrs_randy-orton_b1eaaa85,25,,Edge,877.0,1.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Roman Reigns,wrs_roman-reigns_6e31eab3,26,,Drew McIntyre,961.0,2.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Kevin Owens,wrs_kevin-owens_2dcc9e59,27,,"Seth Rollins, Akam , and Rezar [2]",419.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Aleister Black,wrs_aleister-black_708d7603,28,,Seth Rollins,306.0,0.0,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Samoa Joe,wrs_samoa-joe_b41e09dc,29,,04:25,,,False,False
+mtc_23f710b295ac_4,evt_20200126_royal-rumble_faa3cdc4ce,Seth Rollins,wrs_seth-rollins_76b316d9,30,,Drew McIntyre,241.0,3.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Bayley,wrs_bayley_d63f5bff,1,,Bianca Belair,1748.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Naomi,wrs_naomi_751a5cb5,2,,Nia Jax and Shayna Baszler,2859.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Bianca Belair,wrs_bianca-belair_6a441ace,3,,Winner,3409.0,4.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Billie Kay,wrs_billie-kay_be07d8e3,4,,Ruby Riott and Liv Morgan,491.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Shotzi Blackheart,wrs_shotzi-blackheart_1431335f,5,,Shayna Baszler,226.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Shayna Baszler,wrs_shayna-baszler_bc9206dc,6,,Nia Jax,2506.0,6.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Toni Storm,wrs_toni-storm_63539455,7,,Rhea Ripley,681.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Jillian Hall,wrs_jillian-hall_72d1cc09,8,,Billie Kay,483.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Ruby Riott,wrs_ruby-riott_bf56fbab,9,,Bayley,653.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Victoria,wrs_victoria_d714d845,10,,Shayna Baszler,435.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Peyton Royce,wrs_peyton-royce_cf21c266,11,,Charlotte Flair,820.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Santana Garrett,wrs_santana-garrett_6a90999c,12,,Rhea Ripley,272.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Liv Morgan,wrs_liv-morgan_2964892d,13,,Peyton Royce,397.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Rhea Ripley,wrs_rhea-ripley_4c9f4aeb,14,,Bianca Belair,2346.0,7.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Charlotte Flair,wrs_charlotte-flair_57610b5b,15,,Rhea Ripley and Bianca Belair,2027.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Dana Brooke,wrs_dana-brooke_36ae241b,16,,Rhea Ripley,178.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Torrie Wilson,wrs_torrie-wilson_f1edbb74,17,,Shayna Baszler,239.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Lacey Evans,wrs_lacey-evans_37fb9201,18,,Shayna Baszler,1161.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Mickie James,wrs_mickie-james_c02d229b,19,,Lacey Evans,440.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Nikki Cross,wrs_nikki-cross_41bcb207,20,,Carmella,457.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Alicia Fox [ b ],wrs_alicia-fox-b_714b98f3,21,,Mandy Rose,108.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Mandy Rose,wrs_mandy-rose_8cfa0214,22,,Rhea Ripley,229.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Dakota Kai,wrs_dakota-kai_d92bcf7d,23,,Rhea Ripley,126.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Carmella,wrs_carmella_67c4e85f,24,,Herself,47.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Tamina,wrs_tamina_e605e9b6,25,,Nia Jax and Shayna Baszler,511.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Lana,wrs_lana_cbf61ffd,26,,Natalya,598.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Alexa Bliss,wrs_alexa-bliss_2cdfb233,27,,Rhea Ripley,62.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Ember Moon,wrs_ember-moon_860ee73c,28,,Nia Jax,111.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Nia Jax,wrs_nia-jax_d90d1bad,29,,Lana,164.0,4.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Natalya,wrs_natalya_03bdfaba,30,,Bianca Belair,120.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Edge,wrs_edge_a0f2c69a,1,,Winner,3602.0,3.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Randy Orton,wrs_randy-orton_b1eaaa85,2,,Edge,3602.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Sami Zayn,wrs_sami-zayn_7b0c1ab3,3,,Big E,784.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Mustafa Ali,wrs_mustafa-ali_f9c2201a,4,,Big E,798.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Jeff Hardy,wrs_jeff-hardy_a569b225,5,,Dolph Ziggler,205.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,6,,Kane,1230.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Shinsuke Nakamura,wrs_shinsuke-nakamura_5896dcf4,7,,King Corbin,1321.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Carlito,wrs_carlito_e4047b9d,8,,Elias,506.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Xavier Woods,wrs_xavier-woods_c352ea91,9,,Mustafa Ali,222.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Big E,wrs_big-e_ac0c5c87,10,,Omos [ c ],1785.0,4.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,John Morrison,wrs_john-morrison_fc4226f4,11,,Damian Priest,494.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Ricochet,wrs_ricochet_99219d83,12,,Kane,697.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Elias,wrs_elias_31cc0cbf,13,,Damian Priest,150.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Damian Priest,wrs_damian-priest_164df978,14,,Bobby Lashley,934.0,4.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,The Miz,wrs_the-miz_88d52981,15,,Damian Priest,62.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Riddle,wrs_riddle_ecefe3a4,16,,Seth Rollins,1877.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Daniel Bryan,wrs_daniel-bryan_4141fc88,17,,Seth Rollins,1730.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Kane,wrs_kane_bdba1e91,18,,Damian Priest,111.0,2.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,King Corbin,wrs_king-corbin_e4270dc3,19,,Dominik Mysterio,214.0,2.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Otis,wrs_otis_bf929217,20,,King Corbin,53.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Dominik Mysterio,wrs_dominik-mysterio_f9c0a83e,21,,Bobby Lashley,120.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Bobby Lashley,wrs_bobby-lashley_1fe46934,22,,"Big E, Christian, Daniel Bryan, and Riddle",243.0,3.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Hurricane Helms,wrs_hurricane-helms_32ac257b,23,,Big E and Bobby Lashley,30.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Christian,wrs_christian_2314b2e3,24,,Seth Rollins,1092.0,1.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,AJ Styles,wrs_aj-styles_62381180,25,,Braun Strowman,627.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,26,,Omos [ c ],227.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Sheamus,wrs_sheamus_2fa9f3c4,27,,Braun Strowman,356.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Cesaro,wrs_cesaro_accf4234,28,,Braun Strowman,250.0,0.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Seth Rollins,wrs_seth-rollins_76b316d9,29,,Edge,528.0,3.0,False,False
+mtc_ffd821d8964a_4,evt_20210131_royal-rumble_ca5f49ce5c,Braun Strowman,wrs_braun-strowman_deabd19e,30,,Edge,444.0,3.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Sasha Banks,wrs_sasha-banks_65c8481c,1,,Queen Zelina,584.0,2.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Melina,wrs_melina_f76566fd,2,,Sasha Banks,53.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Tamina,wrs_tamina_e605e9b6,3,,Natalya,1001.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Kelly Kelly,wrs_kelly-kelly_960cde5e,4,,Sasha Banks,65.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Aliyah,wrs_aliyah_b559de11,5,,Charlotte Flair,1370.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Liv Morgan,wrs_liv-morgan_2964892d,6,,Brie Bella,2240.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Queen Zelina,wrs_queen-zelina_c87f2a6b,7,,Rhea Ripley,1045.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Bianca Belair,wrs_bianca-belair_6a441ace,8,,Charlotte Flair,2850.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Dana Brooke,wrs_dana-brooke_36ae241b,9,,Michelle McCool,132.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Michelle McCool,wrs_michelle-mccool_be251c2b,10,,Mickie James,1250.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Sonya Deville,wrs_sonya-deville_9760dcee,11,,Naomi,120.0,2.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Natalya,wrs_natalya_03bdfaba,12,,Bianca Belair,2177.0,2.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Cameron,wrs_cameron_1d572acb,13,,Sonya Deville,51.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Naomi,wrs_naomi_751a5cb5,14,,Sonya Deville [ a ],438.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Carmella,wrs_carmella_67c4e85f,15,,Rhea Ripley,50.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Rhea Ripley,wrs_rhea-ripley_4c9f4aeb,16,,Charlotte Flair,1859.0,3.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Charlotte Flair,wrs_charlotte-flair_57610b5b,17,,Ronda Rousey,1883.0,5.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Ivory,wrs_ivory_62691d0c,18,,Rhea Ripley,25.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Brie Bella,wrs_brie-bella_81b3ea4e,19,,Ronda Rousey,1161.0,3.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Mickie James,wrs_mickie-james_c02d229b,20,,Lita,700.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Alicia Fox,wrs_alicia-fox_b557f679,21,,Nikki Bella,390.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Nikki A.S.H.,wrs_nikki-a-s-h_0f2d3ac4,22,,Ronda Rousey,733.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Summer Rae,wrs_summer-rae_5683534e,23,,Natalya,52.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Nikki Bella,wrs_nikki-bella_723b3769,24,,Brie Bella,520.0,2.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Sarah Logan,wrs_sarah-logan_d29c61c6,25,,Brie Bella and Nikki Bella,43.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Lita,wrs_lita_38d8c5e8,26,,Charlotte Flair,621.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Mighty Molly,wrs_mighty-molly_dc1b474a,27,,Nikki A.S.H.,20.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Ronda Rousey,wrs_ronda-rousey_ce40c3a9,28,,Winner,616.0,4.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Shotzi,wrs_shotzi_06c862df,29,,Ronda Rousey,176.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Shayna Baszler,wrs_shayna-baszler_bc9206dc,30,,Charlotte Flair,331.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,AJ Styles,wrs_aj-styles_62381180,1,,Madcap Moss,1746.0,6.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Shinsuke Nakamura,wrs_shinsuke-nakamura_5896dcf4,2,,AJ Styles,351.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Austin Theory,wrs_austin-theory_b303d8ad,3,,AJ Styles,1326.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Robert Roode,wrs_robert-roode_7138ff57,4,,AJ Styles,54.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Ridge Holland,wrs_ridge-holland_47bc8b52,5,,AJ Styles,1151.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Montez Ford,wrs_montez-ford_7466b1af,6,,Omos,550.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Damian Priest,wrs_damian-priest_164df978,7,,Omos,664.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Sami Zayn,wrs_sami-zayn_7b0c1ab3,8,,AJ Styles,197.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Johnny Knoxville,wrs_johnny-knoxville_62f3c371,9,,Sami Zayn,86.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Angelo Dawkins,wrs_angelo-dawkins_d760e907,10,,Omos,135.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Omos,wrs_omos_a46132b5,11,,"AJ Styles, Austin Theory, Chad Gable, Dominik Mysterio, Ricochet, and Ridge Holland",264.0,3.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Ricochet,wrs_ricochet_99219d83,12,,Happy Corbin,263.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Chad Gable,wrs_chad-gable_b78f0287,13,,Rick Boogs,498.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Dominik Mysterio,wrs_dominik-mysterio_f9c0a83e,14,,Happy Corbin,224.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Happy Corbin,wrs_happy-corbin_b192732f,15,,Drew McIntyre,647.0,3.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Dolph Ziggler,wrs_dolph-ziggler_079b1e01,16,,Bad Bunny,1246.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Sheamus,wrs_sheamus_2fa9f3c4,17,,Bad Bunny,1075.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Rick Boogs,wrs_rick-boogs_90f82b93,18,,Happy Corbin,273.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Madcap Moss,wrs_madcap-moss_ea524f37,19,,Drew McIntyre,264.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Riddle,wrs_riddle_ecefe3a4,20,,Brock Lesnar,1186.0,2.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Drew McIntyre,wrs_drew-mcintyre_dec5f4f3,21,,Brock Lesnar,1158.0,2.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Kevin Owens,wrs_kevin-owens_2dcc9e59,22,,Shane McMahon,673.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,23,,Otis,545.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Kofi Kingston,wrs_kofi-kingston_467df1dc,24,,Kevin Owens,21.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Otis,wrs_otis_bf929217,25,,Riddle and Randy Orton,532.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Big E,wrs_big-e_ac0c5c87,26,,Riddle and Randy Orton,397.0,0.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Bad Bunny,wrs_bad-bunny_7fac8730,27,,Brock Lesnar,461.0,2.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Shane McMahon,wrs_shane-mcmahon_39c357b8,28,,Brock Lesnar,338.0,1.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Randy Orton,wrs_randy-orton_b1eaaa85,29,,Brock Lesnar,141.0,2.0,False,False
+mtc_9c46a5ce4c43_2,evt_20220129_royal-rumble_064cfa0949,Brock Lesnar,wrs_brock-lesnar_b573ebb0,30,,Winner,152.0,5.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Gunther,wrs_gunther_c9d8f39e,1,,Cody Rhodes,,5.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Sheamus,wrs_sheamus_2fa9f3c4,2,,Gunther,3153.0,3.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,The Miz,wrs_the-miz_88d52981,3,,Sheamus,263.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Kofi Kingston,wrs_kofi-kingston_467df1dc,4,,Gunther,891.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Johnny Gargano,wrs_johnny-gargano_28d69a4b,5,,Dominik Mysterio and Finn Bálor,1797.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Xavier Woods,wrs_xavier-woods_c352ea91,6,,Gunther,629.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Karrion Kross,wrs_karrion-kross_25768871,7,,Drew McIntyre,251.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Chad Gable,wrs_chad-gable_b78f0287,8,,Brock Lesnar,522.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Drew McIntyre,wrs_drew-mcintyre_dec5f4f3,9,,Gunther,2350.0,3.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Santos Escobar,wrs_santos-escobar_b1c11b38,10,,Brock Lesnar,296.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Angelo Dawkins,wrs_angelo-dawkins_d760e907,11,,Brock Lesnar,148.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Brock Lesnar,wrs_brock-lesnar_b573ebb0,12,,Bobby Lashley,148.0,3.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Bobby Lashley,wrs_bobby-lashley_1fe46934,13,,"Seth ""Freakin"" Rollins",434.0,1.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Baron Corbin,wrs_baron-corbin_bf723e4c,14,,"Seth ""Freakin"" Rollins",7.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,"Seth ""Freakin"" Rollins",wrs_seth-freakin-rollins_224eebf9,15,,Logan Paul,2238.0,2.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Otis,wrs_otis_bf929217,16,,Drew McIntyre and Sheamus,188.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,17,,Unable to compete [ e ],0.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Dominik Mysterio,wrs_dominik-mysterio_f9c0a83e,18,,Cody Rhodes,1544.0,1.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Elias,wrs_elias_31cc0cbf,19,,Drew McIntyre and Sheamus,39.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Finn Bálor,wrs_finn-b-lor_b20445e1,20,,Edge,465.0,2.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Booker T,wrs_booker-t_23e35b73,21,,Gunther,42.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Damian Priest,wrs_damian-priest_164df978,22,,Edge,243.0,1.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Montez Ford,wrs_montez-ford_7466b1af,23,,Damian Priest,44.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Edge,wrs_edge_a0f2c69a,24,,Finn Bálor [ f ],64.0,2.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Austin Theory,wrs_austin-theory_b303d8ad,25,,Cody Rhodes,939.0,1.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Omos,wrs_omos_a46132b5,26,,Braun Strowman,146.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Braun Strowman,wrs_braun-strowman_deabd19e,27,,Cody Rhodes,672.0,1.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Ricochet,wrs_ricochet_99219d83,28,,Austin Theory,554.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Logan Paul,wrs_logan-paul_602ea247,29,,Cody Rhodes,657.0,1.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Cody Rhodes,wrs_cody-rhodes_085203c7,30,,Winner,908.0,5.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Rhea Ripley,wrs_rhea-ripley_4c9f4aeb,1,,Winner,3668.0,7.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Liv Morgan,wrs_liv-morgan_2964892d,2,,Rhea Ripley,3668.0,3.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Dana Brooke,wrs_dana-brooke_36ae241b,3,,Damage CTRL [ ii ],703.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Emma,wrs_emma_efdb8f7f,4,,Dakota Kai,612.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Shayna Baszler,wrs_shayna-baszler_bc9206dc,5,,Damage CTRL [ ii ],808.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Bayley,wrs_bayley_d63f5bff,6,,Liv Morgan,1629.0,5.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,B-Fab,wrs_b-fab_7074887c,7,,Rhea Ripley,36.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Roxanne Perez,wrs_roxanne-perez_ab37d5d5,8,,Damage CTRL [ ii ],274.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Dakota Kai,wrs_dakota-kai_d92bcf7d,9,,Becky Lynch,1340.0,5.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Iyo Sky,wrs_iyo-sky_67261377,10,,Becky Lynch,1249.0,5.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Natalya,wrs_natalya_03bdfaba,11,,Damage CTRL [ ii ],188.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Candice LeRae,wrs_candice-lerae_7a2621f0,12,,Iyo Sky,311.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Zoey Stark,wrs_zoey-stark_47a7515c,13,,Sonya Deville,1594.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Xia Li,wrs_xia-li_924c33bb,14,,Zelina Vega,930.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Becky Lynch,wrs_becky-lynch_e5e4d4e9,15,,Bayley,645.0,2.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Tegan Nox,wrs_tegan-nox_e88a3cea,16,,Asuka,221.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Asuka,wrs_asuka_c598a07f,17,,Rhea Ripley,1995.0,3.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Piper Niven,wrs_piper-niven_44b800be,18,,Raquel Rodriguez,1685.0,2.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Tamina,wrs_tamina_e605e9b6,19,,Michelle McCool,718.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Chelsea Green,wrs_chelsea-green_3196e65e,20,,Rhea Ripley,5.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Zelina Vega,wrs_zelina-vega_13cb75ab,21,,Lacey Evans,690.0,1.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Raquel Rodriguez,wrs_raquel-rodriguez_4f0c8311,22,,Rhea Ripley,1240.0,3.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Mia Yim,wrs_mia-yim_feb577f4,23,,Piper Niven,1064.0,2.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Lacey Evans,wrs_lacey-evans_37fb9201,24,,Raquel Rodriguez,845.0,2.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Michelle McCool,wrs_michelle-mccool_be251c2b,25,,Rhea Ripley,833.0,2.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Indi Hartwell,wrs_indi-hartwell_cd8f6f27,26,,Sonya Deville,291.0,0.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Sonya Deville,wrs_sonya-deville_9760dcee,27,,Asuka,617.0,3.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Shotzi,wrs_shotzi_06c862df,28,,Mia Yim,519.0,1.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Nikki Cross,wrs_nikki-cross_41bcb207,29,,Liv Morgan,556.0,1.0,False,False
+mtc_cfa05bcffe99_1,evt_20230128_royal-rumble_34701a8d6e,Nia Jax,wrs_nia-jax_d90d1bad,30,,11 women [ iii ],117.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Natalya,wrs_natalya_03bdfaba,1,,Tegan Nox,1257.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Naomi,wrs_naomi_751a5cb5,2,,Jade Cargill,,2.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Bayley,wrs_bayley_d63f5bff,3,,Winner,,7.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Candice LeRae,wrs_candice-lerae_7a2621f0,4,,"Bayley, Asuka, and Kairi Sane",923.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Jordynne Grace,wrs_jordynne-grace_cc91d1c3,5,,Bianca Belair,1150.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Indi Hartwell,wrs_indi-hartwell_cd8f6f27,6,,Bayley,203.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Asuka,wrs_asuka_c598a07f,7,,Katana Chance and Kayden Carter,779.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Ivy Nile,wrs_ivy-nile_28929d4f,8,,Nia Jax,1407.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Katana Chance,wrs_katana-chance_3627ed45,9,,Nia Jax,1548.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Bianca Belair,wrs_bianca-belair_6a441ace,10,,Bayley,2866.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Kairi Sane,wrs_kairi-sane_57f454d7,11,,Kayden Carter,300.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Tegan Nox,wrs_tegan-nox_e88a3cea,12,,Bayley,82.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Kayden Carter,wrs_kayden-carter_46519fe7,13,,Piper Niven,708.0,2.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Chelsea Green,wrs_chelsea-green_3196e65e,14,,Becky Lynch,1052.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Piper Niven,wrs_piper-niven_44b800be,15,,Nia Jax,759.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Xia Li,wrs_xia-li_924c33bb,16,,Nia Jax,406.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Zelina Vega,wrs_zelina-vega_13cb75ab,17,,Shayna Baszler and Zoey Stark,1200.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Maxxine Dupri,wrs_maxxine-dupri_a7dc1f4d,18,,Bayley,399.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Nia Jax,wrs_nia-jax_d90d1bad,19,,Jade Cargill,1215.0,8.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Shotzi,wrs_shotzi_06c862df,20,,Nia Jax,914.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Becky Lynch,wrs_becky-lynch_e5e4d4e9,21,,Jade Cargill and Naomi,1349.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Alba Fyre,wrs_alba-fyre_223b0d5f,22,,Naomi,381.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Shayna Baszler,wrs_shayna-baszler_bc9206dc,23,,Nia Jax,507.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Valhalla,wrs_valhalla_9fa3087a,24,,Nia Jax,5.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Michin,wrs_michin_13583488,25,,Nia Jax,302.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Zoey Stark,wrs_zoey-stark_47a7515c,26,,Liv Morgan,598.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Roxanne Perez,wrs_roxanne-perez_ab37d5d5,27,,Tiffany Stratton,509.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Jade Cargill,wrs_jade-cargill_ee8708b6,28,,Liv Morgan,663.0,3.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Tiffany Stratton,wrs_tiffany-stratton_18d3711b,29,,Bayley,412.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Liv Morgan,wrs_liv-morgan_2964892d,30,,Bayley,386.0,2.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Jey Uso,wrs_jey-uso_adc98921,1,,Gunther,3055.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Jimmy Uso,wrs_jimmy-uso_3e9a2776,2,,Bron Breakker,2049.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Grayson Waller,wrs_grayson-waller_bd886166,3,,Carmelo Hayes,245.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Andrade,wrs_andrade_6e887f34,4,,Bronson Reed,1379.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Carmelo Hayes,wrs_carmelo-hayes_da88a478,5,,Finn Bálor,1026.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Shinsuke Nakamura,wrs_shinsuke-nakamura_5896dcf4,6,,Cody Rhodes,1251.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Santos Escobar,wrs_santos-escobar_b1c11b38,7,,Carlito,397.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Karrion Kross,wrs_karrion-kross_25768871,8,,Bobby Lashley,380.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,"""Dirty"" Dominik Mysterio",wrs_dirty-dominik-mysterio_6db57b9d,9,,CM Punk,1999.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Carlito,wrs_carlito_e4047b9d,10,,Bobby Lashley,143.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Bobby Lashley,wrs_bobby-lashley_1fe46934,11,,Karrion Kross [ i ],94.0,2.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Ludwig Kaiser,wrs_ludwig-kaiser_dcc3882f,12,,Kofi Kingston,569.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Austin Theory,wrs_austin-theory_b303d8ad,13,,Cody Rhodes,238.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Finn Bálor,wrs_finn-b-lor_b20445e1,14,,Bron Breakker,681.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Cody Rhodes,wrs_cody-rhodes_085203c7,15,,Winner,2601.0,4.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Bronson Reed,wrs_bronson-reed_182c1aa3,16,,Omos,639.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Kofi Kingston,wrs_kofi-kingston_467df1dc,17,,Gunther,214.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Gunther,wrs_gunther_c9d8f39e,18,,Cody Rhodes,1810.0,3.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Ivar,wrs_ivar_79475d27,19,,Bron Breakker,297.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Bron Breakker [ ii ],wrs_bron-breakker-ii_8093a1b2,20,,"""Dirty"" Dominik Mysterio",319.0,4.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Omos,wrs_omos_a46132b5,21,,Bron Breakker,163.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Pat McAfee,wrs_pat-mcafee_d455630c,22,,Himself,38.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,JD McDonagh,wrs_jd-mcdonagh_09089238,23,,Jey Uso,3.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,R-Truth,wrs_r-truth_4f076d5e,24,,Damian Priest,176.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,The Miz,wrs_the-miz_88d52981,25,,Gunther,366.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Damian Priest,wrs_damian-priest_164df978,26,,Sami Zayn,624.0,1.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,CM Punk,wrs_cm-punk_4a79114c,27,,Cody Rhodes,1305.0,2.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Ricochet,wrs_ricochet_99219d83,28,,Drew McIntyre,310.0,0.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Drew McIntyre,wrs_drew-mcintyre_dec5f4f3,29,,CM Punk,592.0,2.0,False,False
+mtc_1e30303b279e_1,evt_20240127_royal-rumble_fb29245da8,Sami Zayn,wrs_sami-zayn_7b0c1ab3,30,,Drew McIntyre,199.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Iyo Sky,wrs_iyo-sky_67261377,1,,Nia Jax,4005.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Liv Morgan,wrs_liv-morgan_2964892d,2,,Nia Jax,4020.0,2.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Roxanne Perez,wrs_roxanne-perez_ab37d5d5,3,,Charlotte Flair,,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Lyra Valkyria,wrs_lyra-valkyria_3285f820,4,,Ivy Nile,973.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Chelsea Green,wrs_chelsea-green_3196e65e,5,,Piper Niven,1612.0,2.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,B-Fab,wrs_b-fab_7074887c,6,,Chelsea Green,440.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Ivy Nile,wrs_ivy-nile_28929d4f,7,,Maxxine Dupri,989.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Zoey Stark,wrs_zoey-stark_47a7515c,8,,Bianca Belair and Naomi,1018.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Lash Legend,wrs_lash-legend_366f9bc5,9,,Chelsea Green,1042.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Bianca Belair,wrs_bianca-belair_6a441ace,10,,Nia Jax,2957.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Shayna Baszler,wrs_shayna-baszler_bc9206dc,11,,Bayley,612.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Bayley,wrs_bayley_d63f5bff,12,,Nikki Bella,2819.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Sonya Deville,wrs_sonya-deville_9760dcee,13,,Iyo Sky,364.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Maxxine Dupri,wrs_maxxine-dupri_a7dc1f4d,14,,Pure Fusion Collective [ b ],80.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Naomi,wrs_naomi_751a5cb5,15,,Nia Jax,2284.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Jaida Parker,wrs_jaida-parker_fddf806e,16,,Jordynne Grace,414.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Piper Niven,wrs_piper-niven_44b800be,17,,Charlotte Flair,1450.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Natalya,wrs_natalya_03bdfaba,18,,Liv Morgan,1034.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Jordynne Grace,wrs_jordynne-grace_cc91d1c3,19,,Giulia,1361.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Michin,wrs_michin_13583488,20,,Charlotte Flair,1019.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Alexa Bliss,wrs_alexa-bliss_2cdfb233,21,,Liv Morgan,661.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Zelina Vega,wrs_zelina-vega_13cb75ab,22,,Nia Jax [ c ],1084.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Candice LeRae,wrs_candice-lerae_7a2621f0,23,,Trish Stratus,992.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Stephanie Vaquer,wrs_stephanie-vaquer_ef99a33e,24,,Nia Jax,1142.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Trish Stratus,wrs_trish-stratus_a99b5ab5,25,,Nia Jax,793.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Raquel Rodriguez,wrs_raquel-rodriguez_4f0c8311,26,,Nia Jax,902.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Charlotte Flair,wrs_charlotte-flair_57610b5b,27,,Winner [ d ],904.0,4.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Giulia,wrs_giulia_db252b61,28,,Roxanne Perez,608.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Nia Jax,wrs_nia-jax_d90d1bad,29,,Charlotte Flair,493.0,9.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Nikki Bella,wrs_nikki-bella_723b3769,30,,Nia Jax,184.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,1,,Jacob Fatu,1481.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Penta,wrs_penta_d0908e2a,2,,Finn Bálor,2525.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Chad Gable,wrs_chad-gable_b78f0287,3,,Jacob Fatu,1298.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Carmelo Hayes,wrs_carmelo-hayes_da88a478,4,,Bron Breakker,419.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Santos Escobar,wrs_santos-escobar_b1c11b38,5,,Bron Breakker,342.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Otis,wrs_otis_bf929217,6,,Bron Breakker and IShowSpeed,583.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Bron Breakker,wrs_bron-breakker_5988b1d1,7,,Roman Reigns,1346.0,3.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,IShowSpeed [ e ],wrs_ishowspeed-e_b3510ded,8,,Otis [ f ],56.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Sheamus,wrs_sheamus_2fa9f3c4,9,,Roman Reigns,938.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Jimmy Uso,wrs_jimmy-uso_3e9a2776,10,,Jacob Fatu,934.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Andrade,wrs_andrade_6e887f34,11,,Jacob Fatu,197.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Jacob Fatu,wrs_jacob-fatu_79545f89,12,,Braun Strowman,1456.0,4.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Ludwig Kaiser,wrs_ludwig-kaiser_dcc3882f,13,,Penta,6.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,The Miz,wrs_the-miz_88d52981,14,,Roman Reigns,325.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Joe Hendry,wrs_joe-hendry_b79082aa,15,,Roman Reigns,215.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Roman Reigns,wrs_roman-reigns_6e31eab3,16,,CM Punk,2235.0,4.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Drew McIntyre,wrs_drew-mcintyre_dec5f4f3,17,,Damian Priest,1615.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Finn Bálor,wrs_finn-b-lor_b20445e1,18,,John Cena,670.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Shinsuke Nakamura,wrs_shinsuke-nakamura_5896dcf4,19,,Jey Uso,197.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Jey Uso,wrs_jey-uso_adc98921,20,,Winner,2219.0,3.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,AJ Styles,wrs_aj-styles_62381180,21,,Logan Paul,1262.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Braun Strowman,wrs_braun-strowman_deabd19e,22,,John Cena,132.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,John Cena,wrs_john-cena_43142eec,23,,Jey Uso,1831.0,3.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,CM Punk,wrs_cm-punk_4a79114c,24,,Logan Paul,1126.0,2.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,"Seth ""Freakin"" Rollins",wrs_seth-freakin-rollins_224eebf9,25,,CM Punk,1034.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,"""Dirty"" Dominik Mysterio",wrs_dirty-dominik-mysterio_6db57b9d,26,,Damian Priest,249.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Sami Zayn,wrs_sami-zayn_7b0c1ab3,27,,Jey Uso,322.0,0.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Damian Priest,wrs_damian-priest_164df978,28,,LA Knight,374.0,2.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,LA Knight,wrs_la-knight_8b1a4bb3,29,,AJ Styles,306.0,1.0,False,False
+mtc_d0a76f6f40ea_1,evt_20250201_royal-rumble_2b2b2ea5b6,Logan Paul,wrs_logan-paul_602ea247,30,,John Cena,679.0,2.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Charlotte Flair,wrs_charlotte-flair_57610b5b,1,,Lash Legend,3589.0,2.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Alexa Bliss,wrs_alexa-bliss_2cdfb233,2,,Charlotte Flair,809.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Kiana James,wrs_kiana-james_d439d549,3,,Raquel Rodriguez,1650.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Nia Jax,wrs_nia-jax_d90d1bad,4,,Charlotte Flair,569.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Ivy Nile,wrs_ivy-nile_28929d4f,5,,Jordynne Grace,384.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Lola Vice,wrs_lola-vice_9433b3f4,6,,Jordynne Grace,272.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Candice LeRae,wrs_candice-lerae_7a2621f0,7,,Jordynne Grace,133.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Jordynne Grace,wrs_jordynne-grace_cc91d1c3,8,,Lash Legend,887.0,3.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Becky Lynch,wrs_becky-lynch_e5e4d4e9,9,,Nattie,455.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Sol Ruca,wrs_sol-ruca_f46377dd,10,,Tiffany Stratton,3047.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Roxanne Perez,wrs_roxanne-perez_ab37d5d5,11,,Rhea Ripley,1332.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Maxxine Dupri,wrs_maxxine-dupri_a7dc1f4d,12,,Becky Lynch,167.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Nattie,wrs_nattie_94437f6c,13,,Liv Morgan,1381.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Liv Morgan,wrs_liv-morgan_2964892d,14,,Winner,2630.0,3.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Lash Legend,wrs_lash-legend_366f9bc5,15,,Rhea Ripley,2326.0,5.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Zelina,wrs_zelina_b7b5b691,16,,Giulia,654.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Raquel Rodriguez,wrs_raquel-rodriguez_4f0c8311,17,,Liv Morgan,2129.0,2.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Chelsea Green,wrs_chelsea-green_3196e65e,18,,Rhea Ripley,515.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Giulia,wrs_giulia_db252b61,19,,Lyra Valkyria,915.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Iyo Sky,wrs_iyo-sky_67261377,20,,Lash Legend,1651.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Asuka,wrs_asuka_c598a07f,21,,Kairi Sane,876.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Rhea Ripley,wrs_rhea-ripley_4c9f4aeb,22,,Raquel Rodriguez,1540.0,3.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Bayley,wrs_bayley_d63f5bff,23,,Nikki Bella,982.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Jacy Jayne,wrs_jacy-jayne_e5d87be8,24,,Sol Ruca,971.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Nikki Bella,wrs_nikki-bella_723b3769,25,,Lash Legend,842.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Lyra Valkyria,wrs_lyra-valkyria_3285f820,26,,Brie Bella,644.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Kelani Jordan,wrs_kelani-jordan_7c6c3924,27,,Jacy Jayne,562.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Kairi Sane,wrs_kairi-sane_57f454d7,28,,Iyo Sky,96.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Brie Bella,wrs_brie-bella_81b3ea4e,29,,Lash Legend,410.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Tiffany Stratton,wrs_tiffany-stratton_18d3711b,30,,Liv Morgan,768.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Oba Femi,wrs_oba-femi_50336068,1,,Brock Lesnar,2344.0,5.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Bron Breakker,wrs_bron-breakker_5988b1d1,2,,Oba Femi,10.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Solo Sikoa,wrs_solo-sikoa_64b11af3,3,,Oba Femi,231.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Rey Mysterio,wrs_rey-mysterio_a2fc3ae4,4,,Oba Femi,163.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Rusev,wrs_rusev_9305db53,5,,Oba Femi,32.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Matt Cardona,wrs_matt-cardona_315b0fe1,6,,Oba Femi,55.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Damian Priest,wrs_damian-priest_164df978,7,,Royce Keys,666.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Je'Von Evans,wrs_je-von-evans_0a70cea5,8,,Randy Orton,2458.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Mr. Iguana,wrs_mr-iguana_43dfb0cb,9,,Trick Williams,125.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Trick Williams,wrs_trick-williams_802483a4,10,,Cody Rhodes,379.0,2.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Cody Rhodes,wrs_cody-rhodes_085203c7,11,,Drew McIntyre [ a ],2210.0,3.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,El Grande Americano,wrs_el-grande-americano_35019828,12,,"""The Original"" El Grande Americano",165.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,"""The Original"" El Grande Americano",wrs_the-original-el-grande-americano_1a7d3e65,13,,Trick Williams,81.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Royce Keys,wrs_royce-keys_800e74b2,14,,Bronson Reed,595.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Austin Theory,wrs_austin-theory_b303d8ad,15,,LA Knight,608.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Bronson Reed,wrs_bronson-reed_182c1aa3,16,,LA Knight,542.0,2.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Ilja Dragunov,wrs_ilja-dragunov_356997bb,17,,Brock Lesnar,660.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,La Parka,wrs_la-parka_51bdbc00,18,,Austin Theory,266.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Dragon Lee,wrs_dragon-lee_f0f3720c,19,,Bronson Reed,181.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Logan Paul,wrs_logan-paul_602ea247,20,,Roman Reigns,1507.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,LA Knight,wrs_la-knight_8b1a4bb3,21,,Cody Rhodes,865.0,3.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Brock Lesnar,wrs_brock-lesnar_b573ebb0,22,,Cody Rhodes and LA Knight,332.0,3.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,The Miz,wrs_the-miz_88d52981,23,,Roman Reigns,425.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Rey Fenix,wrs_rey-fenix_6c428074,24,,Brock Lesnar,28.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Jey Uso,wrs_jey-uso_adc98921,25,,Roman Reigns,788.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Roman Reigns,wrs_roman-reigns_6e31eab3,26,,Winner,948.0,5.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Jacob Fatu,wrs_jacob-fatu_79545f89,27,,Roman Reigns,541.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Penta,wrs_penta_d0908e2a,28,,Gunther,361.0,0.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Randy Orton,wrs_randy-orton_b1eaaa85,29,,Gunther,460.0,1.0,False,False
+mtc_3895e2c7fd87_3,evt_20260131_royal-rumble_2c19fbf220,Gunther,wrs_gunther_c9d8f39e,30,,Roman Reigns,471.0,2.0,False,False

@@ -1,0 +1,12 @@
+{
+  "generated_at": "2026-11-08T15:14:56.355521Z",
+  "events": 424,
+  "matches": 3383,
+  "wrestlers": 2033,
+  "missing_cards": 0,
+  "status_counts": {
+    "success": 419,
+    "skipped_announced": 5
+  },
+  "mitb_cash_in_linked": 33
+}

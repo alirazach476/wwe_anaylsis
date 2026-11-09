@@ -1,0 +1,552 @@
+# Expandable event-series registry for WWE major events (PPV / PLE / eligible specials).
+# Newly discovered historical series should be added here; collectors consult this file.
+# Matching is case-insensitive substring / regex against normalized event names.
+
+meta:
+  version: 1
+  notes: >
+    Registry drives series assignment and coverage audits. It does not invent events.
+    Exclusion rules in eligibility.yaml remove weekly TV, NXT TakeOver, house shows.
+
+series:
+  - id: wrestlemania
+    canonical_name: WrestleMania
+    match_patterns: ["^wrestlemania", "^wrestlemania\\s"]
+    event_type: ple
+    active: true
+
+  - id: royal_rumble
+    canonical_name: Royal Rumble
+    match_patterns: ["^royal rumble"]
+    event_type: ple
+    active: true
+    special_data: royal_rumble
+
+  - id: summerslam
+    canonical_name: SummerSlam
+    match_patterns: ["^summerslam"]
+    event_type: ple
+    active: true
+
+  - id: survivor_series
+    canonical_name: Survivor Series
+    match_patterns: ["^survivor series"]
+    event_type: ple
+    active: true
+    special_data: survivor_series
+
+  - id: money_in_the_bank
+    canonical_name: Money in the Bank
+    match_patterns: ["^money in the bank"]
+    event_type: ple
+    active: true
+    special_data: money_in_the_bank
+
+  - id: elimination_chamber
+    canonical_name: Elimination Chamber
+    match_patterns: ["^elimination chamber"]
+    event_type: ple
+    active: true
+    special_data: elimination_chamber
+
+  - id: backlash
+    canonical_name: Backlash
+    match_patterns: ["^backlash"]
+    event_type: ple
+    active: true
+
+  - id: crown_jewel
+    canonical_name: Crown Jewel
+    match_patterns: ["^crown jewel"]
+    event_type: ple
+    active: true
+
+  - id: wrestlepalooza
+    canonical_name: Wrestlepalooza
+    match_patterns: ["^wrestlepalooza"]
+    event_type: ple
+    active: true
+
+  - id: clash_at_the_castle
+    canonical_name: Clash at the Castle
+    match_patterns: ["^clash at the castle"]
+    event_type: ple
+    active: true
+
+  - id: clash_in_paris
+    canonical_name: Clash in Paris
+    match_patterns: ["^clash in paris"]
+    event_type: ple
+    active: true
+
+  - id: clash_in_italy
+    canonical_name: Clash in Italy
+    match_patterns: ["^clash in italy"]
+    event_type: ple
+    active: true
+
+  - id: bash_in_berlin
+    canonical_name: Bash in Berlin
+    match_patterns: ["^bash in berlin"]
+    event_type: ple
+    active: true
+
+  - id: saturday_nights_main_event
+    canonical_name: Saturday Night's Main Event
+    match_patterns: ["saturday night.?s main event", "^snme"]
+    event_type: special
+    active: true
+
+  - id: no_mercy
+    canonical_name: No Mercy
+    match_patterns: ["^no mercy"]
+    event_type: ple
+    active: false
+
+  - id: no_way_out
+    canonical_name: No Way Out
+    match_patterns: ["^no way out"]
+    event_type: ple
+    active: false
+
+  - id: armageddon
+    canonical_name: Armageddon
+    match_patterns: ["^armageddon"]
+    event_type: ple
+    active: false
+
+  - id: judgment_day
+    canonical_name: Judgment Day
+    match_patterns: ["^judgment day"]
+    event_type: ple
+    active: false
+
+  - id: unforgiven
+    canonical_name: Unforgiven
+    match_patterns: ["^unforgiven"]
+    event_type: ple
+    active: false
+
+  - id: king_of_the_ring
+    canonical_name: King of the Ring
+    match_patterns: ["^king of the ring"]
+    event_type: ple
+    active: true
+
+  - id: vengeance
+    canonical_name: Vengeance
+    match_patterns: ["^vengeance"]
+    event_type: ple
+    active: false
+
+  - id: night_of_champions
+    canonical_name: Night of Champions
+    match_patterns: ["^night of champions"]
+    event_type: ple
+    active: true
+
+  - id: bad_blood
+    canonical_name: Bad Blood
+    match_patterns: ["^bad blood"]
+    event_type: ple
+    active: false
+
+  - id: fastlane
+    canonical_name: Fastlane
+    match_patterns: ["^fastlane"]
+    event_type: ple
+    active: false
+
+  - id: payback
+    canonical_name: Payback
+    match_patterns: ["^payback"]
+    event_type: ple
+    active: false
+
+  - id: extreme_rules
+    canonical_name: Extreme Rules
+    match_patterns: ["^extreme rules", "horror show at extreme rules"]
+    event_type: ple
+    active: false
+
+  - id: tlc
+    canonical_name: TLC
+    match_patterns: ["^tlc", "tables.? ladders.? (&|and) chairs"]
+    event_type: ple
+    active: false
+
+  - id: hell_in_a_cell
+    canonical_name: Hell in a Cell
+    match_patterns: ["^hell in a cell"]
+    event_type: ple
+    active: false
+
+  - id: great_american_bash
+    canonical_name: The Great American Bash
+    match_patterns: ["great american bash", "^the bash$"]
+    event_type: ple
+    active: false
+
+  - id: one_night_stand
+    canonical_name: One Night Stand
+    match_patterns: ["one night stand"]
+    event_type: ple
+    active: false
+
+  - id: in_your_house
+    canonical_name: In Your House
+    match_patterns: ["^in your house"]
+    event_type: ppv
+    active: false
+
+  - id: insurrecttion
+    canonical_name: Insurrextion
+    match_patterns: ["^insurrextion"]
+    event_type: ppv
+    active: false
+
+  - id: rebellion
+    canonical_name: Rebellion
+    match_patterns: ["^rebellion"]
+    event_type: ppv
+    active: false
+
+  - id: evolution
+    canonical_name: Evolution
+    match_patterns: ["^evolution"]
+    event_type: ple
+    active: false
+
+  - id: greatest_royal_rumble
+    canonical_name: Greatest Royal Rumble
+    match_patterns: ["^greatest royal rumble"]
+    event_type: special
+    active: false
+    special_data: royal_rumble
+
+  - id: super_showdown
+    canonical_name: Super ShowDown
+    match_patterns: ["^super showdown", "^super show-down"]
+    event_type: special
+    active: false
+
+  - id: clash_of_champions
+    canonical_name: Clash of Champions
+    match_patterns: ["^clash of champions"]
+    event_type: ple
+    active: false
+
+  - id: battleground
+    canonical_name: Battleground
+    match_patterns: ["^battleground"]
+    event_type: ple
+    active: false
+
+  - id: bragging_rights
+    canonical_name: Bragging Rights
+    match_patterns: ["^bragging rights"]
+    event_type: ple
+    active: false
+
+  - id: cyber_sunday
+    canonical_name: Cyber Sunday
+    match_patterns: ["^cyber sunday"]
+    event_type: ple
+    active: false
+
+  - id: taboo_tuesday
+    canonical_name: Taboo Tuesday
+    match_patterns: ["^taboo tuesday"]
+    event_type: ple
+    active: false
+
+  - id: fully_loaded
+    canonical_name: Fully Loaded
+    match_patterns: ["^fully loaded"]
+    event_type: ple
+    active: false
+
+  - id: breaking_point
+    canonical_name: Breaking Point
+    match_patterns: ["^breaking point"]
+    event_type: ple
+    active: false
+
+  - id: capitol_punishment
+    canonical_name: Capitol Punishment
+    match_patterns: ["^capitol punishment"]
+    event_type: ple
+    active: false
+
+  - id: over_the_limit
+    canonical_name: Over the Limit
+    match_patterns: ["^over the limit"]
+    event_type: ple
+    active: false
+
+  - id: starrcade
+    canonical_name: Starrcade
+    match_patterns: ["^starrcade"]
+    event_type: special
+    active: false
+
+  - id: roadblock
+    canonical_name: Roadblock
+    match_patterns: ["^roadblock"]
+    event_type: ple
+    active: false
+
+  - id: new_years_revolution
+    canonical_name: New Year's Revolution
+    match_patterns: ["new year.?s revolution", "^day 1$"]
+    event_type: ple
+    active: false
+
+  - id: tribute_to_the_troops
+    canonical_name: Tribute to the Troops
+    match_patterns: ["tribute to the troops"]
+    event_type: special
+    active: false
+
+  - id: december_to_dismember
+    canonical_name: December to Dismember
+    match_patterns: ["^december to dismember"]
+    event_type: ple
+    active: false
+
+  - id: fatal_4_way
+    canonical_name: Fatal 4-Way
+    match_patterns: ["^fatal 4-way", "^fatal four-way"]
+    event_type: ple
+    active: false
+
+  - id: night_of_champions_vengeance
+    canonical_name: "Vengeance: Night of Champions"
+    match_patterns: ["vengeance:? night of champions"]
+    event_type: ple
+    active: false
+
+  - id: wrestlemania_revenge
+    canonical_name: WrestleMania Revenge Tour
+    match_patterns: ["wrestlemania revenge"]
+    event_type: special
+    active: false
+
+  - id: raw_30
+    canonical_name: Raw 30
+    match_patterns: ["^raw 30$"]
+    event_type: special
+    active: false
+
+  - id: smash
+    # Placeholder for newly discovered series — expand registry rather than hardcoding.
+    canonical_name: Other / Unclassified Eligible
+    match_patterns: []
+    event_type: other
+    active: false
+    is_fallback: true
+
+  - id: hiac_war_games
+    canonical_name: Survivor Series WarGames
+    match_patterns: ["wargames", "war games"]
+    event_type: ple
+    active: true
+    notes: Usually branded under Survivor Series; pattern aids detection
+
+  - id: money_in_the_bank_ladder
+    # Alias helper only; primary series is money_in_the_bank
+    canonical_name: Money in the Bank
+    match_patterns: []
+    event_type: ple
+    active: true
+    alias_of: money_in_the_bank
+
+  - id: saudi_cup
+    canonical_name: Crown Jewel / Saudi Special
+    match_patterns: []
+    event_type: special
+    active: false
+
+  - id: world_tour
+    canonical_name: World Tour / International Special
+    match_patterns: ["^wwe live", "world cup"]
+    event_type: special
+    active: false
+
+  - id: next_big_thing
+    # Reserved for discovery pipeline to register unknown series names
+    canonical_name: Discovery Candidate
+    match_patterns: []
+    event_type: other
+    active: false
+    discovery_bucket: true
+
+  - id: backlash_france
+    canonical_name: Backlash
+    match_patterns: ["backlash france", "backlash: france"]
+    event_type: ple
+    active: true
+    alias_of: backlash
+
+  - id: summerslam_paris
+    canonical_name: SummerSlam
+    match_patterns: []
+    event_type: ple
+    active: true
+    alias_of: summerslam
+
+  - id: raw_is_xxx
+    # Exclude via eligibility — listed so discovery can classify then drop
+    canonical_name: Raw special (review)
+    match_patterns: []
+    event_type: special
+    active: false
+
+  - id: smackdown_special
+    canonical_name: SmackDown special (review)
+    match_patterns: []
+    event_type: special
+    active: false
+
+  - id: ecw_one_night_stand
+    canonical_name: ECW One Night Stand
+    match_patterns: ["^ecw one night stand"]
+    event_type: ple
+    active: false
+    alias_of: one_night_stand
+
+  - id: wwecw_december
+    canonical_name: December to Dismember
+    match_patterns: []
+    event_type: ple
+    active: false
+    alias_of: december_to_dismember
+
+  - id: money_in_the_bank_all_star
+    canonical_name: Money in the Bank
+    match_patterns: []
+    event_type: ple
+    active: true
+    alias_of: money_in_the_bank
+
+  - id: wrestlemania_access
+    # Not eligible — kept for classification only
+    canonical_name: WrestleMania Access (exclude)
+    match_patterns: ["wrestlemania access"]
+    event_type: other
+    active: false
+
+  - id: sunday_nights_main_event
+    canonical_name: Sunday Night's Main Event
+    match_patterns: ["sunday night.?s main event"]
+    event_type: special
+    active: true
+
+  - id: saturday_night_main_event_cena
+    canonical_name: Saturday Night's Main Event
+    match_patterns: ["john cena.?s final match", "cena.?s farewell"]
+    event_type: special
+    active: true
+    alias_of: saturday_nights_main_event
+
+  - id: the_bash
+    canonical_name: The Bash
+    match_patterns: ["^the bash$"]
+    event_type: ple
+    active: false
+    alias_of: great_american_bash
+
+  - id: for_your_consideration
+    # Discovery: any unmatched eligible event gets series=unclassified_eligible
+    canonical_name: Unclassified Eligible
+    match_patterns: []
+    event_type: other
+    active: true
+    is_fallback: true
+
+  - id: invasion
+    canonical_name: Invasion
+    match_patterns: ["^invasion$", "^wwe.?wcw.?ecw.?invasion", "^the invasion"]
+    event_type: ppv
+    active: false
+
+  - id: stomping_grounds
+    canonical_name: Stomping Grounds
+    match_patterns: ["^stomping grounds"]
+    event_type: ple
+    active: false
+
+  - id: great_balls_of_fire
+    canonical_name: Great Balls of Fire
+    match_patterns: ["^great balls of fire"]
+    event_type: ple
+    active: false
+
+  - id: halftime_heat
+    canonical_name: Halftime Heat
+    match_patterns: ["^halftime heat"]
+    event_type: special
+    active: false
+
+  - id: king_and_queen_of_the_ring
+    canonical_name: King and Queen of the Ring
+    match_patterns: ["^king and queen of the ring"]
+    event_type: ple
+    active: true
+
+  - id: superstar_spectacle
+    canonical_name: Superstar Spectacle
+    match_patterns: ["^superstar spectacle"]
+    event_type: special
+    active: false
+
+  - id: live_from_msg
+    canonical_name: Live from Madison Square Garden
+    match_patterns: ["^live from madison square garden"]
+    event_type: special
+    active: false
+
+  - id: smackville
+    canonical_name: Smackville
+    match_patterns: ["^smackville"]
+    event_type: special
+    active: false
+
+  - id: day_1
+    canonical_name: Day 1
+    match_patterns: ["^day 1$"]
+    event_type: ple
+    active: false
+    notes: "Also matched historically under New Year's Revolution alias patterns"
+
+  - id: the_bash_series
+    canonical_name: The Bash
+    match_patterns: ["^the bash$"]
+    event_type: ple
+    active: false
+    alias_of: great_american_bash
+
+  - id: great_american_bash_alias
+    canonical_name: Great American Bash
+    match_patterns: ["^great american bash"]
+    event_type: ple
+    active: false
+    alias_of: great_american_bash
+
+  - id: beast_in_the_east
+    canonical_name: The Beast in the East
+    match_patterns: ["beast in the east"]
+    event_type: special
+    active: false
+
+  - id: shields_final_chapter
+    canonical_name: The Shield's Final Chapter
+    match_patterns: ["shield.?s final chapter"]
+    event_type: special
+    active: false
+
+  - id: wwe_vs_ecw
+    canonical_name: WWE vs. ECW Head-to-Head
+    match_patterns: ["wwe vs.?\\s*ecw"]
+    event_type: special
+    active: false

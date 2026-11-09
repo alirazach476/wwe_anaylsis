@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 96" role="img" aria-label="WWE">
+  <title>WWE</title>
+  <!-- High-contrast scratch mark for dark UI -->
+  <rect width="128" height="96" rx="14" fill="#111114"/>
+  <path fill="#F5F5F5" d="M18 22 L34 70 L44 42 L54 70 L70 22 L62 22 L52 56 L44 34 L36 56 L26 22 Z"/>
+  <path fill="#F5F5F5" d="M58 22 L74 70 L84 42 L94 70 L110 22 L102 22 L92 56 L84 34 L76 56 L66 22 Z"/>
+  <path fill="#E11D2E" d="M22 78 C48 70, 80 70, 108 78 L104 86 C78 78, 50 78, 26 86 Z"/>
+</svg>

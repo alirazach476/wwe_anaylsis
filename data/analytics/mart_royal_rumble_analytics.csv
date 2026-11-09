@@ -1,0 +1,1156 @@
+fact_id,match_key,event_key,wrestler_key,entry_number,elimination_order,eliminated_by,time_in_match_seconds,eliminations_made,is_winner,is_final_four,canonical_name,event_name,event_year,event_date
+1,6,1,595,1,3.0,Rikishi,368.0,0.0,False,0,D'Lo Brown,Royal Rumble,2000,2000-01-23
+2,6,1,788,2,4.0,07:42,,,False,0,Grand Master Sexay,Royal Rumble,2000,2000-01-23
+3,6,1,1216,3,1.0,03:37,,,False,0,Mosh,Royal Rumble,2000,2000-01-23
+4,6,1,558,4,2.0,02:08,,,False,0,Christian,Royal Rumble,2000,2000-01-23
+5,6,1,1380,5,8.0,"Big Boss Man, Bob Backlund, Edge, Gangrel, Test & The British Bulldog",983.0,7.0,False,0,Rikishi,Royal Rumble,2000,2000-01-23
+6,6,1,1477,6,5.0,Rikishi,62.0,0.0,False,0,Scotty 2 Hotty,Royal Rumble,2000,2000-01-23
+7,6,1,1571,7,6.0,00:44,,,False,0,Steve Blackman,Royal Rumble,2000,2000-01-23
+8,6,1,1906,8,7.0,01:25,,,False,0,Viscera,Royal Rumble,2000,2000-01-23
+9,6,1,397,9,15.0,The Rock,1367.0,3.0,False,0,Big Boss Man,Royal Rumble,2000,2000-01-23
+10,6,1,1665,10,17.0,Big Show,1577.0,1.0,False,0,Test,Royal Rumble,2000,2000-01-23
+11,6,1,1692,11,13.0,Road Dogg,922.0,1.0,False,0,The British Bulldog,Royal Rumble,2000,2000-01-23
+12,6,1,768,12,18.0,Big Show,1399.0,1.0,False,0,Gangrel,Royal Rumble,2000,2000-01-23
+13,6,1,697,13,14.0,Al Snow & Val Venis,888.0,1.0,False,0,Edge,Royal Rumble,2000,2000-01-23
+14,6,1,430,14,9.0,Chris Jericho,120.0,1.0,False,0,Bob Backlund,Royal Rumble,2000,2000-01-23
+15,6,1,542,15,10.0,Chyna,227.0,1.0,False,0,Chris Jericho,Royal Rumble,2000,2000-01-23
+16,6,1,584,16,16.0,The Rock,894.0,0.0,False,0,Crash Holly,Royal Rumble,2000,2000-01-23
+17,6,1,573,17,11.0,Big Boss Man,38.0,1.0,False,0,Chyna,Royal Rumble,2000,2000-01-23
+18,6,1,740,18,12.0,00:18,,,False,0,Faarooq,Royal Rumble,2000,2000-01-23
+19,6,1,1385,19,25.0,Billy Gunn,1142.0,2.0,False,0,Road Dogg,Royal Rumble,2000,2000-01-23
+20,6,1,41,20,24.0,The Rock,1037.0,2.0,False,0,Al Snow,Royal Rumble,2000,2000-01-23
+21,6,1,1889,21,20.0,Kane,707.0,1.0,False,0,Val Venis,Royal Rumble,2000,2000-01-23
+22,6,1,1308,22,21.0,11:23,,,False,0,Prince Albert,Royal Rumble,2000,2000-01-23
+23,6,1,799,23,22.0,Al Snow,708.0,0.0,False,0,Hardcore Holly,Royal Rumble,2000,2000-01-23
+24,6,1,1770,24,,Winner,887.0,4.0,True,0,The Rock,Royal Rumble,2000,2000-01-23
+25,6,1,421,25,26.0,Kane,578.0,2.0,False,0,Billy Gunn,Royal Rumble,2000,2000-01-23
+26,6,1,407,26,29.0,The Rock,672.0,4.0,False,1,Big Show,Royal Rumble,2000,2000-01-23
+27,6,1,442,27,19.0,Billy Gunn & Road Dogg,25.0,0.0,False,0,Bradshaw,Royal Rumble,2000,2000-01-23
+28,6,1,990,28,27.0,X-Pac,371.0,3.0,False,1,Kane,Royal Rumble,2000,2000-01-23
+29,6,1,1707,29,23.0,Big Show [1],92.0,0.0,False,0,The Godfather,Royal Rumble,2000,2000-01-23
+30,6,1,2011,30,28.0,03:32,,,False,1,X-Pac,Royal Rumble,2000,2000-01-23
+31,129,15,889,1,4.0,Matt Hardy,396.0,3.0,False,0,Jeff Hardy,Royal Rumble,2001,2001-01-21
+32,129,15,480,2,1.0,Jeff Hardy & Matt Hardy,128.0,0.0,False,0,Bull Buchanan,Royal Rumble,2001,2001-01-21
+33,129,15,1150,3,3.0,Jeff Hardy,285.0,3.0,False,0,Matt Hardy,Royal Rumble,2001,2001-01-21
+34,129,15,740,4,2.0,Jeff Hardy & Matt Hardy,58.0,0.0,False,0,Faarooq,Royal Rumble,2001,2001-01-21
+35,129,15,679,5,5.0,Himself,174.0,1.0,False,0,Drew Carey,Royal Rumble,2001,2001-01-21
+36,129,15,990,6,29.0,"""Stone Cold"" Steve Austin",3226.0,11.0,False,1,Kane,Royal Rumble,2001,2001-01-21
+37,129,15,1332,7,9.0,Kane,531.0,0.0,False,0,Raven,Royal Rumble,2001,2001-01-21
+38,129,15,41,8,8.0,07:08,,,False,0,Al Snow,Royal Rumble,2001,2001-01-21
+39,129,15,1294,9,10.0,05:02,,,False,0,Perry Saturn,Royal Rumble,2001,2001-01-21
+40,129,15,1571,10,7.0,03:08,,,False,0,Steve Blackman,Royal Rumble,2001,2001-01-21
+41,129,15,788,11,6.0,01:03,,,False,0,Grand Master Sexay,Royal Rumble,2001,2001-01-21
+42,129,15,1725,12,11.0,01:16,,,False,0,The Honky Tonk Man,Royal Rumble,2001,2001-01-21
+43,129,15,1770,13,28.0,38:42,,,False,1,The Rock,Royal Rumble,2001,2001-01-21
+44,129,15,1708,14,12.0,The Rock,13.0,0.0,False,0,The Goodfather,Royal Rumble,2001,2001-01-21
+45,129,15,1604,15,13.0,Kane,10.0,0.0,False,0,Tazz,Royal Rumble,2001,2001-01-21
+46,129,15,442,16,18.0,The Undertaker,1060.0,0.0,False,0,Bradshaw,Royal Rumble,2001,2001-01-21
+47,129,15,45,17,20.0,Kane,953.0,0.0,False,0,Albert,Royal Rumble,2001,2001-01-21
+48,129,15,799,18,21.0,The Undertaker,844.0,0.0,False,0,Hardcore Holly,Royal Rumble,2001,2001-01-21
+49,129,15,979,19,16.0,Big Show,473.0,0.0,False,0,K-Kwik,Royal Rumble,2001,2001-01-21
+50,129,15,1889,20,22.0,The Undertaker,622.0,0.0,False,0,Val Venis,Royal Rumble,2001,2001-01-21
+51,129,15,1916,21,14.0,Test,121.0,0.0,False,0,William Regal,Royal Rumble,2001,2001-01-21
+52,129,15,1665,22,15.0,Big Show,128.0,1.0,False,0,Test,Royal Rumble,2001,2001-01-21
+53,129,15,407,23,17.0,The Rock,83.0,2.0,False,0,Big Show,Royal Rumble,2001,2001-01-21
+54,129,15,584,24,19.0,Kane,151.0,0.0,False,0,Crash Holly,Royal Rumble,2001,2001-01-21
+55,129,15,1783,25,25.0,Rikishi,645.0,4.0,False,0,The Undertaker,Royal Rumble,2001,2001-01-21
+56,129,15,1477,26,23.0,Kane & The Undertaker,47.0,0.0,False,0,Scotty 2 Hotty,Royal Rumble,2001,2001-01-21
+57,129,15,1580,27,,Winner,578.0,3.0,True,0,Stone Cold Steve Austin,Royal Rumble,2001,2001-01-21
+58,129,15,421,28,27.0,"""Stone Cold"" Steve Austin",442.0,0.0,False,1,Billy Gunn,Royal Rumble,2001,2001-01-21
+59,129,15,796,29,24.0,02:51,,,False,0,Haku,Royal Rumble,2001,2001-01-21
+60,129,15,1380,30,26.0,The Rock,155.0,1.0,False,0,Rikishi,Royal Rumble,2001,2001-01-21
+61,254,29,1380,1,6.0,The Undertaker,819.0,1.0,False,0,Rikishi,Royal Rumble,2002,2002-01-20
+62,254,29,782,2,4.0,12:52,,,False,0,Goldust,Royal Rumble,2002,2002-01-20
+63,254,29,397,3,1.0,Rikishi,185.0,0.0,False,0,Big Boss Man,Royal Rumble,2002,2002-01-20
+64,254,29,442,4,3.0,Billy,437.0,0.0,False,0,Bradshaw,Royal Rumble,2002,2002-01-20
+65,254,29,1072,5,2.0,Al Snow,286.0,0.0,False,0,Lance Storm,Royal Rumble,2002,2002-01-20
+66,254,29,41,6,5.0,The Undertaker,312.0,1.0,False,0,Al Snow,Royal Rumble,2002,2002-01-20
+67,254,29,420,7,7.0,03:37,,,False,0,Billy,Royal Rumble,2002,2002-01-20
+68,254,29,1783,8,10.0,Maven,460.0,7.0,False,0,The Undertaker,Royal Rumble,2002,2002-01-20
+69,254,29,1150,9,9.0,The Undertaker,256.0,0.0,False,0,Matt Hardy,Royal Rumble,2002,2002-01-20
+70,254,29,889,10,8.0,The Undertaker,90.0,0.0,False,0,Jeff Hardy,Royal Rumble,2002,2002-01-20
+71,254,29,1163,11,11.0,The Undertaker [1],214.0,1.0,False,0,Maven,Royal Rumble,2002,2002-01-20
+72,254,29,1477,12,12.0,Diamond Dallas Page,156.0,0.0,False,0,Scotty 2 Hotty,Royal Rumble,2002,2002-01-20
+73,254,29,558,13,16.0,"""Stone Cold"" Steve Austin",734.0,3.0,False,0,Christian,Royal Rumble,2002,2002-01-20
+74,254,29,649,14,13.0,Christian,315.0,1.0,False,0,Diamond Dallas Page,Royal Rumble,2002,2002-01-20
+75,254,29,569,15,17.0,"""Stone Cold"" Steve Austin",544.0,2.0,False,0,Chuck,Royal Rumble,2002,2002-01-20
+76,254,29,1707,16,15.0,Chuck and Christian,108.0,0.0,False,0,The Godfather,Royal Rumble,2002,2002-01-20
+77,254,29,45,17,14.0,Chuck and Christian,48.0,0.0,False,0,Albert,Royal Rumble,2002,2002-01-20
+78,254,29,1294,18,18.0,"""Stone Cold"" Steve Austin",177.0,0.0,False,0,Perry Saturn,Royal Rumble,2002,2002-01-20
+79,254,29,4,19,27.0,Kurt Angle & Mr. Perfect,1606.0,7.0,False,1,"""Stone Cold"" Steve Austin",Royal Rumble,2002,2002-01-20
+80,254,29,1889,20,19.0,"""Stone Cold"" Steve Austin",178.0,0.0,False,0,Val Venis,Royal Rumble,2002,2002-01-20
+81,254,29,1665,21,20.0,01:42,,,False,0,Test,Royal Rumble,2002,2002-01-20
+82,254,29,1845,22,,Winner,1394.0,4.0,True,0,Triple H,Royal Rumble,2002,2002-01-20
+83,254,29,1726,23,21.0,"""Stone Cold"" Steve Austin & Triple H",39.0,0.0,False,0,The Hurricane,Royal Rumble,2002,2002-01-20
+84,254,29,740,24,22.0,Triple H,36.0,0.0,False,0,Faarooq,Royal Rumble,2002,2002-01-20
+85,254,29,1225,25,28.0,15:18,,,False,1,Mr. Perfect,Royal Rumble,2002,2002-01-20
+86,254,29,1054,26,29.0,16:09,,,False,1,Kurt Angle,Royal Rumble,2002,2002-01-20
+87,254,29,407,27,23.0,Kane,165.0,0.0,False,0,Big Show,Royal Rumble,2002,2002-01-20
+88,254,29,990,28,24.0,Kurt Angle,62.0,1.0,False,0,Kane,Royal Rumble,2002,2002-01-20
+89,254,29,1391,29,25.0,Booker T,132.0,0.0,False,0,Rob Van Dam,Royal Rumble,2002,2002-01-20
+90,254,29,438,30,26.0,"""Stone Cold"" Steve Austin [2]",33.0,1.0,False,0,Booker T,Royal Rumble,2002,2002-01-20
+91,373,43,1508,1,1.0,Chris Jericho,125.0,0.0,False,0,Shawn Michaels,Royal Rumble,2003,2003-01-19
+92,373,43,542,2,14.0,Test,2340.0,6.0,False,0,Chris Jericho,Royal Rumble,2003,2003-01-19
+93,373,43,566,3,2.0,Rey Mysterio,277.0,0.0,False,0,Christopher Nowinski,Royal Rumble,2003,2003-01-19
+94,373,43,1346,4,3.0,Chris Jericho,355.0,1.0,False,0,Rey Mysterio,Royal Rumble,2003,2003-01-19
+95,373,43,697,5,10.0,11:00,,,False,0,Edge,Royal Rumble,2003,2003-01-19
+96,373,43,558,6,9.0,Chris Jericho,543.0,1.0,False,0,Christian,Royal Rumble,2003,2003-01-19
+97,373,43,527,7,8.0,Edge,430.0,0.0,False,0,Chavo Guerrero,Royal Rumble,2003,2003-01-19
+98,373,43,1592,8,6.0,Chris Jericho,281.0,0.0,False,0,Tajiri,Royal Rumble,2003,2003-01-19
+99,373,43,418,9,4.0,Edge,133.0,0.0,False,0,Bill DeMott,Royal Rumble,2003,2003-01-19
+100,373,43,1826,10,5.0,Chris Jericho & Christian,48.0,0.0,False,0,Tommy Dreamer,Royal Rumble,2003,2003-01-19
+101,373,43,363,11,7.0,Edge,24.0,0.0,False,0,B-2,Royal Rumble,2003,2003-01-19
+102,373,43,1391,12,26.0,Kane,1980.0,2.0,False,0,Rob Van Dam,Royal Rumble,2003,2003-01-19
+103,373,43,1150,13,21.0,Brock Lesnar,1633.0,0.0,False,0,Matt Hardy,Royal Rumble,2003,2003-01-19
+104,373,43,693,14,13.0,Booker T,989.0,0.0,False,0,Eddie Guerrero,Royal Rumble,2003,2003-01-19
+105,373,43,889,15,11.0,Rob Van Dam,446.0,0.0,False,0,Jeff Hardy,Royal Rumble,2003,2003-01-19
+106,373,43,1427,16,12.0,Kane,616.0,0.0,False,0,Rosey,Royal Rumble,2003,2003-01-19
+107,373,43,1665,17,17.0,Batista,1125.0,1.0,False,0,Test,Royal Rumble,2003,2003-01-19
+108,373,43,940,18,22.0,The Undertaker,1185.0,0.0,False,0,John Cena,Royal Rumble,2003,2003-01-19
+109,373,43,516,19,19.0,Brock Lesnar,1036.0,2.0,False,0,Charlie Haas,Royal Rumble,2003,2003-01-19
+110,373,43,1380,20,18.0,Batista,895.0,0.0,False,0,Rikishi,Royal Rumble,2003,2003-01-19
+111,373,43,863,21,23.0,The Undertaker,967.0,0.0,False,0,Jamal,Royal Rumble,2003,2003-01-19
+112,373,43,990,22,28.0,20:24,,,False,1,Kane,Royal Rumble,2003,2003-01-19
+113,373,43,1523,23,20.0,Brock Lesnar,654.0,2.0,False,0,Shelton Benjamin,Royal Rumble,2003,2003-01-19
+114,373,43,438,24,16.0,Charlie Haas & Shelton Benjamin,380.0,1.0,False,0,Booker T,Royal Rumble,2003,2003-01-19
+115,373,43,19,25,25.0,Kane & Rob Van Dam,660.0,0.0,False,0,A-Train,Royal Rumble,2003,2003-01-19
+116,373,43,1163,26,24.0,The Undertaker,499.0,0.0,False,0,Maven,Royal Rumble,2003,2003-01-19
+117,373,43,782,27,15.0,Charlie Haas & Shelton Benjamin,47.0,0.0,False,0,Goldust,Royal Rumble,2003,2003-01-19
+118,373,43,374,28,27.0,The Undertaker,595.0,2.0,False,1,Batista,Royal Rumble,2003,2003-01-19
+119,373,43,459,29,,Winner,540.0,4.0,True,0,Brock Lesnar,Royal Rumble,2003,2003-01-19
+120,373,43,1783,30,29.0,Brock Lesnar,405.0,5.0,False,1,The Undertaker,Royal Rumble,2003,2003-01-19
+121,493,56,1054,1,,Guerrero,2054.0,6.0,False,0,Kurt Angle,Royal Rumble,2004,2004-01-25
+122,493,56,1360,2,,Angle,839.0,0.0,False,0,Rhyno,Royal Rumble,2004,2004-01-25
+123,493,56,516,3,,Guerrero,1254.0,1.0,False,0,Charlie Haas,Royal Rumble,2004,2004-01-25
+124,493,56,1523,4,,Angle,1169.0,0.0,False,0,Shelton Benjamin,Royal Rumble,2004,2004-01-25
+125,493,56,442,5,,Big Show,419.0,0.0,False,0,Bradshaw,Royal Rumble,2004,2004-01-25
+126,493,56,725,6,,Angle,42.0,0.0,False,0,Ernest Miller,Royal Rumble,2004,2004-01-25
+127,493,56,1592,7,,Big Show,226.0,0.0,False,0,Tajiri,Royal Rumble,2004,2004-01-25
+128,493,56,421,8,,Guerrero,895.0,1.0,False,0,Billy Gunn,Royal Rumble,2004,2004-01-25
+129,493,56,407,9,,"Angle, Gunn, Guerrero, Haas, Holly, Rikishi, Cena",562.0,3.0,False,0,Big Show,Royal Rumble,2004,2004-01-25
+130,493,56,940,10,,Big Show,369.0,2.0,False,0,John Cena,Royal Rumble,2004,2004-01-25
+131,493,56,1269,11,,Cena,52.0,0.0,False,0,Nunzio,Royal Rumble,2004,2004-01-25
+132,493,56,19,12,,Guerrero,163.0,0.0,False,0,A-Train,Royal Rumble,2004,2004-01-25
+133,493,56,693,13,,Winner,1064.0,6.0,True,0,Eddie Guerrero,Royal Rumble,2004,2004-01-25
+134,493,56,1380,14,,Guerrero and Angle,497.0,1.0,False,0,Rikishi,Royal Rumble,2004,2004-01-25
+135,493,56,799,15,,Angle,240.0,1.0,False,0,Hardcore Holly,Royal Rumble,2004,2004-01-25
+136,493,56,538,1,,Winner,,6.0,True,0,Chris Benoit,Royal Rumble,2004,2004-01-25
+137,493,56,1317,2,19.0,Mick Foley,2024.0,5.0,False,0,Randy Orton,Royal Rumble,2004,2004-01-25
+138,493,56,1135,3,3.0,Chris Benoit,314.0,1.0,False,0,Mark Henry,Royal Rumble,2004,2004-01-25
+139,493,56,1592,4,2.0,Rhyno,219.0,0.0,False,0,Tajiri,Royal Rumble,2004,2004-01-25
+140,493,56,442,5,1.0,Chris Benoit,38.0,0.0,False,0,Bradshaw,Royal Rumble,2004,2004-01-25
+141,493,56,1360,6,8.0,14:00,,,False,0,Rhyno,Royal Rumble,2004,2004-01-25
+142,493,56,1150,7,9.0,René Duprée,858.0,0.0,False,0,Matt Hardy,Royal Rumble,2004,2004-01-25
+143,493,56,1476,8,5.0,Booker T,409.0,0.0,False,0,Scott Steiner,Royal Rumble,2004,2004-01-25
+144,493,56,1159,9,11.0,Chris Benoit,734.0,1.0,False,0,Matt Morgan,Royal Rumble,2004,2004-01-25
+145,493,56,1726,10,4.0,Matt Morgan,19.0,0.0,False,0,The Hurricane,Royal Rumble,2004,2004-01-25
+146,493,56,438,11,13.0,Randy Orton,551.0,2.0,False,0,Booker T,Royal Rumble,2004,2004-01-25
+147,493,56,990,12,6.0,Booker T,100.0,0.0,False,0,Kane,Royal Rumble,2004,2004-01-25
+148,493,56,1560,13,7.0,Unable to compete,0.0,0.0,False,0,Spike Dudley [ b ],Royal Rumble,2004,2004-01-25
+149,493,56,1380,14,12.0,Randy Orton,228.0,1.0,False,0,Rikishi,Royal Rumble,2004,2004-01-25
+150,493,56,1339,15,10.0,Rikishi,33.0,1.0,False,0,René Duprée,Royal Rumble,2004,2004-01-25
+151,493,56,19,16,14.0,Chris Benoit,104.0,0.0,False,0,A-Train,Royal Rumble,2004,2004-01-25
+152,493,56,1523,17,15.0,Randy Orton,37.0,0.0,False,0,Shelton Benjamin,Royal Rumble,2004,2004-01-25
+153,493,56,725,18,16.0,00:56,,,False,0,Ernest Miller,Royal Rumble,2004,2004-01-25
+154,493,56,1054,19,28.0,Big Show,1744.0,1.0,False,1,Kurt Angle,Royal Rumble,2004,2004-01-25
+155,493,56,1370,20,17.0,Randy Orton,66.0,0.0,False,0,Rico,Royal Rumble,2004,2004-01-25
+156,493,56,1183,21,18.0,Himself,43.0,2.0,False,0,Mick Foley,Royal Rumble,2004,2004-01-25
+157,493,56,558,22,20.0,Chris Jericho,459.0,0.0,False,0,Christian,Royal Rumble,2004,2004-01-25
+158,493,56,1269,23,23.0,Goldberg,228.0,0.0,False,0,Nunzio,Royal Rumble,2004,2004-01-25
+159,493,56,407,24,29.0,Chris Benoit,1358.0,4.0,False,1,Big Show,Royal Rumble,2004,2004-01-25
+160,493,56,542,25,27.0,Big Show,898.0,1.0,False,1,Chris Jericho,Royal Rumble,2004,2004-01-25
+161,493,56,516,26,21.0,Goldberg and Rob Van Dam,413.0,0.0,False,0,Charlie Haas,Royal Rumble,2004,2004-01-25
+162,493,56,421,27,22.0,Goldberg,337.0,0.0,False,0,Billy Gunn,Royal Rumble,2004,2004-01-25
+163,493,56,940,28,25.0,Big Show,457.0,0.0,False,0,John Cena,Royal Rumble,2004,2004-01-25
+164,493,56,1391,29,26.0,Big Show,408.0,1.0,False,0,Rob Van Dam,Royal Rumble,2004,2004-01-25
+165,493,56,780,30,24.0,Kurt Angle,124.0,3.0,False,0,Goldberg,Royal Rumble,2004,2004-01-25
+166,627,72,693,1,11.0,Edge,1691.0,3.0,False,0,Eddie Guerrero,Royal Rumble,2005,2005-01-30
+167,627,72,538,2,25.0,Batista & Ric Flair,2846.0,3.0,False,0,Chris Benoit,Royal Rumble,2005,2005-01-30
+168,627,72,630,3,1.0,Hardcore Holly,249.0,0.0,False,0,Daniel Puder,Royal Rumble,2005,2005-01-30
+169,627,72,799,4,2.0,Chris Benoit & Eddie Guerrero,119.0,1.0,False,0,Hardcore Holly,Royal Rumble,2005,2005-01-30
+170,627,72,1726,5,3.0,Chris Benoit & Eddie Guerrero,64.0,0.0,False,0,The Hurricane,Royal Rumble,2005,2005-01-30
+171,627,72,1017,6,4.0,Rey Mysterio,211.0,0.0,False,0,Kenzo Suzuki,Royal Rumble,2005,2005-01-30
+172,627,72,697,7,28.0,Batista & John Cena,2419.0,5.0,False,1,Edge,Royal Rumble,2005,2005-01-30
+173,627,72,1346,8,27.0,Edge,2305.0,2.0,False,1,Rey Mysterio,Royal Rumble,2005,2005-01-30
+174,627,72,1523,9,10.0,Edge,875.0,1.0,False,0,Shelton Benjamin,Royal Rumble,2005,2005-01-30
+175,627,72,438,10,9.0,Rey Mysterio & Eddie Guerrero,642.0,3.0,False,0,Booker T,Royal Rumble,2005,2005-01-30
+176,627,72,542,11,21.0,Batista,1702.0,2.0,False,0,Chris Jericho,Royal Rumble,2005,2005-01-30
+177,627,72,1116,12,7.0,Booker T,433.0,1.0,False,0,Luther Reigns,Royal Rumble,2005,2005-01-30
+178,627,72,1226,13,5.0,"Booker T, Chris Benoit, Chris Jericho, Edge, Luther Reigns & Shelton Benjamin",54.0,0.0,False,0,Muhammad Hassan,Royal Rumble,2005,2005-01-30
+179,627,72,1279,14,8.0,Booker T,216.0,0.0,False,0,Orlando Jordan,Royal Rumble,2005,2005-01-30
+180,627,72,1477,15,6.0,Unable to compete [1],,0.0,False,0,Scotty 2 Hotty,Royal Rumble,2005,2005-01-30
+181,627,72,516,16,13.0,Shawn Michaels,380.0,0.0,False,0,Charlie Haas,Royal Rumble,2005,2005-01-30
+182,627,72,1339,17,16.0,Chris Jericho,692.0,0.0,False,0,René Duprée,Royal Rumble,2005,2005-01-30
+183,627,72,1538,18,12.0,Shawn Michaels,20.0,0.0,False,0,Simon Dean,Royal Rumble,2005,2005-01-30
+184,627,72,1508,19,15.0,Kurt Angle [2],296.0,3.0,False,0,Shawn Michaels,Royal Rumble,2005,2005-01-30
+185,627,72,1054,20,14.0,Shawn Michaels,37.0,1.0,False,0,Kurt Angle,Royal Rumble,2005,2005-01-30
+186,627,72,963,21,23.0,Ric Flair,828.0,0.0,False,0,Jonathan Coachman,Royal Rumble,2005,2005-01-30
+187,627,72,1142,22,19.0,Kane,495.0,0.0,False,0,Mark Jindrak,Royal Rumble,2005,2005-01-30
+188,627,72,1906,23,17.0,John Cena,180.0,0.0,False,0,Viscera,Royal Rumble,2005,2005-01-30
+189,627,72,1291,24,18.0,Gene Snitsky,195.0,0.0,False,0,Paul London,Royal Rumble,2005,2005-01-30
+190,627,72,940,25,29.0,Batista,928.0,3.0,False,1,John Cena,Royal Rumble,2005,2005-01-30
+191,627,72,770,26,20.0,Batista,218.0,1.0,False,0,Gene Snitsky,Royal Rumble,2005,2005-01-30
+192,627,72,990,27,22.0,John Cena,234.0,1.0,False,0,Kane,Royal Rumble,2005,2005-01-30
+193,627,72,374,28,,Winner,654.0,6.0,True,0,Batista,Royal Rumble,2005,2005-01-30
+194,627,72,558,29,24.0,Batista,129.0,0.0,False,0,Christian,Royal Rumble,2005,2005-01-30
+195,627,72,1364,30,26.0,Edge,118.0,2.0,False,0,Ric Flair,Royal Rumble,2005,2005-01-30
+196,753,88,1845,1,28.0,Rey Mysterio,3616.0,6.0,False,1,Triple H,Royal Rumble,2006,2006-01-29
+197,753,88,1346,2,,Winner,,6.0,True,0,Rey Mysterio,Royal Rumble,2006,2006-01-29
+198,753,88,1538,3,1.0,Rey Mysterio and Triple H,45.0,0.0,False,0,Simon Dean,Royal Rumble,2006,2006-01-29
+199,753,88,1309,4,2.0,Rey Mysterio,75.0,0.0,False,0,Psicosis,Royal Rumble,2006,2006-01-29
+200,753,88,1364,5,3.0,Triple H,80.0,0.0,False,0,Ric Flair,Royal Rumble,2006,2006-01-29
+201,753,88,407,6,7.0,09:02,,,False,0,Big Show,Royal Rumble,2006,2006-01-29
+202,753,88,963,7,4.0,Big Show,30.0,0.0,False,0,Jonathan Coachman,Royal Rumble,2006,2006-01-29
+203,753,88,432,8,6.0,Big Show and Kane,257.0,1.0,False,0,Bobby Lashley,Royal Rumble,2006,2006-01-29
+204,753,88,990,9,8.0,Triple H,213.0,1.0,False,0,Kane,Royal Rumble,2006,2006-01-29
+205,753,88,1587,10,5.0,Bobby Lashley,18.0,0.0,False,0,Sylvan,Royal Rumble,2006,2006-01-29
+206,753,88,493,11,26.0,Rob Van Dam,2309.0,2.0,False,0,Carlito,Royal Rumble,2006,2006-01-29
+207,753,88,538,12,17.0,Randy Orton,1831.0,2.0,False,0,Chris Benoit,Royal Rumble,2006,2006-01-29
+208,753,88,438,13,9.0,Chris Benoit,18.0,0.0,False,0,Booker T,Royal Rumble,2006,2006-01-29
+209,753,88,933,14,22.0,Shawn Michaels and Johnny Nitro,1754.0,1.0,False,0,Joey Mercury,Royal Rumble,2006,2006-01-29
+210,753,88,1602,15,12.0,Joey Mercury and Johnny Nitro,849.0,0.0,False,0,Tatanka,Royal Rumble,2006,2006-01-29
+211,753,88,956,16,23.0,Shawn Michaels,1545.0,2.0,False,0,Johnny Nitro,Royal Rumble,2006,2006-01-29
+212,753,88,1841,17,13.0,Shawn Michaels,821.0,0.0,False,0,Trevor Murdoch,Royal Rumble,2006,2006-01-29
+213,753,88,728,18,15.0,Chris Benoit,985.0,0.0,False,0,Eugene,Royal Rumble,2006,2006-01-29
+214,753,88,1388,19,10.0,Rob Van Dam,169.0,0.0,False,0,Road Warrior Animal,Royal Rumble,2006,2006-01-29
+215,753,88,1391,20,27.0,Triple H and Rey Mysterio,1432.0,4.0,False,1,Rob Van Dam,Royal Rumble,2006,2006-01-29
+216,753,88,1279,21,21.0,Randy Orton,969.0,0.0,False,0,Orlando Jordan,Royal Rumble,2006,2006-01-29
+217,753,88,527,22,11.0,Triple H,59.0,0.0,False,0,Chavo Guerrero,Royal Rumble,2006,2006-01-29
+218,753,88,1150,23,14.0,Viscera,462.0,0.0,False,0,Matt Hardy,Royal Rumble,2006,2006-01-29
+219,753,88,1583,24,16.0,Rey Mysterio and Rob Van Dam,460.0,0.0,False,0,Super Crazy,Royal Rumble,2006,2006-01-29
+220,753,88,1508,25,25.0,Shane McMahon **,775.0,4.0,False,0,Shawn Michaels,Royal Rumble,2006,2006-01-29
+221,753,88,555,26,19.0,Carlito,421.0,1.0,False,0,Chris Masters,Royal Rumble,2006,2006-01-29
+222,753,88,1906,27,18.0,Carlito & Chris Masters,320.0,1.0,False,0,Viscera,Royal Rumble,2006,2006-01-29
+223,753,88,1523,28,24.0,Shawn Michaels,411.0,0.0,False,0,Shelton Benjamin,Royal Rumble,2006,2006-01-29
+224,753,88,782,29,20.0,Rob Van Dam,189.0,0.0,False,0,Goldust,Royal Rumble,2006,2006-01-29
+225,753,88,1317,30,29.0,Rey Mysterio,784.0,2.0,False,1,Randy Orton,Royal Rumble,2006,2006-01-29
+226,905,108,1364,1,1.0,Edge,340.0,0.0,False,0,Ric Flair,Royal Rumble,2007,2007-01-28
+227,905,108,756,2,12.0,Shawn Michaels,1952.0,0.0,False,0,Finlay,Royal Rumble,2007,2007-01-28
+228,905,108,1016,3,2.0,Edge,245.0,0.0,False,0,Kenny Dykstra,Royal Rumble,2007,2007-01-28
+229,905,108,1150,4,9.0,Randy Orton,1135.0,0.0,False,0,Matt Hardy,Royal Rumble,2007,2007-01-28
+230,905,108,697,5,28.0,Shawn Michaels,2642.0,5.0,False,1,Edge,Royal Rumble,2007,2007-01-28
+231,905,108,1826,6,3.0,Kane,401.0,0.0,False,0,Tommy Dreamer,Royal Rumble,2007,2007-01-28
+232,905,108,1445,7,4.0,05:27,,,False,0,Sabu,Royal Rumble,2007,2007-01-28
+233,905,108,790,8,5.0,King Booker,410.0,0.0,False,0,Gregory Helms,Royal Rumble,2007,2007-01-28
+234,905,108,1523,9,14.0,Shawn Michaels,1342.0,1.0,False,0,Shelton Benjamin,Royal Rumble,2007,2007-01-28
+235,905,108,996,10,11.0,King Booker 4,801.0,3.0,False,0,Kane 1,Royal Rumble,2007,2007-01-28
+236,905,108,575,11,22.0,The Great Khali,1636.0,1.0,False,0,CM Punk,Royal Rumble,2007,2007-01-28
+237,905,108,1033,12,10.0,Kane,563.0,3.0,False,0,King Booker,Royal Rumble,2007,2007-01-28
+238,905,108,1583,13,7.0,Edge and Randy Orton,272.0,0.0,False,0,Super Crazy,Royal Rumble,2007,2007-01-28
+239,905,108,889,14,8.0,Edge,218.0,0.0,False,0,Jeff Hardy,Royal Rumble,2007,2007-01-28
+240,905,108,1775,15,6.0,King Booker,13.0,0.0,False,0,The Sandman,Royal Rumble,2007,2007-01-28
+241,905,108,1317,16,27.0,Shawn Michaels,1634.0,2.0,False,1,Randy Orton,Royal Rumble,2007,2007-01-28
+242,905,108,538,17,19.0,The Great Khali,1072.0,3.0,False,0,Chris Benoit,Royal Rumble,2007,2007-01-28
+243,905,108,1391,18,21.0,The Great Khali,990.0,2.0,False,0,Rob Van Dam,Royal Rumble,2007,2007-01-28
+244,905,108,1906,19,13.0,"Chris Benoit, CM Punk, Edge, Hardcore Holly, Johnny Nitro, Kevin Thorn, Rob Van Dam, Shawn Michaels, and Shelton Benjamin 2",382.0,0.0,False,0,Viscera,Royal Rumble,2007,2007-01-28
+245,905,108,956,20,15.0,Chris Benoit,378.0,1.0,False,0,Johnny Nitro,Royal Rumble,2007,2007-01-28
+246,905,108,1028,21,16.0,Chris Benoit,375.0,1.0,False,0,Kevin Thorn,Royal Rumble,2007,2007-01-28
+247,905,108,799,22,18.0,The Great Khali,621.0,1.0,False,0,Hardcore Holly,Royal Rumble,2007,2007-01-28
+248,905,108,1508,23,29.0,The Undertaker,1451.0,5.0,False,1,Shawn Michaels,Royal Rumble,2007,2007-01-28
+249,905,108,555,24,17.0,Rob Van Dam,212.0,0.0,False,0,Chris Masters,Royal Rumble,2007,2007-01-28
+250,905,108,527,25,24.0,The Great Khali,384.0,0.0,False,0,Chavo Guerrero,Royal Rumble,2007,2007-01-28
+251,905,108,1208,26,26.0,The Undertaker,451.0,0.0,False,0,Montel Vontavious Porter,Royal Rumble,2007,2007-01-28
+252,905,108,493,27,23.0,The Great Khali,199.0,0.0,False,0,Carlito,Royal Rumble,2007,2007-01-28
+253,905,108,1711,28,25.0,The Undertaker,225.0,7.0,False,0,The Great Khali,Royal Rumble,2007,2007-01-28
+254,905,108,1743,29,20.0,The Great Khali,7.0,0.0,False,0,The Miz,Royal Rumble,2007,2007-01-28
+255,905,108,1783,30,,Winner 3,795.0,3.0,False,0,The Undertaker,Royal Rumble,2007,2007-01-28
+256,1046,125,1783,1,11.0,Shawn Michaels,1953.0,3.0,False,0,The Undertaker,Royal Rumble,2008,2008-01-27
+257,1046,125,1508,2,12.0,Mr. Kennedy,1959.0,2.0,False,0,Shawn Michaels,Royal Rumble,2008,2008-01-27
+258,1046,125,1459,3,1.0,The Undertaker,25.0,0.0,False,0,Santino Marella,Royal Rumble,2008,2008-01-27
+259,1046,125,1711,4,2.0,The Undertaker,69.0,0.0,False,0,The Great Khali,Royal Rumble,2008,2008-01-27
+260,1046,125,799,5,6.0,Umaga,826.0,0.0,False,0,Hardcore Holly,Royal Rumble,2008,2008-01-27
+261,1046,125,948,6,14.0,Kane,1763.0,0.0,False,0,John Morrison,Royal Rumble,2008,2008-01-27
+262,1046,125,1826,7,3.0,Batista,129.0,0.0,False,0,Tommy Dreamer,Royal Rumble,2008,2008-01-27
+263,1046,125,374,8,28.0,Triple H,2266.0,4.0,False,1,Batista,Royal Rumble,2008,2008-01-27
+264,1046,125,809,9,16.0,Never re-entered match [1],1577.0,1.0,False,0,Hornswoggle,Royal Rumble,2008,2008-01-27
+265,1046,125,572,10,5.0,CM Punk,240.0,1.0,False,0,Chuck Palumbo,Royal Rumble,2008,2008-01-27
+266,1046,125,867,11,4.0,Chuck Palumbo,28.0,0.0,False,0,Jamie Noble,Royal Rumble,2008,2008-01-27
+267,1046,125,575,12,17.0,Chavo Guerrero,1430.0,1.0,False,0,CM Punk,Royal Rumble,2008,2008-01-27
+268,1046,125,580,13,18.0,Triple H,1394.0,0.0,False,0,Cody Rhodes,Royal Rumble,2008,2008-01-27
+269,1046,125,1881,14,26.0,Batista,1565.0,1.0,False,0,Umaga,Royal Rumble,2008,2008-01-27
+270,1046,125,1547,15,10.0,The Undertaker,746.0,0.0,False,0,Snitsky,Royal Rumble,2008,2008-01-27
+271,1046,125,1743,16,13.0,Hornswoggle,787.0,0.0,False,0,The Miz,Royal Rumble,2008,2008-01-27
+272,1046,125,1523,17,7.0,Shawn Michaels,18.0,0.0,False,0,Shelton Benjamin,Royal Rumble,2008,2008-01-27
+273,1046,125,916,18,9.0,Kane,163.0,0.0,False,0,Jimmy Snuka,Royal Rumble,2008,2008-01-27
+274,1046,125,1401,19,8.0,01:00,,,False,0,Roddy Piper,Royal Rumble,2008,2008-01-27
+275,1046,125,990,20,27.0,Batista & Triple H,1078.0,3.0,False,1,Kane,Royal Rumble,2008,2008-01-27
+276,1046,125,493,21,22.0,John Cena,907.0,0.0,False,0,Carlito,Royal Rumble,2008,2008-01-27
+277,1046,125,1183,22,20.0,Triple H,689.0,0.0,False,0,Mick Foley,Royal Rumble,2008,2008-01-27
+278,1046,125,1220,23,25.0,Batista,812.0,1.0,False,0,Mr. Kennedy,Royal Rumble,2008,2008-01-27
+279,1046,125,402,24,19.0,Triple H,469.0,0.0,False,0,Big Daddy V,Royal Rumble,2008,2008-01-27
+280,1046,125,1135,25,24.0,John Cena,552.0,0.0,False,0,Mark Henry,Royal Rumble,2008,2008-01-27
+281,1046,125,527,26,23.0,John Cena,453.0,1.0,False,0,Chavo Guerrero,Royal Rumble,2008,2008-01-27
+282,1046,125,756,27,15.0,Himself [2],0.0,0.0,False,0,Finlay,Royal Rumble,2008,2008-01-27
+283,1046,125,709,28,21.0,Triple H,131.0,0.0,False,0,Elijah Burke,Royal Rumble,2008,2008-01-27
+284,1046,125,1845,29,29.0,John Cena,682.0,6.0,False,1,Triple H,Royal Rumble,2008,2008-01-27
+285,1046,125,940,30,,Winner,508.0,4.0,True,0,John Cena,Royal Rumble,2008,2008-01-27
+286,1163,141,1346,1,,Big Show,2966.0,1.0,False,0,Rey Mysterio,Royal Rumble,2009,2009-01-25
+287,1163,141,948,2,,Triple H,1175.0,0.0,False,0,John Morrison,Royal Rumble,2009,2009-01-25
+288,1163,141,493,3,,Vladimir Kozlov,371.0,0.0,False,0,Carlito,Royal Rumble,2009,2009-01-25
+289,1163,141,1208,4,,03:52,,,False,0,Montel Vontavious Porter,Royal Rumble,2009,2009-01-25
+290,1163,141,1711,5,,01:30,,,False,0,The Great Khali,Royal Rumble,2009,2009-01-25
+291,1163,141,1908,6,,Triple H,160.0,3.0,False,0,Vladimir Kozlov,Royal Rumble,2009,2009-01-25
+292,1163,141,1845,7,,Randy Orton,3000.0,6.0,False,0,Triple H,Royal Rumble,2009,2009-01-25
+293,1163,141,1317,8,,Winner,2910.0,3.0,True,0,Randy Orton,Royal Rumble,2009,2009-01-25
+294,1163,141,967,9,,The Undertaker,719.0,0.0,False,0,JTG,Royal Rumble,2009,2009-01-25
+295,1163,141,1656,10,,Triple H,2711.0,1.0,False,0,Ted DiBiase Jr.,Royal Rumble,2009,2009-01-25
+296,1163,141,542,11,,The Undertaker,2237.0,1.0,False,0,Chris Jericho,Royal Rumble,2009,2009-01-25
+297,1163,141,1197,12,,Big Show,1962.0,0.0,False,0,Mike Knox,Royal Rumble,2009,2009-01-25
+298,1163,141,1743,13,,Triple H,81.0,0.0,False,0,The Miz,Royal Rumble,2009,2009-01-25
+299,1163,141,756,14,,Kane,1800.0,0.0,False,0,Finlay,Royal Rumble,2009,2009-01-25
+300,1163,141,580,15,,Triple H,2221.0,2.0,False,0,Cody Rhodes,Royal Rumble,2009,2009-01-25
+301,1163,141,1783,16,,Big Show 1,2010.0,4.0,False,0,The Undertaker,Royal Rumble,2009,2009-01-25
+302,1163,141,782,17,,Cody Rhodes,71.0,0.0,False,0,Goldust,Royal Rumble,2009,2009-01-25
+303,1163,141,575,18,,Big Show,1349.0,1.0,False,0,CM Punk,Royal Rumble,2009,2009-01-25
+304,1163,141,1135,19,,The Undertaker & Rey Mysterio,194.0,0.0,False,0,Mark Henry,Royal Rumble,2009,2009-01-25
+305,1163,141,1523,20,,The Undertaker,257.0,0.0,False,0,Shelton Benjamin,Royal Rumble,2009,2009-01-25
+306,1163,141,1916,21,,CM Punk,263.0,0.0,False,0,William Regal,Royal Rumble,2009,2009-01-25
+307,1163,141,1041,22,,The Brian Kendrick,418.0,0.0,False,0,Kofi Kingston,Royal Rumble,2009,2009-01-25
+308,1163,141,990,23,,"Cody Rhodes, Randy Orton & Ted DiBiase",1101.0,3.0,False,0,Kane,Royal Rumble,2009,2009-01-25
+309,1163,141,1312,24,,Big Show,726.0,0.0,False,0,R-Truth,Royal Rumble,2009,2009-01-25
+310,1163,141,1391,25,,Chris Jericho,840.0,0.0,False,0,Rob Van Dam,Royal Rumble,2009,2009-01-25
+311,1163,141,1691,26,,Triple H,15.0,1.0,False,0,The Brian Kendrick,Royal Rumble,2009,2009-01-25
+312,1163,141,657,27,,Kane,21.0,0.0,False,0,Dolph Ziggler,Royal Rumble,2009,2009-01-25
+313,1163,141,1459,28,,00:01,,,False,0,Santino Marella,Royal Rumble,2009,2009-01-25
+314,1163,141,912,29,,Big Show,170.0,0.0,False,0,Jim Duggan,Royal Rumble,2009,2009-01-25
+315,1163,141,407,30,,Randy Orton,572.0,6.0,False,0,Big Show,Royal Rumble,2009,2009-01-25
+316,1282,156,657,1,,CM Punk,149.0,0.0,False,0,Dolph Ziggler,Royal Rumble,2010,2010-01-31
+317,1282,156,732,2,,CM Punk,146.0,0.0,False,0,Evan Bourne,Royal Rumble,2010,2010-01-31
+318,1282,156,575,3,,Triple H,604.0,5.0,False,0,CM Punk,Royal Rumble,2010,2010-01-31
+319,1282,156,967,4,,00:25,,,False,0,JTG,Royal Rumble,2010,2010-01-31
+320,1282,156,1711,5,,01:37,,,False,0,The Great Khali,Royal Rumble,2010,2010-01-31
+321,1282,156,392,6,,01:39,,,False,0,Beth Phoenix,Royal Rumble,2010,2010-01-31
+322,1282,156,2028,7,,CM Punk,32.0,0.0,False,0,Zack Ryder,Royal Rumble,2010,2010-01-31
+323,1282,156,1845,8,,Shawn Michaels,1075.0,3.0,False,0,Triple H,Royal Rumble,2010,2010-01-31
+324,1282,156,681,9,,Shawn Michaels & Triple H,883.0,0.0,False,0,Drew McIntyre,Royal Rumble,2010,2010-01-31
+325,1282,156,1652,10,,Shawn Michaels,820.0,0.0,False,0,Ted DiBiase,Royal Rumble,2010,2010-01-31
+326,1282,156,948,11,,Shawn Michaels,697.0,0.0,False,0,John Morrison,Royal Rumble,2010,2010-01-31
+327,1282,156,990,12,,08:59,,,False,0,Kane,Royal Rumble,2010,2010-01-31
+328,1282,156,580,13,,Shawn Michaels,534.0,0.0,False,0,Cody Rhodes,Royal Rumble,2010,2010-01-31
+329,1282,156,1208,14,,00:07,,,False,0,Montel Vontavious Porter,Royal Rumble,2010,2010-01-31
+330,1282,156,493,15,,05:09,,,False,0,Carlito,Royal Rumble,2010,2010-01-31
+331,1282,156,1743,16,,00:17,,,False,0,The Miz,Royal Rumble,2010,2010-01-31
+332,1282,156,1150,17,,Kane,20.0,0.0,False,0,Matt Hardy,Royal Rumble,2010,2010-01-31
+333,1282,156,1508,18,,Batista,1425.0,6.0,False,0,Shawn Michaels,Royal Rumble,2010,2010-01-31
+334,1282,156,940,19,,Edge,1631.0,4.0,False,0,John Cena,Royal Rumble,2010,2010-01-31
+335,1282,156,1523,20,,John Cena,48.0,0.0,False,0,Shelton Benjamin,Royal Rumble,2010,2010-01-31
+336,1282,156,2023,21,,0,,,False,0,Yoshi Tatsu,Royal Rumble,2010,2010-01-31
+337,1282,156,407,22,,R-Truth,304.0,1.0,False,0,Big Show,Royal Rumble,2010,2010-01-31
+338,1282,156,1135,23,,0,,,False,0,Mark Henry,Royal Rumble,2010,2010-01-31
+339,1282,156,555,24,,00:29,,,False,0,Chris Masters,Royal Rumble,2010,2010-01-31
+340,1282,156,1312,25,,Kofi Kingston,262.0,2.0,False,0,R-Truth,Royal Rumble,2010,2010-01-31
+341,1282,156,848,26,,Kofi Kingston,126.0,0.0,False,0,Jack Swagger,Royal Rumble,2010,2010-01-31
+342,1282,156,1041,27,,03:09,,,False,0,Kofi Kingston,Royal Rumble,2010,2010-01-31
+343,1282,156,542,28,,Edge,144.0,0.0,False,0,Chris Jericho,Royal Rumble,2010,2010-01-31
+344,1282,156,697,29,,Winner,457.0,2.0,True,0,Edge,Royal Rumble,2010,2010-01-31
+345,1282,156,374,30,,John Cena,324.0,1.0,False,0,Batista,Royal Rumble,2010,2010-01-31
+346,1401,170,575,1,,John Cena,2121.0,7.0,False,0,CM Punk,Royal Rumble,2011,2011-01-30
+347,1401,170,624,2,,CM Punk,1255.0,2.0,False,0,Daniel Bryan,Royal Rumble,2011,2011-01-30
+348,1401,170,974,3,,Daniel Bryan,58.0,0.0,False,0,Justin Gabriel,Royal Rumble,2011,2011-01-30
+349,1401,170,2028,4,,Daniel Bryan,43.0,0.0,False,0,Zack Ryder,Royal Rumble,2011,2011-01-30
+350,1401,170,1916,5,,Ted DiBiase,250.0,0.0,False,0,William Regal,Royal Rumble,2011,2011-01-30
+351,1401,170,1652,6,,"Michael McGillicutty, Husky Harris",736.0,1.0,False,0,Ted DiBiase,Royal Rumble,2011,2011-01-30
+352,1401,170,948,7,,"CM Punk, David Otunga, Michael McGillicutty, Husky Harris",804.0,0.0,False,0,John Morrison,Royal Rumble,2011,2011-01-30
+353,1401,170,2023,8,,Mark Henry,335.0,0.0,False,0,Yoshi Tatsu,Royal Rumble,2011,2011-01-30
+354,1401,170,817,9,,The Great Khali,948.0,3.0,False,0,Husky Harris,Royal Rumble,2011,2011-01-30
+355,1401,170,527,10,,Mark Henry,121.0,0.0,False,0,Chavo Guerrero,Royal Rumble,2011,2011-01-30
+356,1401,170,1135,11,,"CM Punk, David Otunga, Michael McGillicutty, Husky Harris",424.0,2.0,False,0,Mark Henry,Royal Rumble,2011,2011-01-30
+357,1401,170,967,12,,Michael McGillicutty,108.0,0.0,False,0,JTG,Royal Rumble,2011,2011-01-30
+358,1401,170,1175,13,,John Cena,907.0,4.0,False,0,Michael McGillicutty,Royal Rumble,2011,2011-01-30
+359,1401,170,555,14,,CM Punk,118.0,0.0,False,0,Chris Masters,Royal Rumble,2011,2011-01-30
+360,1401,170,639,15,,John Cena,716.0,2.0,False,0,David Otunga,Royal Rumble,2011,2011-01-30
+361,1401,170,1872,16,,CM Punk,34.0,0.0,False,0,Tyler Reks,Royal Rumble,2011,2011-01-30
+362,1401,170,1908,17,,CM Punk,40.0,0.0,False,0,Vladimir Kozlov,Royal Rumble,2011,2011-01-30
+363,1401,170,1312,18,,CM Punk,62.0,0.0,False,0,R-Truth,Royal Rumble,2011,2011-01-30
+364,1401,170,1711,19,,Mason Ryan,77.0,1.0,False,0,The Great Khali,Royal Rumble,2011,2011-01-30
+365,1401,170,1148,20,,John Cena,272.0,2.0,False,0,Mason Ryan,Royal Rumble,2011,2011-01-30
+366,1401,170,438,21,,Mason Ryan,68.0,0.0,False,0,Booker T,Royal Rumble,2011,2011-01-30
+367,1401,170,940,22,,The Miz 1,2057.0,7.0,False,0,John Cena,Royal Rumble,2011,2011-01-30
+368,1401,170,809,23,,Sheamus,579.0,0.0,False,0,Hornswoggle,Royal Rumble,2011,2011-01-30
+369,1401,170,1875,24,,John Cena,53.0,0.0,False,0,Tyson Kidd,Royal Rumble,2011,2011-01-30
+370,1401,170,803,25,,John Cena,57.0,0.0,False,0,Heath Slater,Royal Rumble,2011,2011-01-30
+371,1401,170,1041,26,,Randy Orton,1564.0,1.0,False,0,Kofi Kingston,Royal Rumble,2011,2011-01-30
+372,1401,170,848,27,,Rey Mysterio,281.0,0.0,False,0,Jack Swagger,Royal Rumble,2011,2011-01-30
+373,1401,170,1519,28,,Randy Orton,1249.0,1.0,False,0,Sheamus,Royal Rumble,2011,2011-01-30
+374,1401,170,1346,29,,Wade Barrett,1354.0,2.0,False,0,Rey Mysterio,Royal Rumble,2011,2011-01-30
+375,1401,170,1911,30,,Randy Orton,1283.0,2.0,False,0,Wade Barrett,Royal Rumble,2011,2011-01-30
+376,1401,170,657,31,,Big Show,432.0,0.0,False,0,Dolph Ziggler,Royal Rumble,2011,2011-01-30
+377,1401,170,652,32,,Wade Barrett,165.0,0.0,False,0,Diesel,Royal Rumble,2011,2011-01-30
+378,1401,170,681,33,,Big Show,286.0,0.0,False,0,Drew McIntyre,Royal Rumble,2011,2011-01-30
+379,1401,170,53,34,,"John Cena, Kofi Kingston",170.0,0.0,False,0,Alex Riley,Royal Rumble,2011,2011-01-30
+380,1401,170,407,35,,Ezekiel Jackson,90.0,2.0,False,0,Big Show,Royal Rumble,2011,2011-01-30
+381,1401,170,738,36,,Kane,434.0,1.0,False,0,Ezekiel Jackson,Royal Rumble,2011,2011-01-30
+382,1401,170,1459,37,,Alberto Del Rio,774.0,0.0,False,0,Santino Marella,Royal Rumble,2011,2011-01-30
+383,1401,170,48,38,,Winner,573.0,2.0,True,0,Alberto Del Rio,Royal Rumble,2011,2011-01-30
+384,1401,170,1317,39,,Alberto Del Rio,498.0,3.0,False,0,Randy Orton,Royal Rumble,2011,2011-01-30
+385,1401,170,990,40,,Rey Mysterio,96.0,1.0,False,0,Kane,Royal Rumble,2011,2011-01-30
+386,1518,184,1743,1,,Big Show,2739.0,2.0,False,0,The Miz,Royal Rumble,2012,2012-01-29
+387,1518,184,53,2,,The Miz,75.0,0.0,False,0,Alex Riley,Royal Rumble,2012,2012-01-29
+388,1518,184,1312,3,,04:57,,,False,0,R-Truth,Royal Rumble,2012,2012-01-29
+389,1518,184,580,4,,Big Show,2515.0,6.0,False,0,Cody Rhodes,Royal Rumble,2012,2012-01-29
+390,1518,184,974,5,,Mick Foley & Ricardo Rodriguez,372.0,0.0,False,0,Justin Gabriel,Royal Rumble,2012,2012-01-29
+391,1518,184,1303,6,,Mick Foley,117.0,0.0,False,0,Primo,Royal Rumble,2012,2012-01-29
+392,1518,184,1183,7,,Cody Rhodes,394.0,3.0,False,0,Mick Foley,Royal Rumble,2012,2012-01-29
+393,1518,184,1365,8,,Santino Marella,139.0,1.0,False,0,Ricardo Rodriguez,Royal Rumble,2012,2012-01-29
+394,1518,184,1459,9,,Cody Rhodes,151.0,1.0,False,0,Santino Marella,Royal Rumble,2012,2012-01-29
+395,1518,184,715,10,,Mick Foley,11.0,0.0,False,0,Epico,Royal Rumble,2012,2012-01-29
+396,1518,184,1041,11,,Sheamus,1075.0,0.0,False,0,Kofi Kingston,Royal Rumble,2012,2012-01-29
+397,1518,184,900,12,,Cody Rhodes,43.0,1.0,False,0,Jerry Lawler,Royal Rumble,2012,2012-01-29
+398,1518,184,738,13,,The Great Khali,226.0,0.0,False,0,Ezekiel Jackson,Royal Rumble,2012,2012-01-29
+399,1518,184,925,14,,01:17,,,False,0,Jinder Mahal,Royal Rumble,2012,2012-01-29
+400,1518,184,1711,15,,Cody Rhodes & Dolph Ziggler,449.0,2.0,False,0,The Great Khali,Royal Rumble,2012,2012-01-29
+401,1518,184,814,16,,Kharma,540.0,0.0,False,0,Hunico,Royal Rumble,2012,2012-01-29
+402,1518,184,438,17,,Cody Rhodes & Dolph Ziggler,280.0,1.0,False,0,Booker T,Royal Rumble,2012,2012-01-29
+403,1518,184,657,18,,Big Show,1186.0,3.0,False,0,Dolph Ziggler,Royal Rumble,2012,2012-01-29
+404,1518,184,912,19,,Cody Rhodes,56.0,0.0,False,0,Jim Duggan,Royal Rumble,2012,2012-01-29
+405,1518,184,1174,20,,Booker T & Jerry Lawler [ a ],83.0,0.0,False,0,Michael Cole,Royal Rumble,2012,2012-01-29
+406,1518,184,1029,21,,Dolph Ziggler,60.0,1.0,False,0,Kharma,Royal Rumble,2012,2012-01-29
+407,1518,184,1519,22,,Winner,1341.0,3.0,True,0,Sheamus,Royal Rumble,2012,2012-01-29
+408,1518,184,1385,23,,Wade Barrett,295.0,0.0,False,0,Road Dogg,Royal Rumble,2012,2012-01-29
+409,1518,184,907,24,,Randy Orton,423.0,0.0,False,0,Jey Uso,Royal Rumble,2012,2012-01-29
+410,1518,184,848,25,,Big Show & Sheamus [ b ],479.0,0.0,False,0,Jack Swagger,Royal Rumble,2012,2012-01-29
+411,1518,184,1911,26,,Randy Orton,235.0,1.0,False,0,Wade Barrett,Royal Rumble,2012,2012-01-29
+412,1518,184,639,27,,Chris Jericho,195.0,0.0,False,0,David Otunga,Royal Rumble,2012,2012-01-29
+413,1518,184,1317,28,,05:46,,,False,0,Randy Orton,Royal Rumble,2012,2012-01-29
+414,1518,184,542,29,,Sheamus,694.0,2.0,False,0,Chris Jericho,Royal Rumble,2012,2012-01-29
+415,1518,184,407,30,,Randy Orton,111.0,4.0,False,0,Big Show,Royal Rumble,2012,2012-01-29
+416,1618,197,657,1,,Sheamus,2987.0,2.0,False,0,Dolph Ziggler,Royal Rumble,2013,2013-01-27
+417,1618,197,542,2,,Dolph Ziggler,2873.0,2.0,False,0,Chris Jericho,Royal Rumble,2013,2013-01-27
+418,1618,197,580,3,,John Cena,1659.0,4.0,False,0,Cody Rhodes,Royal Rumble,2013,2013-01-27
+419,1618,197,1041,4,,Cody Rhodes,1278.0,2.0,False,0,Kofi Kingston,Royal Rumble,2013,2013-01-27
+420,1618,197,1459,5,,00:55,,,False,0,Santino Marella,Royal Rumble,2013,2013-01-27
+421,1618,197,681,6,,Chris Jericho,160.0,0.0,False,0,Drew McIntyre,Royal Rumble,2013,2013-01-27
+422,1618,197,1817,7,,Sheamus,450.0,0.0,False,0,Titus O'Neil,Royal Rumble,2013,2013-01-27
+423,1618,197,782,8,,Cody Rhodes,581.0,0.0,False,0,Goldust,Royal Rumble,2013,2013-01-27
+424,1618,197,639,9,,Sheamus,264.0,0.0,False,0,David Otunga,Royal Rumble,2013,2013-01-27
+425,1618,197,803,10,,John Cena,949.0,1.0,False,0,Heath Slater,Royal Rumble,2013,2013-01-27
+426,1618,197,1519,11,,Ryback,2243.0,5.0,False,0,Sheamus,Royal Rumble,2013,2013-01-27
+427,1618,197,1659,12,,Kofi Kingston,337.0,0.0,False,0,Tensai,Royal Rumble,2013,2013-01-27
+428,1618,197,465,13,,"Chris Jericho, Cody Rhodes, Darren Young, Heath Slater & Sheamus",227.0,0.0,False,0,Brodus Clay,Royal Rumble,2013,2013-01-27
+429,1618,197,1346,14,,Wade Barrett,633.0,0.0,False,0,Rey Mysterio,Royal Rumble,2013,2013-01-27
+430,1618,197,635,15,,Kofi Kingston,171.0,1.0,False,0,Darren Young,Royal Rumble,2013,2013-01-27
+431,1618,197,429,16,,Sin Cara & Wade Barrett 1,1302.0,1.0,False,0,Bo Dallas,Royal Rumble,2013,2013-01-27
+432,1618,197,1707,17,,Dolph Ziggler,5.0,0.0,False,0,The Godfather,Royal Rumble,2013,2013-01-27
+433,1618,197,1911,18,,Bo Dallas,1234.0,2.0,False,0,Wade Barrett,Royal Rumble,2013,2013-01-27
+434,1618,197,940,19,,Winner,1599.0,4.0,True,0,John Cena,Royal Rumble,2013,2013-01-27
+435,1618,197,619,20,,Ryback,986.0,0.0,False,0,Damien Sandow,Royal Rumble,2013,2013-01-27
+436,1618,197,624,21,,Antonio Cesaro & Kane 2,475.0,2.0,False,0,Daniel Bryan,Royal Rumble,2013,2013-01-27
+437,1618,197,339,22,,John Cena,530.0,1.0,False,0,Antonio Cesaro,Royal Rumble,2013,2013-01-27
+438,1618,197,1711,23,,Daniel Bryan & Kane,188.0,0.0,False,0,The Great Khali,Royal Rumble,2013,2013-01-27
+439,1618,197,990,24,,Daniel Bryan,106.0,2.0,False,0,Kane,Royal Rumble,2013,2013-01-27
+440,1618,197,2028,25,,Randy Orton,154.0,0.0,False,0,Zack Ryder,Royal Rumble,2013,2013-01-27
+441,1618,197,1317,26,,Ryback,620.0,1.0,False,0,Randy Orton,Royal Rumble,2013,2013-01-27
+442,1618,197,925,27,,Sheamus,130.0,0.0,False,0,Jinder Mahal,Royal Rumble,2013,2013-01-27
+443,1618,197,1743,28,,Ryback,308.0,0.0,False,0,The Miz,Royal Rumble,2013,2013-01-27
+444,1618,197,1540,29,,03:27,,,False,0,Sin Cara,Royal Rumble,2013,2013-01-27
+445,1618,197,1440,30,,John Cena,546.0,5.0,False,0,Ryback,Royal Rumble,2013,2013-01-27
+446,1723,210,575,1,,Kane [1],2953.0,3.0,False,0,CM Punk,Royal Rumble,2014,2014-01-26
+447,1723,210,1487,2,,Roman Reigns,2911.0,3.0,False,0,Seth Rollins,Royal Rumble,2014,2014-01-26
+448,1723,210,619,3,,CM Punk,137.0,0.0,False,0,Damien Sandow,Royal Rumble,2014,2014-01-26
+449,1723,210,580,4,,Goldust,1261.0,1.0,False,0,Cody Rhodes,Royal Rumble,2014,2014-01-26
+450,1723,210,990,5,,CM Punk,70.0,1.0,False,0,Kane,Royal Rumble,2014,2014-01-26
+451,1723,210,58,6,,"CM Punk, Cody Rhodes, Kofi Kingston, and Seth Rollins",426.0,0.0,False,0,Alexander Rusev,Royal Rumble,2014,2014-01-26
+452,1723,210,848,7,,Kevin Nash,744.0,0.0,False,0,Jack Swagger,Royal Rumble,2014,2014-01-26
+453,1723,210,1041,8,,Roman Reigns,762.0,1.0,False,0,Kofi Kingston,Royal Rumble,2014,2014-01-26
+454,1723,210,917,9,,Dean Ambrose,473.0,0.0,False,0,Jimmy Uso,Royal Rumble,2014,2014-01-26
+455,1723,210,782,10,,Roman Reigns,720.0,1.0,False,0,Goldust,Royal Rumble,2014,2014-01-26
+456,1723,210,642,11,,33:56,,,False,0,Dean Ambrose,Royal Rumble,2014,2014-01-26
+457,1723,210,657,12,,06:09,,,False,0,Dolph Ziggler,Royal Rumble,2014,2014-01-26
+458,1723,210,1312,13,,Dean Ambrose,36.0,0.0,False,0,R-Truth,Royal Rumble,2014,2014-01-26
+459,1723,210,1021,14,,Roman Reigns,36.0,1.0,False,0,Kevin Nash,Royal Rumble,2014,2014-01-26
+460,1723,210,1409,15,,Batista,2038.0,12.0,False,0,Roman Reigns,Royal Rumble,2014,2014-01-26
+461,1723,210,1711,16,,"The Shield (Roman, Rollins, Ambrose)",53.0,0.0,False,0,The Great Khali,Royal Rumble,2014,2014-01-26
+462,1723,210,1519,17,,Roman Reigns,1702.0,1.0,False,0,Sheamus,Royal Rumble,2014,2014-01-26
+463,1723,210,1743,18,,Luke Harper,729.0,0.0,False,0,The Miz,Royal Rumble,2014,2014-01-26
+464,1723,210,748,19,,El Torito,182.0,0.0,False,0,Fandango,Royal Rumble,2014,2014-01-26
+465,1723,210,706,20,,Roman Reigns,109.0,1.0,False,0,El Torito,Royal Rumble,2014,2014-01-26
+466,1723,210,339,21,,17:16,,,False,0,Antonio Cesaro,Royal Rumble,2014,2014-01-26
+467,1723,210,1113,22,,15:21,,,False,0,Luke Harper,Royal Rumble,2014,2014-01-26
+468,1723,210,907,23,,Luke Harper,272.0,0.0,False,0,Jey Uso,Royal Rumble,2014,2014-01-26
+469,1723,210,935,24,,Roman Reigns,49.0,0.0,False,0,"John ""Bradshaw"" Layfield",Royal Rumble,2014,2014-01-26
+470,1723,210,721,25,,Batista,305.0,0.0,False,0,Erick Rowan,Royal Rumble,2014,2014-01-26
+471,1723,210,1440,26,,04:01,,,False,0,Ryback,Royal Rumble,2014,2014-01-26
+472,1723,210,48,27,,03:00,,,False,0,Alberto Del Rio,Royal Rumble,2014,2014-01-26
+473,1723,210,374,28,,Winner,782.0,4.0,True,0,Batista,Royal Rumble,2014,2014-01-26
+474,1723,210,406,29,,Sheamus,169.0,0.0,False,0,Big E Langston,Royal Rumble,2014,2014-01-26
+475,1723,210,1346,30,,Seth Rollins,130.0,0.0,False,0,Rey Mysterio,Royal Rumble,2014,2014-01-26
+476,1825,223,1743,1,,Bubba Ray Dudley,241.0,0.0,False,0,The Miz,Royal Rumble,2015,2015-01-25
+477,1825,223,1312,2,,04:13,,,False,0,R-Truth,Royal Rumble,2015,2015-01-25
+478,1825,223,477,3,,Bray Wyatt,322.0,2.0,False,0,Bubba Ray Dudley,Royal Rumble,2015,2015-01-25
+479,1825,223,1113,4,,03:42,,,False,0,Luke Harper,Royal Rumble,2015,2015-01-25
+480,1825,223,449,5,,Big Show and Kane,2849.0,7.0,False,0,Bray Wyatt,Royal Rumble,2015,2015-01-25
+481,1825,223,722,6,,Bray Wyatt,50.0,0.0,False,0,Erick Rowan *,Royal Rumble,2015,2015-01-25
+482,1825,223,1688,7,,Bray Wyatt,47.0,0.0,False,0,The Boogeyman,Royal Rumble,2015,2015-01-25
+483,1825,223,1540,8,,00:37,,,False,0,Sin Cara,Royal Rumble,2015,2015-01-25
+484,1825,223,2028,9,,00:34,,,False,0,Zack Ryder,Royal Rumble,2015,2015-01-25
+485,1825,223,624,10,,10:36,,,False,0,Daniel Bryan,Royal Rumble,2015,2015-01-25
+486,1825,223,748,11,,Rusev,470.0,0.0,False,0,Fandango,Royal Rumble,2015,2015-01-25
+487,1825,223,1875,12,,Daniel Bryan,149.0,0.0,False,0,Tyson Kidd,Royal Rumble,2015,2015-01-25
+488,1825,223,1564,13,,Roman Reigns,769.0,0.0,False,0,Stardust,Royal Rumble,2015,2015-01-25
+489,1825,223,649,14,,Rusev,148.0,0.0,False,0,Diamond Dallas Page,Royal Rumble,2015,2015-01-25
+490,1825,223,1433,15,,Roman Reigns,2140.0,6.0,False,0,Rusev,Royal Rumble,2015,2015-01-25
+491,1825,223,782,16,,06:35,,,False,0,Goldust,Royal Rumble,2015,2015-01-25
+492,1825,223,1041,17,,Rusev,184.0,1.0,False,0,Kofi Kingston,Royal Rumble,2015,2015-01-25
+493,1825,223,23,18,,Rusev and Kofi Kingston,61.0,0.0,False,0,Adam Rose,Royal Rumble,2015,2015-01-25
+494,1825,223,1409,19,,Winner,1649.0,6.0,True,0,Roman Reigns,Royal Rumble,2015,2015-01-25
+495,1825,223,404,20,,Rusev,904.0,0.0,False,0,Big E,Royal Rumble,2015,2015-01-25
+496,1825,223,618,21,,00:18,,,False,0,Damien Mizdow,Royal Rumble,2015,2015-01-25
+497,1825,223,848,22,,Big Show,786.0,0.0,False,0,Jack Swagger,Royal Rumble,2015,2015-01-25
+498,1825,223,1440,23,,Big Show and Kane,675.0,0.0,False,0,Ryback,Royal Rumble,2015,2015-01-25
+499,1825,223,990,24,,Roman Reigns,1033.0,4.0,False,0,Kane,Royal Rumble,2015,2015-01-25
+500,1825,223,642,25,,Big Show and Kane,640.0,1.0,False,0,Dean Ambrose,Royal Rumble,2015,2015-01-25
+501,1825,223,1817,26,,Dean Ambrose and Roman Reigns,4.0,0.0,False,0,Titus O'Neil,Royal Rumble,2015,2015-01-25
+502,1825,223,367,27,,Dolph Ziggler,370.0,0.0,False,0,Bad News Barrett,Royal Rumble,2015,2015-01-25
+503,1825,223,506,28,,05:16,,,False,0,Cesaro,Royal Rumble,2015,2015-01-25
+504,1825,223,407,29,,Roman Reigns,519.0,5.0,False,0,Big Show,Royal Rumble,2015,2015-01-25
+505,1825,223,657,30,,Big Show and Kane,149.0,2.0,False,0,Dolph Ziggler,Royal Rumble,2015,2015-01-25
+506,1942,239,1409,1,,Triple H,3588.0,5.0,False,0,Roman Reigns,Royal Rumble,2016,2016-01-24
+507,1942,239,1433,2,,Roman Reigns,,0.0,False,0,Rusev,Royal Rumble,2016,2016-01-24
+508,1942,239,28,3,,Kevin Owens,1738.0,2.0,False,0,AJ Styles,Royal Rumble,2016,2016-01-24
+509,1942,239,1869,4,,Roman Reigns and AJ Styles,78.0,0.0,False,0,Tyler Breeze,Royal Rumble,2016,2016-01-24
+510,1942,239,590,5,,AJ Styles,,0.0,False,0,Curtis Axel,Royal Rumble,2016,2016-01-24
+511,1942,239,542,6,,Dean Ambrose,3080.0,1.0,False,0,Chris Jericho,Royal Rumble,2016,2016-01-24
+512,1942,239,990,7,,Braun Strowman,1147.0,1.0,False,0,Kane,Royal Rumble,2016,2016-01-24
+513,1942,239,782,8,,Titus O'Neil,,0.0,False,0,Goldust,Royal Rumble,2016,2016-01-24
+514,1942,239,1440,9,,Big Show,757.0,0.0,False,0,Ryback,Royal Rumble,2016,2016-01-24
+515,1942,239,1041,10,,Chris Jericho,,0.0,False,0,Kofi Kingston,Royal Rumble,2016,2016-01-24
+516,1942,239,1817,11,,Big Show,,1.0,False,0,Titus O'Neil,Royal Rumble,2016,2016-01-24
+517,1942,239,1312,12,,Kane,,0.0,False,0,R-Truth,Royal Rumble,2016,2016-01-24
+518,1942,239,1113,13,,Brock Lesnar,1456.0,4.0,False,0,Luke Harper,Royal Rumble,2016,2016-01-24
+519,1942,239,1564,14,,Luke Harper,852.0,0.0,False,0,Stardust,Royal Rumble,2016,2016-01-24
+520,1942,239,407,15,,Braun Strowman,,2.0,False,0,Big Show,Royal Rumble,2016,2016-01-24
+521,1942,239,1244,16,,Luke Harper,617.0,0.0,False,0,Neville,Royal Rumble,2016,2016-01-24
+522,1942,239,446,17,,Brock Lesnar,1081.0,5.0,False,0,Braun Strowman,Royal Rumble,2016,2016-01-24
+523,1942,239,1023,18,,Sami Zayn,,1.0,False,0,Kevin Owens,Royal Rumble,2016,2016-01-24
+524,1942,239,642,19,,Triple H,1797.0,1.0,False,0,Dean Ambrose,Royal Rumble,2016,2016-01-24
+525,1942,239,1448,20,,Braun Strowman,,1.0,False,0,Sami Zayn,Royal Rumble,2016,2016-01-24
+526,1942,239,721,21,,Brock Lesnar,,2.0,False,0,Erick Rowan,Royal Rumble,2016,2016-01-24
+527,1942,239,1135,22,,"The Wyatt Family (Braun Strowman, Erick Rowan, and Luke Harper)",,0.0,False,0,Mark Henry,Royal Rumble,2016,2016-01-24
+528,1942,239,459,23,,0 9:31,,,False,0,Brock Lesnar,Royal Rumble,2016,2016-01-24
+529,1942,239,848,24,,Brock Lesnar,,0.0,False,0,Jack Swagger,Royal Rumble,2016,2016-01-24
+530,1942,239,1743,25,,Roman Reigns,,0.0,False,0,The Miz,Royal Rumble,2016,2016-01-24
+531,1942,239,48,26,,0 7:02,,,False,0,Alberto Del Rio,Royal Rumble,2016,2016-01-24
+532,1942,239,449,27,,Sheamus and Triple H,685.0,0.0,False,0,Bray Wyatt,Royal Rumble,2016,2016-01-24
+533,1942,239,657,28,,Triple H,,0.0,False,0,Dolph Ziggler,Royal Rumble,2016,2016-01-24
+534,1942,239,1519,29,,Roman Reigns,,1.0,False,0,Sheamus,Royal Rumble,2016,2016-01-24
+535,1942,239,1845,30,,Winner,,4.0,True,0,Triple H,Royal Rumble,2016,2016-01-24
+536,2092,256,399,1,,Braun Strowman,597.0,0.0,False,0,Big Cass,Royal Rumble,2017,2017-01-29
+537,2092,256,542,2,,Roman Reigns,3613.0,2.0,False,0,Chris Jericho,Royal Rumble,2017,2017-01-29
+538,2092,256,986,3,,Braun Strowman,497.0,0.0,False,0,Kalisto,Royal Rumble,2017,2017-01-29
+539,2092,256,1206,4,,06:16,,,False,0,Mojo Rawley,Royal Rumble,2017,2017-01-29
+540,2092,256,847,5,,Mark Henry,200.0,0.0,False,0,Jack Gallagher,Royal Rumble,2017,2017-01-29
+541,2092,256,1135,6,,Braun Strowman,197.0,1.0,False,0,Mark Henry,Royal Rumble,2017,2017-01-29
+542,2092,256,446,7,,Baron Corbin,791.0,7.0,False,0,Braun Strowman,Royal Rumble,2017,2017-01-29
+543,2092,256,1448,8,,The Undertaker,2815.0,0.0,False,0,Sami Zayn,Royal Rumble,2017,2017-01-29
+544,2092,256,407,9,,Braun Strowman,102.0,0.0,False,0,Big Show,Royal Rumble,2017,2017-01-29
+545,2092,256,1866,10,,Braun Strowman,327.0,0.0,False,0,Tye Dillinger,Royal Rumble,2017,2017-01-29
+546,2092,256,866,11,,Braun Strowman,15.0,0.0,False,0,James Ellsworth,Royal Rumble,2017,2017-01-29
+547,2092,256,642,12,,Brock Lesnar,1615.0,0.0,False,0,Dean Ambrose,Royal Rumble,2017,2017-01-29
+548,2092,256,371,13,,The Undertaker,1959.0,1.0,False,0,Baron Corbin,Royal Rumble,2017,2017-01-29
+549,2092,256,1041,14,,Cesaro & Sheamus,973.0,0.0,False,0,Kofi Kingston,Royal Rumble,2017,2017-01-29
+550,2092,256,1743,15,,The Undertaker,1964.0,0.0,False,0,The Miz,Royal Rumble,2017,2017-01-29
+551,2092,256,1519,16,,Chris Jericho,733.0,3.0,False,0,Sheamus,Royal Rumble,2017,2017-01-29
+552,2092,256,404,17,,Cesaro & Sheamus,586.0,0.0,False,0,Big E,Royal Rumble,2017,2017-01-29
+553,2092,256,1433,18,,Goldberg,1351.0,0.0,False,0,Rusev,Royal Rumble,2017,2017-01-29
+554,2092,256,506,19,,Chris Jericho,404.0,3.0,False,0,Cesaro,Royal Rumble,2017,2017-01-29
+555,2092,256,2016,20,,Cesaro & Sheamus,287.0,0.0,False,0,Xavier Woods,Royal Rumble,2017,2017-01-29
+556,2092,256,449,21,,Roman Reigns,1451.0,0.0,False,0,Bray Wyatt,Royal Rumble,2017,2017-01-29
+557,2092,256,343,22,,Luke Harper,346.0,0.0,False,0,Apollo Crews,Royal Rumble,2017,2017-01-29
+558,2092,256,1317,23,,Winner,1252.0,1.0,True,0,Randy Orton,Royal Rumble,2017,2017-01-29
+559,2092,256,657,24,,Brock Lesnar,261.0,0.0,False,0,Dolph Ziggler,Royal Rumble,2017,2017-01-29
+560,2092,256,1113,25,,Goldberg,596.0,1.0,False,0,Luke Harper,Royal Rumble,2017,2017-01-29
+561,2092,256,459,26,,Goldberg,270.0,3.0,False,0,Brock Lesnar,Royal Rumble,2017,2017-01-29
+562,2092,256,714,27,,Brock Lesnar,18.0,0.0,False,0,Enzo Amore,Royal Rumble,2017,2017-01-29
+563,2092,256,780,28,,The Undertaker,201.0,3.0,False,0,Goldberg,Royal Rumble,2017,2017-01-29
+564,2092,256,1783,29,,Roman Reigns,526.0,4.0,False,0,The Undertaker,Royal Rumble,2017,2017-01-29
+565,2092,256,1409,30,,Randy Orton,305.0,3.0,False,0,Roman Reigns,Royal Rumble,2017,2017-01-29
+566,2231,273,1433,1,,Bray Wyatt and Matt Hardy,1828.0,0.0,False,0,Rusev,Royal Rumble,2018,2018-01-28
+567,2231,273,760,2,,John Cena,3458.0,4.0,False,0,Finn Bálor,Royal Rumble,2018,2018-01-28
+568,2231,273,1360,3,,Baron Corbin,126.0,0.0,False,0,Rhyno,Royal Rumble,2018,2018-01-28
+569,2231,273,371,4,,Finn Bálor,66.0,1.0,False,0,Baron Corbin,Royal Rumble,2018,2018-01-28
+570,2231,273,803,5,,Bray Wyatt,,1.0,False,0,Heath Slater,Royal Rumble,2018,2018-01-28
+571,2231,273,707,6,,John Cena,1560.0,0.0,False,0,Elias,Royal Rumble,2018,2018-01-28
+572,2231,273,331,7,,Randy Orton,1764.0,1.0,False,0,"Andrade ""Cien"" Almas",Royal Rumble,2018,2018-01-28
+573,2231,273,449,8,,Matt Hardy,1238.0,3.0,False,0,Bray Wyatt,Royal Rumble,2018,2018-01-28
+574,2231,273,404,9,,Jinder Mahal,854.0,0.0,False,0,Big E,Royal Rumble,2018,2018-01-28
+575,2231,273,1452,10,,Shinsuke Nakamura,417.0,0.0,False,0,Sami Zayn *,Royal Rumble,2018,2018-01-28
+576,2231,273,1519,11,,Heath Slater,,0.0,False,0,Sheamus,Royal Rumble,2018,2018-01-28
+577,2231,273,2016,12,,Jinder Mahal,504.0,0.0,False,0,Xavier Woods,Royal Rumble,2018,2018-01-28
+578,2231,273,343,13,,Cesaro,316.0,0.0,False,0,Apollo Crews,Royal Rumble,2018,2018-01-28
+579,2231,273,1529,14,,Winner,2678.0,3.0,True,0,Shinsuke Nakamura,Royal Rumble,2018,2018-01-28
+580,2231,273,506,15,,Seth Rollins,308.0,1.0,False,0,Cesaro,Royal Rumble,2018,2018-01-28
+581,2231,273,1041,16,,"Andrade ""Cien"" Almas",341.0,1.0,False,0,Kofi Kingston,Royal Rumble,2018,2018-01-28
+582,2231,273,925,17,,Kofi Kingston,228.0,2.0,False,0,Jinder Mahal,Royal Rumble,2018,2018-01-28
+583,2231,273,1487,18,,Roman Reigns,1141.0,2.0,False,0,Seth Rollins,Royal Rumble,2018,2018-01-28
+584,2231,273,1150,19,,Bray Wyatt****,77.0,2.0,False,0,Matt Hardy,Royal Rumble,2018,2018-01-28
+585,2231,273,940,20,,Shinsuke Nakamura,1754.0,3.0,False,0,John Cena,Royal Rumble,2018,2018-01-28
+586,2231,273,1726,21,,John Cena,45.0,0.0,False,0,The Hurricane,Royal Rumble,2018,2018-01-28
+587,2231,273,24,22,,Finn Bálor,136.0,0.0,False,0,Aiden English,Royal Rumble,2018,2018-01-28
+588,2231,273,22,23,,Rey Mysterio,412.0,0.0,False,0,Adam Cole,Royal Rumble,2018,2018-01-28
+589,2231,273,1317,24,,Roman Reigns,835.0,1.0,False,0,Randy Orton,Royal Rumble,2018,2018-01-28
+590,2231,273,1817,25,,Roman Reigns,367.0,0.0,False,0,Titus O'Neil,Royal Rumble,2018,2018-01-28
+591,2231,273,1743,26,,Roman Reigns and Seth Rollins,320.0,0.0,False,0,The Miz,Royal Rumble,2018,2018-01-28
+592,2231,273,1346,27,,Finn Bálor,580.0,1.0,False,0,Rey Mysterio,Royal Rumble,2018,2018-01-28
+593,2231,273,1409,28,,Shinsuke Nakamura,1312.0,4.0,False,0,Roman Reigns,Royal Rumble,2018,2018-01-28
+594,2231,273,782,29,,Dolph Ziggler,163.0,0.0,False,0,Goldust,Royal Rumble,2018,2018-01-28
+595,2231,273,657,30,,Finn Bálor,121.0,1.0,False,0,Dolph Ziggler,Royal Rumble,2018,2018-01-28
+596,2231,273,1466,1,,Brie Bella & Nikki Bella,3286.0,3.0,False,0,Sasha Banks,Royal Rumble,2018,2018-01-28
+597,2231,273,386,2,,Ruby Riott,1854.0,2.0,False,0,Becky Lynch,Royal Rumble,2018,2018-01-28
+598,2231,273,1463,3,,Molly Holly,990.0,0.0,False,0,Sarah Logan,Royal Rumble,2018,2018-01-28
+599,2231,273,1124,4,,Lita,232.0,0.0,False,0,Mandy Rose,Royal Rumble,2018,2018-01-28
+600,2231,273,1092,5,,Becky Lynch,351.0,2.0,False,0,Lita,Royal Rumble,2018,2018-01-28
+601,2231,273,983,6,,Dana Brooke,289.0,0.0,False,0,Kairi Sane *,Royal Rumble,2018,2018-01-28
+602,2231,273,1600,7,,Lita,94.0,0.0,False,0,Tamina,Royal Rumble,2018,2018-01-28
+603,2231,273,622,8,,Torrie Wilson,179.0,1.0,False,0,Dana Brooke,Royal Rumble,2018,2018-01-28
+604,2231,273,1838,9,,Sonya Deville,184.0,1.0,False,0,Torrie Wilson,Royal Rumble,2018,2018-01-28
+605,2231,273,1553,10,,Michelle McCool,401.0,1.0,False,0,Sonya Deville,Royal Rumble,2018,2018-01-28
+606,2231,273,1097,11,,Michelle McCool,312.0,0.0,False,0,Liv Morgan,Royal Rumble,2018,2018-01-28
+607,2231,273,1207,12,,Michelle McCool,244.0,1.0,False,0,Molly Holly,Royal Rumble,2018,2018-01-28
+608,2231,273,1069,13,,Michelle McCool,174.0,0.0,False,0,Lana,Royal Rumble,2018,2018-01-28
+609,2231,273,1176,14,,Natalya,518.0,5.0,False,0,Michelle McCool,Royal Rumble,2018,2018-01-28
+610,2231,273,1432,15,,Nia Jax,692.0,2.0,False,0,Ruby Riott,Royal Rumble,2018,2018-01-28
+611,2231,273,1898,16,,"Becky Lynch, Michelle McCool, Ruby Riott, & Sasha Banks",57.0,0.0,False,0,Vickie Guerrero,Royal Rumble,2018,2018-01-28
+612,2231,273,498,17,,Nikki Bella,1125.0,0.0,False,0,Carmella,Royal Rumble,2018,2018-01-28
+613,2231,273,1236,18,,Trish Stratus,1534.0,3.0,False,0,Natalya,Royal Rumble,2018,2018-01-28
+614,2231,273,1011,19,,Nia Jax,302.0,0.0,False,0,Kelly Kelly,Royal Rumble,2018,2018-01-28
+615,2231,273,1234,20,,Nia Jax,409.0,0.0,False,0,Naomi,Royal Rumble,2018,2018-01-28
+616,2231,273,856,21,,Nia Jax,112.0,0.0,False,0,Jacqueline,Royal Rumble,2018,2018-01-28
+617,2231,273,1245,22,,"Asuka, Bayley, Brie Bella, Natalya, Nikki Bella, & Trish Stratus",1076.0,4.0,False,0,Nia Jax,Royal Rumble,2018,2018-01-28
+618,2231,273,711,23,,Asuka,374.0,0.0,False,0,Ember Moon,Royal Rumble,2018,2018-01-28
+619,2231,273,392,24,,Natalya,142.0,0.0,False,0,Beth Phoenix,Royal Rumble,2018,2018-01-28
+620,2231,273,353,25,,Winner,1181.0,3.0,True,0,Asuka,Royal Rumble,2018,2018-01-28
+621,2231,273,1186,26,,Trish Stratus,504.0,0.0,False,0,Mickie James,Royal Rumble,2018,2018-01-28
+622,2231,273,1259,27,,Asuka,990.0,4.0,False,0,Nikki Bella,Royal Rumble,2018,2018-01-28
+623,2231,273,456,28,,Nikki Bella,718.0,2.0,False,0,Brie Bella,Royal Rumble,2018,2018-01-28
+624,2231,273,380,29,,Sasha Banks,304.0,1.0,False,0,Bayley,Royal Rumble,2018,2018-01-28
+625,2231,273,1857,30,,Sasha Banks,336.0,3.0,False,0,Trish Stratus,Royal Rumble,2018,2018-01-28
+626,2271,277,624,1,48.0,Big Cass,4565.0,3.0,False,1,Daniel Bryan,Greatest Royal Rumble,2018,2018-04-27
+627,2271,277,657,2,12.0,Kurt Angle,1304.0,3.0,False,0,Dolph Ziggler,Greatest Royal Rumble,2018,2018-04-27
+628,2271,277,1540,3,1.0,Dolph Ziggler,78.0,0.0,False,0,Sin Cara,Greatest Royal Rumble,2018,2018-04-27
+629,2271,277,590,4,2.0,Mark Henry,120.0,0.0,False,0,Curtis Axel,Greatest Royal Rumble,2018,2018-04-27
+630,2271,277,1135,5,5.0,Daniel Bryan and Dolph Ziggler,207.0,3.0,False,0,Mark Henry,Greatest Royal Rumble,2018,2018-04-27
+631,2271,277,1195,6,3.0,Mark Henry,3.0,0.0,False,0,Mike Kanellis,Greatest Royal Rumble,2018,2018-04-27
+632,2271,277,807,7,4.0,Mark Henry,46.0,0.0,False,0,Hiroki Sumi,Greatest Royal Rumble,2018,2018-04-27
+633,2271,277,1902,8,6.0,Daniel Bryan,51.0,0.0,False,0,Viktor,Greatest Royal Rumble,2018,2018-04-27
+634,2271,277,1041,9,14.0,Elias,994.0,1.0,False,0,Kofi Kingston,Greatest Royal Rumble,2018,2018-04-27
+635,2271,277,1835,10,9.0,Kofi Kingston and Xavier Woods,433.0,1.0,False,0,Tony Nese,Greatest Royal Rumble,2018,2018-04-27
+636,2271,277,636,11,7.0,Daniel Bryan and Hornswoggle,86.0,0.0,False,0,Dash Wilder,Greatest Royal Rumble,2018,2018-04-27
+637,2271,277,809,12,8.0,Dolph Ziggler and Tony Nese,60.0,1.0,False,0,Hornswoggle,Greatest Royal Rumble,2018,2018-04-27
+638,2271,277,1303,13,11.0,Kurt Angle,310.0,0.0,False,0,Primo,Greatest Royal Rumble,2018,2018-04-27
+639,2271,277,2016,14,15.0,Elias,596.0,1.0,False,0,Xavier Woods,Greatest Royal Rumble,2018,2018-04-27
+640,2271,277,429,15,10.0,Kurt Angle,94.0,0.0,False,0,Bo Dallas,Greatest Royal Rumble,2018,2018-04-27
+641,2271,277,1054,16,16.0,Elias,479.0,3.0,False,0,Kurt Angle,Greatest Royal Rumble,2018,2018-04-27
+642,2271,277,1472,17,19.0,Bobby Roode,704.0,0.0,False,0,Scott Dawson,Greatest Royal Rumble,2018,2018-04-27
+643,2271,277,782,18,18.0,Bobby Roode,604.0,0.0,False,0,Goldust,Greatest Royal Rumble,2018,2018-04-27
+644,2271,277,1050,19,13.0,Elias,145.0,0.0,False,0,Konnor,Greatest Royal Rumble,2018,2018-04-27
+645,2271,277,707,20,41.0,Bobby Lashley,2044.0,5.0,False,0,Elias,Greatest Royal Rumble,2018,2018-04-27
+646,2271,277,1112,21,20.0,Rey Mysterio,556.0,0.0,False,0,Luke Gallows,Greatest Royal Rumble,2018,2018-04-27
+647,2271,277,1360,22,25.0,Roderick Strong,982.0,0.0,False,0,Rhyno,Greatest Royal Rumble,2018,2018-04-27
+648,2271,277,680,23,17.0,Tucker Knight,107.0,0.0,False,0,Drew Gulak,Greatest Royal Rumble,2018,2018-04-27
+649,2271,277,1865,24,23.0,Big E,608.0,1.0,False,0,Tucker Knight,Greatest Royal Rumble,2018,2018-04-27
+650,2271,277,437,25,29.0,Baron Corbin,1064.0,2.0,False,0,Bobby Roode,Greatest Royal Rumble,2018,2018-04-27
+651,2271,277,748,26,21.0,Mojo Rawley,222.0,0.0,False,0,Fandango,Greatest Royal Rumble,2018,2018-04-27
+652,2271,277,513,27,24.0,Apollo Crews,497.0,0.0,False,0,Chad Gable,Greatest Royal Rumble,2018,2018-04-27
+653,2271,277,1346,28,37.0,Baron Corbin,1225.0,1.0,False,0,Rey Mysterio,Greatest Royal Rumble,2018,2018-04-27
+654,2271,277,1206,29,27.0,Randy Orton,532.0,2.0,False,0,Mojo Rawley,Greatest Royal Rumble,2018,2018-04-27
+655,2271,277,1869,30,22.0,Mojo Rawley,16.0,0.0,False,0,Tyler Breeze,Greatest Royal Rumble,2018,2018-04-27
+656,2271,277,404,31,33.0,Braun Strowman,839.0,1.0,False,0,Big E,Greatest Royal Rumble,2018,2018-04-27
+657,2271,277,998,32,26.0,Randy Orton,265.0,0.0,False,0,Karl Anderson,Greatest Royal Rumble,2018,2018-04-27
+658,2271,277,343,33,28.0,Randy Orton,206.0,1.0,False,0,Apollo Crews,Greatest Royal Rumble,2018,2018-04-27
+659,2271,277,1403,34,30.0,Baron Corbin,360.0,1.0,False,0,Roderick Strong,Greatest Royal Rumble,2018,2018-04-27
+660,2271,277,1317,35,39.0,Elias,658.0,4.0,False,0,Randy Orton,Greatest Royal Rumble,2018,2018-04-27
+661,2271,277,803,36,34.0,Braun Strowman,458.0,0.0,False,0,Heath Slater,Greatest Royal Rumble,2018,2018-04-27
+662,2271,277,365,37,31.0,Braun Strowman,353.0,0.0,False,0,Babatunde,Greatest Royal Rumble,2018,2018-04-27
+663,2271,277,371,38,38.0,Randy Orton,428.0,3.0,False,0,Baron Corbin,Greatest Royal Rumble,2018,2018-04-27
+664,2271,277,1817,39,35.0,Braun Strowman,282.0,0.0,False,0,Titus O'Neil,Greatest Royal Rumble,2018,2018-04-27
+665,2271,277,621,40,32.0,Braun Strowman,121.0,0.0,False,0,Dan Matha,Greatest Royal Rumble,2018,2018-04-27
+666,2271,277,446,41,,Winner,1334.0,13.0,True,0,Braun Strowman,Greatest Royal Rumble,2018,2018-04-27
+667,2271,277,1866,42,36.0,Braun Strowman,29.0,0.0,False,0,Tye Dillinger,Greatest Royal Rumble,2018,2018-04-27
+668,2271,277,589,43,40.0,Braun Strowman,20.0,0.0,False,0,Curt Hawkins,Greatest Royal Rumble,2018,2018-04-27
+669,2271,277,432,44,45.0,Braun Strowman,878.0,2.0,False,0,Bobby Lashley,Greatest Royal Rumble,2018,2018-04-27
+670,2271,277,1711,45,42.0,Braun Strowman and Bobby Lashley,31.0,0.0,False,0,The Great Khali,Greatest Royal Rumble,2018,2018-04-27
+671,2271,277,1023,46,47.0,Braun Strowman,643.0,0.0,False,1,Kevin Owens,Greatest Royal Rumble,2018,2018-04-27
+672,2271,277,1501,47,44.0,Braun Strowman,487.0,0.0,False,0,Shane McMahon,Greatest Royal Rumble,2018,2018-04-27
+673,2271,277,1523,48,43.0,Chris Jericho,263.0,0.0,False,0,Shelton Benjamin,Greatest Royal Rumble,2018,2018-04-27
+674,2271,277,399,49,49.0,Braun Strowman,443.0,1.0,False,1,Big Cass,Greatest Royal Rumble,2018,2018-04-27
+675,2271,277,542,50,46.0,Braun Strowman,198.0,1.0,False,0,Chris Jericho,Greatest Royal Rumble,2018,2018-04-27
+676,2393,290,1068,1,,Charlotte Flair,1760.0,2.0,False,0,Lacey Evans,Royal Rumble,2019,2019-01-27
+677,2393,290,1236,2,,Nia Jax,3361.0,2.0,False,0,Natalya,Royal Rumble,2019,2019-01-27
+678,2393,290,1124,3,,Naomi,1550.0,1.0,False,0,Mandy Rose,Royal Rumble,2019,2019-01-27
+679,2393,290,1097,4,,Natalya,8.0,0.0,False,0,Liv Morgan,Royal Rumble,2019,2019-01-27
+680,2393,290,1186,5,,Tamina,698.0,0.0,False,0,Mickie James,Royal Rumble,2019,2019-01-27
+681,2393,290,711,6,,Alexa Bliss,3130.0,0.0,False,0,Ember Moon,Royal Rumble,2019,2019-01-27
+682,2393,290,419,7,,Lacey Evans,565.0,1.0,False,0,Billie Kay,Royal Rumble,2019,2019-01-27
+683,2393,290,1262,8,,Billie Kay and Peyton Royce,540.0,0.0,False,0,Nikki Cross,Royal Rumble,2019,2019-01-27
+684,2393,290,1300,9,,Lacey Evans,518.0,1.0,False,0,Peyton Royce,Royal Rumble,2019,2019-01-27
+685,2393,290,1600,10,,Charlotte Flair,502.0,1.0,False,0,Tamina,Royal Rumble,2019,2019-01-27
+686,2393,290,2022,11,,Charlotte Flair,288.0,0.0,False,0,Xia Li,Royal Rumble,2019,2019-01-27
+687,2393,290,1463,12,,Natalya and Kairi Sane,338.0,0.0,False,0,Sarah Logan,Royal Rumble,2019,2019-01-27
+688,2393,290,521,13,,Becky Lynch,3001.0,5.0,False,0,Charlotte Flair,Royal Rumble,2019,2019-01-27
+689,2393,290,982,14,,Ruby Riott,1020.0,1.0,False,0,Kairi Sane,Royal Rumble,2019,2019-01-27
+690,2393,290,1133,15,,Alicia Fox,492.0,0.0,False,0,Maria Kanellis,Royal Rumble,2019,2019-01-27
+691,2393,290,1234,16,,Mandy Rose*,88.0,1.0,False,0,Naomi,Royal Rumble,2019,2019-01-27
+692,2393,290,491,17,,Ruby Riott,575.0,0.0,False,0,Candice LeRae,Royal Rumble,2019,2019-01-27
+693,2393,290,62,18,,Ruby Riott,415.0,1.0,False,0,Alicia Fox,Royal Rumble,2019,2019-01-27
+694,2393,290,981,19,,Rhea Ripley,645.0,0.0,False,0,Kacy Catanzaro,Royal Rumble,2019,2019-01-27
+695,2393,290,2031,20,,Rhea Ripley,702.0,0.0,False,0,Zelina Vega,Royal Rumble,2019,2019-01-27
+696,2393,290,1432,21,,Bayley,788.0,3.0,False,0,Ruby Riott,Royal Rumble,2019,2019-01-27
+697,2393,290,622,22,,Rhea Ripley,437.0,0.0,False,0,Dana Brooke,Royal Rumble,2019,2019-01-27
+698,2393,290,830,23,,Nia Jax,801.0,0.0,False,0,Io Shirai,Royal Rumble,2019,2019-01-27
+699,2393,290,1356,24,,Bayley,475.0,3.0,False,0,Rhea Ripley,Royal Rumble,2019,2019-01-27
+700,2393,290,1553,25,,Alexa Bliss,266.0,0.0,False,0,Sonya Deville,Royal Rumble,2019,2019-01-27
+701,2393,290,54,26,,Bayley and Carmella,779.0,2.0,False,0,Alexa Bliss,Royal Rumble,2019,2019-01-27
+702,2393,290,380,27,,Nia Jax and Charlotte Flair,867.0,3.0,False,0,Bayley,Royal Rumble,2019,2019-01-27
+703,2393,290,389,28,,Winner,800.0,2.0,True,0,Becky Lynch **,Royal Rumble,2019,2019-01-27
+704,2393,290,1245,29,,Becky Lynch,719.0,3.0,False,0,Nia Jax,Royal Rumble,2019,2019-01-27
+705,2393,290,498,30,,Charlotte Flair,432.0,1.0,False,0,Carmella,Royal Rumble,2019,2019-01-27
+706,2393,290,707,1,,Seth Rollins,907.0,1.0,False,0,Elias,Royal Rumble,2019,2019-01-27
+707,2393,290,897,2,,Elias,80.0,0.0,False,0,Jeff Jarrett,Royal Rumble,2019,2019-01-27
+708,2393,290,1529,3,,Mustafa Ali,1066.0,1.0,False,0,Shinsuke Nakamura,Royal Rumble,2019,2019-01-27
+709,2393,290,1054,4,,Shinsuke Nakamura,195.0,0.0,False,0,Kurt Angle,Royal Rumble,2019,2019-01-27
+710,2393,290,404,5,,Samoa Joe,361.0,0.0,False,0,Big E,Royal Rumble,2019,2019-01-27
+711,2393,290,954,6,,Dean Ambrose,830.0,1.0,False,0,Johnny Gargano,Royal Rumble,2019,2019-01-27
+712,2393,290,925,7,,Johnny Gargano,30.0,0.0,False,0,Jinder Mahal,Royal Rumble,2019,2019-01-27
+713,2393,290,1454,8,,Mustafa Ali,1445.0,3.0,False,0,Samoa Joe,Royal Rumble,2019,2019-01-27
+714,2393,290,589,9,,Samoa Joe,249.0,1.0,False,0,Curt Hawkins,Royal Rumble,2019,2019-01-27
+715,2393,290,1487,10,,Winner,2580.0,3.0,True,0,Seth Rollins,Royal Rumble,2019,2019-01-27
+716,2393,290,1817,11,,Curt Hawkins,5.0,0.0,False,0,Titus O'Neil,Royal Rumble,2019,2019-01-27
+717,2393,290,1041,12,,Drew McIntyre,533.0,0.0,False,0,Kofi Kingston,Royal Rumble,2019,2019-01-27
+718,2393,290,1229,13,,Nia Jax,1805.0,2.0,False,0,Mustafa Ali,Royal Rumble,2019,2019-01-27
+719,2393,290,642,14,,Aleister Black,882.0,1.0,False,0,Dean Ambrose,Royal Rumble,2019,2019-01-27
+720,2393,290,1264,15,,Samoa Joe,2.0,0.0,False,0,No Way Jose,Royal Rumble,2019,2019-01-27
+721,2393,290,681,16,,Dolph Ziggler and Braun Strowman,1206.0,4.0,False,0,Drew McIntyre,Royal Rumble,2019,2019-01-27
+722,2393,290,2016,17,,Drew McIntyre,3.0,0.0,False,0,Xavier Woods,Royal Rumble,2019,2019-01-27
+723,2393,290,1299,18,,Drew McIntyre,673.0,0.0,False,0,Pete Dunne,Royal Rumble,2019,2019-01-27
+724,2393,290,330,19,,Braun Strowman,1590.0,1.0,False,0,Andrade,Royal Rumble,2019,2019-01-27
+725,2393,290,343,20,,Baron Corbin,347.0,0.0,False,0,Apollo Crews,Royal Rumble,2019,2019-01-27
+726,2393,290,52,21,,Baron Corbin,369.0,1.0,False,0,Aleister Black,Royal Rumble,2019,2019-01-27
+727,2393,290,1523,22,,Braun Strowman,561.0,0.0,False,0,Shelton Benjamin,Royal Rumble,2019,2019-01-27
+728,2393,290,371,23,,Braun Strowman,439.0,2.0,False,0,Baron Corbin,Royal Rumble,2019,2019-01-27
+729,2393,290,889,24,,Braun Strowman and Drew McIntyre,475.0,0.0,False,0,Jeff Hardy,Royal Rumble,2019,2019-01-27
+730,2393,290,1346,25,,Randy Orton,750.0,1.0,False,0,Rey Mysterio,Royal Rumble,2019,2019-01-27
+731,2393,290,432,26,,Seth Rollins,13.0,0.0,False,0,Bobby Lashley,Royal Rumble,2019,2019-01-27
+732,2393,290,446,27,,14:37,,,False,0,Braun Strowman,Royal Rumble,2019,2019-01-27
+733,2393,290,657,28,,Braun Strowman,694.0,1.0,False,0,Dolph Ziggler,Royal Rumble,2019,2019-01-27
+734,2393,290,1317,29,,Andrade,360.0,1.0,False,0,Randy Orton,Royal Rumble,2019,2019-01-27
+735,2393,290,1249,30,,Rey Mysterio,189.0,1.0,False,0,Nia Jax *,Royal Rumble,2019,2019-01-27
+736,2565,308,54,1,,Bianca Belair,1594.0,3.0,False,0,Alexa Bliss,Royal Rumble,2020,2020-01-26
+737,2565,308,396,2,,Charlotte Flair,2000.0,8.0,False,0,Bianca Belair,Royal Rumble,2020,2020-01-26
+738,2565,308,1190,3,,Bianca Belair,621.0,0.0,False,0,Mighty Molly,Royal Rumble,2020,2020-01-26
+739,2565,308,1262,4,,Bianca Belair,908.0,0.0,False,0,Nikki Cross,Royal Rumble,2020,2020-01-26
+740,2565,308,1069,5,,Liv Morgan,149.0,1.0,False,0,Lana,Royal Rumble,2020,2020-01-26
+741,2565,308,1171,6,,Mandy Rose and Sonya Deville,494.0,0.0,False,0,Mercedes Martinez,Royal Rumble,2020,2020-01-26
+742,2565,308,1097,7,,Lana,44.0,1.0,False,0,Liv Morgan,Royal Rumble,2020,2020-01-26
+743,2565,308,1124,8,,Bianca Belair,529.0,1.0,False,0,Mandy Rose,Royal Rumble,2020,2020-01-26
+744,2565,308,491,9,,Bianca Belair,541.0,0.0,False,0,Candice LeRae,Royal Rumble,2020,2020-01-26
+745,2565,308,1553,10,,Bianca Belair,331.0,1.0,False,0,Sonya Deville,Royal Rumble,2020,2020-01-26
+746,2565,308,982,11,,Alexa Bliss,322.0,0.0,False,0,Kairi Sane,Royal Rumble,2020,2020-01-26
+747,2565,308,1173,12,,Alexa Bliss,390.0,0.0,False,0,Mia Yim,Royal Rumble,2020,2020-01-26
+748,2565,308,622,13,,Bianca Belair,326.0,0.0,False,0,Dana Brooke,Royal Rumble,2020,2020-01-26
+749,2565,308,1600,14,,Bianca Belair,39.0,0.0,False,0,Tamina,Royal Rumble,2020,2020-01-26
+750,2565,308,610,15,,Chelsea Green,92.0,0.0,False,0,Dakota Kai,Royal Rumble,2020,2020-01-26
+751,2565,308,534,16,,Alexa Bliss,12.0,1.0,False,0,Chelsea Green,Royal Rumble,2020,2020-01-26
+752,2565,308,521,17,,Winner,1639.0,4.0,True,0,Charlotte Flair,Royal Rumble,2020,2020-01-26
+753,2565,308,1234,18,,Shayna Baszler,1321.0,0.0,False,0,Naomi,Royal Rumble,2020,2020-01-26
+754,2565,308,392,19,,Shayna Baszler,1385.0,1.0,False,0,Beth Phoenix,Royal Rumble,2020,2020-01-26
+755,2565,308,1831,20,,Shayna Baszler,1120.0,0.0,False,0,Toni Storm,Royal Rumble,2020,2020-01-26
+756,2565,308,1011,21,,Charlotte Flair,149.0,0.0,False,0,Kelly Kelly,Royal Rumble,2020,2020-01-26
+757,2565,308,1463,22,,Charlotte Flair,28.0,0.0,False,0,Sarah Logan,Royal Rumble,2020,2020-01-26
+758,2565,308,1236,23,,Beth Phoenix,883.0,0.0,False,0,Natalya,Royal Rumble,2020,2020-01-26
+759,2565,308,2022,24,,Shayna Baszler,649.0,0.0,False,0,Xia Li,Royal Rumble,2020,2020-01-26
+760,2565,308,2031,25,,Shayna Baszler,571.0,0.0,False,0,Zelina Vega,Royal Rumble,2020,2020-01-26
+761,2565,308,1537,26,,Shayna Baszler,477.0,0.0,False,0,Shotzi Blackheart,Royal Rumble,2020,2020-01-26
+762,2565,308,498,27,,Shayna Baszler,396.0,0.0,False,0,Carmella,Royal Rumble,2020,2020-01-26
+763,2565,308,1658,28,,Shayna Baszler,230.0,0.0,False,0,Tegan Nox,Royal Rumble,2020,2020-01-26
+764,2565,308,1458,29,,Self,61.0,1.0,False,0,Santina Marella,Royal Rumble,2020,2020-01-26
+765,2565,308,1516,30,,Charlotte Flair,267.0,8.0,False,0,Shayna Baszler,Royal Rumble,2020,2020-01-26
+766,2565,308,464,1,,Drew McIntyre,1584.0,13.0,False,0,Brock Lesnar [1],Royal Rumble,2020,2020-01-26
+767,2565,308,707,2,,Brock Lesnar,60.0,0.0,False,0,Elias,Royal Rumble,2020,2020-01-26
+768,2565,308,721,3,,Brock Lesnar,8.0,0.0,False,0,Erick Rowan,Royal Rumble,2020,2020-01-26
+769,2565,308,1398,4,,Brock Lesnar,41.0,0.0,False,0,Robert Roode,Royal Rumble,2020,2020-01-26
+770,2565,308,948,5,,00:09,,,False,0,John Morrison,Royal Rumble,2020,2020-01-26
+771,2565,308,1041,6,,05:06,,,False,0,Kofi Kingston,Royal Rumble,2020,2020-01-26
+772,2565,308,1346,7,,Brock Lesnar,174.0,0.0,False,0,Rey Mysterio,Royal Rumble,2020,2020-01-26
+773,2565,308,404,8,,Brock Lesnar,53.0,0.0,False,0,Big E,Royal Rumble,2020,2020-01-26
+774,2565,308,506,9,,00:18,,,False,0,Cesaro,Royal Rumble,2020,2020-01-26
+775,2565,308,1523,10,,Brock Lesnar,37.0,0.0,False,0,Shelton Benjamin,Royal Rumble,2020,2020-01-26
+776,2565,308,1529,11,,Brock Lesnar,20.0,0.0,False,0,Shinsuke Nakamura,Royal Rumble,2020,2020-01-26
+777,2565,308,1231,12,,Brock Lesnar,24.0,0.0,False,0,MVP,Royal Rumble,2020,2020-01-26
+778,2565,308,1008,13,,Brock Lesnar and Braun Strowman,212.0,1.0,False,0,Keith Lee,Royal Rumble,2020,2020-01-26
+779,2565,308,446,14,,Brock Lesnar and Keith Lee,110.0,1.0,False,0,Braun Strowman,Royal Rumble,2020,2020-01-26
+780,2565,308,1372,15,,Drew McIntyre,189.0,0.0,False,0,Ricochet,Royal Rumble,2020,2020-01-26
+781,2565,308,681,16,,Winner,2051.0,6.0,True,0,Drew McIntyre,Royal Rumble,2020,2020-01-26
+782,2565,308,1743,17,,Drew McIntyre,30.0,0.0,False,0,The Miz,Royal Rumble,2020,2020-01-26
+783,2565,308,28,18,,Edge,469.0,0.0,False,0,AJ Styles,Royal Rumble,2020,2020-01-26
+784,2565,308,657,19,,Roman Reigns,740.0,0.0,False,0,Dolph Ziggler,Royal Rumble,2020,2020-01-26
+785,2565,308,998,20,,Randy Orton,586.0,0.0,False,0,Karl Anderson,Royal Rumble,2020,2020-01-26
+786,2565,308,697,21,,Roman Reigns,1423.0,3.0,False,0,Edge,Royal Rumble,2020,2020-01-26
+787,2565,308,1036,22,,Drew McIntyre,246.0,1.0,False,0,King Corbin,Royal Rumble,2020,2020-01-26
+788,2565,308,1160,23,,King Corbin,41.0,0.0,False,0,Matt Riddle,Royal Rumble,2020,2020-01-26
+789,2565,308,1112,24,,Edge,120.0,0.0,False,0,Luke Gallows,Royal Rumble,2020,2020-01-26
+790,2565,308,1317,25,,Edge,877.0,1.0,False,0,Randy Orton,Royal Rumble,2020,2020-01-26
+791,2565,308,1409,26,,Drew McIntyre,961.0,2.0,False,0,Roman Reigns,Royal Rumble,2020,2020-01-26
+792,2565,308,1023,27,,"Seth Rollins, Akam , and Rezar [2]",419.0,0.0,False,0,Kevin Owens,Royal Rumble,2020,2020-01-26
+793,2565,308,52,28,,Seth Rollins,306.0,0.0,False,0,Aleister Black,Royal Rumble,2020,2020-01-26
+794,2565,308,1454,29,,04:25,,,False,0,Samoa Joe,Royal Rumble,2020,2020-01-26
+795,2565,308,1487,30,,Drew McIntyre,241.0,3.0,False,0,Seth Rollins,Royal Rumble,2020,2020-01-26
+796,2690,322,380,1,,Bianca Belair,1748.0,1.0,False,0,Bayley,Royal Rumble,2021,2021-01-31
+797,2690,322,1234,2,,Nia Jax and Shayna Baszler,2859.0,0.0,False,0,Naomi,Royal Rumble,2021,2021-01-31
+798,2690,322,396,3,,Winner,3409.0,4.0,True,0,Bianca Belair,Royal Rumble,2021,2021-01-31
+799,2690,322,419,4,,Ruby Riott and Liv Morgan,491.0,1.0,False,0,Billie Kay,Royal Rumble,2021,2021-01-31
+800,2690,322,1537,5,,Shayna Baszler,226.0,0.0,False,0,Shotzi Blackheart,Royal Rumble,2021,2021-01-31
+801,2690,322,1516,6,,Nia Jax,2506.0,6.0,False,0,Shayna Baszler,Royal Rumble,2021,2021-01-31
+802,2690,322,1831,7,,Rhea Ripley,681.0,0.0,False,0,Toni Storm,Royal Rumble,2021,2021-01-31
+803,2690,322,911,8,,Billie Kay,483.0,0.0,False,0,Jillian Hall,Royal Rumble,2021,2021-01-31
+804,2690,322,1432,9,,Bayley,653.0,1.0,False,0,Ruby Riott,Royal Rumble,2021,2021-01-31
+805,2690,322,1899,10,,Shayna Baszler,435.0,0.0,False,0,Victoria,Royal Rumble,2021,2021-01-31
+806,2690,322,1300,11,,Charlotte Flair,820.0,1.0,False,0,Peyton Royce,Royal Rumble,2021,2021-01-31
+807,2690,322,1457,12,,Rhea Ripley,272.0,0.0,False,0,Santana Garrett,Royal Rumble,2021,2021-01-31
+808,2690,322,1097,13,,Peyton Royce,397.0,1.0,False,0,Liv Morgan,Royal Rumble,2021,2021-01-31
+809,2690,322,1356,14,,Bianca Belair,2346.0,7.0,False,0,Rhea Ripley,Royal Rumble,2021,2021-01-31
+810,2690,322,521,15,,Rhea Ripley and Bianca Belair,2027.0,1.0,False,0,Charlotte Flair,Royal Rumble,2021,2021-01-31
+811,2690,322,622,16,,Rhea Ripley,178.0,0.0,False,0,Dana Brooke,Royal Rumble,2021,2021-01-31
+812,2690,322,1838,17,,Shayna Baszler,239.0,0.0,False,0,Torrie Wilson,Royal Rumble,2021,2021-01-31
+813,2690,322,1068,18,,Shayna Baszler,1161.0,1.0,False,0,Lacey Evans,Royal Rumble,2021,2021-01-31
+814,2690,322,1186,19,,Lacey Evans,440.0,0.0,False,0,Mickie James,Royal Rumble,2021,2021-01-31
+815,2690,322,1262,20,,Carmella,457.0,0.0,False,0,Nikki Cross,Royal Rumble,2021,2021-01-31
+816,2690,322,64,21,,Mandy Rose,108.0,0.0,False,0,Alicia Fox [ b ],Royal Rumble,2021,2021-01-31
+817,2690,322,1124,22,,Rhea Ripley,229.0,1.0,False,0,Mandy Rose,Royal Rumble,2021,2021-01-31
+818,2690,322,610,23,,Rhea Ripley,126.0,0.0,False,0,Dakota Kai,Royal Rumble,2021,2021-01-31
+819,2690,322,498,24,,Herself,47.0,1.0,False,0,Carmella,Royal Rumble,2021,2021-01-31
+820,2690,322,1600,25,,Nia Jax and Shayna Baszler,511.0,0.0,False,0,Tamina,Royal Rumble,2021,2021-01-31
+821,2690,322,1069,26,,Natalya,598.0,1.0,False,0,Lana,Royal Rumble,2021,2021-01-31
+822,2690,322,54,27,,Rhea Ripley,62.0,0.0,False,0,Alexa Bliss,Royal Rumble,2021,2021-01-31
+823,2690,322,711,28,,Nia Jax,111.0,0.0,False,0,Ember Moon,Royal Rumble,2021,2021-01-31
+824,2690,322,1245,29,,Lana,164.0,4.0,False,0,Nia Jax,Royal Rumble,2021,2021-01-31
+825,2690,322,1236,30,,Bianca Belair,120.0,1.0,False,0,Natalya,Royal Rumble,2021,2021-01-31
+826,2690,322,697,1,,Winner,3602.0,3.0,True,0,Edge,Royal Rumble,2021,2021-01-31
+827,2690,322,1317,2,,Edge,3602.0,0.0,False,0,Randy Orton,Royal Rumble,2021,2021-01-31
+828,2690,322,1448,3,,Big E,784.0,0.0,False,0,Sami Zayn,Royal Rumble,2021,2021-01-31
+829,2690,322,1229,4,,Big E,798.0,1.0,False,0,Mustafa Ali,Royal Rumble,2021,2021-01-31
+830,2690,322,889,5,,Dolph Ziggler,205.0,0.0,False,0,Jeff Hardy,Royal Rumble,2021,2021-01-31
+831,2690,322,657,6,,Kane,1230.0,1.0,False,0,Dolph Ziggler,Royal Rumble,2021,2021-01-31
+832,2690,322,1529,7,,King Corbin,1321.0,0.0,False,0,Shinsuke Nakamura,Royal Rumble,2021,2021-01-31
+833,2690,322,493,8,,Elias,506.0,0.0,False,0,Carlito,Royal Rumble,2021,2021-01-31
+834,2690,322,2016,9,,Mustafa Ali,222.0,0.0,False,0,Xavier Woods,Royal Rumble,2021,2021-01-31
+835,2690,322,404,10,,Omos [ c ],1785.0,4.0,False,0,Big E,Royal Rumble,2021,2021-01-31
+836,2690,322,948,11,,Damian Priest,494.0,0.0,False,0,John Morrison,Royal Rumble,2021,2021-01-31
+837,2690,322,1372,12,,Kane,697.0,0.0,False,0,Ricochet,Royal Rumble,2021,2021-01-31
+838,2690,322,707,13,,Damian Priest,150.0,1.0,False,0,Elias,Royal Rumble,2021,2021-01-31
+839,2690,322,613,14,,Bobby Lashley,934.0,4.0,False,0,Damian Priest,Royal Rumble,2021,2021-01-31
+840,2690,322,1743,15,,Damian Priest,62.0,0.0,False,0,The Miz,Royal Rumble,2021,2021-01-31
+841,2690,322,1373,16,,Seth Rollins,1877.0,1.0,False,0,Riddle,Royal Rumble,2021,2021-01-31
+842,2690,322,624,17,,Seth Rollins,1730.0,1.0,False,0,Daniel Bryan,Royal Rumble,2021,2021-01-31
+843,2690,322,990,18,,Damian Priest,111.0,2.0,False,0,Kane,Royal Rumble,2021,2021-01-31
+844,2690,322,1036,19,,Dominik Mysterio,214.0,2.0,False,0,King Corbin,Royal Rumble,2021,2021-01-31
+845,2690,322,1280,20,,King Corbin,53.0,0.0,False,0,Otis,Royal Rumble,2021,2021-01-31
+846,2690,322,668,21,,Bobby Lashley,120.0,1.0,False,0,Dominik Mysterio,Royal Rumble,2021,2021-01-31
+847,2690,322,432,22,,"Big E, Christian, Daniel Bryan, and Riddle",243.0,3.0,False,0,Bobby Lashley,Royal Rumble,2021,2021-01-31
+848,2690,322,816,23,,Big E and Bobby Lashley,30.0,0.0,False,0,Hurricane Helms,Royal Rumble,2021,2021-01-31
+849,2690,322,558,24,,Seth Rollins,1092.0,1.0,False,0,Christian,Royal Rumble,2021,2021-01-31
+850,2690,322,28,25,,Braun Strowman,627.0,0.0,False,0,AJ Styles,Royal Rumble,2021,2021-01-31
+851,2690,322,1346,26,,Omos [ c ],227.0,0.0,False,0,Rey Mysterio,Royal Rumble,2021,2021-01-31
+852,2690,322,1519,27,,Braun Strowman,356.0,0.0,False,0,Sheamus,Royal Rumble,2021,2021-01-31
+853,2690,322,506,28,,Braun Strowman,250.0,0.0,False,0,Cesaro,Royal Rumble,2021,2021-01-31
+854,2690,322,1487,29,,Edge,528.0,3.0,False,0,Seth Rollins,Royal Rumble,2021,2021-01-31
+855,2690,322,446,30,,Edge,444.0,3.0,False,0,Braun Strowman,Royal Rumble,2021,2021-01-31
+856,2809,337,1466,1,,Queen Zelina,584.0,2.0,False,0,Sasha Banks,Royal Rumble,2022,2022-01-29
+857,2809,337,1165,2,,Sasha Banks,53.0,0.0,False,0,Melina,Royal Rumble,2022,2022-01-29
+858,2809,337,1600,3,,Natalya,1001.0,0.0,False,0,Tamina,Royal Rumble,2022,2022-01-29
+859,2809,337,1011,4,,Sasha Banks,65.0,0.0,False,0,Kelly Kelly,Royal Rumble,2022,2022-01-29
+860,2809,337,65,5,,Charlotte Flair,1370.0,0.0,False,0,Aliyah,Royal Rumble,2022,2022-01-29
+861,2809,337,1097,6,,Brie Bella,2240.0,0.0,False,0,Liv Morgan,Royal Rumble,2022,2022-01-29
+862,2809,337,1311,7,,Rhea Ripley,1045.0,1.0,False,0,Queen Zelina,Royal Rumble,2022,2022-01-29
+863,2809,337,396,8,,Charlotte Flair,2850.0,1.0,False,0,Bianca Belair,Royal Rumble,2022,2022-01-29
+864,2809,337,622,9,,Michelle McCool,132.0,0.0,False,0,Dana Brooke,Royal Rumble,2022,2022-01-29
+865,2809,337,1176,10,,Mickie James,1250.0,1.0,False,0,Michelle McCool,Royal Rumble,2022,2022-01-29
+866,2809,337,1553,11,,Naomi,120.0,2.0,False,0,Sonya Deville,Royal Rumble,2022,2022-01-29
+867,2809,337,1236,12,,Bianca Belair,2177.0,2.0,False,0,Natalya,Royal Rumble,2022,2022-01-29
+868,2809,337,488,13,,Sonya Deville,51.0,0.0,False,0,Cameron,Royal Rumble,2022,2022-01-29
+869,2809,337,1234,14,,Sonya Deville [ a ],438.0,1.0,False,0,Naomi,Royal Rumble,2022,2022-01-29
+870,2809,337,498,15,,Rhea Ripley,50.0,0.0,False,0,Carmella,Royal Rumble,2022,2022-01-29
+871,2809,337,1356,16,,Charlotte Flair,1859.0,3.0,False,0,Rhea Ripley,Royal Rumble,2022,2022-01-29
+872,2809,337,521,17,,Ronda Rousey,1883.0,5.0,False,0,Charlotte Flair,Royal Rumble,2022,2022-01-29
+873,2809,337,837,18,,Rhea Ripley,25.0,0.0,False,0,Ivory,Royal Rumble,2022,2022-01-29
+874,2809,337,456,19,,Ronda Rousey,1161.0,3.0,False,0,Brie Bella,Royal Rumble,2022,2022-01-29
+875,2809,337,1186,20,,Lita,700.0,1.0,False,0,Mickie James,Royal Rumble,2022,2022-01-29
+876,2809,337,62,21,,Nikki Bella,390.0,0.0,False,0,Alicia Fox,Royal Rumble,2022,2022-01-29
+877,2809,337,1258,22,,Ronda Rousey,733.0,1.0,False,0,Nikki A.S.H.,Royal Rumble,2022,2022-01-29
+878,2809,337,1581,23,,Natalya,52.0,0.0,False,0,Summer Rae,Royal Rumble,2022,2022-01-29
+879,2809,337,1259,24,,Brie Bella,520.0,2.0,False,0,Nikki Bella,Royal Rumble,2022,2022-01-29
+880,2809,337,1463,25,,Brie Bella and Nikki Bella,43.0,0.0,False,0,Sarah Logan,Royal Rumble,2022,2022-01-29
+881,2809,337,1092,26,,Charlotte Flair,621.0,1.0,False,0,Lita,Royal Rumble,2022,2022-01-29
+882,2809,337,1190,27,,Nikki A.S.H.,20.0,0.0,False,0,Mighty Molly,Royal Rumble,2022,2022-01-29
+883,2809,337,1419,28,,Winner,616.0,4.0,True,0,Ronda Rousey,Royal Rumble,2022,2022-01-29
+884,2809,337,1536,29,,Ronda Rousey,176.0,0.0,False,0,Shotzi,Royal Rumble,2022,2022-01-29
+885,2809,337,1516,30,,Charlotte Flair,331.0,0.0,False,0,Shayna Baszler,Royal Rumble,2022,2022-01-29
+886,2809,337,28,1,,Madcap Moss,1746.0,6.0,False,0,AJ Styles,Royal Rumble,2022,2022-01-29
+887,2809,337,1529,2,,AJ Styles,351.0,0.0,False,0,Shinsuke Nakamura,Royal Rumble,2022,2022-01-29
+888,2809,337,357,3,,AJ Styles,1326.0,1.0,False,0,Austin Theory,Royal Rumble,2022,2022-01-29
+889,2809,337,1398,4,,AJ Styles,54.0,0.0,False,0,Robert Roode,Royal Rumble,2022,2022-01-29
+890,2809,337,1376,5,,AJ Styles,1151.0,1.0,False,0,Ridge Holland,Royal Rumble,2022,2022-01-29
+891,2809,337,1211,6,,Omos,550.0,0.0,False,0,Montez Ford,Royal Rumble,2022,2022-01-29
+892,2809,337,613,7,,Omos,664.0,0.0,False,0,Damian Priest,Royal Rumble,2022,2022-01-29
+893,2809,337,1448,8,,AJ Styles,197.0,1.0,False,0,Sami Zayn,Royal Rumble,2022,2022-01-29
+894,2809,337,955,9,,Sami Zayn,86.0,0.0,False,0,Johnny Knoxville,Royal Rumble,2022,2022-01-29
+895,2809,337,337,10,,Omos,135.0,0.0,False,0,Angelo Dawkins,Royal Rumble,2022,2022-01-29
+896,2809,337,1276,11,,"AJ Styles, Austin Theory, Chad Gable, Dominik Mysterio, Ricochet, and Ridge Holland",264.0,3.0,False,0,Omos,Royal Rumble,2022,2022-01-29
+897,2809,337,1372,12,,Happy Corbin,263.0,1.0,False,0,Ricochet,Royal Rumble,2022,2022-01-29
+898,2809,337,513,13,,Rick Boogs,498.0,1.0,False,0,Chad Gable,Royal Rumble,2022,2022-01-29
+899,2809,337,668,14,,Happy Corbin,224.0,1.0,False,0,Dominik Mysterio,Royal Rumble,2022,2022-01-29
+900,2809,337,797,15,,Drew McIntyre,647.0,3.0,False,0,Happy Corbin,Royal Rumble,2022,2022-01-29
+901,2809,337,657,16,,Bad Bunny,1246.0,0.0,False,0,Dolph Ziggler,Royal Rumble,2022,2022-01-29
+902,2809,337,1519,17,,Bad Bunny,1075.0,0.0,False,0,Sheamus,Royal Rumble,2022,2022-01-29
+903,2809,337,1367,18,,Happy Corbin,273.0,1.0,False,0,Rick Boogs,Royal Rumble,2022,2022-01-29
+904,2809,337,1122,19,,Drew McIntyre,264.0,1.0,False,0,Madcap Moss,Royal Rumble,2022,2022-01-29
+905,2809,337,1373,20,,Brock Lesnar,1186.0,2.0,False,0,Riddle,Royal Rumble,2022,2022-01-29
+906,2809,337,681,21,,Brock Lesnar,1158.0,2.0,False,0,Drew McIntyre,Royal Rumble,2022,2022-01-29
+907,2809,337,1023,22,,Shane McMahon,673.0,1.0,False,0,Kevin Owens,Royal Rumble,2022,2022-01-29
+908,2809,337,1346,23,,Otis,545.0,0.0,False,0,Rey Mysterio,Royal Rumble,2022,2022-01-29
+909,2809,337,1041,24,,Kevin Owens,21.0,0.0,False,0,Kofi Kingston,Royal Rumble,2022,2022-01-29
+910,2809,337,1280,25,,Riddle and Randy Orton,532.0,1.0,False,0,Otis,Royal Rumble,2022,2022-01-29
+911,2809,337,404,26,,Riddle and Randy Orton,397.0,0.0,False,0,Big E,Royal Rumble,2022,2022-01-29
+912,2809,337,366,27,,Brock Lesnar,461.0,2.0,False,0,Bad Bunny,Royal Rumble,2022,2022-01-29
+913,2809,337,1501,28,,Brock Lesnar,338.0,1.0,False,0,Shane McMahon,Royal Rumble,2022,2022-01-29
+914,2809,337,1317,29,,Brock Lesnar,141.0,2.0,False,0,Randy Orton,Royal Rumble,2022,2022-01-29
+915,2809,337,459,30,,Winner,152.0,5.0,True,0,Brock Lesnar,Royal Rumble,2022,2022-01-29
+916,2918,351,791,1,,Cody Rhodes,,5.0,False,0,Gunther,Royal Rumble,2023,2023-01-28
+917,2918,351,1519,2,,Gunther,3153.0,3.0,False,0,Sheamus,Royal Rumble,2023,2023-01-28
+918,2918,351,1743,3,,Sheamus,263.0,0.0,False,0,The Miz,Royal Rumble,2023,2023-01-28
+919,2918,351,1041,4,,Gunther,891.0,0.0,False,0,Kofi Kingston,Royal Rumble,2023,2023-01-28
+920,2918,351,954,5,,Dominik Mysterio and Finn Bálor,1797.0,0.0,False,0,Johnny Gargano,Royal Rumble,2023,2023-01-28
+921,2918,351,2016,6,,Gunther,629.0,0.0,False,0,Xavier Woods,Royal Rumble,2023,2023-01-28
+922,2918,351,999,7,,Drew McIntyre,251.0,0.0,False,0,Karrion Kross,Royal Rumble,2023,2023-01-28
+923,2918,351,513,8,,Brock Lesnar,522.0,0.0,False,0,Chad Gable,Royal Rumble,2023,2023-01-28
+924,2918,351,681,9,,Gunther,2350.0,3.0,False,0,Drew McIntyre,Royal Rumble,2023,2023-01-28
+925,2918,351,1461,10,,Brock Lesnar,296.0,0.0,False,0,Santos Escobar,Royal Rumble,2023,2023-01-28
+926,2918,351,337,11,,Brock Lesnar,148.0,0.0,False,0,Angelo Dawkins,Royal Rumble,2023,2023-01-28
+927,2918,351,459,12,,Bobby Lashley,148.0,3.0,False,0,Brock Lesnar,Royal Rumble,2023,2023-01-28
+928,2918,351,432,13,,"Seth ""Freakin"" Rollins",434.0,1.0,False,0,Bobby Lashley,Royal Rumble,2023,2023-01-28
+929,2918,351,371,14,,"Seth ""Freakin"" Rollins",7.0,0.0,False,0,Baron Corbin,Royal Rumble,2023,2023-01-28
+930,2918,351,1485,15,,Logan Paul,2238.0,2.0,False,0,"Seth ""Freakin"" Rollins",Royal Rumble,2023,2023-01-28
+931,2918,351,1280,16,,Drew McIntyre and Sheamus,188.0,0.0,False,0,Otis,Royal Rumble,2023,2023-01-28
+932,2918,351,1346,17,,Unable to compete [ e ],0.0,0.0,False,0,Rey Mysterio,Royal Rumble,2023,2023-01-28
+933,2918,351,668,18,,Cody Rhodes,1544.0,1.0,False,0,Dominik Mysterio,Royal Rumble,2023,2023-01-28
+934,2918,351,707,19,,Drew McIntyre and Sheamus,39.0,0.0,False,0,Elias,Royal Rumble,2023,2023-01-28
+935,2918,351,760,20,,Edge,465.0,2.0,False,0,Finn Bálor,Royal Rumble,2023,2023-01-28
+936,2918,351,438,21,,Gunther,42.0,0.0,False,0,Booker T,Royal Rumble,2023,2023-01-28
+937,2918,351,613,22,,Edge,243.0,1.0,False,0,Damian Priest,Royal Rumble,2023,2023-01-28
+938,2918,351,1211,23,,Damian Priest,44.0,0.0,False,0,Montez Ford,Royal Rumble,2023,2023-01-28
+939,2918,351,697,24,,Finn Bálor [ f ],64.0,2.0,False,0,Edge,Royal Rumble,2023,2023-01-28
+940,2918,351,357,25,,Cody Rhodes,939.0,1.0,False,0,Austin Theory,Royal Rumble,2023,2023-01-28
+941,2918,351,1276,26,,Braun Strowman,146.0,0.0,False,0,Omos,Royal Rumble,2023,2023-01-28
+942,2918,351,446,27,,Cody Rhodes,672.0,1.0,False,0,Braun Strowman,Royal Rumble,2023,2023-01-28
+943,2918,351,1372,28,,Austin Theory,554.0,0.0,False,0,Ricochet,Royal Rumble,2023,2023-01-28
+944,2918,351,1101,29,,Cody Rhodes,657.0,1.0,False,0,Logan Paul,Royal Rumble,2023,2023-01-28
+945,2918,351,580,30,,Winner,908.0,5.0,True,0,Cody Rhodes,Royal Rumble,2023,2023-01-28
+946,2918,351,1356,1,,Winner,3668.0,7.0,True,0,Rhea Ripley,Royal Rumble,2023,2023-01-28
+947,2918,351,1097,2,,Rhea Ripley,3668.0,3.0,False,0,Liv Morgan,Royal Rumble,2023,2023-01-28
+948,2918,351,622,3,,Damage CTRL [ ii ],703.0,0.0,False,0,Dana Brooke,Royal Rumble,2023,2023-01-28
+949,2918,351,712,4,,Dakota Kai,612.0,0.0,False,0,Emma,Royal Rumble,2023,2023-01-28
+950,2918,351,1516,5,,Damage CTRL [ ii ],808.0,0.0,False,0,Shayna Baszler,Royal Rumble,2023,2023-01-28
+951,2918,351,380,6,,Liv Morgan,1629.0,5.0,False,0,Bayley,Royal Rumble,2023,2023-01-28
+952,2918,351,364,7,,Rhea Ripley,36.0,0.0,False,0,B-Fab,Royal Rumble,2023,2023-01-28
+953,2918,351,1430,8,,Damage CTRL [ ii ],274.0,0.0,False,0,Roxanne Perez,Royal Rumble,2023,2023-01-28
+954,2918,351,610,9,,Becky Lynch,1340.0,5.0,False,0,Dakota Kai,Royal Rumble,2023,2023-01-28
+955,2918,351,841,10,,Becky Lynch,1249.0,5.0,False,0,Iyo Sky,Royal Rumble,2023,2023-01-28
+956,2918,351,1236,11,,Damage CTRL [ ii ],188.0,0.0,False,0,Natalya,Royal Rumble,2023,2023-01-28
+957,2918,351,491,12,,Iyo Sky,311.0,0.0,False,0,Candice LeRae,Royal Rumble,2023,2023-01-28
+958,2918,351,2032,13,,Sonya Deville,1594.0,0.0,False,0,Zoey Stark,Royal Rumble,2023,2023-01-28
+959,2918,351,2022,14,,Zelina Vega,930.0,0.0,False,0,Xia Li,Royal Rumble,2023,2023-01-28
+960,2918,351,386,15,,Bayley,645.0,2.0,False,0,Becky Lynch,Royal Rumble,2023,2023-01-28
+961,2918,351,1658,16,,Asuka,221.0,0.0,False,0,Tegan Nox,Royal Rumble,2023,2023-01-28
+962,2918,351,353,17,,Rhea Ripley,1995.0,3.0,False,0,Asuka,Royal Rumble,2023,2023-01-28
+963,2918,351,1301,18,,Raquel Rodriguez,1685.0,2.0,False,0,Piper Niven,Royal Rumble,2023,2023-01-28
+964,2918,351,1600,19,,Michelle McCool,718.0,0.0,False,0,Tamina,Royal Rumble,2023,2023-01-28
+965,2918,351,534,20,,Rhea Ripley,5.0,0.0,False,0,Chelsea Green,Royal Rumble,2023,2023-01-28
+966,2918,351,2031,21,,Lacey Evans,690.0,1.0,False,0,Zelina Vega,Royal Rumble,2023,2023-01-28
+967,2918,351,1330,22,,Rhea Ripley,1240.0,3.0,False,0,Raquel Rodriguez,Royal Rumble,2023,2023-01-28
+968,2918,351,1173,23,,Piper Niven,1064.0,2.0,False,0,Mia Yim,Royal Rumble,2023,2023-01-28
+969,2918,351,1068,24,,Raquel Rodriguez,845.0,2.0,False,0,Lacey Evans,Royal Rumble,2023,2023-01-28
+970,2918,351,1176,25,,Rhea Ripley,833.0,2.0,False,0,Michelle McCool,Royal Rumble,2023,2023-01-28
+971,2918,351,823,26,,Sonya Deville,291.0,0.0,False,0,Indi Hartwell,Royal Rumble,2023,2023-01-28
+972,2918,351,1553,27,,Asuka,617.0,3.0,False,0,Sonya Deville,Royal Rumble,2023,2023-01-28
+973,2918,351,1536,28,,Mia Yim,519.0,1.0,False,0,Shotzi,Royal Rumble,2023,2023-01-28
+974,2918,351,1262,29,,Liv Morgan,556.0,1.0,False,0,Nikki Cross,Royal Rumble,2023,2023-01-28
+975,2918,351,1245,30,,11 women [ iii ],117.0,0.0,False,0,Nia Jax,Royal Rumble,2023,2023-01-28
+976,3023,365,1236,1,,Tegan Nox,1257.0,0.0,False,0,Natalya,Royal Rumble,2024,2024-01-27
+977,3023,365,1234,2,,Jade Cargill,,2.0,False,0,Naomi,Royal Rumble,2024,2024-01-27
+978,3023,365,380,3,,Winner,,7.0,True,0,Bayley,Royal Rumble,2024,2024-01-27
+979,3023,365,491,4,,"Bayley, Asuka, and Kairi Sane",923.0,0.0,False,0,Candice LeRae,Royal Rumble,2024,2024-01-27
+980,3023,365,964,5,,Bianca Belair,1150.0,0.0,False,0,Jordynne Grace,Royal Rumble,2024,2024-01-27
+981,3023,365,823,6,,Bayley,203.0,0.0,False,0,Indi Hartwell,Royal Rumble,2024,2024-01-27
+982,3023,365,353,7,,Katana Chance and Kayden Carter,779.0,1.0,False,0,Asuka,Royal Rumble,2024,2024-01-27
+983,3023,365,840,8,,Nia Jax,1407.0,0.0,False,0,Ivy Nile,Royal Rumble,2024,2024-01-27
+984,3023,365,1002,9,,Nia Jax,1548.0,1.0,False,0,Katana Chance,Royal Rumble,2024,2024-01-27
+985,3023,365,396,10,,Bayley,2866.0,1.0,False,0,Bianca Belair,Royal Rumble,2024,2024-01-27
+986,3023,365,982,11,,Kayden Carter,300.0,1.0,False,0,Kairi Sane,Royal Rumble,2024,2024-01-27
+987,3023,365,1658,12,,Bayley,82.0,1.0,False,0,Tegan Nox,Royal Rumble,2024,2024-01-27
+988,3023,365,1007,13,,Piper Niven,708.0,2.0,False,0,Kayden Carter,Royal Rumble,2024,2024-01-27
+989,3023,365,534,14,,Becky Lynch,1052.0,0.0,False,0,Chelsea Green,Royal Rumble,2024,2024-01-27
+990,3023,365,1301,15,,Nia Jax,759.0,1.0,False,0,Piper Niven,Royal Rumble,2024,2024-01-27
+991,3023,365,2022,16,,Nia Jax,406.0,0.0,False,0,Xia Li,Royal Rumble,2024,2024-01-27
+992,3023,365,2031,17,,Shayna Baszler and Zoey Stark,1200.0,0.0,False,0,Zelina Vega,Royal Rumble,2024,2024-01-27
+993,3023,365,1164,18,,Bayley,399.0,0.0,False,0,Maxxine Dupri,Royal Rumble,2024,2024-01-27
+994,3023,365,1245,19,,Jade Cargill,1215.0,8.0,False,0,Nia Jax,Royal Rumble,2024,2024-01-27
+995,3023,365,1536,20,,Nia Jax,914.0,0.0,False,0,Shotzi,Royal Rumble,2024,2024-01-27
+996,3023,365,386,21,,Jade Cargill and Naomi,1349.0,1.0,False,0,Becky Lynch,Royal Rumble,2024,2024-01-27
+997,3023,365,44,22,,Naomi,381.0,0.0,False,0,Alba Fyre,Royal Rumble,2024,2024-01-27
+998,3023,365,1516,23,,Nia Jax,507.0,1.0,False,0,Shayna Baszler,Royal Rumble,2024,2024-01-27
+999,3023,365,1895,24,,Nia Jax,5.0,0.0,False,0,Valhalla,Royal Rumble,2024,2024-01-27
+1000,3023,365,1182,25,,Nia Jax,302.0,0.0,False,0,Michin,Royal Rumble,2024,2024-01-27
+1001,3023,365,2032,26,,Liv Morgan,598.0,1.0,False,0,Zoey Stark,Royal Rumble,2024,2024-01-27
+1002,3023,365,1430,27,,Tiffany Stratton,509.0,0.0,False,0,Roxanne Perez,Royal Rumble,2024,2024-01-27
+1003,3023,365,860,28,,Liv Morgan,663.0,3.0,False,0,Jade Cargill,Royal Rumble,2024,2024-01-27
+1004,3023,365,1814,29,,Bayley,412.0,1.0,False,0,Tiffany Stratton,Royal Rumble,2024,2024-01-27
+1005,3023,365,1097,30,,Bayley,386.0,2.0,False,0,Liv Morgan,Royal Rumble,2024,2024-01-27
+1006,3023,365,907,1,,Gunther,3055.0,1.0,False,0,Jey Uso,Royal Rumble,2024,2024-01-27
+1007,3023,365,917,2,,Bron Breakker,2049.0,0.0,False,0,Jimmy Uso,Royal Rumble,2024,2024-01-27
+1008,3023,365,789,3,,Carmelo Hayes,245.0,0.0,False,0,Grayson Waller,Royal Rumble,2024,2024-01-27
+1009,3023,365,330,4,,Bronson Reed,1379.0,0.0,False,0,Andrade,Royal Rumble,2024,2024-01-27
+1010,3023,365,501,5,,Finn Bálor,1026.0,1.0,False,0,Carmelo Hayes,Royal Rumble,2024,2024-01-27
+1011,3023,365,1529,6,,Cody Rhodes,1251.0,0.0,False,0,Shinsuke Nakamura,Royal Rumble,2024,2024-01-27
+1012,3023,365,1461,7,,Carlito,397.0,0.0,False,0,Santos Escobar,Royal Rumble,2024,2024-01-27
+1013,3023,365,999,8,,Bobby Lashley,380.0,1.0,False,0,Karrion Kross,Royal Rumble,2024,2024-01-27
+1014,3023,365,3,9,,CM Punk,1999.0,1.0,False,0,"""Dirty"" Dominik Mysterio",Royal Rumble,2024,2024-01-27
+1015,3023,365,493,10,,Bobby Lashley,143.0,1.0,False,0,Carlito,Royal Rumble,2024,2024-01-27
+1016,3023,365,432,11,,Karrion Kross [ i ],94.0,2.0,False,0,Bobby Lashley,Royal Rumble,2024,2024-01-27
+1017,3023,365,1111,12,,Kofi Kingston,569.0,0.0,False,0,Ludwig Kaiser,Royal Rumble,2024,2024-01-27
+1018,3023,365,357,13,,Cody Rhodes,238.0,0.0,False,0,Austin Theory,Royal Rumble,2024,2024-01-27
+1019,3023,365,760,14,,Bron Breakker,681.0,1.0,False,0,Finn Bálor,Royal Rumble,2024,2024-01-27
+1020,3023,365,580,15,,Winner,2601.0,4.0,True,0,Cody Rhodes,Royal Rumble,2024,2024-01-27
+1021,3023,365,471,16,,Omos,639.0,1.0,False,0,Bronson Reed,Royal Rumble,2024,2024-01-27
+1022,3023,365,1041,17,,Gunther,214.0,1.0,False,0,Kofi Kingston,Royal Rumble,2024,2024-01-27
+1023,3023,365,791,18,,Cody Rhodes,1810.0,3.0,False,0,Gunther,Royal Rumble,2024,2024-01-27
+1024,3023,365,834,19,,Bron Breakker,297.0,0.0,False,0,Ivar,Royal Rumble,2024,2024-01-27
+1025,3023,365,469,20,,"""Dirty"" Dominik Mysterio",319.0,4.0,False,0,Bron Breakker [ ii ],Royal Rumble,2024,2024-01-27
+1026,3023,365,1276,21,,Bron Breakker,163.0,1.0,False,0,Omos,Royal Rumble,2024,2024-01-27
+1027,3023,365,1287,22,,Himself,38.0,1.0,False,0,Pat McAfee,Royal Rumble,2024,2024-01-27
+1028,3023,365,882,23,,Jey Uso,3.0,0.0,False,0,JD McDonagh,Royal Rumble,2024,2024-01-27
+1029,3023,365,1312,24,,Damian Priest,176.0,0.0,False,0,R-Truth,Royal Rumble,2024,2024-01-27
+1030,3023,365,1743,25,,Gunther,366.0,0.0,False,0,The Miz,Royal Rumble,2024,2024-01-27
+1031,3023,365,613,26,,Sami Zayn,624.0,1.0,False,0,Damian Priest,Royal Rumble,2024,2024-01-27
+1032,3023,365,575,27,,Cody Rhodes,1305.0,2.0,False,0,CM Punk,Royal Rumble,2024,2024-01-27
+1033,3023,365,1372,28,,Drew McIntyre,310.0,0.0,False,0,Ricochet,Royal Rumble,2024,2024-01-27
+1034,3023,365,681,29,,CM Punk,592.0,2.0,False,0,Drew McIntyre,Royal Rumble,2024,2024-01-27
+1035,3023,365,1448,30,,Drew McIntyre,199.0,1.0,False,0,Sami Zayn,Royal Rumble,2024,2024-01-27
+1036,3125,382,841,1,,Nia Jax,4005.0,1.0,False,0,Iyo Sky,Royal Rumble,2025,2025-02-01
+1037,3125,382,1097,2,,Nia Jax,4020.0,2.0,False,0,Liv Morgan,Royal Rumble,2025,2025-02-01
+1038,3125,382,1430,3,,Charlotte Flair,,1.0,False,0,Roxanne Perez,Royal Rumble,2025,2025-02-01
+1039,3125,382,1119,4,,Ivy Nile,973.0,0.0,False,0,Lyra Valkyria,Royal Rumble,2025,2025-02-01
+1040,3125,382,534,5,,Piper Niven,1612.0,2.0,False,0,Chelsea Green,Royal Rumble,2025,2025-02-01
+1041,3125,382,364,6,,Chelsea Green,440.0,0.0,False,0,B-Fab,Royal Rumble,2025,2025-02-01
+1042,3125,382,840,7,,Maxxine Dupri,989.0,1.0,False,0,Ivy Nile,Royal Rumble,2025,2025-02-01
+1043,3125,382,2032,8,,Bianca Belair and Naomi,1018.0,1.0,False,0,Zoey Stark,Royal Rumble,2025,2025-02-01
+1044,3125,382,1079,9,,Chelsea Green,1042.0,0.0,False,0,Lash Legend,Royal Rumble,2025,2025-02-01
+1045,3125,382,396,10,,Nia Jax,2957.0,1.0,False,0,Bianca Belair,Royal Rumble,2025,2025-02-01
+1046,3125,382,1516,11,,Bayley,612.0,1.0,False,0,Shayna Baszler,Royal Rumble,2025,2025-02-01
+1047,3125,382,380,12,,Nikki Bella,2819.0,1.0,False,0,Bayley,Royal Rumble,2025,2025-02-01
+1048,3125,382,1553,13,,Iyo Sky,364.0,1.0,False,0,Sonya Deville,Royal Rumble,2025,2025-02-01
+1049,3125,382,1164,14,,Pure Fusion Collective [ b ],80.0,1.0,False,0,Maxxine Dupri,Royal Rumble,2025,2025-02-01
+1050,3125,382,1234,15,,Nia Jax,2284.0,1.0,False,0,Naomi,Royal Rumble,2025,2025-02-01
+1051,3125,382,861,16,,Jordynne Grace,414.0,0.0,False,0,Jaida Parker,Royal Rumble,2025,2025-02-01
+1052,3125,382,1301,17,,Charlotte Flair,1450.0,1.0,False,0,Piper Niven,Royal Rumble,2025,2025-02-01
+1053,3125,382,1236,18,,Liv Morgan,1034.0,0.0,False,0,Natalya,Royal Rumble,2025,2025-02-01
+1054,3125,382,964,19,,Giulia,1361.0,1.0,False,0,Jordynne Grace,Royal Rumble,2025,2025-02-01
+1055,3125,382,1182,20,,Charlotte Flair,1019.0,0.0,False,0,Michin,Royal Rumble,2025,2025-02-01
+1056,3125,382,54,21,,Liv Morgan,661.0,0.0,False,0,Alexa Bliss,Royal Rumble,2025,2025-02-01
+1057,3125,382,2031,22,,Nia Jax [ c ],1084.0,0.0,False,0,Zelina Vega,Royal Rumble,2025,2025-02-01
+1058,3125,382,491,23,,Trish Stratus,992.0,0.0,False,0,Candice LeRae,Royal Rumble,2025,2025-02-01
+1059,3125,382,1568,24,,Nia Jax,1142.0,0.0,False,0,Stephanie Vaquer,Royal Rumble,2025,2025-02-01
+1060,3125,382,1857,25,,Nia Jax,793.0,1.0,False,0,Trish Stratus,Royal Rumble,2025,2025-02-01
+1061,3125,382,1330,26,,Nia Jax,902.0,0.0,False,0,Raquel Rodriguez,Royal Rumble,2025,2025-02-01
+1062,3125,382,521,27,,Winner [ d ],904.0,4.0,False,0,Charlotte Flair,Royal Rumble,2025,2025-02-01
+1063,3125,382,777,28,,Roxanne Perez,608.0,1.0,False,0,Giulia,Royal Rumble,2025,2025-02-01
+1064,3125,382,1245,29,,Charlotte Flair,493.0,9.0,False,0,Nia Jax,Royal Rumble,2025,2025-02-01
+1065,3125,382,1259,30,,Nia Jax,184.0,1.0,False,0,Nikki Bella,Royal Rumble,2025,2025-02-01
+1066,3125,382,1346,1,,Jacob Fatu,1481.0,0.0,False,0,Rey Mysterio,Royal Rumble,2025,2025-02-01
+1067,3125,382,1293,2,,Finn Bálor,2525.0,1.0,False,0,Penta,Royal Rumble,2025,2025-02-01
+1068,3125,382,513,3,,Jacob Fatu,1298.0,0.0,False,0,Chad Gable,Royal Rumble,2025,2025-02-01
+1069,3125,382,501,4,,Bron Breakker,419.0,0.0,False,0,Carmelo Hayes,Royal Rumble,2025,2025-02-01
+1070,3125,382,1461,5,,Bron Breakker,342.0,0.0,False,0,Santos Escobar,Royal Rumble,2025,2025-02-01
+1071,3125,382,1280,6,,Bron Breakker and IShowSpeed,583.0,1.0,False,0,Otis,Royal Rumble,2025,2025-02-01
+1072,3125,382,466,7,,Roman Reigns,1346.0,3.0,False,0,Bron Breakker,Royal Rumble,2025,2025-02-01
+1073,3125,382,832,8,,Otis [ f ],56.0,1.0,False,0,IShowSpeed [ e ],Royal Rumble,2025,2025-02-01
+1074,3125,382,1519,9,,Roman Reigns,938.0,0.0,False,0,Sheamus,Royal Rumble,2025,2025-02-01
+1075,3125,382,917,10,,Jacob Fatu,934.0,0.0,False,0,Jimmy Uso,Royal Rumble,2025,2025-02-01
+1076,3125,382,330,11,,Jacob Fatu,197.0,0.0,False,0,Andrade,Royal Rumble,2025,2025-02-01
+1077,3125,382,854,12,,Braun Strowman,1456.0,4.0,False,0,Jacob Fatu,Royal Rumble,2025,2025-02-01
+1078,3125,382,1111,13,,Penta,6.0,0.0,False,0,Ludwig Kaiser,Royal Rumble,2025,2025-02-01
+1079,3125,382,1743,14,,Roman Reigns,325.0,0.0,False,0,The Miz,Royal Rumble,2025,2025-02-01
+1080,3125,382,932,15,,Roman Reigns,215.0,0.0,False,0,Joe Hendry,Royal Rumble,2025,2025-02-01
+1081,3125,382,1409,16,,CM Punk,2235.0,4.0,False,0,Roman Reigns,Royal Rumble,2025,2025-02-01
+1082,3125,382,681,17,,Damian Priest,1615.0,0.0,False,0,Drew McIntyre,Royal Rumble,2025,2025-02-01
+1083,3125,382,760,18,,John Cena,670.0,1.0,False,0,Finn Bálor,Royal Rumble,2025,2025-02-01
+1084,3125,382,1529,19,,Jey Uso,197.0,0.0,False,0,Shinsuke Nakamura,Royal Rumble,2025,2025-02-01
+1085,3125,382,907,20,,Winner,2219.0,3.0,True,0,Jey Uso,Royal Rumble,2025,2025-02-01
+1086,3125,382,28,21,,Logan Paul,1262.0,1.0,False,0,AJ Styles,Royal Rumble,2025,2025-02-01
+1087,3125,382,446,22,,John Cena,132.0,1.0,False,0,Braun Strowman,Royal Rumble,2025,2025-02-01
+1088,3125,382,940,23,,Jey Uso,1831.0,3.0,False,0,John Cena,Royal Rumble,2025,2025-02-01
+1089,3125,382,575,24,,Logan Paul,1126.0,2.0,False,0,CM Punk,Royal Rumble,2025,2025-02-01
+1090,3125,382,1485,25,,CM Punk,1034.0,0.0,False,0,"Seth ""Freakin"" Rollins",Royal Rumble,2025,2025-02-01
+1091,3125,382,3,26,,Damian Priest,249.0,0.0,False,0,"""Dirty"" Dominik Mysterio",Royal Rumble,2025,2025-02-01
+1092,3125,382,1448,27,,Jey Uso,322.0,0.0,False,0,Sami Zayn,Royal Rumble,2025,2025-02-01
+1093,3125,382,613,28,,LA Knight,374.0,2.0,False,0,Damian Priest,Royal Rumble,2025,2025-02-01
+1094,3125,382,1065,29,,AJ Styles,306.0,1.0,False,0,LA Knight,Royal Rumble,2025,2025-02-01
+1095,3125,382,1101,30,,John Cena,679.0,2.0,False,0,Logan Paul,Royal Rumble,2025,2025-02-01
+1096,3268,405,521,1,,Lash Legend,3589.0,2.0,False,0,Charlotte Flair,Royal Rumble,2026,2026-01-31
+1097,3268,405,54,2,,Charlotte Flair,809.0,0.0,False,0,Alexa Bliss,Royal Rumble,2026,2026-01-31
+1098,3268,405,1030,3,,Raquel Rodriguez,1650.0,0.0,False,0,Kiana James,Royal Rumble,2026,2026-01-31
+1099,3268,405,1245,4,,Charlotte Flair,569.0,0.0,False,0,Nia Jax,Royal Rumble,2026,2026-01-31
+1100,3268,405,840,5,,Jordynne Grace,384.0,0.0,False,0,Ivy Nile,Royal Rumble,2026,2026-01-31
+1101,3268,405,1105,6,,Jordynne Grace,272.0,0.0,False,0,Lola Vice,Royal Rumble,2026,2026-01-31
+1102,3268,405,491,7,,Jordynne Grace,133.0,0.0,False,0,Candice LeRae,Royal Rumble,2026,2026-01-31
+1103,3268,405,964,8,,Lash Legend,887.0,3.0,False,0,Jordynne Grace,Royal Rumble,2026,2026-01-31
+1104,3268,405,386,9,,Nattie,455.0,1.0,False,0,Becky Lynch,Royal Rumble,2026,2026-01-31
+1105,3268,405,1549,10,,Tiffany Stratton,3047.0,1.0,False,0,Sol Ruca,Royal Rumble,2026,2026-01-31
+1106,3268,405,1430,11,,Rhea Ripley,1332.0,0.0,False,0,Roxanne Perez,Royal Rumble,2026,2026-01-31
+1107,3268,405,1164,12,,Becky Lynch,167.0,0.0,False,0,Maxxine Dupri,Royal Rumble,2026,2026-01-31
+1108,3268,405,1243,13,,Liv Morgan,1381.0,1.0,False,0,Nattie,Royal Rumble,2026,2026-01-31
+1109,3268,405,1097,14,,Winner,2630.0,3.0,True,0,Liv Morgan,Royal Rumble,2026,2026-01-31
+1110,3268,405,1079,15,,Rhea Ripley,2326.0,5.0,False,0,Lash Legend,Royal Rumble,2026,2026-01-31
+1111,3268,405,2030,16,,Giulia,654.0,0.0,False,0,Zelina,Royal Rumble,2026,2026-01-31
+1112,3268,405,1330,17,,Liv Morgan,2129.0,2.0,False,0,Raquel Rodriguez,Royal Rumble,2026,2026-01-31
+1113,3268,405,534,18,,Rhea Ripley,515.0,0.0,False,0,Chelsea Green,Royal Rumble,2026,2026-01-31
+1114,3268,405,777,19,,Lyra Valkyria,915.0,1.0,False,0,Giulia,Royal Rumble,2026,2026-01-31
+1115,3268,405,841,20,,Lash Legend,1651.0,1.0,False,0,Iyo Sky,Royal Rumble,2026,2026-01-31
+1116,3268,405,353,21,,Kairi Sane,876.0,0.0,False,0,Asuka,Royal Rumble,2026,2026-01-31
+1117,3268,405,1356,22,,Raquel Rodriguez,1540.0,3.0,False,0,Rhea Ripley,Royal Rumble,2026,2026-01-31
+1118,3268,405,380,23,,Nikki Bella,982.0,0.0,False,0,Bayley,Royal Rumble,2026,2026-01-31
+1119,3268,405,858,24,,Sol Ruca,971.0,1.0,False,0,Jacy Jayne,Royal Rumble,2026,2026-01-31
+1120,3268,405,1259,25,,Lash Legend,842.0,1.0,False,0,Nikki Bella,Royal Rumble,2026,2026-01-31
+1121,3268,405,1119,26,,Brie Bella,644.0,1.0,False,0,Lyra Valkyria,Royal Rumble,2026,2026-01-31
+1122,3268,405,1009,27,,Jacy Jayne,562.0,0.0,False,0,Kelani Jordan,Royal Rumble,2026,2026-01-31
+1123,3268,405,982,28,,Iyo Sky,96.0,1.0,False,0,Kairi Sane,Royal Rumble,2026,2026-01-31
+1124,3268,405,456,29,,Lash Legend,410.0,1.0,False,0,Brie Bella,Royal Rumble,2026,2026-01-31
+1125,3268,405,1814,30,,Liv Morgan,768.0,1.0,False,0,Tiffany Stratton,Royal Rumble,2026,2026-01-31
+1126,3268,405,1273,1,,Brock Lesnar,2344.0,5.0,False,0,Oba Femi,Royal Rumble,2026,2026-01-31
+1127,3268,405,466,2,,Oba Femi,10.0,0.0,False,0,Bron Breakker,Royal Rumble,2026,2026-01-31
+1128,3268,405,1551,3,,Oba Femi,231.0,0.0,False,0,Solo Sikoa,Royal Rumble,2026,2026-01-31
+1129,3268,405,1346,4,,Oba Femi,163.0,0.0,False,0,Rey Mysterio,Royal Rumble,2026,2026-01-31
+1130,3268,405,1433,5,,Oba Femi,32.0,0.0,False,0,Rusev,Royal Rumble,2026,2026-01-31
+1131,3268,405,1149,6,,Oba Femi,55.0,0.0,False,0,Matt Cardona,Royal Rumble,2026,2026-01-31
+1132,3268,405,613,7,,Royce Keys,666.0,0.0,False,0,Damian Priest,Royal Rumble,2026,2026-01-31
+1133,3268,405,884,8,,Randy Orton,2458.0,0.0,False,0,Je'Von Evans,Royal Rumble,2026,2026-01-31
+1134,3268,405,1219,9,,Trick Williams,125.0,0.0,False,0,Mr. Iguana,Royal Rumble,2026,2026-01-31
+1135,3268,405,1843,10,,Cody Rhodes,379.0,2.0,False,0,Trick Williams,Royal Rumble,2026,2026-01-31
+1136,3268,405,580,11,,Drew McIntyre [ a ],2210.0,3.0,False,0,Cody Rhodes,Royal Rumble,2026,2026-01-31
+1137,3268,405,705,12,,"""The Original"" El Grande Americano",165.0,0.0,False,0,El Grande Americano,Royal Rumble,2026,2026-01-31
+1138,3268,405,10,13,,Trick Williams,81.0,1.0,False,0,"""The Original"" El Grande Americano",Royal Rumble,2026,2026-01-31
+1139,3268,405,1431,14,,Bronson Reed,595.0,1.0,False,0,Royce Keys,Royal Rumble,2026,2026-01-31
+1140,3268,405,357,15,,LA Knight,608.0,1.0,False,0,Austin Theory,Royal Rumble,2026,2026-01-31
+1141,3268,405,471,16,,LA Knight,542.0,2.0,False,0,Bronson Reed,Royal Rumble,2026,2026-01-31
+1142,3268,405,820,17,,Brock Lesnar,660.0,0.0,False,0,Ilja Dragunov,Royal Rumble,2026,2026-01-31
+1143,3268,405,1066,18,,Austin Theory,266.0,0.0,False,0,La Parka,Royal Rumble,2026,2026-01-31
+1144,3268,405,677,19,,Bronson Reed,181.0,0.0,False,0,Dragon Lee,Royal Rumble,2026,2026-01-31
+1145,3268,405,1101,20,,Roman Reigns,1507.0,0.0,False,0,Logan Paul,Royal Rumble,2026,2026-01-31
+1146,3268,405,1065,21,,Cody Rhodes,865.0,3.0,False,0,LA Knight,Royal Rumble,2026,2026-01-31
+1147,3268,405,459,22,,Cody Rhodes and LA Knight,332.0,3.0,False,0,Brock Lesnar,Royal Rumble,2026,2026-01-31
+1148,3268,405,1743,23,,Roman Reigns,425.0,0.0,False,0,The Miz,Royal Rumble,2026,2026-01-31
+1149,3268,405,1344,24,,Brock Lesnar,28.0,0.0,False,0,Rey Fenix,Royal Rumble,2026,2026-01-31
+1150,3268,405,907,25,,Roman Reigns,788.0,0.0,False,0,Jey Uso,Royal Rumble,2026,2026-01-31
+1151,3268,405,1409,26,,Winner,948.0,5.0,True,0,Roman Reigns,Royal Rumble,2026,2026-01-31
+1152,3268,405,854,27,,Roman Reigns,541.0,0.0,False,0,Jacob Fatu,Royal Rumble,2026,2026-01-31
+1153,3268,405,1293,28,,Gunther,361.0,0.0,False,0,Penta,Royal Rumble,2026,2026-01-31
+1154,3268,405,1317,29,,Gunther,460.0,1.0,False,0,Randy Orton,Royal Rumble,2026,2026-01-31
+1155,3268,405,791,30,,Roman Reigns,471.0,2.0,False,0,Gunther,Royal Rumble,2026,2026-01-31

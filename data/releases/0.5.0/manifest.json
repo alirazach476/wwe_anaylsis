@@ -1,0 +1,317 @@
+{
+  "name": "wwe-ple-history",
+  "version": "0.5.0",
+  "generated_at": "2026-11-08T15:14:57.098090Z",
+  "scope": {
+    "start_year": 2000,
+    "end_year": 2027
+  },
+  "stats": {
+    "events": 424,
+    "matches": 3383,
+    "announced_events": 5
+  },
+  "file_count": 59,
+  "files": [
+    {
+      "path": "exports/championships.csv",
+      "bytes": 127169,
+      "sha256": "c1a0d343ca7834ced13cf8b95c5d831018114af290481e49a3ef500b56cac524"
+    },
+    {
+      "path": "exports/event_match_status.csv",
+      "bytes": 60029,
+      "sha256": "743d8403c87503769226893cc2037cb51309cc14fd07f679311d2d3c8a651931"
+    },
+    {
+      "path": "exports/events_inventory.csv",
+      "bytes": 153174,
+      "sha256": "c32ef7eedece20f4d1ee274d921f211bedbad5ae99d3c83d162ece1757ff20ba"
+    },
+    {
+      "path": "exports/match_championships.csv",
+      "bytes": 176608,
+      "sha256": "f8da5f42bdaf5398347daae7e5d2194e61303013cbced133000c3ead74e06ac3"
+    },
+    {
+      "path": "exports/match_participants.csv",
+      "bytes": 919414,
+      "sha256": "c49fa26f3f3d5b0df4ac0e14fbb4b9eb6923422ce8d511424d6176d992b29f71"
+    },
+    {
+      "path": "exports/matches.csv",
+      "bytes": 1292179,
+      "sha256": "c87fd773c0027e54300e852f1100113bd21a5114454dc1a06be0cf7616748d54"
+    },
+    {
+      "path": "exports/special_elimination_chamber.csv",
+      "bytes": 13524,
+      "sha256": "05e9193cd6675c2e92e607e502c67be0ee45e5ba066ff9e605c16730aec2f742"
+    },
+    {
+      "path": "exports/special_mitb_cash_ins.csv",
+      "bytes": 14678,
+      "sha256": "e804a9be9613d69772d26b479d4b4ebeede55b57121b1cc21584fe469adc31a8"
+    },
+    {
+      "path": "exports/special_money_in_the_bank.csv",
+      "bytes": 25417,
+      "sha256": "66057bc6652d6e90e58154e610ee3b0686ea4a92024235a6d4f37633ba750a3d"
+    },
+    {
+      "path": "exports/special_royal_rumble.csv",
+      "bytes": 153300,
+      "sha256": "f5cd872c98f71a1d28bb9d311ce3a82d13b8db5f51b89fb596528632e823eeb4"
+    },
+    {
+      "path": "exports/special_survivor_series.csv",
+      "bytes": 33152,
+      "sha256": "1be9155228ae8c1fa4218c5b228986ae3d50f61822d5a923a9d682570f57d93b"
+    },
+    {
+      "path": "exports/wrestler_aliases.csv",
+      "bytes": 118666,
+      "sha256": "96f5844b69d45d919e0c1bde77f4dd07dc9b021bb15cf9714a4188980ac4394c"
+    },
+    {
+      "path": "exports/wrestlers.csv",
+      "bytes": 122755,
+      "sha256": "17722fd9ac459ea1cdbdf2bb08cbd091e61847578943749fd028b00a0c2d1a1d"
+    },
+    {
+      "path": "exports/championships.parquet",
+      "bytes": 37028,
+      "sha256": "d7e97611bd39ee70c4da831348b77e4b51cb838083b78f4c9780fbf1db265bbe"
+    },
+    {
+      "path": "exports/event_match_status.parquet",
+      "bytes": 25483,
+      "sha256": "85238f49a543dcef84c30bb3d1fdbdb9dadbdbd682bb2e87916880f9142967c3"
+    },
+    {
+      "path": "exports/events_inventory.parquet",
+      "bytes": 44064,
+      "sha256": "01b9f3bd0605c64c3d084396e8e7fc541e22c8b04b6ccff7247c834e6766b464"
+    },
+    {
+      "path": "exports/match_championships.parquet",
+      "bytes": 61255,
+      "sha256": "a74896ad97c81f8827f7f60262b7f4b10ab4a41ce1c6cd2e9c0b93d220e7ac53"
+    },
+    {
+      "path": "exports/match_participants.parquet",
+      "bytes": 177096,
+      "sha256": "3ef03c38be1e27a943ddd5da4fda40c58c371e3edc95309082249388f8d36c5b"
+    },
+    {
+      "path": "exports/matches.parquet",
+      "bytes": 299485,
+      "sha256": "07aea80a8284e3507cf2ef3501e44722d74685c1abc3069348477e774c025dae"
+    },
+    {
+      "path": "exports/special_elimination_chamber.parquet",
+      "bytes": 13450,
+      "sha256": "3075c92d593f62af40ae5039f7bae80e37aa7eef78a94d1a0a027afb13dff164"
+    },
+    {
+      "path": "exports/special_mitb_cash_ins.parquet",
+      "bytes": 13933,
+      "sha256": "9d853f43d7e3069f307420473859384a6c4e348ec867db64ce9c19f3db00c070"
+    },
+    {
+      "path": "exports/special_money_in_the_bank.parquet",
+      "bytes": 21435,
+      "sha256": "a4dc1c656dabb69351a1d49e1bd2c3e483bc022fd463e1f3b72bf7d39043ef51"
+    },
+    {
+      "path": "exports/special_royal_rumble.parquet",
+      "bytes": 36397,
+      "sha256": "a8aae7503801294b444fbc7466e0c0fa354b5d048a3700d6556f5a82062c211a"
+    },
+    {
+      "path": "exports/special_survivor_series.parquet",
+      "bytes": 24558,
+      "sha256": "579ad22c298bb835a04e5efb22cf0d0dfff847ae9f910b84cad73d78b7e1a0fc"
+    },
+    {
+      "path": "exports/wrestler_aliases.parquet",
+      "bytes": 74928,
+      "sha256": "799e404fc2431104e4c77929b76297b5657754e51ccbf5413ba8d5b7054d823f"
+    },
+    {
+      "path": "exports/wrestlers.parquet",
+      "bytes": 75471,
+      "sha256": "86ff8c40e6e6516e68d28b524afaa379e542e1a1d2157312baad9f2bf62afa39"
+    },
+    {
+      "path": "analytics/dim_events.csv",
+      "bytes": 157568,
+      "sha256": "05b282eec895c5a762d236c1eaf081b83c820b14c2fdebd8a5b7314333788af4"
+    },
+    {
+      "path": "analytics/event_geography.csv",
+      "bytes": 3864,
+      "sha256": "c9237c4c7941f7ea816c917adea5329248a1ec442ba4985bf1056f40040705ce"
+    },
+    {
+      "path": "analytics/event_year_summary.csv",
+      "bytes": 739,
+      "sha256": "4acebcfe9632d10cb41055e933a7cba0865af05ea5a6c676e48585bdf8e9e34b"
+    },
+    {
+      "path": "analytics/fct_matches.csv",
+      "bytes": 1558479,
+      "sha256": "2297b702cb017589d1b4a557970fc0309d9e206e1bdbf337a560552ebdfced30"
+    },
+    {
+      "path": "analytics/mitb_cash_in_outcomes.csv",
+      "bytes": 72,
+      "sha256": "72a2168a0b2e62bab1dc81321f5e792c7136909d074e29fe56231504025bb4e9"
+    },
+    {
+      "path": "analytics/mitb_cash_ins.csv",
+      "bytes": 14678,
+      "sha256": "e804a9be9613d69772d26b479d4b4ebeede55b57121b1cc21584fe469adc31a8"
+    },
+    {
+      "path": "analytics/mitb_ladder_winners.csv",
+      "bytes": 25417,
+      "sha256": "66057bc6652d6e90e58154e610ee3b0686ea4a92024235a6d4f37633ba750a3d"
+    },
+    {
+      "path": "analytics/series_summary.csv",
+      "bytes": 2656,
+      "sha256": "93e91df98b67bfe8e9e312f80aa6ba891f954e5a330f7b9d2e9803a2fd29e9f0"
+    },
+    {
+      "path": "analytics/title_changes.csv",
+      "bytes": 177417,
+      "sha256": "71c1e33af9fb92ee8c6f1d2c76905fc552528b3f5a7942e775d55104cf6aa9fe"
+    },
+    {
+      "path": "analytics/wrestler_match_counts.csv",
+      "bytes": 155958,
+      "sha256": "7201b766f6c4da2e5d3582a87942a5c20f4ae8466650cecc2be90f8b7462457b"
+    },
+    {
+      "path": "analytics/dim_events.parquet",
+      "bytes": 46878,
+      "sha256": "d4f1559cb4b7cb851d6d9c6a77d5ec346e4517ea8e1f4e2420bf5b0c80c4fc9d"
+    },
+    {
+      "path": "analytics/event_geography.parquet",
+      "bytes": 5069,
+      "sha256": "1f08ab9a42eafaeb9129889d2f9d71fe984f0d4f313e952ffd8075321ddf5745"
+    },
+    {
+      "path": "analytics/event_year_summary.parquet",
+      "bytes": 5218,
+      "sha256": "1f58ca25c83fc72c388171178e3cd06cc1a7e072f9a5596ec966f023e47490ee"
+    },
+    {
+      "path": "analytics/fct_matches.parquet",
+      "bytes": 317455,
+      "sha256": "4e5e1cac42e6b388e49ec8e39f9deaeaaad84b56c337a46aceed337133a1d902"
+    },
+    {
+      "path": "analytics/mitb_cash_ins.parquet",
+      "bytes": 13933,
+      "sha256": "9d853f43d7e3069f307420473859384a6c4e348ec867db64ce9c19f3db00c070"
+    },
+    {
+      "path": "analytics/series_summary.parquet",
+      "bytes": 6243,
+      "sha256": "7f692e6b8db3ae5934eb028569545bdb3486c024df47bedb7db1cd5395cb9678"
+    },
+    {
+      "path": "analytics/title_changes.parquet",
+      "bytes": 67653,
+      "sha256": "787f45d1a864ecaff14eb7c3cdbb7d5f13341af39ea8f0f85e693e1c16af2ce5"
+    },
+    {
+      "path": "analytics/wrestler_match_counts.parquet",
+      "bytes": 89566,
+      "sha256": "b917e3093b02aa26cb40573616dd6283f5c77df160096c881f9d9884f30a824c"
+    },
+    {
+      "path": "analytics/analytics_stamp.json",
+      "bytes": 971,
+      "sha256": "8db71998642d912fe447862aec7dadbeb1c178e9c0e11851cff55219dcade805"
+    },
+    {
+      "path": "reports/completeness_report.md",
+      "bytes": 1498,
+      "sha256": "a0113c62deafafe43045176cdccf4b15ab2b925bb607636663e1c3d6134fbace"
+    },
+    {
+      "path": "reports/coverage_audit.md",
+      "bytes": 3395,
+      "sha256": "e4b0fb808000c28fa0e26133fd131dbe3009b0f5beb50d6d740713a5b9f6a214"
+    },
+    {
+      "path": "reports/validation_report.md",
+      "bytes": 1133,
+      "sha256": "398d68c8b2b4fd1d9bbb03815242f05927e202383b55a7da97ee9532cae5d680"
+    },
+    {
+      "path": "reports/completeness_report.json",
+      "bytes": 243,
+      "sha256": "82513b007be5afa50795c6c6ebc7eeed10ef6ea134d71f87c373659c54e732cc"
+    },
+    {
+      "path": "reports/coverage_audit.json",
+      "bytes": 6656,
+      "sha256": "6e5f0c731ab4d4cbc86bbb8f38ed51ef4d52d12f926221721f9eb09ba23c031a"
+    },
+    {
+      "path": "reports/validation_report.json",
+      "bytes": 2122,
+      "sha256": "d1db3cdf58c7679e60189db504c31e74ced695e8a3d38054db0026fd4f09a5a7"
+    },
+    {
+      "path": "docs/DATA_DICTIONARY.md",
+      "bytes": 3199,
+      "sha256": "6647754bdc438182a7ffabecabd5ebd8340b30fbbef459e9c1039a6d846996f2"
+    },
+    {
+      "path": "docs/INVENTORY_REVIEW_GATE.md",
+      "bytes": 1561,
+      "sha256": "d25ae0bc4526b825813343f9d3b69852982f9ef406c88441158617992243e0e2"
+    },
+    {
+      "path": "docs/PHASE2_MATCH_COLLECTION.md",
+      "bytes": 1152,
+      "sha256": "560803c07a9f90d06169e52c77b3052f24188589e974f6f6b2e37f48e70fc424"
+    },
+    {
+      "path": "docs/PHASE3_ANALYTICS.md",
+      "bytes": 1413,
+      "sha256": "e6a4403ce49f4ffe53e8ef47cc0f320f90ee162164ab3ca9f18581efe8b16403"
+    },
+    {
+      "path": "docs/PHASE4_ENRICHMENT.md",
+      "bytes": 919,
+      "sha256": "baf8c0d3291bc2e663e7793241558bd7a7f5584804e1d3386f9d7f02becf4bcb"
+    },
+    {
+      "path": "docs/PHASE5_RELEASE.md",
+      "bytes": 1504,
+      "sha256": "77d59aa636c67cb681e1f09eff5d7d72752156d4162c651cee4fab067c0ad61d"
+    },
+    {
+      "path": "docs/SOURCES_AND_METHODOLOGY.md",
+      "bytes": 3502,
+      "sha256": "06007b9d88d8ef9dfd8c7de20a6008f17a61efa8bb952127e6b9cf53138b292a"
+    },
+    {
+      "path": "warehouse/wwe_history.sqlite",
+      "bytes": 4964352,
+      "sha256": "ba956316cf921d18a6f82c16b67102768237ac69930e39fa4d7c4f5f25fc8b59"
+    }
+  ],
+  "notes": [
+    "No fabricated match results or future cards",
+    "MITB cash-ins enriched from Wikipedia list page (Phase 4)",
+    "Chamber entry order left null when not structured on source"
+  ]
+}
