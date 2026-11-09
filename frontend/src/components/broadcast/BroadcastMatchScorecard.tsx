@@ -259,7 +259,7 @@ export function RoyalRumbleGraphic({ match }: { match: any }) {
         )}
         {withEntry.length > 0 && (
           <div className="pst" data-variant="rumble" style={{ marginTop: 14, boxShadow: "none" }}>
-            <div className="pst-scroll" style={{ maxHeight: 260 }}>
+            <div className="pst-scroll" style={{ maxHeight: Math.min(520, 48 + withEntry.length * 34) }}>
               <table>
                 <thead>
                   <tr>
@@ -270,8 +270,8 @@ export function RoyalRumbleGraphic({ match }: { match: any }) {
                   </tr>
                 </thead>
                 <tbody>
-                  {withEntry.slice(0, 30).map((p, i) => (
-                    <tr key={i} className={p.result === "win" ? "is-winner" : undefined}>
+                  {withEntry.map((p, i) => (
+                    <tr key={`${p.entry_number}-${p.wrestler_id || p.ring_name || i}`} className={p.result === "win" ? "is-winner" : undefined}>
                       <td>{p.entry_number}</td>
                       <td>{p.ring_name}</td>
                       <td>{p.result || (p.elimination_order != null ? `Elim #${p.elimination_order}` : "—")}</td>
@@ -280,6 +280,12 @@ export function RoyalRumbleGraphic({ match }: { match: any }) {
                   ))}
                 </tbody>
               </table>
+            </div>
+            <div className="bc-fighter-sub" style={{ marginTop: 8 }}>
+              Showing all {withEntry.length} entrances
+              {parts.length > withEntry.length
+                ? ` (${parts.length - withEntry.length} without entry # omitted)`
+                : ""}
             </div>
           </div>
         )}
