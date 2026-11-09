@@ -31,3 +31,4 @@ dashboard/
 .github/workflows/.cache/
 
 .github/workflows/
+.env*

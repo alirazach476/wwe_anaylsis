@@ -19,7 +19,7 @@ frontend/dist
 data/raw
 data/processed
 data/exports
-logos
+/logos
 *.parquet
 *.pyc
 .env
