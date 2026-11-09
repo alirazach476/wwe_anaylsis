@@ -506,6 +506,52 @@ def list_wrestlers(
     return {"total": int(len(df)), "items": _paginate(df, limit, offset)}
 
 
+@lru_cache
+def _wrestler_profile_enrichment() -> dict[str, Any]:
+    path = _exports_dir() / "wrestler_profile_enrichment.json"
+    if not path.exists():
+        alt = get_settings().data_dir / "warehouse" / "runtime_exports" / "wrestler_profile_enrichment.json"
+        path = alt if alt.exists() else path
+    if not path.exists():
+        return {}
+    try:
+        import json
+
+        return json.loads(path.read_text(encoding="utf-8"))
+    except Exception:
+        return {}
+
+
+def _profile_for_wrestler(wrestler_id: str, canonical_name: str | None = None) -> dict[str, Any]:
+    data = _wrestler_profile_enrichment()
+    by_id = data.get("by_wrestler_id") or {}
+    hit = by_id.get(str(wrestler_id))
+    if hit:
+        return hit
+    # fallback to curated catalog by name
+    try:
+        from wwe_data.analytics.wrestler_moves_catalog import lookup_moves
+
+        curated = lookup_moves(canonical_name or "")
+        return {
+            "finishers": curated.get("finishers") or [],
+            "signature_moves": curated.get("signatures") or [],
+            "managers": curated.get("managers") or [],
+            "role": curated.get("role") or "wrestler",
+            "clients": curated.get("clients") or [],
+            "managers_from_card": [],
+        }
+    except Exception:
+        return {
+            "finishers": [],
+            "signature_moves": [],
+            "managers": [],
+            "role": "wrestler",
+            "clients": [],
+            "managers_from_card": [],
+        }
+
+
 @app.get("/api/wrestlers/{wrestler_id}")
 def get_wrestler(wrestler_id: str) -> dict[str, Any]:
     df = _read_mart("mart_wrestler_performance")
@@ -525,6 +571,13 @@ def get_wrestler(wrestler_id: str) -> dict[str, Any]:
         .where(pd.notna(his), None)
         .to_dict(orient="records")
     )
+    profile = _profile_for_wrestler(wrestler_id, str(payload.get("canonical_name") or ""))
+    payload["finishers"] = profile.get("finishers") or []
+    payload["signature_moves"] = profile.get("signature_moves") or []
+    payload["managers"] = profile.get("managers") or []
+    payload["role"] = profile.get("role") or "wrestler"
+    payload["clients"] = profile.get("clients") or []
+    payload["managers_from_card"] = profile.get("managers_from_card") or []
     return payload
 
 

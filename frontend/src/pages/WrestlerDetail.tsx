@@ -87,6 +87,83 @@ export default function WrestlerDetail() {
         ]}
       />
 
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit,minmax(260px,1fr))", gap: 14 }}>
+        <div className="bc-chart-panel">
+          <h3>Finishers</h3>
+          <p className="muted">Primary finishing moves</p>
+          {(data.finishers || []).length ? (
+            <div style={{ display: "flex", flexWrap: "wrap", gap: 8, marginTop: 10 }}>
+              {(data.finishers as string[]).map((m) => (
+                <span key={m} className="bc-pill gold">
+                  {m}
+                </span>
+              ))}
+            </div>
+          ) : (
+            <div className="bc-empty" style={{ marginTop: 8 }}>
+              Finisher catalog not listed for this name yet
+            </div>
+          )}
+        </div>
+        <div className="bc-chart-panel">
+          <h3>Signature moves</h3>
+          <p className="muted">Trademark offense</p>
+          {(data.signature_moves || []).length ? (
+            <div style={{ display: "flex", flexWrap: "wrap", gap: 8, marginTop: 10 }}>
+              {(data.signature_moves as string[]).map((m) => (
+                <span key={m} className="bc-pill primary">
+                  {m}
+                </span>
+              ))}
+            </div>
+          ) : (
+            <div className="bc-empty" style={{ marginTop: 8 }}>
+              Signature moves not listed for this name yet
+            </div>
+          )}
+        </div>
+        <div className="bc-chart-panel">
+          <h3>Managers &amp; allies</h3>
+          <p className="muted">From curated notes + PLE cards “(with …)”</p>
+          {(data.managers || []).length ? (
+            <div style={{ display: "flex", flexWrap: "wrap", gap: 8, marginTop: 10 }}>
+              {(data.managers as string[]).map((m) => (
+                <span key={m} className="bc-pill">
+                  {m}
+                </span>
+              ))}
+            </div>
+          ) : (
+            <div className="bc-empty" style={{ marginTop: 8 }}>
+              No managers recorded on PLE cards for this wrestler
+            </div>
+          )}
+          {(data.clients || []).length ? (
+            <>
+              <h4 style={{ margin: "14px 0 6px", fontFamily: "var(--font-display)", letterSpacing: "0.06em" }}>
+                Notable clients
+              </h4>
+              <div style={{ display: "flex", flexWrap: "wrap", gap: 8 }}>
+                {(data.clients as string[]).map((m) => (
+                  <span key={m} className="bc-pill gold">
+                    {m}
+                  </span>
+                ))}
+              </div>
+            </>
+          ) : null}
+          {(data.managers_from_card || []).length ? (
+            <p className="muted" style={{ marginTop: 12, fontSize: "0.8rem" }}>
+              Card appearances:{" "}
+              {(data.managers_from_card as { name: string; appearances: number }[])
+                .slice(0, 5)
+                .map((x) => `${x.name} (${x.appearances})`)
+                .join(" · ")}
+            </p>
+          ) : null}
+        </div>
+      </div>
+
       <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fit,minmax(320px,1fr))", gap: 14 }}>
         <div className="bc-chart-panel">
           <h3>Yearly performance</h3>
