@@ -15,6 +15,7 @@ import {
 import { useFilters } from "../state/filters";
 import { useEventTheme } from "../theme/EventThemeContext";
 import { resolveEventTheme } from "../theme/eventThemes";
+import { collapseMultiNightEvents } from "../utils/multiNightEvents";
 
 export default function Events() {
   const { query } = useFilters();
@@ -50,8 +51,17 @@ export default function Events() {
     });
   }, [query, q, params, setEventIdentity, resetTheme]);
 
-  const groups = useMemo(() => groupEventsByFamily(rawItems), [rawItems]);
-  const flatSorted = useMemo(() => sortEventsByPriority(rawItems), [rawItems]);
+  const groups = useMemo(() => {
+    return groupEventsByFamily(rawItems).map((g) => ({
+      ...g,
+      events: collapseMultiNightEvents(g.events),
+      latest: collapseMultiNightEvents(g.events)[0] || g.latest,
+    }));
+  }, [rawItems]);
+  const flatSorted = useMemo(
+    () => sortEventsByPriority(collapseMultiNightEvents(rawItems)),
+    [rawItems]
+  );
 
   const kpiAttendance = useMemo(() => {
     const known = rawItems

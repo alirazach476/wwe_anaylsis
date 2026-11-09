@@ -194,6 +194,35 @@
   font-size: 0.85rem;
 }
 
+.coming-soon-badge.multi-night {
+  border-color: color-mix(in srgb, #f5d76e 60%, transparent);
+  background: color-mix(in srgb, #f5d76e 18%, rgba(0, 0, 0, 0.55));
+}
+
+.event-hero-night {
+  color: var(--event-accent, #e8c36a);
+  font-weight: 500;
+}
+
+.night-tabs {
+  margin-bottom: -6px;
+}
+
+.night-tabs .tab {
+  min-width: 120px;
+  justify-content: center;
+}
+
+.night-tab-date {
+  display: block;
+  margin-top: 2px;
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+  opacity: 0.75;
+  font-family: var(--font-body, Manrope, sans-serif);
+  text-transform: none;
+}
+
 .event-poster.is-upcoming .event-poster-wash {
   background: linear-gradient(180deg, transparent 30%, rgba(0, 0, 0, 0.82) 100%);
 }

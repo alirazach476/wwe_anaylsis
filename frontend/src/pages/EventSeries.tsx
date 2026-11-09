@@ -8,6 +8,7 @@ import { EventArtwork } from "../components/EventArtwork";
 import { useFilters } from "../state/filters";
 import { useEventTheme } from "../theme/EventThemeContext";
 import { resolveEventTheme } from "../theme/eventThemes";
+import { collapseMultiNightEvents } from "../utils/multiNightEvents";
 
 export default function EventSeries() {
   const { seriesSlug: slugParam } = useParams();
@@ -38,6 +39,7 @@ export default function EventSeries() {
       .catch((e) => setErr(String(e)));
   }, [family, query.year_from, query.year_to, query.country, setEventIdentity]);
 
+  const editions = useMemo(() => collapseMultiNightEvents(items), [items]);
   const theme = useMemo(() => resolveEventTheme(family, items[0]?.event_name || family), [family, items]);
   const years = useMemo(() => {
     const ys = items.map((e) => Number(e.event_year)).filter((n) => !Number.isNaN(n));
@@ -64,12 +66,12 @@ export default function EventSeries() {
           <div className="event-hero-badge">{family} · Series archive</div>
           <h1>{family}</h1>
           <p className="muted" style={{ maxWidth: 520 }}>
-            Every {family} event in the warehouse — open a year poster for the full match card and microsite.
+            Every {family} event in the warehouse — two-night shows are combined as Night 1 · Night 2.
           </p>
           <div className="event-hero-strip">
             <span>
               <strong>Events</strong>
-              {items.length}
+              {editions.length}
             </span>
             <span>
               <strong>Span</strong>
@@ -99,21 +101,21 @@ export default function EventSeries() {
 
       <BroadcastStatsStrip
         stats={[
-          { label: "Editions", value: items.length, context: `${family} catalog` },
+          { label: "Editions", value: editions.length, context: `${family} catalog (nights combined)` },
           { label: "First year", value: years?.from ?? "—", context: "Earliest in dataset" },
           { label: "Latest year", value: years?.to ?? "—", context: items[0]?.event_name || "—" },
           { label: "Total matches", value: matchTotal || "—", context: "Across editions" },
         ]}
       />
 
-      {!items.length ? (
+      {!editions.length ? (
         <div className="bc-empty">
           <h4>No events</h4>
           <p>No {family} events matched the current filters.</p>
         </div>
       ) : (
         <div className="event-poster-grid">
-          {items.map((e) => (
+          {editions.map((e) => (
             <EventCard key={e.event_id} event={e} />
           ))}
         </div>

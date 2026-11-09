@@ -20,12 +20,22 @@ export function EventHero({
   const family = event.event_series || theme.themeName;
   const seriesPath = `/series/${seriesSlug(family)}`;
   const upcoming = isUpcomingEvent({ ...event, matches: Number(matches) || 0 });
+  const multi = Boolean(event.is_multi_night && (event.nights?.length || 0) >= 2);
+  const nightNumber = Number(event.night_number) || null;
+  const nightDates = (event.nights || [])
+    .map((n: any) => n.event_date)
+    .filter(Boolean)
+    .join(" · ");
 
   return (
     <section className="event-hero">
       <div>
         <div className="event-hero-badge">{theme.themeName} · Event microsite</div>
-        <h1>{event.event_name}</h1>
+        <h1>
+          {event.event_name}
+          {multi && nightNumber ? <span className="event-hero-night"> · Night {nightNumber}</span> : null}
+        </h1>
+        {multi ? <div className="coming-soon-badge hero multi-night">Night 1 · Night 2</div> : null}
         {upcoming ? <div className="coming-soon-badge hero">Coming Soon</div> : null}
         <div className="event-hero-strip">
           <span>
@@ -34,7 +44,7 @@ export function EventHero({
           </span>
           <span>
             <strong>Date</strong>
-            {event.event_date || "TBA"}
+            {multi && nightDates ? nightDates : event.event_date || "TBA"}
           </span>
           <span>
             <strong>Venue</strong>

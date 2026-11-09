@@ -225,9 +225,33 @@ export default function EventDetail() {
     return vals.length ? `${Math.round(vals.reduce((a: number, b: number) => a + b, 0) / vals.length / 60)} min` : "—";
   })();
 
+  const nights = Array.isArray(event.nights) ? event.nights : [];
+  const multiNight = Boolean(event.is_multi_night && nights.length >= 2);
+
   return (
     <div style={{ display: "flex", flexDirection: "column", gap: 18 }}>
       <EventHero event={event} matchCount={matches.length} />
+
+      {multiNight ? (
+        <div className="tabs bc-tabs night-tabs" role="tablist" aria-label="Event nights">
+          {nights.map((n: any) => {
+            const active = String(n.event_id) === String(event.event_id);
+            return (
+              <button
+                key={n.event_id}
+                type="button"
+                className={`tab${active ? " active" : ""}`}
+                onClick={() => {
+                  if (!active && n.event_id) navigate(`/events/${n.event_id}`);
+                }}
+              >
+                Night {n.night}
+                {n.event_date ? <span className="night-tab-date">{n.event_date}</span> : null}
+              </button>
+            );
+          })}
+        </div>
+      ) : null}
 
       <div className="tabs bc-tabs">
         {(

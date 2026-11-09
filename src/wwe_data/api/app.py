@@ -496,7 +496,76 @@ def get_event(event_id: str) -> dict[str, Any]:
             m["loser_name"] = _clean_wrestler_display_name(str(m["loser_name"])) or m["loser_name"]
     match_rows = _enrich_rumble_participants(str(event_id), match_rows)
     payload["matches"] = match_rows
+    payload.update(_multi_night_payload(payload, events))
     return payload
+
+
+def _multi_night_payload(event: dict[str, Any], events: pd.DataFrame) -> dict[str, Any]:
+    """Attach Night 1 / Night 2 sibling when the PLE spans consecutive days."""
+    import re
+    from datetime import datetime
+
+    def _day(val: Any):
+        if val is None or (isinstance(val, float) and pd.isna(val)):
+            return None
+        try:
+            return pd.to_datetime(val).normalize()
+        except Exception:
+            return None
+
+    def _key(row: dict[str, Any] | pd.Series) -> str:
+        series = re.sub(r"[^a-z0-9]+", " ", str(row.get("event_series") or "").lower()).strip()
+        name = re.sub(r"\b(night|day)\s*[12]\b", "", str(row.get("event_name") or ""), flags=re.I)
+        name = re.sub(r"[^a-z0-9]+", " ", name.lower()).strip()
+        year = str(row.get("event_year") or "")
+        if "wrestlemania" in series or "summerslam" in series:
+            return f"{series}|{year}"
+        return f"{series or name}|{name}|{year}"
+
+    cur_day = _day(event.get("event_date"))
+    if cur_day is None:
+        return {"is_multi_night": False, "nights": [], "night_number": None}
+
+    key = _key(event)
+    siblings: list[dict[str, Any]] = []
+    for _, r in events.iterrows():
+        if str(r.get("event_id")) == str(event.get("event_id")):
+            continue
+        if _key(r) != key:
+            continue
+        d = _day(r.get("event_date"))
+        if d is None:
+            continue
+        diff = abs((d - cur_day).days)
+        if 1 <= diff <= 2:
+            siblings.append(r.where(pd.notna(r), None).to_dict())
+
+    if not siblings:
+        return {"is_multi_night": False, "nights": [], "night_number": None}
+
+    nights_rows = [event] + siblings
+    nights_rows.sort(key=lambda r: str(r.get("event_date") or ""))
+    nights = []
+    for i, r in enumerate(nights_rows[:2], start=1):
+        nights.append(
+            {
+                "night": i,
+                "event_id": r.get("event_id"),
+                "event_date": r.get("event_date"),
+                "event_name": r.get("event_name"),
+                "matches": r.get("matches"),
+            }
+        )
+    night_number = next(
+        (n["night"] for n in nights if str(n["event_id"]) == str(event.get("event_id"))),
+        1,
+    )
+    return {
+        "is_multi_night": True,
+        "nights": nights,
+        "night_number": night_number,
+        "display_subtitle": "Night 1 · Night 2",
+    }
 
 
 @app.get("/api/wrestlers")
