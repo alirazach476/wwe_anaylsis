@@ -1508,12 +1508,6 @@
       "file": "Saturday Night's Main Event (2024).jpg"
     },
     {
-      "event_name": "Saturday Night's Main Event (2025) John Cenas final match",
-      "event_year": null,
-      "path": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.jpg",
-      "file": "Saturday Night's Main Event (2025) John Cenas final match.jpg"
-    },
-    {
       "event_name": "Saturday Night's Main Event",
       "event_year": 2025,
       "path": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29.png",
@@ -2466,6 +2460,13 @@
       "event_year": 2006,
       "path": "/logos/files/WWE%20vs.%20ECW%20Head-to-Head%20%282006%29.jpg",
       "file": "WWE vs. ECW Head-to-Head (2006).jpg"
+    },
+    {
+      "event_name": "Saturday Night's Main Event: John Cena's Final Match",
+      "event_year": 2025,
+      "event_id": "evt_20251213_saturday-night-s-main-event_7d7cfe0c97",
+      "path": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png",
+      "file": "Saturday Night's Main Event (2025) John Cenas final match.png"
     }
   ],
   "by_key": {
@@ -2925,8 +2926,8 @@
     "saturday nights main event|2024": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282024%29.jpg",
     "saturday-nights-main-event|2024": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282024%29.jpg",
     "saturday night's main event|2024": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282024%29.jpg",
-    "saturday nights main event 2025 john cenas final match": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.jpg",
-    "saturday-nights-main-event-2025-john-cenas-final-match": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.jpg",
+    "saturday nights main event 2025 john cenas final match": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png",
+    "saturday-nights-main-event-2025-john-cenas-final-match": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png",
     "saturday night's main event (2025) john cenas final match": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.jpg",
     "saturday nights main event|2025": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29.png",
     "saturday-nights-main-event|2025": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29.png",
@@ -3161,6 +3162,19 @@
     "wrestlepalooza|2026": "/logos/files/Wrestlepalooza%20%282026%29.png",
     "wwe vs ecw head to head|2006": "/logos/files/WWE%20vs.%20ECW%20Head-to-Head%20%282006%29.jpg",
     "wwe-vs-ecw-head-to-head|2006": "/logos/files/WWE%20vs.%20ECW%20Head-to-Head%20%282006%29.jpg",
-    "wwe vs. ecw head-to-head|2006": "/logos/files/WWE%20vs.%20ECW%20Head-to-Head%20%282006%29.jpg"
+    "wwe vs. ecw head-to-head|2006": "/logos/files/WWE%20vs.%20ECW%20Head-to-Head%20%282006%29.jpg",
+    "saturday nights main event john cenas final match": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png",
+    "saturday-nights-main-event-john-cenas-final-match": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png",
+    "saturday nights main event john cenas final match|2025": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png",
+    "saturday-nights-main-event-john-cenas-final-match|2025": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png",
+    "saturday nights main event 2025 john cenas final match|2025": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png",
+    "saturday-nights-main-event-2025-john-cenas-final-match|2025": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png",
+    "john cenas final match": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png",
+    "john-cenas-final-match": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png",
+    "john cenas final match|2025": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png",
+    "john-cenas-final-match|2025": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png"
+  },
+  "by_event_id": {
+    "evt_20251213_saturday-night-s-main-event_7d7cfe0c97": "/logos/files/Saturday%20Night%27s%20Main%20Event%20%282025%29%20John%20Cenas%20final%20match.png"
   }
 }

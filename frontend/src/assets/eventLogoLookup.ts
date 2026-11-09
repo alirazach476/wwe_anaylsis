@@ -156,7 +156,14 @@ export function logoPathFromManifest(
     .trim();
   const familySlug = family ? family.replace(/\s+/g, "-") : "";
 
-  // Prefer year-specific logos/ assets over legacy by_event_id mappings
+  // Event-id wins first (special editions like Cena's final SNME)
+  if (eventId && manifest.by_event_id?.[eventId]) return manifest.by_event_id[eventId];
+  if (eventId) {
+    const byId = manifest.items.find((i) => i.event_id === eventId && (i.path || i.local_logo_path));
+    if (byId) return byId.path || byId.local_logo_path || null;
+  }
+
+  // Prefer year-specific logos/ assets over legacy mappings
   if ((name || seriesName) && year != null && !Number.isNaN(year)) {
     const candidates = [
       name ? manifest.by_key?.[`${name}|${year}`] : null,
@@ -179,16 +186,21 @@ export function logoPathFromManifest(
     );
     if (exact) return exact.path || exact.local_logo_path || null;
 
-    const familyHit = manifest.items.find((i) => {
-      if (!(i.path || i.local_logo_path) || i.event_year !== year) return false;
-      const n = normalizeName(i.event_name);
-      return (
-        (family && (n === family || n.startsWith(family) || family.startsWith(n))) ||
-        (seriesName && n === seriesName) ||
-        n.split(" ")[0] === name.split(" ")[0]
-      );
-    });
-    if (familyHit) return familyHit.path || familyHit.local_logo_path || null;
+    // Prefer the longest/most specific same-year name match (final match editions, etc.)
+    const scored = manifest.items
+      .filter((i) => (i.path || i.local_logo_path) && i.event_year === year)
+      .map((i) => {
+        const n = normalizeName(i.event_name);
+        let score = 0;
+        if (name && n === name) score = 100;
+        else if (name && (n.includes(name) || name.includes(n))) score = 80 + Math.min(n.length, 40);
+        else if (seriesName && (n === seriesName || n.startsWith(seriesName))) score = 40;
+        else if (family && (n === family || n.startsWith(family) || family.startsWith(n))) score = 30;
+        return { i, score };
+      })
+      .filter((x) => x.score > 0)
+      .sort((a, b) => b.score - a.score || normalizeName(b.i.event_name).length - normalizeName(a.i.event_name).length);
+    if (scored[0]) return scored[0].i.path || scored[0].i.local_logo_path || null;
   }
 
   // Yearless assets (e.g. "John Cena's Final SmackDown.svg")
@@ -204,11 +216,5 @@ export function logoPathFromManifest(
     if (fuzzy) return fuzzy.path || fuzzy.local_logo_path || null;
   }
 
-  if (eventId && manifest.by_event_id?.[eventId]) return manifest.by_event_id[eventId];
-
-  if (eventId) {
-    const byId = manifest.items.find((i) => i.event_id === eventId && (i.path || i.local_logo_path));
-    if (byId) return byId.path || byId.local_logo_path || null;
-  }
   return null;
 }
